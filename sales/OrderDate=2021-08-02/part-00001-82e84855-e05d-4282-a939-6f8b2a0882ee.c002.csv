@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53665,3,Cynthia Saunders,cynthia15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53699,2,Christine Nath,christine13@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53702,2,Jack Roberts,jack39@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO53705,3,Lauren Torres,lauren14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53679,4,Rosa Hu,rosa20@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

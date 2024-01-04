@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55083,1,Sharon Salavaria,sharon4@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO55037,1,Cristina Kumar,cristina7@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55035,2,Preston Perez,preston19@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55052,2,Connor Henderson,connor1@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO55087,2,Alexandria Ross,alexandria4@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

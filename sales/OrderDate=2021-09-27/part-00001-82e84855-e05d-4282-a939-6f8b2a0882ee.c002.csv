@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56843,2,Candice Sun,candice19@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56817,1,Roy Hernandez,roy24@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56840,2,Meredith Vance,meredith2@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56849,1,Clifford Arun,clifford7@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO56802,1,Julie Becker,julie22@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

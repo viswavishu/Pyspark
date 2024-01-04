@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60638,2,Jennifer Simmons,jennifer88@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO60689,3,Miguel Bennett,miguel47@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60665,1,Max Gill,max13@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60684,2,Ivan Perez,ivan17@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO60666,2,Daisy Sanz,daisy15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59936,1,Kaitlyn Washington,kaitlyn80@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59931,3,Elijah Alexander,elijah20@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59954,2,Dalton Collins,dalton45@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59981,2,Kristi Rodriguez,kristi37@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO59972,2,Jillian Rana,jillian12@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

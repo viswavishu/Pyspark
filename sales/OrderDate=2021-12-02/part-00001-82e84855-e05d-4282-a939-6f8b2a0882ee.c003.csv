@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61353,2,Masaki Umeda,masaki0@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61325,1,Henry Suri,henry2@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO61320,3,Arthur Martin,arthur23@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61338,2,Morgan Perry,morgan77@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61366,4,Frank Vazquez,frank22@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

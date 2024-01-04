@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56592,4,Christopher Jackson,christopher12@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56590,4,Levi Malhotra,levi4@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO56598,1,Marvin Gomez,marvin1@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388
+SO56597,1,Jermaine Subram,jermaine11@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO56544,2,Ajay Solanki,ajay1@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

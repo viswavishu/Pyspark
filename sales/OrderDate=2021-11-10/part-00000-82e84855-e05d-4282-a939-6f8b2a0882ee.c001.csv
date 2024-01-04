@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59785,2,Amber Hall,amber22@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59824,1,Zachary Diaz,zachary20@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO59771,1,Antonio Hayes,antonio23@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO59766,1,Seth Garcia,seth16@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59764,1,Erika Gutierrez,erika8@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

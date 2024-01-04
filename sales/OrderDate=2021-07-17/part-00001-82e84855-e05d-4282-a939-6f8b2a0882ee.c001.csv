@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52709,1,Brooke Sanders,brooke3@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52690,1,Justin Robinson,justin46@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52705,2,Melinda Romero,melinda4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52670,1,Byron Gill,byron8@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO52712,1,Ryan Diaz,ryan25@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

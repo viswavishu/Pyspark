@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60556,1,Angela Reed,angela46@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO60534,1,Victoria Torres,victoria40@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60536,1,Jenna Edwards,jenna1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60558,1,Cindy Prasad,cindy9@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO60559,2,Samuel Lopez,samuel51@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

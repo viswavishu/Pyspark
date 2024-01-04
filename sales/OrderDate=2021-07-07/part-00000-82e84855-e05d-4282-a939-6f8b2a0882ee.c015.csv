@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52200,2,Adam Young,adam48@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52195,2,Logan Anderson,logan61@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO52209,4,Calvin Kumar,calvin8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

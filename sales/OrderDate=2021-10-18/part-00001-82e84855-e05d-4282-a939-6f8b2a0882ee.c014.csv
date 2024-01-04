@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58138,4,Mallory Gill,mallory0@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO58190,2,Tabitha Jimenez,tabitha25@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO58167,1,Clayton Zhu,clayton13@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58153,2,Jonathan Washington,jonathan13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58179,4,Jordan Hernandez,jordan71@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

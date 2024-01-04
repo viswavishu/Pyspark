@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53733,1,Carlos Stewart,carlos29@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53731,2,Alexandra McDonald,alexandra81@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53757,3,Erin James,erin12@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO53760,4,Gabriella Torres,gabriella11@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53747,3,Kelli Xu,kelli13@adventure-works.com,"Classic Vest, L",1,63.5,5.08

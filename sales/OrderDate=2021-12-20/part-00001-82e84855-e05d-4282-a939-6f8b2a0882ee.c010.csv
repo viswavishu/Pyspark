@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62410,4,Shannon Navarro,shannon31@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO62418,2,Brandon Thomas,brandon31@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62429,2,Lindsay Jai,lindsay11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62408,1,Ryan Garcia,ryan52@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO62437,4,James Davis,james80@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192

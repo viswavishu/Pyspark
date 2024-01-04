@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55335,2,Bianca Liu,bianca3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55356,1,Dale Chander,dale13@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO55378,4,Russell Carson,russell17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55333,3,Angel Richardson,angel9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55347,1,Thomas Henderson,thomas6@adventure-works.com,HL Road Tire,1,32.6,2.608

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57798,1,Meredith Ramos,meredith41@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57839,2,Olivia Long,olivia55@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57832,3,Dwayne Romero,dwayne8@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57805,1,Antonio Henderson,antonio5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57838,2,Haley Hughes,haley30@adventure-works.com,Road Tire Tube,1,3.99,0.3192

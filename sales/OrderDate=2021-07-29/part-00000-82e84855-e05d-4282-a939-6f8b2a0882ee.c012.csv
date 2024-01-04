@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53316,5,Molly Malhotra,molly5@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO53302,2,Jennifer Bennett,jennifer76@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53293,3,Kari Blanco,kari36@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53337,2,Rachael Rodriguez,rachael18@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53301,3,Hunter Perry,hunter4@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

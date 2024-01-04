@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61041,3,Deanna Hernandez,deanna29@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO61033,2,Christy Zheng,christy17@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO61051,3,Angela Howard,angela37@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO61081,2,Kari Kim,kari3@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61070,2,Shawna Simpson,shawna2@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

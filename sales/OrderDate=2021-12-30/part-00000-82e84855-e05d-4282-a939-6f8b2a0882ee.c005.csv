@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63041,1,Melinda Romero,melinda4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO63045,5,Jerome Gutierrez,jerome9@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO63049,4,Dawn Shen,dawn26@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO63022,3,Bailey Reed,bailey18@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO63012,1,Misty Chander,misty17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

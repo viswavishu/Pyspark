@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52293,1,Terrance Sanchez,terrance18@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52317,2,Cara Zhou,cara5@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52315,1,Edwin Liang,edwin17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52309,4,April Shan,april8@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO52309,1,April Shan,april8@adventure-works.com,Touring Tire,1,28.99,2.3192

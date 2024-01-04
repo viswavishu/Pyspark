@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51903,1,Mandy Ma,mandy17@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO51921,2,Kari Raman,kari12@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51895,2,Lauren Sanders,lauren46@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51892,2,Anna Rivera,anna12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51915,3,Noah Gonzales,noah14@adventure-works.com,HL Road Tire,1,32.6,2.608

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54219,2,Seth Griffin,seth69@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54246,4,Wayne Anand,wayne24@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54196,3,Seth Rogers,seth90@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54192,2,Toni Randall,toni11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54230,2,Jose Griffin,jose15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51370,4,Christopher Harris,christopher14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51359,3,Arthur Smith,arthur10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51370,2,Christopher Harris,christopher14@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO51370,3,Christopher Harris,christopher14@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO51371,4,Dalton Mitchell,dalton36@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

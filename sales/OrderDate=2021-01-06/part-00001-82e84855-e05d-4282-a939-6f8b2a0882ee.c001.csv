@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49238,1,Krystal Zhou,krystal8@adventure-works.com,"Road-250 Black, 58",1,2181.5625,174.525

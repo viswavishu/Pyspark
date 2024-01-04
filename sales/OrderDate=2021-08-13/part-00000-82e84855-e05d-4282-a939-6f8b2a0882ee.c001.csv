@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54266,1,Tammy Smith,tammy9@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO54261,2,Clayton Liu,clayton4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54299,5,Tristan Ross,tristan4@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54304,1,Candace Raman,candace12@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO54283,2,Nathan Adams,nathan45@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56749,3,Candice She,candice7@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56712,2,Anna Jones,anna64@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56746,1,Eugene She,eugene26@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO56749,4,Candice She,candice7@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO56722,1,Devin Powell,devin47@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992

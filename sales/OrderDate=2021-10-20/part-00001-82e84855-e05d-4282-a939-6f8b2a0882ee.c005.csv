@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58255,1,Kaitlyn Wilson,kaitlyn29@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO58254,1,Leah Xu,leah9@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO58284,1,Vanessa Coleman,vanessa6@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO58254,2,Leah Xu,leah9@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO58264,1,Lauren Price,lauren47@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

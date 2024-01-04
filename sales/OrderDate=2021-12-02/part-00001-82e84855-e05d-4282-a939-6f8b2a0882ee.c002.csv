@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61368,1,Kaylee Cook,kaylee18@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO61370,1,Alejandro Huang,alejandro8@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO61356,1,Kyle Diaz,kyle17@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO61340,3,Garrett Sanders,garrett7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61343,2,Crystal Wu,crystal9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

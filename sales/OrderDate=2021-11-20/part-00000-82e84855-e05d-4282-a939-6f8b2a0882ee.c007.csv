@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60453,1,Clinton Blanco,clinton12@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO60496,4,Ashlee Jai,ashlee18@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO60501,3,Jill Ortega,jill30@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60492,4,Ian Long,ian50@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60466,6,Colin Ye,colin10@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

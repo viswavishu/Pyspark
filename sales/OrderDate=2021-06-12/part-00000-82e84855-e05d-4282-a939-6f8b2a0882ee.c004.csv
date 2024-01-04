@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51384,3,Cassie Chande,cassie13@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51386,3,Casey Luo,casey6@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO51380,4,Taylor Lewis,taylor67@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

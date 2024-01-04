@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51358,2,Monique Suarez,monique15@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO51358,1,Monique Suarez,monique15@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO51353,4,Emily Jackson,emily12@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51336,2,Cesar Sai,cesar4@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51348,2,Jasmine Barnes,jasmine43@adventure-works.com,HL Mountain Tire,1,35.0,2.8

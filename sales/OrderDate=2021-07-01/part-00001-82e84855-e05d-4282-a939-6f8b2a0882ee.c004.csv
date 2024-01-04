@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51900,3,Brandi Ortega,brandi21@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO51918,1,Jose Walker,jose66@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO51876,1,Julie Xu,julie9@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO51890,2,Angel Allen,angel39@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51906,1,Sandra Yang,sandra11@adventure-works.com,Touring Tire,1,28.99,2.3192

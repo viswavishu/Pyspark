@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54138,4,Deanna Jim�nez,deanna31@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO54130,1,Alexandria Rogers,alexandria40@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54127,3,Wesley Sun,wesley13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54147,2,Adrienne Serrano,adrienne13@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54136,4,Shannon Ruiz,shannon24@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

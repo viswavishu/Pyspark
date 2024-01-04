@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54796,1,Lance Dominguez,lance12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54791,1,Benjamin Wilson,benjamin41@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54770,2,Lindsey Deng,lindsey1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54783,2,Logan Gonzalez,logan34@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54801,3,Alberto Navarro,alberto11@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

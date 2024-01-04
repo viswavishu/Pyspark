@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46142,1,Gabrielle Peterson,gabrielle14@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO46144,1,Sarah Butler,sarah39@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61915,1,Paige Simmons,paige14@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO61920,5,Candace Raman,candace12@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61859,1,Colin Wu,colin7@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO61918,2,Alison Nath,alison19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61856,4,Alvin Zeng,alvin21@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

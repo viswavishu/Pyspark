@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56659,2,Alvin Nara,alvin37@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO56683,2,Shaun Carson,shaun16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56688,1,Jimmy Travers,jimmy15@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO56653,1,Andrew Martinez,andrew24@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56646,2,Jimmy Ashe,jimmy7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

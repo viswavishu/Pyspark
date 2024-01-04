@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52725,1,Kaitlyn Henderson,kaitlyn72@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO52671,3,Ariana Gray,ariana5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52684,1,Jacqueline Patterson,jacqueline11@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52699,2,Alberto Gutierrez,alberto12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52700,2,Olivia Cox,olivia36@adventure-works.com,"Classic Vest, M",1,63.5,5.08

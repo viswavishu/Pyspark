@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51438,2,Brianna Clark,brianna18@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO51428,2,Margaret He,margaret25@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51437,2,Madison Henderson,madison40@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51431,2,Angela Murphy,angela41@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51432,1,Cheryl Diaz,cheryl4@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60496,3,Ashlee Jai,ashlee18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

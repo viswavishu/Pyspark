@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51383,2,Noah Mitchell,noah38@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51389,1,Eric Turner,eric47@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO51385,4,Willie Raji,willie40@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51378,1,Deb Foster,deb9@adventure-works.com,"Mountain-500 Black, 42",1,539.99,43.1992
+SO51390,2,Deanna Rodriguez,deanna23@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

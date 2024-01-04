@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58071,2,Emmanuel Garcia,emmanuel13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58088,3,Elijah Baker,elijah36@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58125,2,Jocelyn Barnes,jocelyn3@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO58120,1,Wendy Sanz,wendy19@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO58071,1,Emmanuel Garcia,emmanuel13@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

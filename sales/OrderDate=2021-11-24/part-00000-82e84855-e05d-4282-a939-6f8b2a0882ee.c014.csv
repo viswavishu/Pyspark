@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60743,1,Tabitha Moreno,tabitha26@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO60764,1,Damien Chander,damien32@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO60728,1,Mario She,mario0@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO60738,2,Alejandro Chen,alejandro4@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60739,1,Tony Pal,tony15@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188

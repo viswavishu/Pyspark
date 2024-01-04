@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62172,2,Alejandro Zhao,alejandro13@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO62213,4,Rachel Kelly,rachel45@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO62210,4,Billy Ortega,billy22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62169,1,Donna Beck,donna18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62189,2,Gilbert Raji,gilbert41@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

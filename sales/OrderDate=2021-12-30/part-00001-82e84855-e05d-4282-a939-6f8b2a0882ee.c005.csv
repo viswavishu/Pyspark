@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63024,2,Rachel Bailey,rachel36@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO63009,1,Martin Sai,martin11@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO63017,4,Dana Dominguez,dana5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO63007,1,Isabella Adams,isabella46@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO63026,2,Blake Bryant,blake66@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

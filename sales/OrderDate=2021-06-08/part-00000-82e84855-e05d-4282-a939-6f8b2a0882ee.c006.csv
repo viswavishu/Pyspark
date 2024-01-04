@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51300,1,Patricia Raman,patricia15@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO51313,1,Victor Gomez,victor2@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256

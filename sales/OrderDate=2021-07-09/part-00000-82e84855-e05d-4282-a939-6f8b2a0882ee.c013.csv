@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52319,2,Zachary Anderson,zachary39@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52295,1,Priscilla Yuan,priscilla6@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO52300,2,Angel Hall,angel43@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52298,3,Brooke Sanders,brooke3@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO52319,1,Zachary Anderson,zachary39@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56111,1,Suzanne Liu,suzanne5@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO56124,2,Gregory Goel,gregory23@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56098,1,George Suri,george6@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56087,1,James Chen,james41@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO56104,1,Gregory Xie,gregory7@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592

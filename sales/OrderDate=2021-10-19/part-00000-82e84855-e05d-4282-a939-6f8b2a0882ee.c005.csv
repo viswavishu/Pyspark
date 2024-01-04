@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58245,5,Barbara Goel,barbara47@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO58225,2,Darrell Beck,darrell8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58207,1,Taylor Brooks,taylor22@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO58220,4,Alexander Johnson,alexander3@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO58228,2,Byron Gutierrez,byron7@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

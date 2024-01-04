@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58878,1,Arturo Lal,arturo33@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58859,1,Austin Jenkins,austin2@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58861,2,Sydney Barnes,sydney25@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO58873,1,Franklin Lin,franklin7@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58900,4,Ruth Perez,ruth25@adventure-works.com,"Classic Vest, M",1,63.5,5.08

@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45925,1,George Gonzalez,george25@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992
+SO45919,1,Jessica Alexander,jessica43@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45917,1,Deanna Ramos,deanna44@adventure-works.com,"Mountain-100 Silver, 44",1,3399.99,271.9992

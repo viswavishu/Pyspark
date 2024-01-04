@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58013,2,Jade Reed,jade16@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57997,2,Ian King,ian25@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58000,3,Elizabeth Lee,elizabeth26@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO57959,3,Omar Zheng,omar18@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57964,5,Marcus Ward,marcus78@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

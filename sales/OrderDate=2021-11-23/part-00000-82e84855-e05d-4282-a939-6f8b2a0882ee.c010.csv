@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60682,4,Miranda Long,miranda9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60693,1,Rachel Brown,rachel6@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO60642,1,Mindy Pal,mindy17@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60650,1,Robin Ortega,robin17@adventure-works.com,"Mountain-500 Silver, 44",1,564.99,45.1992
+SO60689,1,Miguel Bennett,miguel47@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388

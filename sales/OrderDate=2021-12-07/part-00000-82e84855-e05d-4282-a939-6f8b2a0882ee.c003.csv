@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61601,4,Noah Long,noah6@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61640,2,Sean Rivera,sean24@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61623,1,Gerald Munoz,gerald15@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO61644,1,Jordan Parker,jordan53@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO61648,1,Jordan Adams,jordan70@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392

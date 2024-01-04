@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51441,2,Brandi Gill,brandi13@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO51455,1,Drew Raje,drew15@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO51442,4,Brenda Kapoor,brenda5@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO51443,3,Aaron King,aaron51@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO51442,3,Brenda Kapoor,brenda5@adventure-works.com,ML Road Tire,1,24.99,1.9992

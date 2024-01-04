@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59399,3,Geoffrey Garcia,geoffrey12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59388,1,Lydia Fernandez,lydia14@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO59389,1,Jasmine Wilson,jasmine6@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO59372,1,Samuel Anderson,samuel66@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59401,1,Suzanne Ma,suzanne17@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992

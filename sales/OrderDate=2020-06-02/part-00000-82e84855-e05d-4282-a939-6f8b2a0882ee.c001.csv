@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46698,1,Roberto Moreno,roberto6@adventure-works.com,"Road-250 Black, 52",1,2181.5625,174.525
+SO46687,1,Adriana Martinez,adriana18@adventure-works.com,"Road-250 Black, 58",1,2181.5625,174.525

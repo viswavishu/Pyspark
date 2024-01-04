@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48876,1,Dustin Pal,dustin12@adventure-works.com,"Road-650 Black, 60",1,782.99,62.6392
+SO48875,1,Naomi Jimenez,naomi5@adventure-works.com,"Road-550-W Yellow, 38",1,1000.4375,80.035

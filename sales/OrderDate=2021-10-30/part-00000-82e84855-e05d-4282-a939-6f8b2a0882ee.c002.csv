@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58846,2,Kate Becker,kate17@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58843,1,Warren Luo,warren14@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58877,2,Jasmine Price,jasmine41@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO58854,3,Alexis Rodriguez,alexis17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58882,2,Thomas Martin,thomas76@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

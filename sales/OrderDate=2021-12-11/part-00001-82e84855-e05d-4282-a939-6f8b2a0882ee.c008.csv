@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61905,4,Latasha Alonso,latasha8@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61856,1,Alvin Zeng,alvin21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61894,3,Jacqueline Gonzales,jacqueline18@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61880,1,Carlos Campbell,carlos34@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO61884,1,Christian Patterson,christian25@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

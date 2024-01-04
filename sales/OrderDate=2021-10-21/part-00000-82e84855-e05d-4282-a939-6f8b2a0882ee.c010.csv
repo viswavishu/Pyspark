@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58329,2,Grace Richardson,grace35@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO58346,2,George Raman,george18@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58326,2,Luis Russell,luis19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58297,2,Pamela Raman,pamela15@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO58328,2,Lucas Brooks,lucas72@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

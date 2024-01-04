@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61986,3,Steve Sun,steve16@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61978,2,Maurice Luo,maurice6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61972,1,Patrick Stewart,patrick27@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61979,2,Taylor Morgan,taylor6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61981,1,Hector Ortega,hector19@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592

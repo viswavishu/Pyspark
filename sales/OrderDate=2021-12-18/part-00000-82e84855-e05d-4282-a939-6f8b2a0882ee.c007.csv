@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62329,1,Jessica Stewart,jessica0@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62315,1,Zoe Sanchez,zoe22@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62294,5,Darryl Hu,darryl20@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62291,3,Cindy Rodriguez,cindy18@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62306,1,Mason Howard,mason11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

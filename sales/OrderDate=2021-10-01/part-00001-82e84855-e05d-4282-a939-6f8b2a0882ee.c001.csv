@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57231,1,Clinton Gutierrez,clinton8@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO57200,1,Melanie Barnes,melanie18@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57221,1,Adriana Raman,adriana13@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57191,2,Donna Pal,donna11@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO57222,3,Sydney Bennett,sydney23@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

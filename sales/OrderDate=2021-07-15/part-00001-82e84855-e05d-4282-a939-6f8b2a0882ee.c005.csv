@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52609,2,Jada Rogers,jada11@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52581,2,Kristy Navarro,kristy9@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52614,3,Preston Subram,preston12@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52587,2,Sophia Phillips,sophia4@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO52579,2,Mallory Rubio,mallory7@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

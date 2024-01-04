@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59380,3,Marcus Martinez,marcus18@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59354,1,Sara Roberts,sara30@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59399,2,Geoffrey Garcia,geoffrey12@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59397,2,Brittney Zhu,brittney13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59367,2,Dustin Rai,dustin18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

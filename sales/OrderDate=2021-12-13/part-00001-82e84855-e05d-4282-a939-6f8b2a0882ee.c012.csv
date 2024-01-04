@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62007,1,Pedro Mu�oz,pedro28@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO61986,2,Steve Sun,steve16@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61999,3,Marshall Wang,marshall0@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

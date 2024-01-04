@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60945,4,Samantha Barnes,samantha28@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60953,1,Anne Sims,anne0@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO60916,1,Ruben Ruiz,ruben25@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO60936,2,Tanya Jimenez,tanya1@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60932,4,Jordyn Powell,jordyn8@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

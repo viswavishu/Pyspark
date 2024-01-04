@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52953,1,Benjamin Zhang,benjamin25@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52936,3,Devin Long,devin48@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52948,1,Erik Martin,erik1@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52950,3,Zoe Murphy,zoe13@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52961,1,Luis Bryant,luis17@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

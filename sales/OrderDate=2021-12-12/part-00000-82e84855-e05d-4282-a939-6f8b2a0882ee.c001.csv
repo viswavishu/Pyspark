@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61931,2,Joseph Lee,joseph29@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO61933,3,Sheena Shen,sheena2@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61945,1,Jared Rogers,jared21@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61958,4,Christy Sun,christy11@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61959,1,Eddie Navarro,eddie10@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392

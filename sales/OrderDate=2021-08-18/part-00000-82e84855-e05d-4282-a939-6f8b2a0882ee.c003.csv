@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54574,2,Dalton Evans,dalton43@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54564,1,Carla Kapoor,carla4@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54569,2,Roberto Jim�nez,roberto5@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO54580,1,Samuel Gonzales,samuel16@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388
+SO54528,5,Colleen Xie,colleen27@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60556,4,Angela Reed,angela46@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO60520,1,Max Ferrier,max8@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO60551,1,Paula Vazquez,paula17@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO60521,5,Alicia Shen,alicia1@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO60535,3,Allison Rivera,allison16@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

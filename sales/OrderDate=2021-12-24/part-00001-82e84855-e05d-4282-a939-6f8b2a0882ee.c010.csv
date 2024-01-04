@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62690,2,Joel Martinez,joel16@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62639,3,Edwin Zhou,edwin9@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62641,4,Priscilla Pal,priscilla10@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO62665,2,Julia Stewart,julia46@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62635,1,Dennis Liang,dennis18@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58119,2,Lucas Sanchez,lucas88@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58084,3,Ryan Thompson,ryan38@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO58116,4,Mindy Kumar,mindy12@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58106,1,Clarence Li,clarence39@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58090,1,Megan Butler,megan63@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

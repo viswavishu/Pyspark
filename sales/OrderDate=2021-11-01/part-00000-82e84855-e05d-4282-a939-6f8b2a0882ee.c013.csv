@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59188,3,David Yang,david59@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59181,3,Evan Kelly,evan2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59182,1,Isabella Morris,isabella83@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59188,1,David Yang,david59@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO59203,2,Jermaine Patel,jermaine2@adventure-works.com,LL Road Tire,1,21.49,1.7192

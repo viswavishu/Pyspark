@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60115,3,Raymond Prasad,raymond11@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO60100,2,Brian Lauer,brian10@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO60101,2,Rodney Alonso,rodney4@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60046,1,Jay Moyer,jay36@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO60082,1,Tina Perez,tina23@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

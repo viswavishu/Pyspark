@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51524,3,Stephanie Jenkins,stephanie34@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51512,3,Nancy Schmidt,nancy13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51517,1,Stephanie Evans,stephanie50@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO51520,2,Chloe Young,chloe23@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51514,3,Hector Torres,hector10@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

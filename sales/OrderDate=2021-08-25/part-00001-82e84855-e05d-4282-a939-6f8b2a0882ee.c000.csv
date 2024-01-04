@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54958,1,Edwin Kumar,edwin30@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54965,2,Zachary Bryant,zachary16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54955,1,Preston Sara,preston9@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54943,2,Matthew Williams,matthew8@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO54938,1,Autumn Cai,autumn20@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992

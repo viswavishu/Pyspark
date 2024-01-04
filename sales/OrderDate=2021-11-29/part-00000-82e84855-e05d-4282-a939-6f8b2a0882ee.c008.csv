@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61043,3,Kristine Gomez,kristine2@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61048,1,Logan Scott,logan40@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO61082,1,Charles Richardson,charles58@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO61071,3,Cassidy Diaz,cassidy23@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61088,3,Gabriel Adams,gabriel47@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

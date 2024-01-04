@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58195,5,Allen Garcia,allen13@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO58206,3,Jeremy Cooper,jeremy38@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58204,2,Jeremy Washington,jeremy28@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58205,2,Chad Raji,chad21@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO58218,1,Brianna Alexander,brianna64@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

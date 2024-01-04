@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63032,2,Ricardo Luo,ricardo5@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO63015,1,Calvin Deng,calvin1@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO63051,2,Daisuke Yanagishima,daisuke0@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO63019,2,Hailey Campbell,hailey49@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO63053,1,Victoria Barnes,victoria51@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256

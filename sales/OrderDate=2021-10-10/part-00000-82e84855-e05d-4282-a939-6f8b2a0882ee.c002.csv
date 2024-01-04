@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57741,2,James Butler,james30@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO57732,2,Florian Stiller,florian1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57738,4,Wyatt Williams,wyatt2@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO57733,2,Ni�ia Anand,ni�ia0@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57738,2,Wyatt Williams,wyatt2@adventure-works.com,HL Road Tire,1,32.6,2.608

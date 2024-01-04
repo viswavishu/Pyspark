@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49578,1,Joanna Ramos,joanna16@adventure-works.com,"Road-550-W Yellow, 48",1,1000.4375,80.035

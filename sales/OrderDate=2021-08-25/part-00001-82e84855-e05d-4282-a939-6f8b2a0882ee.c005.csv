@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54961,1,Sydney Garcia,sydney78@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54969,2,Curtis Zimmerman,curtis1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54934,1,Carl She,carl0@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO54960,2,Jenny Chen,jenny4@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54946,2,Darryl He,darryl18@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

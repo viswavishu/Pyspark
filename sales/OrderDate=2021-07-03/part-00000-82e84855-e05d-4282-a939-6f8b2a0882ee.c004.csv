@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51991,2,Chloe Campbell,chloe4@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO51997,2,Jill Munoz,jill15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52000,1,Marvin Diaz,marvin3@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO51994,1,Natalie Bailey,natalie9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51970,3,Neil Torres,neil11@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

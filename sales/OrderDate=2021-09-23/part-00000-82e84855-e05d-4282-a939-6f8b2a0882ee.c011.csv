@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56613,4,Brittany Henderson,brittany4@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO56602,1,Corey Sharma,corey9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56606,2,Carl Chander,carl15@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO56600,4,Marco Sara,marco11@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

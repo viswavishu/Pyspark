@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54926,1,Emma Rivera,emma34@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388
+SO54930,1,Jan King,jan16@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO54929,2,Megan Harris,megan16@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54905,1,Melanie Jenkins,melanie22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54925,3,Trisha Gao,trisha9@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

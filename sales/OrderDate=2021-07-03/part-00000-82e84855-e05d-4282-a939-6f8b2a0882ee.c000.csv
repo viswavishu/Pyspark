@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51980,1,Jared Peterson,jared8@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO51967,2,Nina Kumar,nina8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51969,2,Jorge Ma,jorge18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52006,1,Renee Carlson,renee16@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO51986,2,Melanie Russell,melanie7@adventure-works.com,HL Road Tire,1,32.6,2.608

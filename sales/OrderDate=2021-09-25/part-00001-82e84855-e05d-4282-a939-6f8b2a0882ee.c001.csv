@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56751,1,Cedric Liu,cedric4@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO56700,1,Drew Xie,drew3@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56750,1,Carmen Prasad,carmen12@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO56694,5,Felicia Blanco,felicia15@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO56692,1,Derrick Ruiz,derrick2@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

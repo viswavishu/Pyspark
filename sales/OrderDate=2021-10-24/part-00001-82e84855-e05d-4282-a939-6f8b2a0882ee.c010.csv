@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58537,1,Samantha Jackson,samantha13@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO58501,2,Alexandra Hernandez,alexandra59@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58538,2,Sara Blue,sara15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58533,1,Jacquelyn Suarez,jacquelyn20@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO58490,2,Gina Martin,gina1@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

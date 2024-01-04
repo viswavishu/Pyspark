@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56588,1,Ross Prasad,ross9@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO56596,2,Karl Jai,karl12@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56592,1,Christopher Jackson,christopher12@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO56543,1,Theodore Diaz,theodore3@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56578,1,Jennifer Jones,jennifer31@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

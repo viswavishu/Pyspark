@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48619,1,Tonya Kumar,tonya7@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468

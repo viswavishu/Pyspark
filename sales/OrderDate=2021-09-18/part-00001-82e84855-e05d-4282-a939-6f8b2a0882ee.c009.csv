@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56357,2,Taylor Russell,taylor44@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56332,2,Marc Blanco,marc19@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56360,3,Alberto Martin,alberto1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56335,2,Preston Raman,preston11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56375,1,Lee Navarro,lee8@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

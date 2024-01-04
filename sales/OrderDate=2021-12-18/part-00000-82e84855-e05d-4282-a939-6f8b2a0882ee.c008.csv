@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62338,1,Carlos Cox,carlos12@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO62303,2,Emily Harris,emily14@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO62293,1,Virginia Prasad,virginia11@adventure-works.com,"Mountain-500 Silver, 40",1,564.99,45.1992
+SO62285,1,Anne Gomez,anne2@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62295,3,Donald Patel,donald5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

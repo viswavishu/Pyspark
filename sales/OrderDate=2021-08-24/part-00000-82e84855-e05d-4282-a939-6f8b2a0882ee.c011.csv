@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54896,1,Russell Shan,russell13@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468

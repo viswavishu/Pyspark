@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55900,1,Kristen Zhou,kristen7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55900,2,Kristen Zhou,kristen7@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO55909,2,Deanna Gill,deanna40@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55890,2,Trinity Cooper,trinity8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55904,2,Rebekah Malhotra,rebekah5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

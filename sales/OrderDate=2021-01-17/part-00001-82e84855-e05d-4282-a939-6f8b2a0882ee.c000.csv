@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49335,1,Jenny Kumar,jenny31@adventure-works.com,"Road-250 Black, 48",1,2181.5625,174.525
+SO49328,1,Casey Nara,casey18@adventure-works.com,"Road-250 Black, 44",1,2181.5625,174.525
+SO49327,1,Darryl Ye,darryl9@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468
+SO49337,1,Jade Kelly,jade1@adventure-works.com,"Mountain-200 Black, 46",1,2049.0982,163.9279
+SO49331,1,Jacquelyn Gutierrez,jacquelyn11@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279

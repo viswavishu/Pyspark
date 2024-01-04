@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62124,1,Kelsey Luo,kelsey5@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62132,2,Taylor Butler,taylor39@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62129,5,Dalton Sanchez,dalton89@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO62125,2,Samantha Russell,samantha42@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62118,1,Carolyn Serrano,carolyn37@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

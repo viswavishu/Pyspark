@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62160,1,Ross Perez,ross20@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62175,2,Casey Shan,casey11@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO62191,1,Nathan Young,nathan47@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62224,3,Isaiah Peterson,isaiah4@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62213,1,Rachel Kelly,rachel45@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992

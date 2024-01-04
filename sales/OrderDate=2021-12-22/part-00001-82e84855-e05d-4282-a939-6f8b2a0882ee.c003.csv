@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62559,1,Omar Nara,omar37@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO62540,2,Jaclyn Luo,jaclyn29@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO62532,1,Whitney Perez,whitney20@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO62564,5,Philip Suarez,philip18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62568,2,Ryan Perry,ryan10@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192

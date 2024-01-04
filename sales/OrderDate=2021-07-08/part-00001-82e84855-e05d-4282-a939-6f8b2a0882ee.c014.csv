@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52228,3,David Clark,david82@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52222,1,Tabitha Torres,tabitha32@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO52235,3,Isaiah Torres,isaiah3@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52264,3,Aidan Flores,aidan13@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52220,2,Ethan Martin,ethan48@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

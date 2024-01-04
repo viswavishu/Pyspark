@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57897,2,Jaime Pal,jaime34@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO57884,1,Jason Griffin,jason18@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57871,2,Ian Brooks,ian66@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO57879,2,Carla Patel,carla6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57877,2,Melody Harrison,melody11@adventure-works.com,Road Tire Tube,1,3.99,0.3192

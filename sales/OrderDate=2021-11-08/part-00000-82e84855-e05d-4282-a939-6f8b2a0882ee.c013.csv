@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59666,1,Timothy Cook,timothy23@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59657,3,Joel Malhotra,joel4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59704,3,Clarence Cai,clarence14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59700,2,Arianna Hayes,arianna20@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59650,4,Larry Vazquez,larry17@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

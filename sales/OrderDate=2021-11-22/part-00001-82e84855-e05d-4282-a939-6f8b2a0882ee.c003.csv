@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60596,2,Angelica Butler,angelica14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60611,2,Ashlee She,ashlee7@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60578,4,Judith Turner,judith2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60618,1,Jessica Ross,jessica28@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO60623,3,Jasmine Robinson,jasmine15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

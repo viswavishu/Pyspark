@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54661,1,Mason Roberts,mason25@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54693,3,Shannon Gutierrez,shannon32@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54663,1,Gabriel Jai,gabriel29@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO54682,2,Jacqueline Russell,jacqueline20@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO54670,2,Holly Srini,holly9@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

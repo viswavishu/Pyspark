@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52351,1,Rachel Russell,rachel68@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52329,2,Colleen Ma,colleen16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52346,1,Jose Ross,jose27@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO52338,2,Andrew Moore,andrew17@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52342,2,Elijah Coleman,elijah9@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

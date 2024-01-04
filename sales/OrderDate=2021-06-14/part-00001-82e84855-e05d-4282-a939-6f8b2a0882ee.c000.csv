@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51424,3,Timothy James,timothy9@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO51413,1,Richard Davis,richard45@adventure-works.com,"Mountain-500 Silver, 42",1,564.99,45.1992
+SO51418,1,Darryl Liang,darryl16@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO51425,2,Melanie Torres,melanie29@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO51409,3,Lacey Zheng,lacey32@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

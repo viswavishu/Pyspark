@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53157,3,Tina Subram,tina14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53149,1,Andrea Rogers,andrea19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53174,2,Bryant Kapoor,bryant1@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53157,1,Tina Subram,tina14@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53159,1,Alberto Diaz,alberto4@adventure-works.com,Road Tire Tube,1,3.99,0.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53297,2,Vincent Liu,vincent4@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO53328,1,Robert Martin,robert73@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO53296,2,Wyatt Henderson,wyatt56@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO53289,3,Pedro Moreno,pedro27@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53337,3,Rachael Rodriguez,rachael18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

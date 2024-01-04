@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60497,1,Kevin Washington,kevin16@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO60503,1,Jimmy Jimenez,jimmy8@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO60501,1,Jill Ortega,jill30@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO60468,2,Dennis Chen,dennis3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60498,1,Katelyn Scott,katelyn37@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

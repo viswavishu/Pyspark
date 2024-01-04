@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53779,3,Jay Weber,jay10@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO53809,3,Kristen Sun,kristen12@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53822,3,Derrick Gomez,derrick1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53824,3,Joe Rana,joe14@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO53815,4,Ashley Simmons,ashley42@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

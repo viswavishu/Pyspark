@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61315,2,Adriana Sara,adriana11@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61367,3,Adam Ross,adam2@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61321,2,Renee Sanz,renee18@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO61347,1,Jackson Roberts,jackson34@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61341,2,Orlando Martin,orlando1@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

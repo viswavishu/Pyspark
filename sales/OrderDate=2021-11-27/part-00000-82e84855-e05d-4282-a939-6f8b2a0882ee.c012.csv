@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60929,4,Christian Foster,christian3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60930,2,Isabella Ross,isabella15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60926,5,Benjamin Diaz,benjamin23@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60947,2,Rachel Sanders,rachel46@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60937,1,Grace Lee,grace21@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

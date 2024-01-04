@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60787,3,Lauren Rivera,lauren8@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60830,1,Roberto Vazquez,roberto15@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO60800,2,Clayton Lu,clayton10@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60803,2,Geoffrey Suri,geoffrey0@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60801,3,Louis Wang,louis39@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

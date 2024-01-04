@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56947,1,Lacey Li,lacey15@adventure-works.com,"Mountain-500 Silver, 52",1,564.99,45.1992
+SO56932,1,Marie Lopez,marie18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56944,3,Rebekah Serrano,rebekah36@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56951,1,Kaitlyn Simmons,kaitlyn82@adventure-works.com,"Touring-3000 Blue, 62",1,742.35,59.388
+SO56946,1,Claudia Ye,claudia8@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468

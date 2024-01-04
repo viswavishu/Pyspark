@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51265,4,Eduardo Martin,eduardo13@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51267,1,Jon Gao,jon35@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO51263,4,Warren Rai,warren7@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51262,4,Melody Munoz,melody8@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO51262,3,Melody Munoz,melody8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

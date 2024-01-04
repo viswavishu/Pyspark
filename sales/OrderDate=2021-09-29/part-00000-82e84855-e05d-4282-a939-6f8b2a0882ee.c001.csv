@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56926,1,Paige Blue,paige3@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO56950,3,Maria Wood,maria25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56934,1,Dwayne Gomez,dwayne1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56957,3,Anne Dominguez,anne14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56958,1,Alvin Lin,alvin8@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256

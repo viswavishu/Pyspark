@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52143,3,Melvin Tang,melvin4@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52110,3,Samantha Martinez,samantha19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52146,2,Nathaniel Richardson,nathaniel10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52150,3,Gabriella Gray,gabriella3@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO52138,1,Julia Richardson,julia54@adventure-works.com,Road Tire Tube,1,3.99,0.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60834,1,Clarence Lin,clarence3@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388
+SO60780,2,John Lee,john56@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO60836,1,Alvin Hu,alvin19@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60782,1,Daniel Thomas,daniel11@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO60793,1,Sophia Parker,sophia6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

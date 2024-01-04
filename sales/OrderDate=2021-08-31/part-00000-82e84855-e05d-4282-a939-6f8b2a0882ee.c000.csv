@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55382,2,Eduardo White,eduardo11@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55383,1,Craig Navarro,craig11@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO55359,1,Jasmine Brooks,jasmine38@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55336,1,Omar Huang,omar6@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO55366,1,Kari Fernandez,kari16@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

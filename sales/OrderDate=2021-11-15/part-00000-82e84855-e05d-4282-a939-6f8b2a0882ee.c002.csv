@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60127,1,Frederick Vance,frederick3@adventure-works.com,"Mountain-500 Black, 48",1,539.99,43.1992
+SO60138,3,Mackenzie Peterson,mackenzie3@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60176,2,Amber Campbell,amber6@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60153,3,Claudia Guo,claudia15@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO60149,2,Seth Gray,seth79@adventure-works.com,"Classic Vest, M",1,63.5,5.08

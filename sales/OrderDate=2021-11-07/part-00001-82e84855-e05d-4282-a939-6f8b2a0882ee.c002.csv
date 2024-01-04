@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59640,1,Christian Yang,christian13@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO59583,2,Ronnie Liang,ronnie15@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59643,2,Blake Harris,blake13@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO59579,1,Colleen Goel,colleen42@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO59612,1,Jessica Taylor,jessica56@adventure-works.com,HL Mountain Tire,1,35.0,2.8

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52362,1,Abigail Rodriguez,abigail61@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO52338,1,Andrew Moore,andrew17@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52332,1,Erica Gao,erica15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52340,1,Danielle Cooper,danielle20@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52361,2,Tasha Jai,tasha12@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

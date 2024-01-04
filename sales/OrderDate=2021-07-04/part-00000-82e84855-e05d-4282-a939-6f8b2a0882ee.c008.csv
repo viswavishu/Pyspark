@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52033,2,Kendra Alonso,kendra8@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52041,2,Donald Prasad,donald11@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO52055,3,Robert Lewis,robert81@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52063,1,Victoria Brown,victoria5@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO52053,1,Luke Coleman,luke24@adventure-works.com,HL Mountain Tire,1,35.0,2.8

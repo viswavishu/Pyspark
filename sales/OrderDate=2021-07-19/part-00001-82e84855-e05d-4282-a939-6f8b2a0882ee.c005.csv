@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52779,2,Cory Martinez,cory15@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO52795,3,Mary Phillips,mary19@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52807,1,Luis Chen,luis25@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52833,3,Cedric Zeng,cedric22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52821,2,Suzanne He,suzanne20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

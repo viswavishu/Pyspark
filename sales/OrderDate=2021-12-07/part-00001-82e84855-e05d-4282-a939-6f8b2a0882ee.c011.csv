@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61632,2,Miguel Allen,miguel24@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61655,2,Isaiah Ramirez,isaiah6@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO61601,2,Noah Long,noah6@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61628,1,Donna Rai,donna15@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO61638,2,Kristen Ye,kristen8@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192

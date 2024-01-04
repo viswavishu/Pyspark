@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44341,1,Nathan Hayes,nathan19@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56900,1,Logan Hernandez,logan44@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO56899,4,Jessie Ortega,jessie41@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56875,1,Brandon Miller,brandon45@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56886,1,Craig Suarez,craig18@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56857,1,Julie Becker,julie22@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

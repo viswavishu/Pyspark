@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60867,3,Denise Malhotra,denise7@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60893,1,Armando Martin,armando0@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO60842,1,Logan Taylor,logan60@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60855,1,Samuel Simmons,samuel14@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO60879,2,Dominic Suri,dominic1@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

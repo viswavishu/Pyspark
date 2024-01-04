@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57423,2,Austin Lal,austin26@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57406,2,Jordan Baker,jordan45@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57410,1,Bailey Adams,bailey35@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO57378,2,Kara Xu,kara5@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57383,2,Gabrielle Adams,gabrielle58@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

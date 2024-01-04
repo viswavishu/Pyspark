@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61408,1,Peter Kumar,peter14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61422,4,Rachel Garcia,rachel19@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61425,1,Dennis Zeng,dennis24@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO61407,3,George Subram,george19@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO61415,3,Elizabeth Long,elizabeth39@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

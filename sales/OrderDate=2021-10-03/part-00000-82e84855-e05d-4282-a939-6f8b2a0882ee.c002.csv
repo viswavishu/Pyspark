@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57359,4,Jamie Sun,jamie16@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO57324,3,Sierra Young,sierra15@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57340,3,Andrea Morris,andrea18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57305,2,Marc Vazquez,marc18@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO57317,1,Austin White,austin48@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

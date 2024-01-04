@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60807,1,Connor Evans,connor29@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60775,1,Jaime Diaz,jaime3@adventure-works.com,"Mountain-500 Black, 42",1,539.99,43.1992
+SO60821,3,Lucas Bradley,lucas50@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60821,4,Lucas Bradley,lucas50@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60802,2,Dana Gomez,dana17@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

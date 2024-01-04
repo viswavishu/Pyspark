@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58154,2,Cindy Murphy,cindy24@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO58184,2,Jeremiah Turner,jeremiah21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58186,1,Katherine Garcia,katherine87@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO58165,1,Wesley Chen,wesley2@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58134,1,Dwayne Moreno,dwayne5@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

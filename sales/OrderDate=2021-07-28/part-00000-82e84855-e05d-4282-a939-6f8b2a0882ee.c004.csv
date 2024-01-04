@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53253,2,Christopher Martinez,christopher17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53242,1,Adrienne Torres,adrienne8@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO53276,1,Kaitlyn Scott,kaitlyn11@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53276,4,Kaitlyn Scott,kaitlyn11@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO53269,1,Abigail Garcia,abigail57@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

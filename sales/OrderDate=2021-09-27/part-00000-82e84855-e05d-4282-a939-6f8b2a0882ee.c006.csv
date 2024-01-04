@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56813,1,Jessica Richardson,jessica12@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO56814,1,Blake Green,blake32@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO56821,1,Abigail Bell,abigail9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56844,3,Martin Perez,martin5@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56823,2,Edward Jenkins,edward55@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

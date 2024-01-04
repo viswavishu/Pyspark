@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61416,2,Eddie Dominguez,eddie13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61420,3,Catherine Cox,catherine9@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61411,2,Samantha Hall,samantha25@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61414,2,Logan Jenkins,logan9@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61422,3,Rachel Garcia,rachel19@adventure-works.com,Touring Tire,1,28.99,2.3192

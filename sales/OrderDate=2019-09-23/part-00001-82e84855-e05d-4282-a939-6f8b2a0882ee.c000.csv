@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44442,1,Charles Wilson,charles10@adventure-works.com,"Road-650 Black, 60",1,699.0982,55.9279
+SO44440,1,Kaitlin Sanchez,kaitlin19@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO44443,1,Edwin Chander,edwin38@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616

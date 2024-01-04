@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54174,4,Kaitlyn Lee,kaitlyn45@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO54172,2,Daniel Rodriguez,daniel21@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO54171,1,Richard Roberts,richard32@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54151,1,Christy Lu,christy10@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54184,1,Jon Chander,jon12@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53947,3,Benjamin Li,benjamin28@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO53927,3,Dana Navarro,dana2@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO53963,1,Jordan Li,jordan22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53926,2,Brandy Gonzalez,brandy15@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53959,3,Thomas Rodriguez,thomas68@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

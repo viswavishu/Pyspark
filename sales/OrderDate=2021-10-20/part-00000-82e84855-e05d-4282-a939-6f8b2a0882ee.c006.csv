@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58265,2,Cassidy Price,cassidy0@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO58253,1,Alejandro Hu,alejandro23@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO58270,2,Sandra Wang,sandra7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58263,1,Lisa Zhao,lisa14@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO58266,1,Chase Murphy,chase15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

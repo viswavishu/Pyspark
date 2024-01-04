@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58557,3,Ryan Thompson,ryan38@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58571,1,Clarence Liu,clarence40@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO58551,1,Trinity Murphy,trinity13@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58570,3,Jasmine Thomas,jasmine9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58554,4,Danielle Bailey,danielle18@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

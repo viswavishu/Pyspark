@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60830,5,Roberto Vazquez,roberto15@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60828,1,Jarrod Srini,jarrod8@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO60806,2,Dalton Diaz,dalton67@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60826,1,Jack Parker,jack34@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO60830,4,Roberto Vazquez,roberto15@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

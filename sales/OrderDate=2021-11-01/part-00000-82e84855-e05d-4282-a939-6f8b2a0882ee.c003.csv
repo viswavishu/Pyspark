@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59205,1,Brooke Ward,brooke11@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO59203,1,Jermaine Patel,jermaine2@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO59158,3,Kelli Pal,kelli35@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO59187,1,Janice Bennett,janice4@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992
+SO59151,1,Jodi Shan,jodi10@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

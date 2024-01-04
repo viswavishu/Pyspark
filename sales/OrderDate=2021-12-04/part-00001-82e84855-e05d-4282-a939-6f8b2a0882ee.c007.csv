@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61476,1,Michelle Morgan,michelle22@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO61464,1,Dylan Wang,dylan24@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61469,1,Brandi Diaz,brandi3@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO61461,3,Mackenzie Phillips,mackenzie28@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO61440,2,Meagan Sai,meagan6@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55586,2,Brittney Zhou,brittney7@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55579,1,Madison Smith,madison0@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55585,3,Donna Yuan,donna6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55594,1,Cassidy Bennett,cassidy1@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO55559,1,Glenn Xu,glenn13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

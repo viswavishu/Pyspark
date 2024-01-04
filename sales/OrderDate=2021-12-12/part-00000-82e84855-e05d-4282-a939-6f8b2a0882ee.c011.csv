@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61923,2,Rachael Rana,rachael11@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO61969,1,Byron Carlson,byron12@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO61939,1,Whitney Chandra,whitney2@adventure-works.com,HL Road Tire,1,32.6,2.608

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55985,3,Paige Kelly,paige25@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55995,1,Steven Howard,steven21@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55971,1,Melissa Sanchez,melissa40@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO56007,3,Jason Foster,jason13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55983,2,Alexandra Gray,alexandra17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

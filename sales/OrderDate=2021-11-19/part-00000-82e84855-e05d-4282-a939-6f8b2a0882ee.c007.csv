@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60385,1,Latoya Becker,latoya19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60407,2,Ram�n Cai,ram�n19@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO60444,2,Karl Xie,karl3@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60445,1,Olivia Henderson,olivia50@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO60417,4,Stephanie Barnes,stephanie30@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

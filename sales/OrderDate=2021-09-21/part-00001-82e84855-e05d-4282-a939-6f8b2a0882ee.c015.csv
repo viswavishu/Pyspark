@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56517,1,Jarrod Subram,jarrod13@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56536,3,Chloe Perry,chloe74@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56538,1,Nicolas Jai,nicolas9@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO56536,2,Chloe Perry,chloe74@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56496,3,Rafael Lal,rafael32@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56581,2,Julia Price,julia66@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO56592,3,Christopher Jackson,christopher12@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56560,2,Isabella Lewis,isabella77@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO56566,1,Lucas Smith,lucas13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56555,2,Sarah Hughes,sarah36@adventure-works.com,Road Tire Tube,1,3.99,0.3192

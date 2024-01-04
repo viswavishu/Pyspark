@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57814,1,Robert Patterson,robert24@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57795,2,Trisha Guo,trisha12@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57792,1,Ryan Thompson,ryan38@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO57806,2,Edward Powell,edward57@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57799,1,Barry Arun,barry7@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

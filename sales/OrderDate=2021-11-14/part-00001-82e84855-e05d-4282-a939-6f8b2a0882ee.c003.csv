@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60056,1,Mackenzie Ward,mackenzie10@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO60045,4,Rosa Lin,rosa8@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO60071,2,Destiny Kelly,destiny46@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60067,1,David Perry,david40@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO60075,1,Gina Vazquez,gina15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

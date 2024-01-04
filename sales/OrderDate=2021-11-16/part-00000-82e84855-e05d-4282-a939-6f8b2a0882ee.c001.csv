@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60233,2,Jason Mitchell,jason40@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60202,1,Blake Wright,blake28@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO60196,2,Jennifer Alexander,jennifer92@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60184,1,Rebekah Subram,rebekah12@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60194,1,Wendy Ortega,wendy20@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

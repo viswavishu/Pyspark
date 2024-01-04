@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54181,2,Allen Martinez,allen16@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54158,1,Ian Sanders,ian68@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54161,1,Jeremiah Sanchez,jeremiah45@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54148,2,Marcus Young,marcus27@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54176,2,Evan Parker,evan23@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192

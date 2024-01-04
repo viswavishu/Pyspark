@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55847,3,Jaclyn Yang,jaclyn5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55840,3,Katherine Smith,katherine71@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55853,3,Jaclyn Ye,jaclyn10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55849,2,Gabriel Perry,gabriel4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55842,1,Jennifer Davis,jennifer33@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

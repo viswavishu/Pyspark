@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60932,1,Jordyn Powell,jordyn8@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO60944,1,Jackson Mitchell,jackson41@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO60936,1,Tanya Jimenez,tanya1@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO60910,2,Cassidy Barnes,cassidy3@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO60953,2,Anne Sims,anne0@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

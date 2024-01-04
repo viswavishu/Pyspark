@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55120,1,Jason Green,jason43@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55092,1,Cara Xu,cara8@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO55109,2,Brianna Taylor,brianna7@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55108,4,Nelson Alonso,nelson7@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55128,6,Danielle Ward,danielle14@adventure-works.com,"Racing Socks, L",1,8.99,0.7192

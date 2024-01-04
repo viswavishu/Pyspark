@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56631,2,Stanley Rodriguez,stanley21@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56615,2,Kaitlyn Scott,kaitlyn11@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56638,3,Marc Hernandez,marc7@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56601,1,Luis Li,luis26@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56618,1,Megan Rogers,megan30@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

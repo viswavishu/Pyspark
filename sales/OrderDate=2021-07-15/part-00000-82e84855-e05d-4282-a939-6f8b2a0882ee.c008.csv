@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52583,3,Tonya Black,tonya20@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO52595,2,Alexandre Lobao,alexandre1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

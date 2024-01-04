@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54716,1,Jaclyn Yuan,jaclyn30@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO54764,1,Brianna Gray,brianna42@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO54738,2,Blake Davis,blake4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54763,4,Jeremy Campbell,jeremy17@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54751,1,Wayne Rai,wayne20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

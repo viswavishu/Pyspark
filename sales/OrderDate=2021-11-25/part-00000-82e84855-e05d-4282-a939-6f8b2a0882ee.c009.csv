@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60798,2,Christina Sanders,christina2@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60778,2,Trinity Sanders,trinity3@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60794,1,Patrick Sanders,patrick9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60816,1,Savannah Scott,savannah36@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO60777,1,Colleen Zhang,colleen0@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592

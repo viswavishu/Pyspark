@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60191,1,Jerry Raje,jerry15@adventure-works.com,"Mountain-500 Silver, 48",1,564.99,45.1992
+SO60190,1,Marie Vance,marie8@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO60240,2,Casey Luo,casey6@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60210,2,Destiny Gray,destiny41@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO60201,1,Henry Garcia,henry16@adventure-works.com,LL Road Tire,1,21.49,1.7192

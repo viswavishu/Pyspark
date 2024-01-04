@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62024,1,Meghan Suarez,meghan18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62052,4,Calvin Goel,calvin18@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO62079,2,Eugene He,eugene23@adventure-works.com,HL Mountain Tire,1,35.0,2.8

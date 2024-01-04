@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57917,2,Michelle Sanders,michelle5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57914,2,Luis Hayes,luis22@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57951,4,Tanya Vazquez,tanya11@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO57907,1,Rodney Sanz,rodney14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57938,5,Olivia Coleman,olivia51@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

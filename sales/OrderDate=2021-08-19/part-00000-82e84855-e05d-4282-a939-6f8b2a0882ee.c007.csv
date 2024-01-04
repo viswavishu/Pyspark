@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54646,1,Isaiah Perez,isaiah26@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO54652,1,Abigail Bryant,abigail43@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO54614,4,Thomas Griffin,thomas23@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO54636,3,Natalie Jones,natalie71@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54586,1,Vincent Zheng,vincent19@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468

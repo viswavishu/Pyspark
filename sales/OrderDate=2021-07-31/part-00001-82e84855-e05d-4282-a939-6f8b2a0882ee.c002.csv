@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53426,2,Louis Xu,louis6@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53421,1,Morgan Wood,morgan72@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53415,3,Kayla Wood,kayla26@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO53442,2,Colin Xu,colin13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53417,2,Ethan Jackson,ethan45@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

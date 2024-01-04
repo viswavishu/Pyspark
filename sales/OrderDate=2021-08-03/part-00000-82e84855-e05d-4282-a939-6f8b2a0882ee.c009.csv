@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53720,1,Johnny Nara,johnny18@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO53751,2,Mitchell Black,mitchell17@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53751,1,Mitchell Black,mitchell17@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO53731,1,Alexandra McDonald,alexandra81@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53769,1,Roy Sanz,roy40@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

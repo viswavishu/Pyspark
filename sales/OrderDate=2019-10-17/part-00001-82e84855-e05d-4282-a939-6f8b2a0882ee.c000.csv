@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44675,1,Kristine Navarro,kristine11@adventure-works.com,"Road-650 Black, 62",1,699.0982,55.9279

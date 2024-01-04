@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56039,2,Patricia Garcia,patricia18@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56058,4,Cassidy Bryant,cassidy19@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56049,1,Sydney Hall,sydney86@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56048,1,Matthew Moore,matthew13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56025,1,Larry Sanz,larry22@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60014,2,J�sus Gutierrez,j�sus10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60018,3,Jessica Martinez,jessica65@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60006,2,Louis Shan,louis27@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59996,4,Morgan Gonzales,morgan86@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

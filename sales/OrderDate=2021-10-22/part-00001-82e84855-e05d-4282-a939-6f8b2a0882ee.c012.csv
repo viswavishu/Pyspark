@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58414,2,Taylor Barnes,taylor28@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO58405,1,Nichole Shen,nichole2@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO58360,2,Kendra Sanz,kendra20@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58400,4,Johnny Luo,johnny6@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58362,2,Colleen Andersen,colleen36@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54135,1,Warren Nath,warren8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54143,2,Garrett Watson,garrett4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54143,3,Garrett Watson,garrett4@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

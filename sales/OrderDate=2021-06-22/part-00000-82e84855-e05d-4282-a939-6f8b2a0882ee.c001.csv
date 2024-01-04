@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51535,1,Logan Johnson,logan50@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO51539,3,Sara Perez,sara38@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO51537,1,Tyler Martinez,tyler15@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO51528,3,Felicia Gomez,felicia1@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO51528,1,Felicia Gomez,felicia1@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

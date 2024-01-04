@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55425,1,Orlando Ramos,orlando17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55393,2,Leah Yang,leah3@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO55417,3,Michelle Murphy,michelle15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55423,2,Candice Guo,candice1@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO55417,2,Michelle Murphy,michelle15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55021,1,Claudia Sun,claudia12@adventure-works.com,"Touring-3000 Yellow, 54",1,742.35,59.388
+SO55007,1,William Thompson,william11@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55020,2,Lauren Sanchez,lauren0@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54985,1,Luis Diaz,luis21@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO55014,1,Megan Bennett,megan51@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

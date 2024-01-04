@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56305,1,Carolyn Martinez,carolyn17@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56281,1,Charles Jackson,charles15@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56318,1,Chelsea Weber,chelsea4@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO56289,1,Ryan Kumar,ryan32@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56276,3,Yolanda Raje,yolanda13@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56193,1,Dennis Zhao,dennis12@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO56190,5,Orlando Jim�nez,orlando6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56192,1,Kurt Kumar,kurt7@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO56204,2,Destiny Reed,destiny27@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56203,2,Jasmine James,jasmine36@adventure-works.com,"Racing Socks, L",1,8.99,0.7192

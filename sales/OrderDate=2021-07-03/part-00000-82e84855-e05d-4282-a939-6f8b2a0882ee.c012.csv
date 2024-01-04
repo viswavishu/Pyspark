@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52008,4,Daniel Garcia,daniel8@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO52014,1,Sophia Nelson,sophia8@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO51983,1,James Chen,james41@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO51967,3,Nina Kumar,nina8@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

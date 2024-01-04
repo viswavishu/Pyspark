@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52201,3,Seth Parker,seth44@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52203,2,Chloe Nelson,chloe6@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52185,1,Ian Russell,ian60@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52189,1,Matthew Anderson,matthew15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52178,2,Andrea Morgan,andrea22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

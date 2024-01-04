@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62147,1,Colin Goel,colin42@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO62144,2,Theresa Munoz,theresa4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62093,1,Erik Hernandez,erik5@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62156,1,Clayton Nara,clayton34@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO62104,4,Kaylee Stewart,kaylee23@adventure-works.com,"Classic Vest, S",1,63.5,5.08

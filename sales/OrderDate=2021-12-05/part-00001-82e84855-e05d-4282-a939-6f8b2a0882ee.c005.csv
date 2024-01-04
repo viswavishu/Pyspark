@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61528,1,Anna Howard,anna16@adventure-works.com,"Touring-3000 Yellow, 54",1,742.35,59.388
+SO61520,3,Jose Edwards,jose39@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61505,1,Nicole Harris,nicole14@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO61534,5,Natalie Brown,natalie72@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61519,3,Holly Mehta,holly13@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

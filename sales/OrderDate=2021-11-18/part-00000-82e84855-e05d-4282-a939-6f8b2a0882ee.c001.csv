@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60342,1,Alexandria Bell,alexandria36@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60367,3,Mandy Lin,mandy9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60327,4,Michele Nara,michele17@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO60359,1,Katelyn Parker,katelyn30@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO60364,1,Destiny Cox,destiny36@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

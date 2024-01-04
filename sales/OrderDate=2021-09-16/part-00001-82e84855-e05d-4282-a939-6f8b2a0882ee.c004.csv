@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56266,3,Mackenzie Hill,mackenzie33@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56251,1,Adam Hughes,adam9@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56261,2,Carolyn Garcia,carolyn14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56264,1,Grace Powell,grace56@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO56236,2,Andrea Edwards,andrea25@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

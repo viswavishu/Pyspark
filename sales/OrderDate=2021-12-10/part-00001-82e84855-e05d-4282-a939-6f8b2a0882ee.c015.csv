@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61802,1,Brandon Henderson,brandon2@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61822,2,Teresa Martin,teresa1@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61854,1,Lydia Subram,lydia12@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO61796,1,Mackenzie Ramirez,mackenzie5@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO61838,5,Katie Luo,katie8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

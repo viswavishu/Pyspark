@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57711,1,Marcus Thompson,marcus16@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO57691,1,Destiny Foster,destiny64@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO57716,2,Rachel Jenkins,rachel54@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO57690,3,Melanie Sanchez,melanie47@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57728,3,Chloe Bryant,chloe83@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61385,2,Jennifer Simmons,jennifer88@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61398,1,Cassidy Flores,cassidy13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61419,1,Chad Anand,chad22@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO61407,1,George Subram,george19@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61384,2,Ryan Brown,ryan43@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

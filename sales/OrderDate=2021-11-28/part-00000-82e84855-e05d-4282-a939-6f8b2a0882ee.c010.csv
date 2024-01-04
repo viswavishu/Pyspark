@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61028,1,Randall Munoz,randall8@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO61029,3,Alicia Shen,alicia1@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO61026,3,Christine Shan,christine5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60960,1,Kellie Dominguez,kellie11@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60989,2,Benjamin Davis,benjamin39@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

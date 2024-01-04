@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62002,4,David Wilson,david65@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61978,1,Maurice Luo,maurice6@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62016,3,Fernando Lee,fernando20@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO62001,2,Lauren Richardson,lauren10@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO61999,1,Marshall Wang,marshall0@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

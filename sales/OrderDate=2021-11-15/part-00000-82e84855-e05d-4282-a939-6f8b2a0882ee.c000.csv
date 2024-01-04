@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60162,2,Mircea Singer,mircea0@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60159,1,Juan Morgan,juan23@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60154,2,Latasha Sanz,latasha20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60149,1,Seth Gray,seth79@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60156,4,Miranda Gonzales,miranda17@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

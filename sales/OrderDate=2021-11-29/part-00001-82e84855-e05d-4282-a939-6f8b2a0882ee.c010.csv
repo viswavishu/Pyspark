@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61073,3,Jonathan Carter,jonathan39@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO61070,3,Shawna Simpson,shawna2@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61074,1,Mary Patterson,mary40@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO61057,1,Hunter Roberts,hunter33@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61036,3,Melody Ramos,melody17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

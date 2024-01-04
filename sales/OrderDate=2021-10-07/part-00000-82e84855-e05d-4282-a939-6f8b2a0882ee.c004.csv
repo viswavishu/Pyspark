@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57586,1,Brian Watson,brian12@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388
+SO57571,2,Mackenzie Sanders,mackenzie2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57564,3,Arturo Zeng,arturo24@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57589,2,Julia Hernandez,julia15@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57568,4,Kara Chavez,kara13@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

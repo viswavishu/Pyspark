@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51360,3,Joseph Martin,joseph21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51360,4,Joseph Martin,joseph21@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO51367,2,Shawn Shen,shawn4@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO51359,4,Arthur Smith,arthur10@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO51370,5,Christopher Harris,christopher14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

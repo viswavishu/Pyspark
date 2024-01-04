@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58304,1,Julia Moore,julia30@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO58336,2,Natasha Gutierrez,natasha10@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58345,2,Beth Diaz,beth5@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58342,3,Kaitlyn Long,kaitlyn76@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO58348,3,Tabitha Kapoor,tabitha1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

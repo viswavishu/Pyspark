@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62905,3,Hunter Hughes,hunter8@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO62904,1,Terry Sharma,terry13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62922,2,Mackenzie Adams,mackenzie36@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62898,5,Caleb Collins,caleb31@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62879,3,Sergio Lopez,sergio17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

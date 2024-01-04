@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60949,3,Nicole Rogers,nicole28@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO60919,3,Gabriel Phillips,gabriel36@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO60947,1,Rachel Sanders,rachel46@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO60930,1,Isabella Ross,isabella15@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO60940,1,Hannah Harris,hannah12@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388

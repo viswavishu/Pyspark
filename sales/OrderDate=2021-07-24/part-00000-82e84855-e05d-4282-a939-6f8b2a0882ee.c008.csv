@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53024,3,Isabelle Flores,isabelle11@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53012,3,Marshall She,marshall21@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO53059,2,Julie Lal,julie13@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53056,2,Noah Coleman,noah2@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53008,3,Dawn Li,dawn4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

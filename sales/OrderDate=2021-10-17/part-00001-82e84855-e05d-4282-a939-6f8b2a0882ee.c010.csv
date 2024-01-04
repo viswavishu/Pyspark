@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58080,1,Orlando Diaz,orlando3@adventure-works.com,"Mountain-500 Silver, 42",1,564.99,45.1992
+SO58074,2,Olivia Peterson,olivia40@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO58099,1,Janet Suarez,janet25@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58119,1,Lucas Sanchez,lucas88@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO58074,1,Olivia Peterson,olivia40@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54820,2,Noah Ross,noah0@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54805,3,Alicia Goel,alicia15@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO54800,2,Justin Coleman,justin2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54797,2,Wyatt Thomas,wyatt11@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54781,2,Jenna Hill,jenna12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

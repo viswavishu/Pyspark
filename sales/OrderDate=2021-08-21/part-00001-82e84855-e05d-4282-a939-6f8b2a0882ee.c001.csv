@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54761,2,Brett Malhotra,brett4@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54751,2,Wayne Rai,wayne20@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54720,2,Linda Sanz,linda35@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54729,2,Kaitlyn Adams,kaitlyn13@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54744,1,J�sus Gutierrez,j�sus10@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

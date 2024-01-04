@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57407,1,Justin Ross,justin0@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57392,2,Jessica Peterson,jessica17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57399,2,Julia Campbell,julia6@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57392,1,Jessica Peterson,jessica17@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57421,2,James Harris,james86@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

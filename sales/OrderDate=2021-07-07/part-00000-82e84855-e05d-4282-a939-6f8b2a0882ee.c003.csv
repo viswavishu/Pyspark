@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52160,1,Dustin Deng,dustin1@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO52197,2,Nicole Robinson,nicole18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52171,2,Alexandra Hill,alexandra63@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52202,3,Katherine Diaz,katherine48@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52156,1,Denise Sanchez,denise21@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468

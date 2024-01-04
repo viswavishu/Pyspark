@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60935,1,Jay Lopez,jay23@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO60931,2,Joseph Clark,joseph26@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60952,1,Julie Jai,julie16@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO60921,1,Meagan Lopez,meagan16@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60933,1,Bradley Raje,bradley16@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188

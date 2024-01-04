@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53866,4,Philip Carlson,philip17@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53873,3,Carl She,carl0@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53858,2,Bonnie Raji,bonnie27@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53854,1,Xavier Hall,xavier21@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO53833,2,Naomi Martin,naomi0@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192

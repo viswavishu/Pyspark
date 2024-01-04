@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59605,1,Barbara Yuan,barbara38@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59590,1,Calvin Luo,calvin6@adventure-works.com,"Mountain-500 Silver, 52",1,564.99,45.1992
+SO59634,2,Clarence Shan,clarence25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59640,3,Christian Yang,christian13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59640,2,Christian Yang,christian13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

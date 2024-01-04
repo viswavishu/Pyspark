@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53385,4,Henry Garcia,henry16@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO53376,2,Naomi Sanz,naomi20@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53389,1,Sarah Washington,sarah38@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO53374,1,Javier Rubio,javier14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53387,1,Jasmine Jones,jasmine3@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

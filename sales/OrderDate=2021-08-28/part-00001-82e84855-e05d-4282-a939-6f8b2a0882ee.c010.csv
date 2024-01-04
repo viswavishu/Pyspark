@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55129,1,Antonio Hughes,antonio11@adventure-works.com,"Mountain-500 Silver, 42",1,564.99,45.1992
+SO55107,4,Brandy Chandra,brandy20@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55126,2,Sergio Weber,sergio4@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO55103,1,Amber Young,amber24@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55121,1,George Kapoor,george7@adventure-works.com,Touring Tire,1,28.99,2.3192

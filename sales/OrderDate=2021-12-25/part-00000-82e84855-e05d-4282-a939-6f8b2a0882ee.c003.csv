@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62708,1,Ryan Henderson,ryan7@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62740,1,Melanie Bradley,melanie16@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO62712,3,Devin Hughes,devin50@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62725,1,Ross Mehta,ross14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62711,1,Brooke Cook,brooke19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

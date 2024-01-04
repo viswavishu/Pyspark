@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55932,3,Sydney Bryant,sydney40@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55961,1,Ashley Russell,ashley47@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO55946,1,Kelli Rai,kelli40@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55958,1,Cedric Sun,cedric12@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO55948,1,Logan Campbell,logan33@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

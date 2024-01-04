@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57582,3,Clarence Zhang,clarence37@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57571,1,Mackenzie Sanders,mackenzie2@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57561,1,Albert Suarez,albert19@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO57579,1,Melanie Bradley,melanie16@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO57591,1,Bailey King,bailey39@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392

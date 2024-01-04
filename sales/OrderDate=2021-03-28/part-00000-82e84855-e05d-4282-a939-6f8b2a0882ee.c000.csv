@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO50164,1,Valerie Zhang,valerie1@adventure-works.com,"Road-250 Black, 52",1,2181.5625,174.525
+SO50167,1,Christian Henderson,christian19@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525
+SO50165,1,Valerie Zeng,valerie24@adventure-works.com,"Road-250 Black, 58",1,2181.5625,174.525
+SO50170,1,Alan Shen,alan3@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525

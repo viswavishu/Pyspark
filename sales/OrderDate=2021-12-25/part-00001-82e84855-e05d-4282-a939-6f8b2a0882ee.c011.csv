@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62713,1,Carson Washington,carson12@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO62746,2,James Simmons,james31@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62712,2,Devin Hughes,devin50@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62736,3,Miguel King,miguel27@adventure-works.com,"Classic Vest, L",1,63.5,5.08

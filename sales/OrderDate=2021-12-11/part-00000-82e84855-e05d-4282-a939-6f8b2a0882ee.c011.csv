@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61873,3,Jason Diaz,jason19@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61893,2,Zachary Davis,zachary34@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61899,2,Cheryl Ruiz,cheryl3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61908,3,Bruce Navarro,bruce31@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61884,2,Christian Patterson,christian25@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

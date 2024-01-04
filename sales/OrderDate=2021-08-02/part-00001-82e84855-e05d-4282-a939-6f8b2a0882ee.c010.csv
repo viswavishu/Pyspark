@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53671,2,Carla Mehta,carla16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53706,3,Samuel Allen,samuel52@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53690,2,Sean Morgan,sean21@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53718,1,Marcus Parker,marcus45@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO53665,1,Cynthia Saunders,cynthia15@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468

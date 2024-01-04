@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58095,1,Leslie Munoz,leslie8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58096,1,Caleb Roberts,caleb33@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58092,1,Megan Thomas,megan14@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO58120,2,Wendy Sanz,wendy19@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58125,1,Jocelyn Barnes,jocelyn3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54842,2,Catherine Rivera,catherine14@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO54829,1,Charles Bailey,charles64@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54849,2,Misty She,misty1@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54866,1,Tamara Luo,tamara17@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO54844,2,Samantha Walker,samantha24@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

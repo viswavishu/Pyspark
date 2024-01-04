@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58134,2,Dwayne Moreno,dwayne5@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO58191,1,Melissa Rogers,melissa42@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO58176,1,Natalie Taylor,natalie76@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO58139,2,Roy Romero,roy29@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58191,2,Melissa Rogers,melissa42@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

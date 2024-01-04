@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54667,1,Jenny Zhu,jenny16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

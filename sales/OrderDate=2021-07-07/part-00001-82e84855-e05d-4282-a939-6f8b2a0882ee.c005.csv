@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52159,3,Veronica Srini,veronica9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52208,2,Seth Barnes,seth51@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52177,3,Marcus Allen,marcus26@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52198,1,Darren Sanchez,darren21@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52169,1,Alexandra Jenkins,alexandra30@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

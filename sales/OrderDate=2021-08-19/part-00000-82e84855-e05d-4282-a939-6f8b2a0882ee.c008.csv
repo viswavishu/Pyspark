@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54646,2,Isaiah Perez,isaiah26@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54624,1,Kristi Romero,kristi4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54608,2,Luke Jai,luke21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54607,2,John White,john50@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO54648,2,Aaron Ross,aaron3@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

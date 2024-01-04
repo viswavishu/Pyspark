@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60686,3,Janet Browning,janet21@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60683,1,Roy Moreno,roy27@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO60661,2,Jeremiah Ross,jeremiah27@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60634,1,Isabelle Patterson,isabelle9@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

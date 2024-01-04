@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57532,3,Isabelle Simmons,isabelle14@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO57499,1,Alexis Miller,alexis5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57517,3,Jorge Hu,jorge23@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO57496,3,Sierra Campbell,sierra6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57523,4,Derek Shan,derek9@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192

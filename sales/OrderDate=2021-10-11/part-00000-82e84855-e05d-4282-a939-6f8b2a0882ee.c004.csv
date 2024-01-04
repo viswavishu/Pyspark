@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57783,4,Christy Zhu,christy12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57777,1,Kayla Washington,kayla37@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57775,3,Bobby Subram,bobby9@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO57768,2,Juan Howard,juan21@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO57768,1,Juan Howard,juan21@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

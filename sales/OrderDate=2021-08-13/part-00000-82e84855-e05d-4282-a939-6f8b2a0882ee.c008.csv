@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54301,1,Mayra Prasad,mayra9@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO54277,3,Seth Roberts,seth40@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO54295,1,Cindy Gray,cindy25@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54315,1,Cassandra Sai,cassandra6@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388
+SO54268,1,Gina Martin,gina1@adventure-works.com,ML Road Tire,1,24.99,1.9992

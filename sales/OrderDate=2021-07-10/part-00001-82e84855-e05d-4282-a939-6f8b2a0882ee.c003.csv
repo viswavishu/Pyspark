@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52359,1,Nicholas Rodriguez,nicholas0@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52345,2,Gloria Gutierrez,gloria11@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52341,2,Edward Carter,edward12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52340,2,Danielle Cooper,danielle20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52332,2,Erica Gao,erica15@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

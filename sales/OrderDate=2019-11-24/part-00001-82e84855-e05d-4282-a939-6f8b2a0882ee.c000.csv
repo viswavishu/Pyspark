@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44990,1,Isaac Kelly,isaac2@adventure-works.com,"Road-650 Black, 44",1,699.0982,55.9279
+SO44989,1,Morgan Walker,morgan44@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO44993,1,Edward Miller,edward28@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992

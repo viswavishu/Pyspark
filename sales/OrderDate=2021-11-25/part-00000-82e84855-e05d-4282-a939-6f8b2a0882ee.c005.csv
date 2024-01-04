@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60829,2,Tanya Alonso,tanya4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60783,2,Derek Nath,derek16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60793,2,Sophia Parker,sophia6@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60788,1,Jocelyn Ross,jocelyn4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60823,3,Ana Patterson,ana10@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

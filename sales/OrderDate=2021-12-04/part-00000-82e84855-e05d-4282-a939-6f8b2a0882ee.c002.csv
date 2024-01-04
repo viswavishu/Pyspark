@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61429,4,Kristi Serrano,kristi12@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61445,2,Eric Perry,eric16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61474,1,Kelly Bennett,kelly5@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388
+SO61477,3,Taylor Moore,taylor55@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61459,2,Krystal Wu,krystal7@adventure-works.com,"Classic Vest, M",1,63.5,5.08

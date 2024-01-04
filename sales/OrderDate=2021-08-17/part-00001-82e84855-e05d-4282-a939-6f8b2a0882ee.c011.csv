@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54483,2,Sydney Johnson,sydney65@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO54513,1,Nathan Lopez,nathan49@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO54524,1,Kevin Simmons,kevin18@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO54517,1,Andrea Murphy,andrea16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54516,4,Connor Ross,connor0@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

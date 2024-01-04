@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55882,2,Bridget Anand,bridget22@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55909,1,Deanna Gill,deanna40@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55872,2,Pamela Schmidt,pamela13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55894,2,Jose Henderson,jose28@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55893,1,Natalie Kelly,natalie23@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57515,1,David Jackson,david70@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO57498,1,Caroline Flores,caroline13@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO57497,1,Allen Patel,allen3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57495,1,Bailey Young,bailey37@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57486,2,Dominique Perez,dominique18@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

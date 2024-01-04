@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54840,2,Tristan Hayes,tristan22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54838,1,Johnathan Sanchez,johnathan19@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54853,1,Jaime Nara,jaime39@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO54879,4,Francisco Ashe,francisco7@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO54839,3,Eduardo Kelly,eduardo69@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

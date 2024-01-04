@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51370,1,Christopher Harris,christopher14@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO51359,1,Arthur Smith,arthur10@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO51362,1,Evan Reed,evan21@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO51363,3,Nathaniel Murphy,nathaniel16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51361,1,Marie Gomez,marie25@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59259,3,Nathan Hughes,nathan7@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59261,4,Jos� Lopez,jos�60@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59255,1,Hunter Hayes,hunter18@adventure-works.com,"Touring-3000 Blue, 62",1,742.35,59.388
+SO59263,2,Toni Sai,toni5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59212,2,Marie Sanz,marie44@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

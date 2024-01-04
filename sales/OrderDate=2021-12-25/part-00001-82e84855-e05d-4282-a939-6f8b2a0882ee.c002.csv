@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62745,2,Megan Russell,megan67@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62730,2,Sharon Deng,sharon7@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO62731,1,Robert Mitchell,robert53@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62714,1,Danielle Morris,danielle21@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO62705,1,Hannah Long,hannah32@adventure-works.com,Road Tire Tube,1,3.99,0.3192

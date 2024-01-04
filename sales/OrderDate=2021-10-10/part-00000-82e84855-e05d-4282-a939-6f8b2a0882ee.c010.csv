@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57734,2,Brandon Ross,brandon1@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO57740,1,Marissa Long,marissa7@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO57703,2,Darryl Ye,darryl9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57690,2,Melanie Sanchez,melanie47@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57742,1,Xavier Bryant,xavier58@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992

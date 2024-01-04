@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51613,1,Jasmine Diaz,jasmine61@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO51611,2,Steve Chen,steve6@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51615,2,Marcus Price,marcus49@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO51616,1,Austin Jones,austin42@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO51612,4,Julio Ruiz,julio1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

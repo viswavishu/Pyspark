@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60749,2,Michelle Gray,michelle7@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388
+SO60750,2,Aaron Nelson,aaron42@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60729,1,Nathan Diaz,nathan18@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO60745,2,Amy He,amy25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60760,1,Alvin Zheng,alvin18@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256

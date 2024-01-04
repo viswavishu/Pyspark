@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56683,1,Shaun Carson,shaun16@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO56677,1,Richard Green,richard25@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56664,2,Jake Zeng,jake20@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56691,2,Jorge Wu,jorge8@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56664,1,Jake Zeng,jake20@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

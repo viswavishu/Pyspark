@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54799,2,Jeremiah Gonzalez,jeremiah19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54784,6,Autumn Li,autumn3@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54802,4,Logan Chow,logan25@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54788,2,Seth Sanders,seth76@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54807,2,Ashley Patterson,ashley37@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

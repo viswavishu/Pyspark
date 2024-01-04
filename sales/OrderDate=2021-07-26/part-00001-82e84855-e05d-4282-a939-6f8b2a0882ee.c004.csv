@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53166,1,Devin Ward,devin70@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53148,3,Antonio Bennett,antonio1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53159,3,Alberto Diaz,alberto4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53161,1,Caleb Young,caleb46@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53168,1,Kate Yuan,kate5@adventure-works.com,"Mountain-500 Black, 52",1,539.99,43.1992

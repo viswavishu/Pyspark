@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61689,2,Nicole Bryant,nicole67@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61716,2,Janet Ward,janet29@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61666,2,Jennifer Bell,jennifer59@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61711,2,Glenn Huang,glenn6@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO61714,5,Aaron Foster,aaron15@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53130,2,Keith Lal,keith11@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53107,1,Nicolas Deng,nicolas0@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO53122,2,Jon Luo,jon46@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53123,2,Rosa Liang,rosa16@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53073,1,Lawrence Vazquez,lawrence13@adventure-works.com,HL Mountain Tire,1,35.0,2.8

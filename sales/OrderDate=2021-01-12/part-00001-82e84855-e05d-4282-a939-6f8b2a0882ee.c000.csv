@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49288,1,Isaac Cook,isaac21@adventure-works.com,"Mountain-200 Silver, 42",1,2071.4196,165.7136
+SO49281,1,Tanya Blanco,tanya12@adventure-works.com,"Road-650 Black, 52",1,782.99,62.6392
+SO49280,1,Ronnie Ma,ronnie14@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468
+SO49283,1,Latasha Romero,latasha9@adventure-works.com,"Mountain-200 Silver, 38",1,2071.4196,165.7136

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58898,1,Misty Black,misty22@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO58841,3,Christy Rai,christy35@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58845,2,Peter She,peter8@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO58899,3,Deanna Sara,deanna14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58892,1,Micah Cai,micah9@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388

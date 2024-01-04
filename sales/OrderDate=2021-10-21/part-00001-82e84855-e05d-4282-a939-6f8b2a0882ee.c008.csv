@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58315,2,Trisha He,trisha13@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO58292,2,Colleen Xu,colleen12@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58329,1,Grace Richardson,grace35@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO58290,4,Logan Allen,logan48@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO58303,4,Ryan Jackson,ryan51@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

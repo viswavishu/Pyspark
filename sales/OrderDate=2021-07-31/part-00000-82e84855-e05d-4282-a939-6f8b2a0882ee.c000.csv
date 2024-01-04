@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53437,1,Adam Lal,adam25@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO53400,2,Caroline Barnes,caroline5@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53414,1,Jennifer Simmons,jennifer88@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO53402,1,Melanie Hughes,melanie27@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO53434,1,Cory Patel,cory1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

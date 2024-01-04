@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60578,1,Judith Turner,judith2@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60625,3,Tamara Lal,tamara20@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60587,1,Adam Simmons,adam13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60601,1,Sophia Campbell,sophia5@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60622,3,Kendra Vazquez,kendra14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53667,1,Linda Serrano,linda31@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

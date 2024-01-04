@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO50970,1,Madeline Hill,madeline19@adventure-works.com,"Mountain-200 Black, 46",1,2049.0982,163.9279

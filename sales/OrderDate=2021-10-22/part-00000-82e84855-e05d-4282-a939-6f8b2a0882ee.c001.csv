@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58391,1,Lauren Long,lauren57@adventure-works.com,"Mountain-500 Silver, 42",1,564.99,45.1992
+SO58393,1,Thomas Davis,thomas65@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO58395,1,Edwin He,edwin19@adventure-works.com,"Mountain-500 Silver, 52",1,564.99,45.1992
+SO58381,2,Jackson Hayes,jackson24@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58407,2,Christy Chow,christy2@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

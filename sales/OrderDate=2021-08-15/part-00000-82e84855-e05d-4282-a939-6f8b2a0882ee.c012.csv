@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54392,2,Mandy Cai,mandy22@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54424,3,Madison Powell,madison44@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO54404,2,Natasha Dominguez,natasha12@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO54406,2,Christy Goel,christy37@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO54377,5,Ashlee Xu,ashlee12@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

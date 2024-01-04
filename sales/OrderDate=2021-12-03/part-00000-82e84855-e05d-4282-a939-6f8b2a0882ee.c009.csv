@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61385,1,Jennifer Simmons,jennifer88@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61388,2,Garrett Bell,garrett18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61395,3,Jesse Bell,jesse14@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61393,2,Trevor Gonzales,trevor17@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61400,1,Alexandra Moore,alexandra71@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

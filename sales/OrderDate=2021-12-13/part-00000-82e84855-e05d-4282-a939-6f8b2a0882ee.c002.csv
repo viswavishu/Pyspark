@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62016,1,Fernando Lee,fernando20@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO62011,1,Vanessa Washington,vanessa14@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO61977,4,Clinton Carlson,clinton14@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO61993,1,Jeremiah Simmons,jeremiah33@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62012,1,Brianna McDonald,brianna55@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256

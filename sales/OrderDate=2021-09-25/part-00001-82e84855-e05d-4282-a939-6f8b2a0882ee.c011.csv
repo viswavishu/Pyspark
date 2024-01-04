@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56733,2,Barbara Chen,barbara12@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56743,1,Ian Rodriguez,ian18@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO56755,1,Jordan Hill,jordan41@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO56695,1,Logan Taylor,logan60@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO56711,1,Thomas Parker,thomas36@adventure-works.com,Road Tire Tube,1,3.99,0.3192

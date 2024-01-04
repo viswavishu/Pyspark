@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52969,1,Katie She,katie3@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52974,1,Jenny Zimmerman,jenny30@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52993,1,Tabitha Martinez,tabitha14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52988,3,Michael Lewis,michael53@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52992,1,Krista Sanz,krista19@adventure-works.com,Road Tire Tube,1,3.99,0.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58883,3,Karen Morgan,karen34@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58893,1,Jack Scott,jack50@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388
+SO58897,2,Grace Morris,grace27@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58847,2,Chase Peterson,chase5@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO58859,3,Austin Jenkins,austin2@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

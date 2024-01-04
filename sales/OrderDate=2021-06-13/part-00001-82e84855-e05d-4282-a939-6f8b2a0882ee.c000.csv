@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51404,4,Caitlin Bell,caitlin11@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51392,4,Jay Torres,jay41@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51399,2,Kristi Perez,kristi39@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO51402,1,Jonathan Mitchell,jonathan40@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO51401,1,Devin Williams,devin2@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388

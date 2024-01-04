@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54484,4,Frederick Garcia,frederick13@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO54509,3,Tanya Gill,tanya10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54518,1,Angelica Bryant,angelica17@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO54522,1,Marvin Browning,marvin16@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO54496,3,Arturo Xu,arturo29@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

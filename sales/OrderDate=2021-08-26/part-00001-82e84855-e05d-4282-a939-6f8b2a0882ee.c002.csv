@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54983,4,Alvin Xu,alvin12@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54976,1,Roy Srini,roy9@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO54997,1,Bobby Van,bobby3@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO54990,3,Eduardo Phillips,eduardo39@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55009,2,Bradley Beck,bradley22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

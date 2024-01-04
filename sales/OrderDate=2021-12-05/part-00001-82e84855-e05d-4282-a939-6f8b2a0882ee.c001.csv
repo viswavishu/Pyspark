@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61501,3,Alexandra Bennett,alexandra24@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61523,5,Fernando Bryant,fernando59@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO61498,1,Gavin Russell,gavin18@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO61498,2,Gavin Russell,gavin18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61519,2,Holly Mehta,holly13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

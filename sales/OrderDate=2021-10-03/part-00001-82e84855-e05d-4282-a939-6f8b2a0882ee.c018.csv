@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57364,1,Darryl Chen,darryl2@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256

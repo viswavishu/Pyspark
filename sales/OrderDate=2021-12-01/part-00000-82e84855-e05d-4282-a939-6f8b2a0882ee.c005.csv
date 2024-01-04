@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61279,2,Evelyn Gonzalez,evelyn19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61306,1,Margaret Guo,margaret24@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO61271,1,Fernando Martinez,fernando15@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO61282,1,Micah Zhou,micah19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61271,2,Fernando Martinez,fernando15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

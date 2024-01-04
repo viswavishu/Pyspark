@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62563,1,Cassandra Malhotra,cassandra5@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO62579,2,Clarence Nath,clarence33@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62554,1,Maria Bennett,maria24@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62538,1,Marshall Sutton,marshall25@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO62553,2,Jennifer Thomas,jennifer39@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

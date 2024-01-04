@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57875,2,Tabitha Rana,tabitha9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57874,1,Katie Xu,katie7@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO57843,1,Curtis He,curtis15@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO57882,3,Raymond Sara,raymond12@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57858,1,Logan Thomas,logan62@adventure-works.com,ML Road Tire,1,24.99,1.9992

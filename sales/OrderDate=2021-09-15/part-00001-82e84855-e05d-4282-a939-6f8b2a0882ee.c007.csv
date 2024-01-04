@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56217,1,Natalie Hughes,natalie34@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388
+SO56206,2,Hector Mu�oz,hector5@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO56201,3,Abigail Martin,abigail55@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO56201,1,Abigail Martin,abigail55@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO56210,1,Seth Rivera,seth81@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

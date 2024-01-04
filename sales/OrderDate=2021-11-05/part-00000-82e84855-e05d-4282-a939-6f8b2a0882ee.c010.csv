@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59437,3,Cedric Yuan,cedric28@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59454,2,Gail Griffin,gail7@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59420,1,Sarah Williams,sarah4@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59444,2,Nathaniel James,nathaniel0@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59411,1,Michele Hernandez,michele38@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468

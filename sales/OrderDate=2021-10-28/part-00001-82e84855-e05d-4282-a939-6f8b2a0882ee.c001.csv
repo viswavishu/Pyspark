@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58743,3,Calvin She,calvin0@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58707,2,Erick Prasad,erick9@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO58738,1,Zachary Harris,zachary44@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58758,3,Brooke Richardson,brooke9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58776,3,J�sus Serrano,j�sus15@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

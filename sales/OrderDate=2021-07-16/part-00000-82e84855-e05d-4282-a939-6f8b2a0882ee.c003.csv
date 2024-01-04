@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52635,3,Carlos Hill,carlos39@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52660,2,Rosa Lu,rosa12@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO52664,3,Kyle Bryant,kyle13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52663,3,Victoria Bennett,victoria49@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52660,1,Rosa Lu,rosa12@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592

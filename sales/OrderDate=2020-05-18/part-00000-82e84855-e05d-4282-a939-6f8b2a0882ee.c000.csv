@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46501,1,Clifford Arun,clifford7@adventure-works.com,"Road-650 Red, 48",1,699.0982,55.9279
+SO46506,1,Gilbert Liang,gilbert14@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992
+SO46504,1,Adrian Cooper,adrian10@adventure-works.com,"Road-650 Black, 52",1,699.0982,55.9279
+SO46507,1,Molly Perez,molly20@adventure-works.com,"Road-650 Red, 58",1,699.0982,55.9279
+SO46499,1,Alexis Jones,alexis3@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61602,2,Nicolas Xie,nicolas1@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61598,3,Dale Nath,dale16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61615,3,Elijah Kumar,elijah2@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61629,1,Jaclyn Ma,jaclyn17@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO61642,2,Jeremy Roberts,jeremy15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

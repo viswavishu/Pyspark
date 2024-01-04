@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56781,2,Margaret Patterson,margaret4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56791,2,Kayla Griffin,kayla45@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO56788,2,Ann Martinez,ann22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56770,1,Luis Long,luis8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56757,3,Grant Yuan,grant8@adventure-works.com,Road Tire Tube,1,3.99,0.3192

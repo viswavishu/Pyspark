@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60597,2,Clayton Yang,clayton5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60575,2,Omar Chen,omar2@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO60578,2,Judith Turner,judith2@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60590,1,Dalton Hernandez,dalton25@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO60581,4,Carlos Rogers,carlos22@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

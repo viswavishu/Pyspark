@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60417,2,Stephanie Barnes,stephanie30@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO60435,2,Erika Hernandez,erika3@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO60413,2,Eduardo Foster,eduardo60@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60435,3,Erika Hernandez,erika3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60442,1,Nathan Ross,nathan0@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992

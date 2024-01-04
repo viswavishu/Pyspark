@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56083,1,Marcus Butler,marcus64@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56073,2,Willie Zhang,willie1@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56118,2,Anne Moreno,anne7@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56076,1,April Pal,april10@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56113,5,Jimmy Vazquez,jimmy18@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

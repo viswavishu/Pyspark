@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60392,1,Aimee Wang,aimee1@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO60405,1,Dominique Patel,dominique3@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60414,3,Wesley Wang,wesley1@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO60386,1,Gerald Patel,gerald32@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60393,2,John Garcia,john35@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

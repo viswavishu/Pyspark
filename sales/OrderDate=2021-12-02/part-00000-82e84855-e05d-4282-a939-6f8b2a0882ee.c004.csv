@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61313,1,Desiree Dominguez,desiree9@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO61351,2,Amanda Foster,amanda37@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61362,1,Arturo Sharma,arturo34@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO61330,2,Drew Raji,drew22@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61358,3,Benjamin Walker,benjamin38@adventure-works.com,"Classic Vest, M",1,63.5,5.08

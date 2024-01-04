@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56676,2,Robert Harris,robert72@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56665,1,Rosa Zeng,rosa22@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56664,3,Jake Zeng,jake20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56689,2,Giorgio Veronesi,giorgio0@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56673,2,Marissa Henderson,marissa3@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

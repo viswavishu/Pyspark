@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45357,1,Alfredo Dominguez,alfredo14@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992

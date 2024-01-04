@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56047,1,Julie Xie,julie7@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56037,2,Luis Diaz,luis21@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56056,1,Paige Griffin,paige20@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO56044,3,Jason Griffin,jason18@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO56021,3,Crystal Zeng,crystal1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

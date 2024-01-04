@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62208,3,Emily Flores,emily37@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62201,1,Cory Raman,cory10@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62214,2,Noah Allen,noah71@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62214,3,Noah Allen,noah71@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62208,5,Emily Flores,emily37@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

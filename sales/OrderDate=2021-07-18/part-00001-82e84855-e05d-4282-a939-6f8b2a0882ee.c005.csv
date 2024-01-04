@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52764,1,Nathan Moore,nathan66@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO52759,2,Natalie Adams,natalie58@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52771,3,Garrett Rivera,garrett21@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO52733,1,Katie Yuan,katie9@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO52726,3,Elijah Li,elijah0@adventure-works.com,"Classic Vest, M",1,63.5,5.08

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54318,4,Deanna Perez,deanna24@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54344,2,Kelvin Alan,kelvin19@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54370,3,Allison Ward,allison11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54328,1,Brandy Malhotra,brandy0@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO54360,1,Roberto Rubio,roberto19@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188

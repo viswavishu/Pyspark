@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59333,1,Isaiah Morris,isaiah18@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO59285,3,Leonard Pal,leonard13@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59302,1,Aaron Edwards,aaron34@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO59288,3,Mathew Dominguez,mathew8@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO59273,1,Micheal Rubio,micheal17@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

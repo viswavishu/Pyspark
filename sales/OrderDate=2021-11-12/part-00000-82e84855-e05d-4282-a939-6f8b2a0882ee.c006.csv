@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59947,2,Kristopher Sanchez,kristopher19@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59920,1,Tonya Nara,tonya16@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO59954,1,Dalton Collins,dalton45@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO59964,1,Drew Andersen,drew14@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO59933,1,Anthony Brown,anthony13@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

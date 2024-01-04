@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56526,3,Derek Goel,derek17@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO56530,2,Holly Fernandez,holly15@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56491,2,Michele Ramos,michele51@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56535,1,Jade Cooper,jade6@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO56483,3,Rachel Reed,rachel31@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

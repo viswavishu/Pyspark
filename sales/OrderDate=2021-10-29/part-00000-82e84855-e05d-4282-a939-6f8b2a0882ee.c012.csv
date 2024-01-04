@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58808,1,Terrance Raman,terrance9@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58822,1,Sara Wright,sara47@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO58793,2,George Rana,george17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58794,2,Alexandra Morris,alexandra3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58809,3,Eduardo Hughes,eduardo56@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

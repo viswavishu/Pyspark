@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62053,1,Devin Gray,devin73@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO62046,1,Elijah Parker,elijah28@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO62071,1,Ruben Prasad,ruben10@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO62082,4,Jordan Jenkins,jordan3@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO62051,1,Zachary Wang,zachary23@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

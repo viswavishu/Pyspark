@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44978,1,Russell Luo,russell10@adventure-works.com,"Road-650 Red, 60",1,699.0982,55.9279

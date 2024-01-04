@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46310,1,Marvin Gutierrez,marvin11@adventure-works.com,"Road-650 Black, 62",1,699.0982,55.9279
+SO46306,1,Noah Butler,noah11@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO46309,1,Leah Hu,leah16@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO46308,1,Fernando Bryant,fernando59@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616

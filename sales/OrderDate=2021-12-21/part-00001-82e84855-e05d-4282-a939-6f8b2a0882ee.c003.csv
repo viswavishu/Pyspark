@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62528,1,Gregory Tang,gregory8@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO62491,1,Sarah Simmons,sarah40@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO62491,2,Sarah Simmons,sarah40@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO62523,1,Noah Jai,noah26@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO62487,2,Jonathan Lal,jonathan27@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

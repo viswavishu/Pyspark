@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57368,1,Jenny Tang,jenny27@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO57307,2,Faith Ward,faith31@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57325,1,Katherine Jones,katherine74@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO57347,2,Caitlin Reed,caitlin18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57310,1,Robyn Ramos,robyn13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

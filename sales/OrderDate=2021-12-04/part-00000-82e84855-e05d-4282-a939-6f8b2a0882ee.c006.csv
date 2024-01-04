@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61477,4,Taylor Moore,taylor55@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61460,3,Alejandro Shen,alejandro28@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO61458,2,Destiny Miller,destiny6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61470,2,Marie Sanz,marie44@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO61443,1,Gina Martin,gina1@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192

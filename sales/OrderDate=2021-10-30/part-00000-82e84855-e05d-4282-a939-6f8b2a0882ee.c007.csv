@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58865,2,Jack Evans,jack35@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO58894,1,Morgan Murphy,morgan53@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO58871,2,Gabriel Hernandez,gabriel49@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58866,1,Brianna Howard,brianna38@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58871,1,Gabriel Hernandez,gabriel49@adventure-works.com,Road Tire Tube,1,3.99,0.3192

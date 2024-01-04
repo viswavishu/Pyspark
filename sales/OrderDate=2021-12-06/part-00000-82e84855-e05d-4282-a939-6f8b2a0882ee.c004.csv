@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61551,1,Whitney Lopez,whitney15@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61578,1,Cesar Srini,cesar7@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO61545,1,Ashlee Tang,ashlee11@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61595,3,Kristin Pal,kristin13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61561,2,Kaitlyn Kelly,kaitlyn66@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53358,4,Katelyn Peterson,katelyn3@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53382,1,Kara Tang,kara4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53368,3,Zoe Morgan,zoe21@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53378,1,Bryant Suri,bryant0@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53369,1,Sara Young,sara44@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

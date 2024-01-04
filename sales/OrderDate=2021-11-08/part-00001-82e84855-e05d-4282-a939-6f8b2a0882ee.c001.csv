@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59670,2,Ryan Washington,ryan16@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO59663,1,Jesse Morgan,jesse13@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59680,2,Jamie Cai,jamie25@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59672,1,Robert Walker,robert83@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO59705,4,Samantha Martinez,samantha19@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

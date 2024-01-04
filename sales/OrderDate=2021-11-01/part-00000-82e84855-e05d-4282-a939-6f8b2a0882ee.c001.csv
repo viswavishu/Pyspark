@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59154,3,Katherine Young,katherine98@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59184,6,Destiny Anderson,destiny10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59149,3,Jill Ashe,jill12@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59173,2,Roger Liu,roger8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59160,1,Julia Peterson,julia59@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

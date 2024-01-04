@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52739,3,Javier Rubio,javier14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52754,1,Toni Martinez,toni18@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52747,2,Carrie Ruiz,carrie1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52745,1,Victor Gill,victor14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52731,2,Shannon Liang,shannon15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

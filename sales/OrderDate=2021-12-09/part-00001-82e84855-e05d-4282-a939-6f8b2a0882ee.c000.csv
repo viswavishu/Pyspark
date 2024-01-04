@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61766,2,Charles Wilson,charles10@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61745,1,Lucas Rodriguez,lucas34@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO61765,3,Megan Sanders,megan49@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61767,2,Alexis Jones,alexis3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61739,1,Erika Dominguez,erika10@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

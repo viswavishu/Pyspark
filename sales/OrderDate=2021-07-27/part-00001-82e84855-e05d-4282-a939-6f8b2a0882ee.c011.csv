@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53200,1,Andrew Martinez,andrew24@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53220,4,Frederick Prasad,frederick8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53223,2,Rachael Vance,rachael4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

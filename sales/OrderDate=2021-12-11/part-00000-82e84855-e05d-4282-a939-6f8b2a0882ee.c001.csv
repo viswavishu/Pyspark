@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61868,3,Richard Powell,richard63@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61915,4,Paige Simmons,paige14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61907,1,Edwin Tang,edwin26@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO61897,1,Sean Sanders,sean10@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61892,4,Kellie Vazquez,kellie13@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57712,1,Adam Wang,adam21@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57732,5,Florian Stiller,florian1@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO57725,4,Destiny James,destiny43@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO57694,2,Alisha Zeng,alisha23@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO57708,4,Julia Morgan,julia50@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55093,1,Crystal Liang,crystal17@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO55125,1,Seth Anderson,seth10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55103,2,Amber Young,amber24@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55110,2,Spencer Bennett,spencer2@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO55110,1,Spencer Bennett,spencer2@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

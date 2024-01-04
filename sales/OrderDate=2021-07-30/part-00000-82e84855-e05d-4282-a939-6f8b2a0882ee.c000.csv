@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53378,2,Bryant Suri,bryant0@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO53394,4,Jacob Martinez,jacob13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53388,1,Morgan Taylor,morgan31@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO53363,4,Kimberly Brooks,kimberly4@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO53394,2,Jacob Martinez,jacob13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

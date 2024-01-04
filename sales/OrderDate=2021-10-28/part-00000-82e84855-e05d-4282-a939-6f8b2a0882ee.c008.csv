@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58756,3,Luis Griffin,luis20@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58732,2,Darren Chandra,darren4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58768,1,Andrew Thomas,andrew20@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388
+SO58756,5,Luis Griffin,luis20@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO58733,2,Krista Gomez,krista1@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

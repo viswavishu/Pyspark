@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51443,1,Aaron King,aaron51@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO51455,2,Drew Raje,drew15@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO51442,2,Brenda Kapoor,brenda5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO51447,1,Bianca Lin,bianca7@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO51453,3,Abby Kov�r,abby3@adventure-works.com,LL Road Tire,1,21.49,1.7192

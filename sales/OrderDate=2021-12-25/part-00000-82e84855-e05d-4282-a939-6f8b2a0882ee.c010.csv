@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62719,2,Fernando Carter,fernando35@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62723,4,Richard Kelly,richard82@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62724,2,Carmen Stone,carmen11@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO62736,1,Miguel King,miguel27@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO62750,1,Edwin Nara,edwin39@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256

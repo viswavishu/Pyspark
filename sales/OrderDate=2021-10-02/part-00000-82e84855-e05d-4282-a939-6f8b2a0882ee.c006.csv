@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57285,5,Jeremiah Hughes,jeremiah31@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO57259,1,Jason Perez,jason33@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57296,2,Sean Ward,sean20@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO57285,3,Jeremiah Hughes,jeremiah31@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57265,1,Ryan Hughes,ryan14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

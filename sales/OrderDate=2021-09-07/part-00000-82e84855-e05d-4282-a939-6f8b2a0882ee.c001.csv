@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55780,2,Cole Reed,cole21@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO55794,3,Bailey Bell,bailey11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55782,1,Pedro Vance,pedro4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55773,2,Cara Lu,cara7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55805,3,Trinity Cox,trinity10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54334,2,Antonio Bennett,antonio1@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54316,2,Melvin She,melvin0@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54319,1,Jerome Navarro,jerome8@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54321,1,Stacy Gill,stacy14@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54353,1,Brett Arun,brett6@adventure-works.com,LL Road Tire,1,21.49,1.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60812,3,Antonio Washington,antonio13@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60791,2,Samantha Diaz,samantha44@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60818,2,Ruben Kapoor,ruben1@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO60766,1,Sergio Sai,sergio6@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO60774,3,Daisy Hernandez,daisy0@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

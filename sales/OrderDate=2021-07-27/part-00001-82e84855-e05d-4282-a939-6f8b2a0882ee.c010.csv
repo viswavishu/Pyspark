@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53195,3,Karla Tang,karla4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53239,1,Juan Serrano,juan4@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO53220,1,Frederick Prasad,frederick8@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO53235,2,Julia Coleman,julia72@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53237,1,Ruben Torres,ruben35@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256

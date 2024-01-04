@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55589,2,Kayla Hughes,kayla35@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55561,3,Andres Shen,andres1@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55585,4,Donna Yuan,donna6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55612,2,Natalie Alexander,natalie41@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55597,3,Victoria Butler,victoria61@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

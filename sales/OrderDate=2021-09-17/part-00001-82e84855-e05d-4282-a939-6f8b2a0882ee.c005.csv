@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56325,1,Fernando Patterson,fernando53@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388
+SO56301,3,Michele Tang,michele4@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56293,1,James Parker,james57@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO56321,1,Rosa She,rosa23@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO56287,2,Allison Howard,allison10@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

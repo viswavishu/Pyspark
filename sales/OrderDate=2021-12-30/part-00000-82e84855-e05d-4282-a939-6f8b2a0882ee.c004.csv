@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63035,1,Jamie Gutierrez,jamie33@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO63047,1,Cheryl Jim�nez,cheryl7@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO63060,4,Billy Blanco,billy16@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO63033,2,Wendy Suarez,wendy18@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO63060,3,Billy Blanco,billy16@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192

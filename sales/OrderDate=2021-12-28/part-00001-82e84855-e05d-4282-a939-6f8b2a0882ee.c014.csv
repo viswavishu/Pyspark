@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62940,1,Brittany Alexander,brittany17@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO62938,1,Katherine Mitchell,katherine59@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO62930,1,Alfredo Ramos,alfredo18@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO62942,1,Fernando Baker,fernando32@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO62887,2,Adrienne Serrano,adrienne13@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

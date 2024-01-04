@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61710,2,Emma Sandberg,emma47@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO61714,4,Aaron Foster,aaron15@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO61705,3,Samuel Green,samuel45@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61717,1,Alvin Yang,alvin6@adventure-works.com,"Touring-3000 Blue, 62",1,742.35,59.388
+SO61657,2,Ross Johnsen,ross26@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

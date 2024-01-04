@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58004,2,Jessica Brooks,jessica22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57971,3,Ariana Cooper,ariana16@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO57977,2,Andrea Roberts,andrea29@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57975,2,Eduardo Adams,eduardo30@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57988,1,Damien He,damien14@adventure-works.com,Road Tire Tube,1,3.99,0.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60831,3,Jacquelyn Ruiz,jacquelyn2@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60767,1,Andres Nara,andres14@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO60781,1,Lori Ortega,lori22@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60783,1,Derek Nath,derek16@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60832,3,Ethan Bryant,ethan14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

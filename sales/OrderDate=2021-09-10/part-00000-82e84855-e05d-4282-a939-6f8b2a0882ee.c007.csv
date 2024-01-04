@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55936,2,Sheila Alvarez,sheila5@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55957,3,Melissa Richardson,melissa31@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55961,2,Ashley Russell,ashley47@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55948,3,Logan Campbell,logan33@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55947,1,Carla Garcia,carla17@adventure-works.com,Touring Tire,1,28.99,2.3192

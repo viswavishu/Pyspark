@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61869,1,Xavier Gonzales,xavier57@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61866,1,Jasmine Powell,jasmine48@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61908,1,Bruce Navarro,bruce31@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO61918,4,Alison Nath,alison19@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO61900,1,Larry Gill,larry16@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

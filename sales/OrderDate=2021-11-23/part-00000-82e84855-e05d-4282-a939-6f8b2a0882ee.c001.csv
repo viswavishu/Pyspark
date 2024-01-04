@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60641,2,Warren Wu,warren23@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO60676,2,Grace Cooper,grace34@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60669,1,Tonya Pal,tonya11@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60677,3,Logan Gonzalez,logan34@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60647,2,Tommy Nath,tommy15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

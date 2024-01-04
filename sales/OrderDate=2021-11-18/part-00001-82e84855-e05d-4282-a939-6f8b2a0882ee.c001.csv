@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60355,2,Janelle Rodriguez,janelle16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60362,2,Christina Ramirez,christina5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60328,3,Raquel Alonso,raquel5@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60334,5,Jamie Ortega,jamie44@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO60377,1,Robyn Munoz,robyn5@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188

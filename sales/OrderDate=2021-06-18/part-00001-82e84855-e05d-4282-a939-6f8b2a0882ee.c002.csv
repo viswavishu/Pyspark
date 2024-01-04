@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51468,2,Victoria Stewart,victoria24@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO51472,3,Kathleen Jimenez,kathleen7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51475,4,Roger Raji,roger49@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO51470,1,Lucas Hughes,lucas59@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO51467,3,Fernando Allen,fernando23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

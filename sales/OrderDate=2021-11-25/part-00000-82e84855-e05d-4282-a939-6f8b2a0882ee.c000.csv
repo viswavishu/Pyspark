@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60815,1,Brad Shan,brad10@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO60812,4,Antonio Washington,antonio13@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60835,2,Felicia Jimenez,felicia4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60792,2,Richard Hayes,richard78@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60831,1,Jacquelyn Ruiz,jacquelyn2@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256

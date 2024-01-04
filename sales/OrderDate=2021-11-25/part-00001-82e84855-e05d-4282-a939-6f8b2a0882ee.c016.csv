@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60813,3,Simon Pearson,simon3@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60833,1,Christy Ye,christy9@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO60811,1,Jennifer Walker,jennifer50@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO60809,1,Christopher Miller,christopher6@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO60765,2,Jon Ye,jon29@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

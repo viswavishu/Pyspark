@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61080,2,Teresa Jimenez,teresa6@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO61087,4,Catherine James,catherine7@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61052,2,Katherine Brooks,katherine22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61086,3,Joseph Wilson,joseph13@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO61083,1,Xavier Ramirez,xavier73@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61432,3,Carla Arthur,carla9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61460,2,Alejandro Shen,alejandro28@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO61440,1,Meagan Sai,meagan6@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO61473,2,Johnny Rai,johnny19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61463,1,Nicole Walker,nicole23@adventure-works.com,HL Mountain Tire,1,35.0,2.8

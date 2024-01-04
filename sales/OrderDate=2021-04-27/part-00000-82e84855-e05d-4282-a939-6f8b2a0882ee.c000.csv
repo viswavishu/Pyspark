@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO50611,1,Micah Liu,micah14@adventure-works.com,"Mountain-200 Black, 46",1,2049.0982,163.9279
+SO50613,1,Gilbert Goel,gilbert39@adventure-works.com,"Mountain-200 Black, 42",1,2049.0982,163.9279

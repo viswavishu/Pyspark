@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62931,2,Cara Hu,cara16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62878,4,Jenny Pal,jenny34@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO62907,3,Desiree Bradley,desiree12@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62929,1,Willie Yuan,willie26@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO62918,1,Caleb Campbell,caleb36@adventure-works.com,HL Mountain Tire,1,35.0,2.8

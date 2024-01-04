@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60662,2,Hailey Griffin,hailey41@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60696,2,Dylan Washington,dylan12@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO60672,3,Kaylee Young,kaylee40@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60695,4,Jeremy Rodriguez,jeremy6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60662,3,Hailey Griffin,hailey41@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

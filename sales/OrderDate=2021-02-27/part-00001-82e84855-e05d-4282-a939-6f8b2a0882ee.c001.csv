@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49809,1,Carl Yuan,carl6@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468

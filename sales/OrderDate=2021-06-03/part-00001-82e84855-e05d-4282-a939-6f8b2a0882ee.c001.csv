@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51224,1,Robin Ramos,robin13@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO51237,1,Todd Gao,todd14@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO51244,1,Virginia Fernandez,virginia18@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO51225,1,Arthur Jim�nez,arthur29@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO51230,2,Seth Phillips,seth42@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53373,1,Jordan Evans,jordan54@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53353,2,Marco Madan,marco8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53380,1,Peter Chander,peter20@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53391,2,Lucas Rivera,lucas80@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53348,2,Carl Deng,carl1@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

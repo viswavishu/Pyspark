@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56180,1,Jacquelyn Munoz,jacquelyn7@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO56126,4,Dwayne Navarro,dwayne9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56161,2,Faith Henderson,faith4@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO56155,1,Richard Evans,richard37@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO56164,3,Cara Cai,cara17@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

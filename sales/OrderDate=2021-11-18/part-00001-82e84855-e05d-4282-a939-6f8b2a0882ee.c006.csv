@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60352,1,Ruben Navarro,ruben33@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60336,3,Tonya Nath,tonya18@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO60359,3,Katelyn Parker,katelyn30@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60381,3,Marie Ruiz,marie26@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60356,1,Jamie Wagner,jamie3@adventure-works.com,Touring Tire,1,28.99,2.3192

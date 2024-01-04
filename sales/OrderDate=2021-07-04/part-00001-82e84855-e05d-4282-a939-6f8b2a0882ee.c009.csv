@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52032,1,Dakota Henderson,dakota4@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592

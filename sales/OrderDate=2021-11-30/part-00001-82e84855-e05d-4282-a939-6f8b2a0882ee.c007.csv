@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61131,2,Meredith Diaz,meredith25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61144,1,Shaun Andersen,shaun14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61155,1,Devin Coleman,devin44@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO61098,1,Louis Chande,louis31@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61101,4,Gerald Dominguez,gerald21@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

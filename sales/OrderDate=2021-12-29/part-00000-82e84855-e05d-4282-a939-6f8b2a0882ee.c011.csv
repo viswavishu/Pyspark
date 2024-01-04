@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62963,3,Sydney Jenkins,sydney29@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO62968,1,Jose Coleman,jose29@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62992,1,Alicia Yuan,alicia5@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO62978,2,Martha Zhou,martha8@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO62988,2,Maurice Shan,maurice11@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60820,1,Amanda Bradley,amanda5@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO60767,2,Andres Nara,andres14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60797,1,Diane Carlson,diane23@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60830,3,Roberto Vazquez,roberto15@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60820,3,Amanda Bradley,amanda5@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

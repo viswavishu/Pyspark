@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55560,3,Gary Jimenez,gary16@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO55556,3,Janelle Sanchez,janelle17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55561,2,Andres Shen,andres1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55573,2,Ian Ross,ian44@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55585,2,Donna Yuan,donna6@adventure-works.com,Touring Tire,1,28.99,2.3192

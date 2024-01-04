@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53692,2,Dalton Martin,dalton13@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53717,2,Allison Carter,allison33@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53698,1,Jay Perez,jay28@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO53679,2,Rosa Hu,rosa20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53689,3,Daniel Anderson,daniel7@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

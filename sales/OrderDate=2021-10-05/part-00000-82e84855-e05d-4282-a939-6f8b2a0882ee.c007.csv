@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57441,2,Angela Wood,angela4@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57466,1,Lauren Coleman,lauren53@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO57464,5,Madeline Baker,madeline15@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO57449,2,Gabriel Powell,gabriel5@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO57454,2,Clifford Fernandez,clifford14@adventure-works.com,"Racing Socks, L",1,8.99,0.7192

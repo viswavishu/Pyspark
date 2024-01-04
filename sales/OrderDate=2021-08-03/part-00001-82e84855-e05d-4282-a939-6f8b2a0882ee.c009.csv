@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53767,2,Valerie Harrison,valerie20@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO53768,1,Janet Ortega,janet27@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO53744,1,Tina Rana,tina13@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO53744,2,Tina Rana,tina13@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO53757,4,Erin James,erin12@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

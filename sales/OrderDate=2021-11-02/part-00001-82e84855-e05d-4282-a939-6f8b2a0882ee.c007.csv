@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59263,3,Toni Sai,toni5@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59264,3,Nathan Rodriguez,nathan56@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59234,1,Denise Patel,denise5@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59270,1,Gina Hernandez,gina4@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO59226,3,Emily Robinson,emily19@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

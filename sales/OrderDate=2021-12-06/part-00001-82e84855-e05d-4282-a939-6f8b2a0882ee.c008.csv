@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61594,3,Abby Gonzalez,abby16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61586,2,Maria Perry,maria31@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO61587,3,Evelyn Rodriguez,evelyn20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61584,2,Natalie Gonzalez,natalie60@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61558,3,Caleb Flores,caleb9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55734,3,Reginald Harrison,reginald18@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55709,3,Danielle Rogers,danielle22@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO55712,1,Lawrence Jimenez,lawrence3@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55699,3,Antonio Ross,antonio4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55682,1,Katrina Sharma,katrina8@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52403,1,Adrian Torres,adrian6@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO52376,1,Christy Nara,christy34@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO52383,2,Trevor Gonzales,trevor17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52400,3,Mariah Coleman,mariah10@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52378,3,Dylan Simmons,dylan14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

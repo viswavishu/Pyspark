@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58671,2,Neil Diaz,neil4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58666,2,Isaac Bailey,isaac15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58697,5,Donald Sanchez,donald22@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58682,1,Paula Carlson,paula20@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO58657,4,Nelson Vazquez,nelson13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

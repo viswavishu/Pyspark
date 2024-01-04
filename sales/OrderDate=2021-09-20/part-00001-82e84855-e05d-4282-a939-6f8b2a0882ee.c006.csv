@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56469,1,Angela Sanders,angela29@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56460,3,David Johnson,david74@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56471,4,Dalton Brooks,dalton71@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO56444,3,Brian Rivera,brian28@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO56432,3,Clarence Chen,clarence38@adventure-works.com,ML Road Tire,1,24.99,1.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53283,1,Chloe Clark,chloe29@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO53246,3,Bianca Ma,bianca12@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53276,3,Kaitlyn Scott,kaitlyn11@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53288,1,Jon Rai,jon14@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO53282,2,Jade Bailey,jade13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

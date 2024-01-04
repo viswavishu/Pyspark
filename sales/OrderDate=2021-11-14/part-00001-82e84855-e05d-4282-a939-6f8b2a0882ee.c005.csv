@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60082,2,Tina Perez,tina23@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60068,2,Isaac Ramirez,isaac6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60121,3,Whitney Gonzalez,whitney17@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60093,3,Isabelle Butler,isabelle13@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60098,2,Bryan James,bryan4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

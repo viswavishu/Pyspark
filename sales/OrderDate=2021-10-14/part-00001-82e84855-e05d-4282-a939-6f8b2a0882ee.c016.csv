@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57956,3,Joy Gomez,joy2@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57937,2,Roberto Gill,roberto14@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57916,4,Emma Davis,emma4@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO57902,2,Arthur Gomez,arthur24@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO57912,1,Robert Lal,robert41@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

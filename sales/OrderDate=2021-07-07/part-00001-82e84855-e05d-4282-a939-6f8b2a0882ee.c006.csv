@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52176,1,Logan Shan,logan4@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52179,2,Tasha Nara,tasha17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52154,2,Ricky Sanz,ricky21@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52199,2,Michele Shan,michele10@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52166,1,Clayton Sun,clayton12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

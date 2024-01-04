@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56600,3,Marco Sara,marco11@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56643,1,Ashlee Deng,ashlee8@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO56631,3,Stanley Rodriguez,stanley21@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56640,1,Katelyn Richardson,katelyn8@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO56625,2,Michael Robinson,michael50@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

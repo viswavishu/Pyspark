@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59231,2,Luke Griffin,luke10@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59253,2,Colin Andersen,colin36@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59242,2,Kelvin Huang,kelvin25@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO59269,2,Scott Seely,scott11@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59210,4,Mandy Gao,mandy16@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55784,1,Catherine Murphy,catherine13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55762,1,Pedro Gonzalez,pedro18@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55791,3,Alexandria Morris,alexandria39@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55785,3,Adam Scott,adam44@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO55762,2,Pedro Gonzalez,pedro18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

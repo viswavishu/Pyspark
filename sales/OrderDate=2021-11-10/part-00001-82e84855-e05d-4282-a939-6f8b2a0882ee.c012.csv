@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59774,3,Xavier Perry,xavier49@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO59824,2,Zachary Diaz,zachary20@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO59830,1,Albert Blanco,albert15@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO59827,1,Luis Hughes,luis10@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO59828,2,Edward Lopez,edward4@adventure-works.com,LL Road Tire,1,21.49,1.7192

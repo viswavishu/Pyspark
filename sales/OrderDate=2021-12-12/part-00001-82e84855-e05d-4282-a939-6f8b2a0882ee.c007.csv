@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61932,2,Katherine Parker,katherine56@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61934,1,Morgan Lewis,morgan42@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO61957,1,Gregory Shan,gregory13@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO61971,3,Darren Alonso,darren30@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61948,1,Anna Price,anna25@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592

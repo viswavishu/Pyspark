@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63091,2,Troy Patel,troy3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO63071,2,Julian Hughes,julian13@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO63110,2,Cole Ramirez,cole9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO63107,2,Kristine Gutierrez,kristine12@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO63062,3,Lindsay Chander,lindsay16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

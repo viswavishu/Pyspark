@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55899,2,Brad Nara,brad17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55906,4,Brooke Ramirez,brooke7@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO55914,2,Craig Vazquez,craig14@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55915,1,Irving Schmidt,irving0@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO55889,1,Maria Patterson,maria33@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

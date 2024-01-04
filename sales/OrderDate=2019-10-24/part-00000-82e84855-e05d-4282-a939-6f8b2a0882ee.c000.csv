@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44704,1,Erik Romero,erik9@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO44703,1,Adriana Gonzalez,adriana19@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616

@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57476,1,Warren Nara,warren6@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO57469,4,Allison Gonzalez,allison31@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

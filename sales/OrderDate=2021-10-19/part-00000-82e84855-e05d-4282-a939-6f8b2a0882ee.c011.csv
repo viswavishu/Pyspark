@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58247,2,Elijah Russell,elijah21@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58230,4,Morgan Turner,morgan3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58201,1,Angela Long,angela12@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58217,2,Luis Butler,luis13@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58237,1,Toni Prasad,toni9@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388

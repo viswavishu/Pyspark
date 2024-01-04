@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55772,1,Alexandria Diaz,alexandria22@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55768,4,Benjamin Henderson,benjamin6@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO55776,2,Erica He,erica17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55770,2,Brandon Alexander,brandon16@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55811,1,Nichole Nara,nichole16@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256

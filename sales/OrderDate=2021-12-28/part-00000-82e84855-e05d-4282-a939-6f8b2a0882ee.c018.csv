@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62887,1,Adrienne Serrano,adrienne13@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO62945,2,Gabriel Griffin,gabriel18@adventure-works.com,Touring Tire,1,28.99,2.3192

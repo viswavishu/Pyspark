@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61945,2,Jared Rogers,jared21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61953,2,Julian Flores,julian14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61956,3,Kelli Xie,kelli26@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61954,1,Casey Alvarez,casey28@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO61962,1,Jenna Parker,jenna7@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256

@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51513,1,Julie She,julie4@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792

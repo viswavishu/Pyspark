@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55177,1,Sean Mitchell,sean43@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO55140,3,Johnny Shan,johnny11@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55175,3,Jessie Ramos,jessie36@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55175,2,Jessie Ramos,jessie36@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55147,1,Sophia Evans,sophia0@adventure-works.com,ML Road Tire,1,24.99,1.9992

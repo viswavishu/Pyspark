@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62825,1,Luke Gonzalez,luke40@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO62829,2,Jada Morgan,jada14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62842,3,Erica Zhou,erica8@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62871,3,Katrina Tang,katrina3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62833,1,Miguel Walker,miguel23@adventure-works.com,Touring Tire,1,28.99,2.3192

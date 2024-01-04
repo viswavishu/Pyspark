@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56576,1,Jordan Campbell,jordan61@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56596,1,Karl Jai,karl12@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO56567,2,Warren Gao,warren29@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56581,1,Julia Price,julia66@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO56558,1,Thomas Lal,thomas32@adventure-works.com,HL Road Tire,1,32.6,2.608

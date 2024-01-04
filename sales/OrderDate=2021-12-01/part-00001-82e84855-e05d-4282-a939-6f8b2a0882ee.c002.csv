@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61286,1,Andrew Martinez,andrew24@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61300,4,Olivia Ward,olivia38@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO61304,2,Sergio Sai,sergio6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61307,1,Ethan Martinez,ethan31@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO61308,2,Mindy Xu,mindy9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

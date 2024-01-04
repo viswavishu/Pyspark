@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55036,1,Corey Chavez,corey13@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO55056,1,Alexandria Ward,alexandria34@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55030,2,Brad Rai,brad18@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55066,2,Derek Chander,derek14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55086,1,Jeremy Allen,jeremy7@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188

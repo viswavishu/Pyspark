@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56928,1,Thomas Brown,thomas64@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56942,1,Preston Sai,preston4@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO56953,1,William Martin,william10@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO56943,2,Dalton Garcia,dalton15@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56907,1,Damien Huang,damien4@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392

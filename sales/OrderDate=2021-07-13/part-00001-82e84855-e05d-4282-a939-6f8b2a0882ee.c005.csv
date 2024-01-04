@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52519,3,Bailey Carter,bailey30@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52485,3,Katelyn Lopez,katelyn45@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52475,4,Cara Ma,cara11@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO52520,2,Julia Anderson,julia32@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO52482,1,Juan Romero,juan1@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592

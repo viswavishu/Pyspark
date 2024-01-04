@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56385,1,Arturo Chande,arturo40@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56409,2,Lisa Zhou,lisa12@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56400,2,Jon Ma,jon36@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56378,3,Nathan Jenkins,nathan2@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO56401,2,Luke Evans,luke32@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

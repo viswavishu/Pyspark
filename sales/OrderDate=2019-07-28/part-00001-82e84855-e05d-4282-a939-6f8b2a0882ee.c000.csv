@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44026,1,Derek Goel,derek17@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO44027,1,Lucas Collins,lucas12@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO44025,1,Kellie Sanz,kellie17@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616

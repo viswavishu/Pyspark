@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56247,1,Sara Evans,sara25@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56244,2,Emma Flores,emma58@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO56230,2,Alejandro Chander,alejandro40@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56265,1,Randall Martin,randall1@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO56251,2,Adam Hughes,adam9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

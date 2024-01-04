@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52695,2,Steven Peterson,steven15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52688,1,Noah Moore,noah47@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52697,1,Destiny Rodriguez,destiny18@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52676,1,Monica Schmidt,monica11@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52722,4,Arianna Price,arianna0@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53079,2,Kathryn Ashe,kathryn20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53099,1,James Phillips,james55@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO53103,3,Amy Guo,amy24@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO53072,3,Jaclyn Wang,jaclyn1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53118,1,Aidan Alexander,aidan20@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

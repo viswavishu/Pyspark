@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52736,1,Brian Peterson,brian17@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52774,2,Isabella Ward,isabella2@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52737,3,Xavier Carter,xavier33@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO52777,4,Tara Simpson,tara2@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO52767,2,Carlos Collins,carlos28@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

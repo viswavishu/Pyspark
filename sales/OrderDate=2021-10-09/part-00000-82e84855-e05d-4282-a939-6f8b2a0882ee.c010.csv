@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57687,1,Cynthia Rana,cynthia16@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO57670,1,Mariah Cox,mariah35@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO57688,2,Beth Gomez,beth3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57686,1,Rosa Hu,rosa20@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO57648,2,Trevor Barnes,trevor2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

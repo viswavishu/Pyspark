@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62807,4,Omar Liu,omar4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62762,1,Maria Coleman,maria29@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO62776,2,Brad Oliver,brad12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62807,2,Omar Liu,omar4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62804,4,Bailey Bailey,bailey13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

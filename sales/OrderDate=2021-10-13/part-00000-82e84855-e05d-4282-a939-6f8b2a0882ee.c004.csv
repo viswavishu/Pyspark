@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57890,1,Matthew Clark,matthew24@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO57861,1,Mason Roberts,mason25@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57897,1,Jaime Pal,jaime34@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57851,2,Denise Prasad,denise11@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO57873,1,Jonathan Moore,jonathan58@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55603,2,Ann Sai,ann11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55572,3,Dalton Perez,dalton37@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55566,3,Madison Taylor,madison9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55592,1,Zachary Flores,zachary11@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO55611,3,Erik Romero,erik9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57749,2,Brittney Zeng,brittney21@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57761,2,Faith Price,faith1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57751,2,Jill Gomez,jill8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57751,1,Jill Gomez,jill8@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57779,1,Michelle Richardson,michelle10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

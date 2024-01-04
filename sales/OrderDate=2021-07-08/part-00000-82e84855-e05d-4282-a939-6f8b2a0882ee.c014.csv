@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52259,1,Cassidy Washington,cassidy14@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO52260,3,Cristina Chande,cristina13@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52226,1,Destiny Howard,destiny37@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52223,2,Karla Shan,karla11@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52227,2,Charles Adams,charles35@adventure-works.com,Touring Tire,1,28.99,2.3192

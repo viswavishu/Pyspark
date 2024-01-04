@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53757,1,Erin James,erin12@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO53720,2,Johnny Nara,johnny18@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53724,2,Chelsea Garcia,chelsea16@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53769,2,Roy Sanz,roy40@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53728,2,Adrienne Ramos,adrienne14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63089,2,Alejandro Chavez,alejandro39@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO63086,1,Faith Torres,faith25@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO63095,1,Austin Johnson,austin40@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO63101,1,Susan Lin,susan17@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388
+SO63100,1,Morgan Wilson,morgan30@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388

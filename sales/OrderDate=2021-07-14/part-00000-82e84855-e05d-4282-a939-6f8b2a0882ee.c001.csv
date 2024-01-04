@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52554,2,Kelvin She,kelvin42@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52565,2,Christian Ross,christian18@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52547,2,Jennifer Lee,jennifer49@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52560,2,Dennis Zhang,dennis1@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52557,1,Kathleen Gutierrez,kathleen13@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

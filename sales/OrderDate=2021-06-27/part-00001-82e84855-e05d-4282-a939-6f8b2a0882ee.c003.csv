@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51628,1,Kathleen Navarro,kathleen12@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO51634,2,Karl Lal,karl9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51623,4,Diane Suarez,diane24@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51626,2,Zoe Bailey,zoe14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51624,2,Jay Dominguez,jay42@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

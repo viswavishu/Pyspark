@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO50403,1,Gilbert Zeng,gilbert20@adventure-works.com,"Road-650 Red, 58",1,782.99,62.6392
+SO50401,1,Franklin He,franklin16@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525
+SO50404,1,Edward Patterson,edward59@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279
+SO50407,1,Cesar Kapoor,cesar1@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525

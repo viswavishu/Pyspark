@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56153,1,Carson Long,carson8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56181,2,Gabrielle Simmons,gabrielle37@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO56173,4,Madison Jackson,madison12@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO56129,1,Diane Munoz,diane12@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56154,1,Shelby Murphy,shelby15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

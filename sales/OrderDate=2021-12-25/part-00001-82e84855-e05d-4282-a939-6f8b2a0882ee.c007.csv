@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62746,1,James Simmons,james31@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO62709,1,Stephanie Young,stephanie69@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62745,3,Megan Russell,megan67@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62743,2,David Coleman,david38@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62747,1,Sharon Nath,sharon24@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62702,1,Ethan Bryant,ethan14@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO62707,1,Jada Baker,jada26@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO62735,3,Jesse Scott,jesse37@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO62729,1,Kimberly Ramirez,kimberly10@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62703,1,Isabel Barnes,isabel3@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

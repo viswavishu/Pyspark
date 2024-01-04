@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44255,1,Kimberly Torres,kimberly7@adventure-works.com,"Road-650 Black, 48",1,699.0982,55.9279
+SO44252,1,Manuel Perez,manuel19@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616

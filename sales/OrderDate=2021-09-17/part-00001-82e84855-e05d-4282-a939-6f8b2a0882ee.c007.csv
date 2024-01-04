@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56324,3,Colin Stone,colin25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56273,2,Marc Navarro,marc14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56304,2,Manuel Rana,manuel10@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO56273,1,Marc Navarro,marc14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56320,2,Cheryl Blanco,cheryl18@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

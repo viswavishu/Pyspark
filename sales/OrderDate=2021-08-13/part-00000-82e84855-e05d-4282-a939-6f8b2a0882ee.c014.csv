@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54265,2,Bryant Martinez,bryant17@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54251,1,Trisha Huang,trisha0@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO54284,2,Jordan Wright,jordan49@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54303,2,Randall Gomez,randall2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54297,4,Valerie Wu,valerie8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

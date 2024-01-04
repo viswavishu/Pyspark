@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52498,1,Samuel Turner,samuel35@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO52513,3,Brian Ramirez,brian19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52469,3,Latoya Xu,latoya4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52486,1,Angela Alexander,angela21@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52511,1,Kyle Parker,kyle29@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592

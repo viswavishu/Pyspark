@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53142,1,Jasmine Powell,jasmine48@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO53170,2,Jason Jenkins,jason4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53134,5,Darryl Wu,darryl6@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO53171,2,Autumn Zhao,autumn9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53147,2,Cameron Li,cameron22@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

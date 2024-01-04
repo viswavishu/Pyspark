@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51976,1,Ruben Malhotra,ruben5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51990,1,Caleb Flores,caleb9@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52010,2,Jose Patterson,jose33@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52013,1,James Flores,james28@adventure-works.com,"Touring-3000 Yellow, 58",1,742.35,59.388
+SO51975,1,Ross Fernandez,ross15@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

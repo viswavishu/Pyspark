@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53381,1,Jimmy Martin,jimmy2@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53395,1,Brooke Travers,brooke4@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO53384,1,Kristine Carlson,kristine19@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO53384,2,Kristine Carlson,kristine19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54016,2,Darrell Goel,darrell7@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO54000,2,Mackenzie Phillips,mackenzie28@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO54002,1,Alexandra Morgan,alexandra6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53990,1,Jorge Zhao,jorge12@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO54005,2,Haley Parker,haley47@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

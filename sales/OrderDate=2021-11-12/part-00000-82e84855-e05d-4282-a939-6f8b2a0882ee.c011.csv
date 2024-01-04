@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59905,3,Philip Diaz,philip2@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59919,1,Jay Martin,jay29@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO59907,2,Emma Martinez,emma16@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO59980,2,Raymond Gonzalez,raymond19@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59965,2,Gilbert Liang,gilbert14@adventure-works.com,"Mountain-500 Silver, 42",1,564.99,45.1992

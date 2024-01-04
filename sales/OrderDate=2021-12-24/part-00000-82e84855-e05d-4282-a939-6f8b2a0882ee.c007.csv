@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62676,1,Claudia Zhang,claudia0@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO62650,2,Devin Wood,devin68@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO62667,1,Hannah Barnes,hannah26@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO62664,1,Kimberly Torres,kimberly7@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO62664,2,Kimberly Torres,kimberly7@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

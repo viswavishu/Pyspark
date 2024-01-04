@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58493,1,Brent Gao,brent14@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58502,2,Adam Young,adam48@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58532,5,Ronnie Lin,ronnie7@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO58516,2,Stephanie Henderson,stephanie32@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO58507,1,Pamela Vance,pamela7@adventure-works.com,HL Road Tire,1,32.6,2.608

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52717,2,Roger Shen,roger29@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO52677,2,Gabriel Alexander,gabriel16@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52725,4,Kaitlyn Henderson,kaitlyn72@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52703,1,Stacy Vazquez,stacy15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52686,1,Xavier Washington,xavier53@adventure-works.com,Road Tire Tube,1,3.99,0.3192

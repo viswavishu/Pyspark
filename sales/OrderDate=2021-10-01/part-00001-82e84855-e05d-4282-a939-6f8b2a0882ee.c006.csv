@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57195,2,Rachael Perez,rachael20@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO57214,1,Brandon Martin,brandon35@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57225,2,Jack Hernandez,jack53@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57235,4,Jasmine West,jasmine37@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO57228,2,Gavin Diaz,gavin20@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55020,1,Lauren Sanchez,lauren0@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO54993,2,Luis Hernandez,luis50@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55005,1,Carly Lal,carly8@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55018,5,Justin Washington,justin10@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO55016,2,Amanda Phillips,amanda49@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

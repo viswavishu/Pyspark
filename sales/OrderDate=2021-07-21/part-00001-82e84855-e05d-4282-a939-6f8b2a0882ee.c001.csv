@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52896,4,Isabelle Hughes,isabelle10@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO52897,3,Lauren Hughes,lauren59@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52923,2,Angela Patterson,angela13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52886,2,Rebekah Gonzalez,rebekah18@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO52925,4,Marshall Luo,marshall27@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

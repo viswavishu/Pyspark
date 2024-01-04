@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57978,1,Blake Lee,blake22@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO58010,1,Alexis Perry,alexis30@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO57981,2,Cole James,cole0@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO57986,2,Kathleen Gutierrez,kathleen13@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO58005,2,Cristina Xie,cristina3@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

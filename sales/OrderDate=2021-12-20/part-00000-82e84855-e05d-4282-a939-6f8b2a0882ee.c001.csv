@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62467,4,Alexis Coleman,alexis28@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62438,3,Adrian Bell,adrian15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62439,1,Colleen Lu,colleen11@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62420,2,Jeremy Clark,jeremy5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO62451,3,Franklin Raji,franklin38@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

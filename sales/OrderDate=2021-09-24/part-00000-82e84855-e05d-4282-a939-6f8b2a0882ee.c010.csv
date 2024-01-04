@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56663,2,William Lewis,william27@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO56666,1,Barbara Lin,barbara17@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56658,1,Jacob Davis,jacob5@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56673,5,Marissa Henderson,marissa3@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO56677,2,Richard Green,richard25@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

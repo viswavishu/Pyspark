@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60939,1,Willie Raji,willie40@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO60895,2,Levi Rana,levi10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60954,1,Heather Zhu,heather13@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO60900,1,Meredith Sai,meredith4@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO60940,3,Hannah Harris,hannah12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53257,1,Jaime Rubio,jaime23@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53283,2,Chloe Clark,chloe29@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53285,2,Grace Peterson,grace40@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53268,3,Andre Rana,andre11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53279,4,Hannah Patterson,hannah33@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

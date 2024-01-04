@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56945,1,Erik Gomez,erik2@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO56955,1,Kathryn Shan,kathryn9@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO56928,3,Thomas Brown,thomas64@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56956,2,J�sus Gill,j�sus12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56954,2,Richard Campbell,richard35@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

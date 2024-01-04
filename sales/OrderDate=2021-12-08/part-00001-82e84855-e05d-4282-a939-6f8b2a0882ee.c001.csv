@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61666,4,Jennifer Bell,jennifer59@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61731,2,Deborah Deng,deborah5@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61661,1,Calvin Shen,calvin2@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61727,2,Julia West,julia62@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61692,1,James Lopez,james69@adventure-works.com,ML Road Tire,1,24.99,1.9992

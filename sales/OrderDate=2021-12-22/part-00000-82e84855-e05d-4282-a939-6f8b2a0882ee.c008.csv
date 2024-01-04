@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62565,2,Casey Alonso,casey32@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO62567,1,Arturo Xu,arturo13@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO62563,4,Cassandra Malhotra,cassandra5@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO62572,1,Katelyn Morris,katelyn18@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO62560,1,Ryan Thompson,ryan38@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

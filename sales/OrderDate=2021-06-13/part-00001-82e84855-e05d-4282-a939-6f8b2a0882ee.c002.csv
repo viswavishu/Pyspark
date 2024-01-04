@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51398,1,Megan Walker,megan25@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO51397,3,Elijah Russell,elijah21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51394,1,Caitlin Morris,caitlin16@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO51392,2,Jay Torres,jay41@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51406,1,Dale Luo,dale5@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392

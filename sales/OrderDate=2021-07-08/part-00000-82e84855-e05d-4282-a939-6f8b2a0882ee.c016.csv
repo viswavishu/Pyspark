@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52232,5,Isabella Jackson,isabella67@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52274,2,Jillian Martinez,jillian18@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52251,2,Isaac Edwards,isaac24@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52229,1,Samantha Clark,samantha20@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52276,5,Misty Chande,misty16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58108,1,Jacqueline Washington,jacqueline14@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58072,1,Beth Gomez,beth3@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO58122,2,Sydney Baker,sydney57@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

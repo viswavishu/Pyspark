@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60282,2,Monique Alonso,monique4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60317,1,Abby Kapoor,abby0@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388
+SO60310,2,Robert King,robert61@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60303,2,Brandon Wagner,brandon21@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60254,1,Ruben Sara,ruben11@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51900,4,Brandi Ortega,brandi21@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51899,3,Jillian Lopez,jillian17@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO51901,2,Alison Chande,alison15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO51895,1,Lauren Sanders,lauren46@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51904,2,Chelsea Sara,chelsea11@adventure-works.com,HL Road Tire,1,32.6,2.608

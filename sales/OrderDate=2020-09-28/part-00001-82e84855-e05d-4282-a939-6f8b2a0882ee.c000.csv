@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47938,1,Latoya Deng,latoya1@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525
+SO47942,1,Jaclyn Zhao,jaclyn11@adventure-works.com,"Road-650 Black, 62",1,782.99,62.6392
+SO47939,1,Theodore Dominguez,theodore13@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525
+SO47937,1,Jennifer Morris,jennifer54@adventure-works.com,"Road-650 Red, 58",1,782.99,62.6392

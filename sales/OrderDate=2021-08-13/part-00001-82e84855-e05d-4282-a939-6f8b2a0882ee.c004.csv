@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54271,2,Edward Green,edward7@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54271,1,Edward Green,edward7@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54250,2,Wendy Alvarez,wendy5@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54270,2,Robert Yang,robert39@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54297,3,Valerie Wu,valerie8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

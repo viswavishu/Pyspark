@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51891,2,Fernando Martin,fernando13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51902,2,Allen Mehta,allen12@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO51886,1,Austin Butler,austin10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51898,2,Hailey Campbell,hailey49@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51881,1,Wesley Lin,wesley8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

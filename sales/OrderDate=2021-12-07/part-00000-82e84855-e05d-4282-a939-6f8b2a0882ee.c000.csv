@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61652,1,Raymond Chandra,raymond4@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO61614,5,Hailey Patterson,hailey30@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61612,4,Evan Morgan,evan14@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO61602,1,Nicolas Xie,nicolas1@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO61635,2,Kaylee Kelly,kaylee1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

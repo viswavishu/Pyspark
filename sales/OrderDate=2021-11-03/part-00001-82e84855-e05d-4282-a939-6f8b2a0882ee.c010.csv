@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59285,1,Leonard Pal,leonard13@adventure-works.com,"Mountain-500 Silver, 52",1,564.99,45.1992
+SO59296,1,Oscar Russell,oscar6@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59291,1,Jeremiah Evans,jeremiah22@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59315,1,Suzanne Yang,suzanne6@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59341,1,Marvin Suarez,marvin19@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

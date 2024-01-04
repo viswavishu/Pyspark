@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45644,1,Casey She,casey0@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45645,1,Adrienne Torres,adrienne8@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45647,1,Katherine Wright,katherine68@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992

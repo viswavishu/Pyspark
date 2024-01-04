@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61028,2,Randall Munoz,randall8@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60995,1,Bob Lopez,bob9@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO61005,1,Edward Coleman,edward54@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO60970,2,Megan Richardson,megan38@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO60963,1,Bonnie Shen,bonnie7@adventure-works.com,HL Mountain Tire,1,35.0,2.8

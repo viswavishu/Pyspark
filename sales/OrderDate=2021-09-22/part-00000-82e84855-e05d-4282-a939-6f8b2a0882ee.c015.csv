@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56563,1,Marcus Murphy,marcus91@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56553,4,Arturo Shan,arturo35@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56551,1,Grant Deng,grant3@adventure-works.com,HL Road Tire,1,32.6,2.608

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62176,1,Alejandro She,alejandro26@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO62200,2,Ebony Subram,ebony13@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62185,3,James Patterson,james26@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62198,2,John Lee,john56@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62183,2,Carla Srini,carla11@adventure-works.com,LL Road Tire,1,21.49,1.7192

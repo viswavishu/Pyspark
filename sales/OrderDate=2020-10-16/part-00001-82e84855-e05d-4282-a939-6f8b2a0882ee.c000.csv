@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48184,1,Marc Blanco,marc19@adventure-works.com,"Road-550-W Yellow, 38",1,1000.4375,80.035

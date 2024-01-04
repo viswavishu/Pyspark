@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58189,3,Dawn Chen,dawn3@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58144,1,Isabella Russell,isabella30@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58190,1,Tabitha Jimenez,tabitha25@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58176,3,Natalie Taylor,natalie76@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58170,1,Angela Powell,angela11@adventure-works.com,HL Mountain Tire,1,35.0,2.8

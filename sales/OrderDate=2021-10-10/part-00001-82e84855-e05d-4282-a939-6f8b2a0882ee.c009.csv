@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57732,1,Florian Stiller,florian1@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO57732,3,Florian Stiller,florian1@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57743,2,Marcus White,marcus13@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO57727,1,Jacqueline Diaz,jacqueline22@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO57697,2,Tanya Carlson,tanya15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

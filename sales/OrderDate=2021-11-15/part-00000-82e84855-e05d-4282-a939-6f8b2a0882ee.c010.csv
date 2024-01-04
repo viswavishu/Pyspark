@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60150,1,Willie Ma,willie14@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO60137,2,Michael Thomas,michael43@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO60156,3,Miranda Gonzales,miranda17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60152,3,Michele Patel,michele58@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60146,1,Jessica Peterson,jessica17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61960,1,Olivia Moore,olivia7@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO61922,4,Xavier Evans,xavier40@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO61953,3,Julian Flores,julian14@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61922,3,Xavier Evans,xavier40@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61964,1,Miranda Patterson,miranda10@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992

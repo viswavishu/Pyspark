@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62645,3,Bradley Shen,bradley4@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62662,1,Connor Edwards,connor30@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62651,2,Megan Brooks,megan47@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO62649,1,Bryce Cook,bryce20@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO62648,4,Caleb Yang,caleb23@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

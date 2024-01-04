@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52320,2,Johnny Chavez,johnny16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52307,2,Jordan Alexander,jordan16@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52319,3,Zachary Anderson,zachary39@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO52279,1,Alison Chander,alison16@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO52326,1,Manuel Malhotra,manuel3@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54452,1,Barbara Wu,barbara16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54443,2,Charles Jackson,charles15@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO54444,1,Ashley Henderson,ashley31@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO54442,3,Marcus Cooper,marcus84@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54461,2,Eric Hall,eric61@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

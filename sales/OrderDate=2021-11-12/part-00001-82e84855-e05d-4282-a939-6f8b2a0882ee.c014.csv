@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59963,1,Edwin Chander,edwin38@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO59973,2,Meagan Arun,meagan7@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59904,2,Victor Carlson,victor18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59938,2,Mariah Ward,mariah37@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59924,1,Arturo Sun,arturo14@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192

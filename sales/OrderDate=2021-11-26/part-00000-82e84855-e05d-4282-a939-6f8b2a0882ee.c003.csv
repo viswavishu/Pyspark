@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60866,1,Paige Sanchez,paige42@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60839,2,Gerald Malhotra,gerald34@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO60848,1,Karla Chavez,karla16@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO60891,1,Whitney Martinez,whitney16@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO60875,1,Miranda Washington,miranda13@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992

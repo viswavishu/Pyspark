@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57929,2,Jay Ruiz,jay31@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57939,1,Mathew Ortega,mathew18@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO57932,2,Sheila Martin,sheila0@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57906,1,Sophia Carter,sophia9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57903,1,Alberto Ramos,alberto17@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

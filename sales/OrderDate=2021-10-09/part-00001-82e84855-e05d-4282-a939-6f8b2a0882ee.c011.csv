@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57648,3,Trevor Barnes,trevor2@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO57635,1,Jill Hernandez,jill11@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57644,3,Miranda Gonzales,miranda17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57665,1,Noah Adams,noah41@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO57681,4,Arianna Ramirez,arianna28@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

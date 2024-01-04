@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61514,1,Gary Hernandez,gary14@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO61494,2,Naomi Munoz,naomi7@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61484,2,Destiny Bailey,destiny32@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO61536,1,Destiny Jenkins,destiny55@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO61526,2,Morgan Rodriguez,morgan41@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55384,1,Leonard Nath,leonard20@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO55398,1,Gerald Gomez,gerald9@adventure-works.com,"Mountain-500 Black, 52",1,539.99,43.1992
+SO55420,1,K. Saravan,k0@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55447,1,Monique Ortega,monique18@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO55422,1,Adriana Arthur,adriana7@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

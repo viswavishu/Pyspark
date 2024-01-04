@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57908,2,Luis Parker,luis33@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO57913,1,Mariah Price,mariah4@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57917,4,Michelle Sanders,michelle5@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO57931,2,Kristine Suarez,kristine20@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57926,3,Mackenzie Scott,mackenzie34@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53801,2,Natalie Baker,natalie59@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO53813,2,Cindy Madan,cindy7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53828,1,Francisco Sara,francisco11@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO53802,1,Brian Kelly,brian14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53789,1,Jennifer Simmons,jennifer88@adventure-works.com,Touring Tire,1,28.99,2.3192

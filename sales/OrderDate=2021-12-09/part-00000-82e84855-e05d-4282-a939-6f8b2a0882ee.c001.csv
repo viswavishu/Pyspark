@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61771,1,Alex Gonzalez,alex37@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO61769,1,James Walker,james96@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO61774,3,Casey Vazquez,casey38@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61767,3,Alexis Jones,alexis3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61735,4,Roger Anand,roger50@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

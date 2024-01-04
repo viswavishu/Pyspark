@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59503,2,Cassandra Perez,cassandra22@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59523,2,Aaron McDonald,aaron53@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO59504,1,Ricky Moreno,ricky6@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO59489,4,Bonnie Xie,bonnie8@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59488,1,Reginald Romero,reginald16@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

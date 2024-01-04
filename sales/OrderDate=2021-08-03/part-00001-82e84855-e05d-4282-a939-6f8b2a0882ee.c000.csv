@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53729,2,Jacquelyn Castro,jacquelyn19@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53735,2,Amanda Washington,amanda34@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53765,1,Rob Verhoff,rob4@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO53749,1,Ashley Davis,ashley5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53742,1,Nathan Hernandez,nathan48@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

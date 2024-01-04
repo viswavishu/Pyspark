@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55061,1,Roy Saunders,roy10@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO55081,4,Denise Kapoor,denise4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55034,1,Blake Campbell,blake43@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55071,3,Gina Ruiz,gina2@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55057,2,Destiny Brooks,destiny45@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56557,1,Toni Srini,toni8@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56591,4,Jennifer Rogers,jennifer55@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO56595,2,Tammy Gonzalez,tammy19@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56575,1,Margaret Liu,margaret11@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56550,1,Armando Carlson,armando18@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

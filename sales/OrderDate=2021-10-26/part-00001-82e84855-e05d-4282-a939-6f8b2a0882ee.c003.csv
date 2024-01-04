@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58596,3,Bridget Xu,bridget6@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO58605,2,Logan Perez,logan38@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58639,2,Kelvin Yang,kelvin24@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO58616,2,Johnny Tang,johnny4@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58630,4,Ethan Jones,ethan33@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

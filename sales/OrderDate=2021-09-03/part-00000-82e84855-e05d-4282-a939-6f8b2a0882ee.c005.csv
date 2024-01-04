@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55529,1,Kayla Anderson,kayla10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55505,2,Kevin Coleman,kevin9@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO55550,4,Shish Shridhar,shish0@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55548,4,Jamie Huang,jamie8@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO55516,1,Cameron Coleman,cameron1@adventure-works.com,Road Tire Tube,1,3.99,0.3192

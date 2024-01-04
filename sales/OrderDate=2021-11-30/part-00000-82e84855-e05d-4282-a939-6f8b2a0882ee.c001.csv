@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61147,3,Xavier Thomas,xavier8@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61152,2,Rachel Wilson,rachel9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61125,2,Olivia Cook,olivia29@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61114,3,Raul Kumar,raul7@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61093,1,Ernest Lin,ernest7@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

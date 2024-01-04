@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55699,4,Antonio Ross,antonio4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55702,1,Shelby Howard,shelby12@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55703,1,Erin Reed,erin24@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55720,2,Hannah Moore,hannah8@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO55689,1,Lauren Miller,lauren24@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

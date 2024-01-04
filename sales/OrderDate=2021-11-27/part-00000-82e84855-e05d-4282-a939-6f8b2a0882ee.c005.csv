@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60904,3,Kaitlyn Cook,kaitlyn51@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60913,1,Faith Diaz,faith21@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60929,2,Christian Foster,christian3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60955,1,Darren Carlson,darren41@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO60943,1,Bryce Murphy,bryce14@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256

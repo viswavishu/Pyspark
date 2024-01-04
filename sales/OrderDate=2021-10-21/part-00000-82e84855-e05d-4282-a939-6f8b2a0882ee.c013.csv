@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58330,1,Madison Flores,madison48@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO58341,1,Ricky Gutierrez,ricky11@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO58316,2,Shelby Torres,shelby4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

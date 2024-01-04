@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57520,2,Morgan Gray,morgan63@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO57525,1,Samantha Powell,samantha34@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO57507,3,Drew Shen,drew2@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO57514,1,Jared Morris,jared20@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57491,1,Randall Carlson,randall20@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592

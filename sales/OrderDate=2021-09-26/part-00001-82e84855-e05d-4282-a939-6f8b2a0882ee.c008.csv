@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56794,1,Isabel Barnes,isabel3@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO56792,1,Theodore Romero,theodore9@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO56772,1,Jackson Wright,jackson51@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO56795,2,Brad She,brad1@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56759,1,Caleb Perez,caleb32@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

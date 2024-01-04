@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60129,1,Cesar Garcia,cesar14@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO60132,3,Alex Reed,alex24@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60152,4,Michele Patel,michele58@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60142,1,Ian Ward,ian69@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60139,3,Alexandria Price,alexandria0@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

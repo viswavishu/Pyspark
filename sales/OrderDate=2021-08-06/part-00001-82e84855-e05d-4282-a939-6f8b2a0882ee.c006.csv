@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53885,1,Kaylee Bailey,kaylee12@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO53912,3,Denise Fernandez,denise16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53900,3,Marshall Shen,marshall23@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO53899,3,Jessica Foster,jessica40@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53914,2,Cody Morgan,cody13@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

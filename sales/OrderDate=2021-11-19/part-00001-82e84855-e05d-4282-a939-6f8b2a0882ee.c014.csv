@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60407,1,Ram�n Cai,ram�n19@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO60450,1,Tammy Raji,tammy22@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO60397,1,Ethan Hayes,ethan19@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO60444,3,Karl Xie,karl3@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO60429,1,Gloria Alonso,gloria8@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

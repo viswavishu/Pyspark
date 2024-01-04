@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60008,2,Stephanie Morris,stephanie5@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60031,1,Kaitlyn Edwards,kaitlyn1@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO60003,1,Caroline Perry,caroline9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60017,2,Tyler Brown,tyler9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60019,1,Darren Blanco,darren38@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

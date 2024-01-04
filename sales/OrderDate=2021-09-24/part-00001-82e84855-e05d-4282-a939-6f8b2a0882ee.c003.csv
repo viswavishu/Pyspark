@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56657,1,Jordan Ross,jordan0@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56669,2,Javier Vazquez,javier9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56650,2,Franklin Xie,franklin21@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56666,2,Barbara Lin,barbara17@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56685,4,Sabrina Dominguez,sabrina8@adventure-works.com,"Classic Vest, L",1,63.5,5.08

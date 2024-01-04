@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52666,3,J�sus Diaz,j�sus3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52648,1,Nelson Martin,nelson0@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52616,4,Donald Chandra,donald4@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO52665,1,Pedro Sara,pedro10@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO52661,1,Brianna Foster,brianna61@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388

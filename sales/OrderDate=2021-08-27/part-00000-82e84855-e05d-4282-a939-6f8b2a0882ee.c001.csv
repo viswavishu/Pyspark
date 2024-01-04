@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55050,2,Barbara Cai,barbara30@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55075,2,Angel Reed,angel19@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO55085,4,Isaiah Ramirez,isaiah6@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55080,3,Arturo Huang,arturo6@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55081,1,Denise Kapoor,denise4@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

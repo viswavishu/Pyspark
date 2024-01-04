@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60219,2,Bethany Raje,bethany17@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60182,1,Abby Mehta,abby11@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60212,1,Eduardo Perry,eduardo52@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60185,3,Karen Lin,karen17@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO60207,3,Devin Ramirez,devin74@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

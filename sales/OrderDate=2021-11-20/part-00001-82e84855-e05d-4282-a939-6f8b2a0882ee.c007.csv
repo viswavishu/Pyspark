@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60491,2,Kyle Shan,kyle27@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60468,3,Dennis Chen,dennis3@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60499,2,Gerald Vazquez,gerald23@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60472,3,Evan Gray,evan6@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO60517,3,Kate Anand,kate19@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

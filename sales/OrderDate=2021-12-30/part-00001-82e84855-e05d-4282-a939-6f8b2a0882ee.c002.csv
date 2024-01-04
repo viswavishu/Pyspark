@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63016,3,Virginia Sara,virginia12@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO63036,3,Roger Harui,roger4@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO63027,2,Amanda Watson,amanda18@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO63017,1,Dana Dominguez,dana5@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO63060,1,Billy Blanco,billy16@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

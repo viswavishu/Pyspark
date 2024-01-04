@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56321,4,Rosa She,rosa23@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56314,5,Sara Cook,sara23@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO56314,4,Sara Cook,sara23@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56315,1,Megan Gray,megan43@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO56310,1,Edwin Shan,edwin33@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

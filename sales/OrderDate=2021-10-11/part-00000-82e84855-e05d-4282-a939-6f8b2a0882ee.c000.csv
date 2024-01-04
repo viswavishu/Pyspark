@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57778,1,William White,william8@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57784,1,Dalton Reed,dalton92@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO57761,1,Faith Price,faith1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57751,3,Jill Gomez,jill8@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57765,1,Aidan Russell,aidan21@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

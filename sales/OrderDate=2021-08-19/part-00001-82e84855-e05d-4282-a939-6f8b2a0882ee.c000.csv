@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54598,1,Francis Hernandez,francis1@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO54591,2,Jon Nara,jon13@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54642,3,Melissa Russell,melissa15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54627,1,Eduardo Hernandez,eduardo26@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54656,3,Erika Munoz,erika5@adventure-works.com,Touring Tire,1,28.99,2.3192

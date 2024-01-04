@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55726,1,Autumn Liu,autumn4@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO55698,1,Xavier Wood,xavier43@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55712,4,Lawrence Jimenez,lawrence3@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO55731,3,Justin Russell,justin17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

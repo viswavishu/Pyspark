@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61518,1,Angel Stewart,angel24@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61537,2,Jenny He,jenny20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61525,1,Jessie She,jessie29@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO61516,2,Isaac Evans,isaac23@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61490,5,Russell Sharma,russell12@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

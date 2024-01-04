@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59290,1,Jada Morgan,jada14@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59325,2,Albert Moreno,albert9@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59293,1,Marcus Brooks,marcus75@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO59325,1,Albert Moreno,albert9@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388
+SO59319,4,Destiny Long,destiny58@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

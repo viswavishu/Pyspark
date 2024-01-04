@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48197,1,Pedro Suri,pedro0@adventure-works.com,"Road-650 Red, 60",1,782.99,62.6392
+SO48196,1,Devin Green,devin28@adventure-works.com,"Road-650 Red, 44",1,782.99,62.6392
+SO48195,1,Arthur Fernandez,arthur18@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525
+SO48193,1,Renee Ruiz,renee2@adventure-works.com,"Mountain-200 Silver, 38",1,2071.4196,165.7136
+SO48191,1,Micah Lin,micah18@adventure-works.com,"Road-650 Red, 52",1,782.99,62.6392

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62130,2,Sydney Perez,sydney53@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62097,3,Bruce Gomez,bruce23@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO62099,1,Michele Dominguez,michele46@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO62148,4,Ryan Williams,ryan41@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62146,1,Karla Pal,karla13@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188

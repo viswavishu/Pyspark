@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52529,2,Stephanie Russell,stephanie47@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO52563,1,Robert Roberts,robert47@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52572,3,Bailey Parker,bailey28@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52570,4,Blake Brown,blake3@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52565,1,Christian Ross,christian18@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

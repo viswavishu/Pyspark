@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52774,4,Isabella Ward,isabella2@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52726,4,Elijah Li,elijah0@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52754,2,Toni Martinez,toni18@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO52727,2,Jacquelyn Romero,jacquelyn9@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52738,3,Anna Gray,anna19@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60178,1,Ramon Ye,ramon9@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO60161,3,Cody Gray,cody6@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60168,1,Todd Gao,todd14@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO60136,1,Stephanie Washington,stephanie40@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO60172,2,Connor Phillips,connor35@adventure-works.com,LL Road Tire,1,21.49,1.7192

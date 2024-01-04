@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57216,1,Joan Coleman,joan20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57192,1,Jasmine Lee,jasmine19@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57238,1,Fernando Miller,fernando6@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO57223,2,Jennifer Lewis,jennifer48@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO57235,1,Jasmine West,jasmine37@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388

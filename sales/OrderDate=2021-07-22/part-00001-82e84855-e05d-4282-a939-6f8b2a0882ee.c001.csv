@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52944,1,Alice Serventi,alice3@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO52945,1,Carla Van,carla7@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52954,2,Nicole Butler,nicole63@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52961,2,Luis Bryant,luis17@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52954,1,Nicole Butler,nicole63@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468

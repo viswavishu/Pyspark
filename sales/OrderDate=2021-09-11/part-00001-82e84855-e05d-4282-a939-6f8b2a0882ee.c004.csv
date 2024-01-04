@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55973,3,Leonard Nara,leonard18@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55970,1,Blake Collins,blake47@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO56014,2,Kelsey Nath,kelsey17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55989,1,John Walker,john57@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO56013,2,Holly Rana,holly10@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

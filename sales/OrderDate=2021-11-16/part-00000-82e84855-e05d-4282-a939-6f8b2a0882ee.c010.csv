@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60199,4,Jonathan Patterson,jonathan10@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO60233,4,Jason Mitchell,jason40@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60190,2,Marie Vance,marie8@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60181,2,Julian Washington,julian15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60193,2,Edwin Deng,edwin23@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

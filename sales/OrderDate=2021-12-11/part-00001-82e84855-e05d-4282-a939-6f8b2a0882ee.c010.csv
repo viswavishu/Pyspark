@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61902,2,Eduardo Turner,eduardo38@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61910,1,Andrea Collins,andrea26@adventure-works.com,"Mountain-500 Silver, 52",1,564.99,45.1992
+SO61875,4,Jada Peterson,jada2@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61892,3,Kellie Vazquez,kellie13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61890,3,Denise Rodriguez,denise20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

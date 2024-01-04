@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58049,2,Jill Ruiz,jill9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58039,1,Arturo Sun,arturo14@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58027,3,Colleen She,colleen24@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO58062,1,Kari Sanz,kari41@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO58051,2,Mason Gonzalez,mason29@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

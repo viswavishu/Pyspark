@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57297,2,Candice Zhang,candice8@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO57291,1,Olivia Kelly,olivia46@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388
+SO57245,2,Gary Gomez,gary11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57283,2,Valerie Zhu,valerie16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57288,2,Nathan Brown,nathan62@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

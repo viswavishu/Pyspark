@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62597,1,Dalton Perez,dalton37@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62610,2,Nicole Jones,nicole3@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62622,4,Joe Subram,joe16@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62617,1,Amber Hill,amber13@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO62601,2,Samuel Ross,samuel2@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

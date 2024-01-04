@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54031,1,Sarah Garcia,sarah18@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO54025,3,Kevin Campbell,kevin44@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO54029,1,Marcus Diaz,marcus71@adventure-works.com,"Touring-3000 Blue, 62",1,742.35,59.388
+SO54000,1,Mackenzie Phillips,mackenzie28@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO54022,2,Abigail Walker,abigail63@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

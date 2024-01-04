@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56391,2,Jonathan Miller,jonathan56@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56388,1,Manuel Garcia,manuel13@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO56403,1,Samantha Thomas,samantha12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56388,5,Manuel Garcia,manuel13@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO56414,2,Tyrone Ruiz,tyrone1@adventure-works.com,LL Road Tire,1,21.49,1.7192

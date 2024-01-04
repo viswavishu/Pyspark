@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62381,4,Gabrielle Mitchell,gabrielle54@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62388,4,Kevin Campbell,kevin44@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62387,2,Gloria Torres,gloria12@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62392,1,Arianna Sanchez,arianna40@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO62394,2,Barbara Lal,barbara40@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

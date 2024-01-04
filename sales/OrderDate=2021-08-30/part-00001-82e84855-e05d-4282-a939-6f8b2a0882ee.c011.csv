@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55226,3,Jodi Chavez,jodi15@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55190,1,Jos� Hernandez,jos�54@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55188,2,Jeffery He,jeffery18@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO55189,1,Angela James,angela34@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO55196,1,Joseph Smith,joseph6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

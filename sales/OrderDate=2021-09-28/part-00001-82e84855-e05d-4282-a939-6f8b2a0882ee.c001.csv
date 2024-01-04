@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56904,2,Ashley Harris,ashley14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56894,2,Garrett Sanchez,garrett22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56905,1,Mason Richardson,mason10@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO56870,1,Kaylee Rivera,kaylee13@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56873,1,Grace Cooper,grace34@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62369,2,Jenna Adams,jenna15@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO62356,2,Jesse Phillips,jesse30@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62358,1,Katherine Jenkins,katherine32@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62382,1,Clayton Rai,clayton35@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO62394,5,Barbara Lal,barbara40@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

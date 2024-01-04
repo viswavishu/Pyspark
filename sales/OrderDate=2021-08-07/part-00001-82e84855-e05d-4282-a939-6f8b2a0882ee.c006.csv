@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53970,6,Mindy Black,mindy25@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO53960,1,Tyler Clark,tyler19@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO53965,2,Steven Kelly,steven12@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53953,3,Melanie Patterson,melanie26@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53970,4,Mindy Black,mindy25@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

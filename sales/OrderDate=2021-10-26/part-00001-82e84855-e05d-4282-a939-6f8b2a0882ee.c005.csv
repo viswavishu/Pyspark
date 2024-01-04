@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58635,1,Jorge Zhou,jorge10@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO58638,1,Andres Nara,andres14@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO58625,4,Rafael Luo,rafael29@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58629,1,James Hill,james64@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO58585,3,Krystal Liang,krystal17@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

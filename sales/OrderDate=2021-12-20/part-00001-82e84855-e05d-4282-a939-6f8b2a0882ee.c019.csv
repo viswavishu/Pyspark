@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62402,2,Shannon Vazquez,shannon36@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62442,2,Cassidy Ross,cassidy4@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62396,1,Ana Perry,ana7@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO62424,1,Christopher Anderson,christopher10@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62436,3,Ann Fernandez,ann20@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

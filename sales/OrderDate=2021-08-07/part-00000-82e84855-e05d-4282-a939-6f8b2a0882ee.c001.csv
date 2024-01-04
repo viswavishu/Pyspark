@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53959,1,Thomas Rodriguez,thomas68@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53956,4,Roger Nath,roger46@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO53964,1,Rachel Garcia,rachel19@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO53955,2,Lee Moreno,lee4@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO53942,3,Destiny Stewart,destiny23@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55439,2,Chloe Rodriguez,chloe30@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO55443,2,Kelsey Chande,kelsey14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55417,4,Michelle Murphy,michelle15@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55391,1,Marie Arun,marie11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

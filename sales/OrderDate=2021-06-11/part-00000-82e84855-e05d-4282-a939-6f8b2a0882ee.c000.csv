@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51371,2,Dalton Mitchell,dalton36@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51371,3,Dalton Mitchell,dalton36@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51365,3,Maria Roberts,maria47@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO51367,1,Shawn Shen,shawn4@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO51362,4,Evan Reed,evan21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

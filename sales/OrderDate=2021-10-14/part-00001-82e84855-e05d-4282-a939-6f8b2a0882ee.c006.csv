@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57903,4,Alberto Ramos,alberto17@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO57910,6,Leonard Andersen,leonard14@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO57933,2,Theresa Suarez,theresa15@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57956,1,Joy Gomez,joy2@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO57936,1,Edwin Jai,edwin34@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792

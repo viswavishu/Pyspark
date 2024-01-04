@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57842,5,Julia Morris,julia48@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO57838,3,Haley Hughes,haley30@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO57827,1,Marcus Ramirez,marcus82@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

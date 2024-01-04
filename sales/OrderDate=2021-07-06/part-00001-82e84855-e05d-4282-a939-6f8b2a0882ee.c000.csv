@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52148,2,Nicole Cox,nicole37@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52124,2,Paul Singh,paul5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52133,1,Paige Ward,paige36@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52139,1,Stacey Ma,stacey17@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO52123,1,Cody James,cody0@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

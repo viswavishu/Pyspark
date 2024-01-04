@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62283,1,Latasha Romero,latasha9@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO62273,1,Kelli Anand,kelli45@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO62259,2,James Henderson,james20@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO62276,4,Jenny Sun,jenny15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62265,1,Lisa Hu,lisa23@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

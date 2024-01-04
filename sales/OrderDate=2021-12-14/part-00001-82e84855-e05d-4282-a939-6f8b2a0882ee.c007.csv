@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62085,1,Louis Luo,louis23@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO62036,1,Eduardo Patterson,eduardo55@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO62082,1,Jordan Jenkins,jordan3@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO62048,1,Maria Cook,maria5@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO62036,2,Eduardo Patterson,eduardo55@adventure-works.com,Road Tire Tube,1,3.99,0.3192

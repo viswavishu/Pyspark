@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52655,1,Dale Shen,dale2@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52638,3,Trevor Harrison,trevor22@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52638,2,Trevor Harrison,trevor22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52669,1,Beth Ortega,beth24@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO52634,1,Ryan Thompson,ryan38@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

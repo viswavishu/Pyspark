@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55375,2,Maria Cooper,maria11@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55365,2,Dale Tang,dale3@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55340,1,Ivan Gonzalez,ivan15@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO55345,2,Whitney Garcia,whitney14@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO55342,2,Henry Garcia,henry16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

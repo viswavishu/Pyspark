@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53294,1,Orlando Sanz,orlando20@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO53328,2,Robert Martin,robert73@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO53303,2,Ryan Jones,ryan42@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53344,2,Louis Ye,louis3@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53335,2,Arturo Gao,arturo16@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

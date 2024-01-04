@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58770,1,Alexandria Peterson,alexandria28@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO58757,1,Suzanne Xu,suzanne13@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO58744,1,Regina Madan,regina7@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO58771,3,Deanna Dominguez,deanna39@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58723,2,Christian Chen,christian12@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

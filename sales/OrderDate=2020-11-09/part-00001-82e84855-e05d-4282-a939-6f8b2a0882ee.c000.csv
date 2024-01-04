@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48495,1,Noah Yang,noah23@adventure-works.com,"Mountain-200 Black, 42",1,2049.0982,163.9279
+SO48499,1,Casey Vazquez,casey38@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279
+SO48502,1,Crystal Chen,crystal4@adventure-works.com,"Road-650 Black, 60",1,782.99,62.6392
+SO48501,1,Karl Raje,karl15@adventure-works.com,"Road-550-W Yellow, 40",1,1000.4375,80.035
+SO48493,1,Albert Moreno,albert9@adventure-works.com,"Mountain-200 Black, 46",1,2049.0982,163.9279

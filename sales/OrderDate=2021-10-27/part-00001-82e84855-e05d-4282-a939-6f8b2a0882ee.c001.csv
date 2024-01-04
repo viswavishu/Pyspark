@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58677,2,Stephanie Ramirez,stephanie22@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58691,3,Adrienne Gomez,adrienne1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58679,1,Seth Flores,seth60@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO58680,2,Morgan Peterson,morgan62@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO58701,3,Jerry She,jerry0@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

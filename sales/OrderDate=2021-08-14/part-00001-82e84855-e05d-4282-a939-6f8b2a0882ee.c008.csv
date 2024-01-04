@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54317,1,Patrick Sands,patrick4@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO54352,2,Todd Liang,todd16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54324,1,Karla Raje,karla15@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54368,1,Kyle Griffin,kyle16@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO54360,2,Roberto Rubio,roberto19@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

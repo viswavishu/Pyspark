@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61109,1,Claudia Chen,claudia1@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61159,1,Deborah Kumar,deborah12@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO61165,1,Abby Sai,abby4@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO61115,2,Jerome Navarro,jerome8@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO61114,2,Raul Kumar,raul7@adventure-works.com,HL Mountain Tire,1,35.0,2.8

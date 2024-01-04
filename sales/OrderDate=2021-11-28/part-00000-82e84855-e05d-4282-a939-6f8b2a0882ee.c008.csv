@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60996,3,Nuan Yuan,nuan4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60981,1,Austin Jenkins,austin2@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO61011,2,Anna Brooks,anna23@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60958,1,Carol Xu,carol24@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO61016,3,Justin Yang,justin24@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

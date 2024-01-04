@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59156,1,Kaitlyn Robinson,kaitlyn41@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO59148,2,Alejandro Guo,alejandro21@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59164,1,Tammy Madan,tammy8@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO59177,1,Omar Yang,omar5@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO59165,1,Savannah Perez,savannah34@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

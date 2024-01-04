@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57262,3,Ariana James,ariana7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57263,3,Jon Nath,jon15@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57244,1,Jasmine Powell,jasmine48@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57277,1,Jorge Zhang,jorge1@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO57266,1,Alexandria Murphy,alexandria37@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

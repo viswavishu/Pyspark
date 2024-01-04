@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62015,1,Gabriella Howard,gabriella9@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO62010,1,Rebekah Suarez,rebekah39@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO62004,2,Taylor Taylor,taylor56@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62019,1,Tamara She,tamara12@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO62004,1,Taylor Taylor,taylor56@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

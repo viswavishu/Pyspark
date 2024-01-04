@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60294,2,Roberto Ortega,roberto20@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60295,1,Sharon Rai,sharon23@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO60310,3,Robert King,robert61@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO60265,1,Savannah Green,savannah37@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60284,2,Albert Diaz,albert5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

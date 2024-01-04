@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54300,2,Nathan Jenkins,nathan2@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54261,3,Clayton Liu,clayton4@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54314,2,Leonard Tang,leonard5@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO54302,5,Edgar Mehta,edgar15@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO54250,4,Wendy Alvarez,wendy5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

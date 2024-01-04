@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51508,2,Patricia Rodriguez,patricia21@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51506,2,Casey Nath,casey20@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO51506,4,Casey Nath,casey20@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO51509,2,Chelsea Perez,chelsea23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51510,1,Ann Rodriguez,ann24@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256

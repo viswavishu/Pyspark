@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47604,1,Philip Rubio,philip20@adventure-works.com,"Road-250 Black, 48",1,2181.5625,174.525

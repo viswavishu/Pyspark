@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57583,2,Carly Goel,carly17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57583,3,Carly Goel,carly17@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57533,2,Martha Liang,martha16@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO57542,2,Carolyn Fernandez,carolyn15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57585,1,Jaclyn Xu,jaclyn28@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

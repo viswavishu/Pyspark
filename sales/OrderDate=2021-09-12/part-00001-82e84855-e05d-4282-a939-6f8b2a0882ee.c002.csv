@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56038,2,Dalton Ross,dalton49@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56060,1,Randall Suarez,randall21@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO56066,2,Curtis Hu,curtis17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56036,2,James Parker,james57@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56061,4,Mayra Raman,mayra12@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53291,2,Melinda Rubio,melinda15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53322,2,Gerald Ramos,gerald25@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO53310,1,James Turner,james54@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO53304,3,Dylan Diaz,dylan21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53297,3,Vincent Liu,vincent4@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

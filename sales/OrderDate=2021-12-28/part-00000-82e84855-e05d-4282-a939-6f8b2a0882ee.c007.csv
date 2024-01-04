@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62882,2,Heidi Martinez,heidi20@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO62917,1,Abby Fernandez,abby13@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62906,2,Ernest Chen,ernest2@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62931,1,Cara Hu,cara16@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO62887,4,Adrienne Serrano,adrienne13@adventure-works.com,"Classic Vest, M",1,63.5,5.08

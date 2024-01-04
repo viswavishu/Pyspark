@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59430,1,Miguel Powell,miguel55@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59446,3,Ian Barnes,ian43@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59476,2,Amber Wright,amber20@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59446,1,Ian Barnes,ian43@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59436,2,Caleb Hill,caleb43@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62368,1,Cedric Hu,cedric20@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62382,2,Clayton Rai,clayton35@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62381,1,Gabrielle Mitchell,gabrielle54@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO62380,4,Jeremy Young,jeremy8@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO62385,5,Elizabeth Martinez,elizabeth21@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

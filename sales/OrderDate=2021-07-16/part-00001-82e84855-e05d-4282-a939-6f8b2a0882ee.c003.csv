@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52659,3,Alvin Liu,alvin5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52654,1,Andrea Morgan,andrea22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52666,1,J�sus Diaz,j�sus3@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO52616,3,Donald Chandra,donald4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52650,1,Jason Carter,jason39@adventure-works.com,HL Mountain Tire,1,35.0,2.8

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56080,5,Arthur Hernandez,arthur27@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO56079,2,Sean James,sean15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56113,2,Jimmy Vazquez,jimmy18@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56074,3,Xavier Cox,xavier77@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO56078,2,Nathan Perez,nathan40@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

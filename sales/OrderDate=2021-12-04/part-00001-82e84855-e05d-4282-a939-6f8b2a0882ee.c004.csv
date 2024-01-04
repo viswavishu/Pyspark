@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61447,3,Zachary Hughes,zachary10@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO61475,2,Austin Davis,austin44@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61431,1,Ricardo She,ricardo0@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61468,1,Tina Kapoor,tina3@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388
+SO61428,1,Laura Wu,laura13@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468

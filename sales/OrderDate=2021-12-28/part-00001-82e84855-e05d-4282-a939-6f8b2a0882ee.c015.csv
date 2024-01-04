@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62886,1,Kurt Nara,kurt17@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO62945,5,Gabriel Griffin,gabriel18@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62927,1,Robyn Carlson,robyn14@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO62941,2,Lucas Mitchell,lucas3@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62909,3,Clayton Tang,clayton24@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

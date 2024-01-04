@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59649,4,Clarence Gao,clarence8@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59653,1,Kelsey Yuan,kelsey6@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59696,1,Destiny Butler,destiny62@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO59702,1,Omar Wang,omar1@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO59687,2,Bonnie Xu,bonnie10@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

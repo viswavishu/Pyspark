@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59187,3,Janice Bennett,janice4@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO59150,3,Mario Pal,mario10@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59199,1,Jeremy Price,jeremy21@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO59155,2,Richard James,richard79@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO59143,1,Willie Pal,willie31@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

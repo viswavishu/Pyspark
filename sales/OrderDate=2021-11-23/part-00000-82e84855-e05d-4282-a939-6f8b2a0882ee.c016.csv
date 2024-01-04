@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60639,2,Virginia Martinez,virginia20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60692,2,Olivia Rivera,olivia33@adventure-works.com,LL Road Tire,1,21.49,1.7192

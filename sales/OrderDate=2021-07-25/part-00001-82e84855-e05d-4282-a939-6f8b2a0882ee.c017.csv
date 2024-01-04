@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53093,3,Samantha Jenkins,samantha32@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO53125,4,Nathan Yang,nathan24@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO53124,3,Taylor Peterson,taylor17@adventure-works.com,Touring Tire,1,28.99,2.3192

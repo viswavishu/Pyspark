@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63104,1,Laura Ma,laura21@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO63091,3,Troy Patel,troy3@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO63099,2,Jeffery Zhu,jeffery14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO63078,1,Jose Russell,jose14@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO63074,2,Erick Rodriguez,erick19@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

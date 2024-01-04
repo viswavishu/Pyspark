@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60437,1,Lisa Yang,lisa8@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO60401,3,Melissa Stewart,melissa44@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60397,2,Ethan Hayes,ethan19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60396,3,Ashley Butler,ashley41@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60402,2,Jessica Moore,jessica55@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59408,1,Erika Serrano,erika14@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO59471,2,Thomas Jones,thomas63@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59423,2,Mason Bendixen,mason1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59451,1,Robert White,robert71@adventure-works.com,"Mountain-500 Black, 42",1,539.99,43.1992
+SO59459,2,Shawn Chander,shawn17@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

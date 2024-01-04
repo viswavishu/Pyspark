@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54125,2,Chloe Howard,chloe57@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54140,1,Kayla Lewis,kayla20@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992
+SO54134,2,Cristina Beck,cristina17@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO54114,2,Erin Richardson,erin14@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO54115,3,James Hall,james71@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61079,3,Erika Romero,erika6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61075,1,Kristin Raji,kristin18@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO61084,1,Alyssa Hall,alyssa23@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO61051,2,Angela Howard,angela37@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61065,1,Christy Wang,christy1@adventure-works.com,ML Road Tire,1,24.99,1.9992

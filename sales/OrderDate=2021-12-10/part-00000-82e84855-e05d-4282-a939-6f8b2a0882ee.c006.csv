@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61831,2,Emily Robinson,emily19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61811,2,Angel Adams,angel37@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61811,3,Angel Adams,angel37@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO61788,1,Holly Garcia,holly14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61783,1,Eddie Ramos,eddie17@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

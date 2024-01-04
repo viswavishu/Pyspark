@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57987,4,Neil Blanco,neil14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO58002,1,Emily Clark,emily20@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO58000,1,Elizabeth Lee,elizabeth26@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO57983,1,Christina Peterson,christina3@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO57999,1,Gabriel Baker,gabriel38@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592

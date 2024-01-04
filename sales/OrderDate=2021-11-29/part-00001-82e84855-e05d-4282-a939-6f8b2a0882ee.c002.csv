@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61059,2,Hannah Hall,hannah22@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61079,2,Erika Romero,erika6@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61078,3,Shannon Liu,shannon4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61050,1,Isabel Coleman,isabel6@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO61044,1,Chelsea Ray,chelsea12@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

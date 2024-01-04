@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62574,3,Gabriella Morgan,gabriella20@adventure-works.com,ML Road Tire,1,24.99,1.9992

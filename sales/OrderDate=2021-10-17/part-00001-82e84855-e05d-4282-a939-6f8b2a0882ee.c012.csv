@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58123,1,Hunter Li,hunter21@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO58097,1,Nicole Henderson,nicole53@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58094,1,Jose Jai,jose26@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58098,1,Marcus Watson,marcus74@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO58124,3,Savannah Young,savannah40@adventure-works.com,Road Tire Tube,1,3.99,0.3192

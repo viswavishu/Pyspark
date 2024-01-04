@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62507,1,Jessica Bailey,jessica9@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62530,1,Sarah Garcia,sarah18@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO62500,3,Cedric Zhu,cedric13@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO62503,1,Nancy Sai,nancy9@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO62527,1,Oscar Ross,oscar12@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792

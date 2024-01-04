@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57934,4,Haley Hernandez,haley53@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO57954,3,Oscar Hughes,oscar19@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57950,1,Kaitlyn Martinez,kaitlyn40@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO57926,1,Mackenzie Scott,mackenzie34@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57920,1,Alexandra Wagner,alexandra16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

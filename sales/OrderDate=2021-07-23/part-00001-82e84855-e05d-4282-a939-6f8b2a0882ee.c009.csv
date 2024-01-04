@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52964,4,Dalton Coleman,dalton51@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52965,2,Terrence Chander,terrence16@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

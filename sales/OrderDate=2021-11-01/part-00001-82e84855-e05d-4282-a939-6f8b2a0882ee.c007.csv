@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59168,2,Connor Allen,connor50@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO59161,2,Isabella Long,isabella20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59164,3,Tammy Madan,tammy8@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO59171,1,Nichole Anand,nichole22@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO59177,2,Omar Yang,omar5@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

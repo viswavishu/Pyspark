@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57998,4,Matthew Harris,matthew19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57986,1,Kathleen Gutierrez,kathleen13@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO58006,1,Ian Price,ian40@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO57988,2,Damien He,damien14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57976,3,Melanie Simmons,melanie2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62552,1,Jason Carter,jason39@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

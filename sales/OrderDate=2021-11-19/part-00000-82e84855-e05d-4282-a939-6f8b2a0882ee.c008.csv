@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60389,1,Melissa Bailey,melissa38@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60446,4,Drew Xu,drew5@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO60430,1,Jonathon Gutierrez,jonathon8@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO60433,2,Clayton Zhou,clayton7@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60422,3,Joseph Garcia,joseph23@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

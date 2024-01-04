@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52044,1,Elijah Jenkins,elijah10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52029,1,Rafael Zhou,rafael9@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52024,2,Erica Gao,erica15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52019,3,Cesar Prasad,cesar8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

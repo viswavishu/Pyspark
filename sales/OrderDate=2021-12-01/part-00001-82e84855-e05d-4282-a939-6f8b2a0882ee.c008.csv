@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61288,2,Christian Martin,christian50@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61276,1,Colleen Zhu,colleen14@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO61300,2,Olivia Ward,olivia38@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61276,2,Colleen Zhu,colleen14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61287,3,Richard James,richard79@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

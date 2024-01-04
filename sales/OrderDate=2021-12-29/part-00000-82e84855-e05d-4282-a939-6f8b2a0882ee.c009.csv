@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62977,1,Jillian Perez,jillian21@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62955,2,Jeremy Rogers,jeremy45@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO62970,1,Oscar Hayes,oscar8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62952,2,Derrick Jim�nez,derrick5@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62984,1,Miguel Sanchez,miguel72@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

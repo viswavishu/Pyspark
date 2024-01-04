@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47648,1,Emmanuel Garcia,emmanuel13@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136
+SO47647,1,Francisco Subram,francisco14@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468
+SO47642,1,Sydney Wilson,sydney71@adventure-works.com,"Road-550-W Yellow, 40",1,1000.4375,80.035
+SO47646,1,Morgan Williams,morgan25@adventure-works.com,"Mountain-200 Silver, 38",1,2071.4196,165.7136

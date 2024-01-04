@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51414,2,Dana Martin,dana16@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51422,3,Micheal Saunders,micheal16@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO51417,2,Megan Barnes,megan53@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51423,2,Edward Jackson,edward34@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO51408,4,Claudia Zhou,claudia7@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

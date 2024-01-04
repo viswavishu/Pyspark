@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60465,1,Rafael Nara,rafael40@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO60510,4,Michael Brown,michael36@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO60478,1,Jose Turner,jose42@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO60513,2,Jesse Edwards,jesse25@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO60484,1,Rebekah Alonso,rebekah28@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

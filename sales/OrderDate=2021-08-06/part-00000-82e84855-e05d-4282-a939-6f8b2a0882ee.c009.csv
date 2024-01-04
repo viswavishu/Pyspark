@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53893,1,Kaitlyn Clark,kaitlyn42@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53889,1,Joshua Walker,joshua25@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53915,1,Marc Torres,marc15@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO53895,2,Janet Turner,janet32@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53882,1,Eduardo Morris,eduardo85@adventure-works.com,Touring Tire,1,28.99,2.3192

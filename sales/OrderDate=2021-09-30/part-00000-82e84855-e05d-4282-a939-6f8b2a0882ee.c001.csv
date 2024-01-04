@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57001,1,Micheal Gutierrez,micheal6@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO56989,1,Brandy Martinez,brandy14@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57009,2,Stefanie Martinez,stefanie15@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56990,3,Clayton She,clayton20@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57010,3,Allen Garcia,allen13@adventure-works.com,Road Tire Tube,1,3.99,0.3192

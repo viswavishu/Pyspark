@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56928,4,Thomas Brown,thomas64@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO56954,1,Richard Campbell,richard35@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO56940,4,Melissa Hughes,melissa6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56942,3,Preston Sai,preston4@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO56937,2,Tamara Wang,tamara32@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

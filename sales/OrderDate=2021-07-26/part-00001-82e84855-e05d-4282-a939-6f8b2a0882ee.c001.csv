@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53138,1,Christian Sharma,christian16@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO53166,5,Devin Ward,devin70@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53135,2,Megan Stewart,megan27@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53144,2,Zachary Zhang,zachary22@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53170,1,Jason Jenkins,jason4@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51252,3,Kaylee Gray,kaylee4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51259,5,Maurice Shan,maurice11@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51247,3,Cindy Patel,cindy3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51249,2,Nicole Brown,nicole4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51261,2,Tyrone Hernandez,tyrone3@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192

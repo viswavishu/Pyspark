@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61663,2,Calvin Nara,calvin15@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO61681,2,Isabella Williams,isabella59@adventure-works.com,HL Road Tire,1,32.6,2.608

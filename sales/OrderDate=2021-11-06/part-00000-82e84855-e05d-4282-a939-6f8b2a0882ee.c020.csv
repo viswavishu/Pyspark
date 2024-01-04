@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59524,1,Amanda Hernandez,amanda61@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO59527,1,James Perez,james62@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59510,2,Ryan Thompson,ryan38@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO59555,1,Gina Dominguez,gina13@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO59489,3,Bonnie Xie,bonnie8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51925,2,Dalton Perez,dalton37@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51934,1,Hailey Foster,hailey36@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO51964,4,Mandy Wu,mandy8@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO51944,1,George Perez,george28@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO51957,2,Bryce Brooks,bryce2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

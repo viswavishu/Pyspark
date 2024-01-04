@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56841,1,Carolyn Mehta,carolyn13@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO56825,2,Lance Munoz,lance7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56822,2,Victor Rubio,victor21@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO56846,1,Abigail Long,abigail64@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO56823,1,Edward Jenkins,edward55@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54894,1,Tonya Chander,tonya15@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54926,3,Emma Rivera,emma34@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54896,2,Russell Shan,russell13@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54922,2,Chloe Anderson,chloe43@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO54921,2,Courtney Evans,courtney0@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

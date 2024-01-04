@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59452,1,Alexia Coleman,alexia6@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO59415,2,Ivan Sai,ivan4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59453,1,Thomas Wright,thomas56@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO59473,3,Xavier Cook,xavier79@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO59453,2,Thomas Wright,thomas56@adventure-works.com,HL Mountain Tire,1,35.0,2.8

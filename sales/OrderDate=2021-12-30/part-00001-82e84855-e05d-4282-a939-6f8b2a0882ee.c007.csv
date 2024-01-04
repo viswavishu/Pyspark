@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63049,3,Dawn Shen,dawn26@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO63039,3,Caleb Jenkins,caleb3@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO63006,1,Kathleen Moreno,kathleen8@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO63057,4,Tamara He,tamara8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO63019,3,Hailey Campbell,hailey49@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

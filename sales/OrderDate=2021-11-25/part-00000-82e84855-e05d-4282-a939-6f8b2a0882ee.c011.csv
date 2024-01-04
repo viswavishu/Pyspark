@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60807,2,Connor Evans,connor29@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60787,4,Lauren Rivera,lauren8@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO60767,3,Andres Nara,andres14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60812,1,Antonio Washington,antonio13@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO60801,1,Louis Wang,louis39@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

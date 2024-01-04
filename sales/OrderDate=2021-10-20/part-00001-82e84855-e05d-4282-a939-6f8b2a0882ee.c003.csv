@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58264,2,Lauren Price,lauren47@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO58281,2,Jessica Cook,jessica5@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58270,1,Sandra Wang,sandra7@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58273,1,Diana Jimenez,diana4@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58261,3,Caleb Lal,caleb25@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

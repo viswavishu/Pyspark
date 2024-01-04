@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61862,2,Ebony Ramos,ebony38@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61871,2,Isaac King,isaac41@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61920,4,Candace Raman,candace12@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO61917,1,Mackenzie Allen,mackenzie44@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO61915,3,Paige Simmons,paige14@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

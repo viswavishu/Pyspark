@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51220,1,Justin Foster,justin13@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO51222,2,Dana Schmidt,dana13@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO51214,1,Ruben Patel,ruben3@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO51223,2,Kendra Romero,kendra9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51218,1,Dawn Huang,dawn7@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992

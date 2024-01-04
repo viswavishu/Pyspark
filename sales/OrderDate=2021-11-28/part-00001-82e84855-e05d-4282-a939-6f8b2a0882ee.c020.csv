@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61032,3,Gerald Gill,gerald22@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60990,1,Diana Jimenez,diana4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

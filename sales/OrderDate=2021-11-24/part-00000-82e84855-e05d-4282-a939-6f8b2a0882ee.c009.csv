@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60727,1,Patrick Howard,patrick16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60705,2,Katelyn Kelly,katelyn1@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60754,2,Connor Campbell,connor36@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO60751,1,Stacy Moreno,stacy7@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388
+SO60738,1,Alejandro Chen,alejandro4@adventure-works.com,"Touring-3000 Yellow, 54",1,742.35,59.388

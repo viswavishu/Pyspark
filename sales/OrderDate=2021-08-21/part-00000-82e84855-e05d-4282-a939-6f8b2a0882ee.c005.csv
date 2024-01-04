@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54769,3,Lydia Sai,lydia5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54716,4,Jaclyn Yuan,jaclyn30@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO54737,1,Sean King,sean50@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54755,1,Samuel Wang,samuel23@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54753,2,Alison Deng,alison0@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

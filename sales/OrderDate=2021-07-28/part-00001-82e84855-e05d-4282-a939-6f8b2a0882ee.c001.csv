@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53255,2,Edward Taylor,edward31@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53274,3,Sydney Gray,sydney16@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53243,1,Samantha Jenkins,samantha32@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53266,2,Terrence Xu,terrence5@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53262,2,Cameron Simmons,cameron10@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

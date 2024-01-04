@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62016,4,Fernando Lee,fernando20@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61975,1,Warren Shan,warren41@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61991,1,Richard Russell,richard75@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62012,4,Brianna McDonald,brianna55@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO62020,3,Meagan Madan,meagan8@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

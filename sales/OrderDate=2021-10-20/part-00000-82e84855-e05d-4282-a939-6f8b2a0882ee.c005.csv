@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58279,3,Juan Peterson,juan15@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58261,1,Caleb Lal,caleb25@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58282,1,Adam Campbell,adam37@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO58259,2,Brianna Patterson,brianna56@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58277,2,Omar Yuan,omar26@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188

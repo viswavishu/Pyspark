@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60758,4,Jada Allen,jada27@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO60700,1,Dalton Morgan,dalton84@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO60711,2,Nathan White,nathan70@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60732,2,Yolanda Xu,yolanda4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60731,2,Marissa Wood,marissa0@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992

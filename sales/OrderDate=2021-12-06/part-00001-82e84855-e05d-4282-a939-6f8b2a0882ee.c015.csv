@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61555,3,Ryan Thompson,ryan38@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61557,1,Jesse Cox,jesse10@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61552,1,Jasmine Powell,jasmine48@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61553,1,Maria Jenkins,maria30@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO61570,1,Josue Blanco,josue2@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56106,1,Brooke Murphy,brooke13@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO56110,3,Mathew Ramos,mathew13@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO56080,2,Arthur Hernandez,arthur27@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56104,3,Gregory Xie,gregory7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56079,3,Sean James,sean15@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

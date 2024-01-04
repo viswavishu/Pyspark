@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53447,4,Tammy Prasad,tammy10@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53415,1,Kayla Wood,kayla26@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO53405,2,Gilbert Cai,gilbert19@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53438,3,Garrett Kelly,garrett6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53438,1,Garrett Kelly,garrett6@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

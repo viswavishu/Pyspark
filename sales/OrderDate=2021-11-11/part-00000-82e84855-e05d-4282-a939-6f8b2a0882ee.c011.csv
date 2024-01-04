@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59901,1,Tracy Rai,tracy16@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO59894,2,Destiny Morris,destiny25@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59842,1,Sharon Yuan,sharon13@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59892,2,Tristan Foster,tristan16@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59866,2,Hailey Ross,hailey25@adventure-works.com,Touring Tire,1,28.99,2.3192

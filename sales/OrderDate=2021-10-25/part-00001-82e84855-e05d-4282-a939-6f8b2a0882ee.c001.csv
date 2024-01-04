@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58576,3,Kevin Green,kevin52@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58572,4,Cesar Sara,cesar9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58561,2,Mackenzie Green,mackenzie35@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58583,3,Arthur Gonzalez,arthur19@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO58563,1,Tanya Sanz,tanya17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

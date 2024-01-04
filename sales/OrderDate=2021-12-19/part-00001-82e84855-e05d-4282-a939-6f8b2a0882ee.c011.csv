@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62365,2,Eugene Xu,eugene16@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

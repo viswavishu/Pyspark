@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53293,1,Kari Blanco,kari36@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53289,1,Pedro Moreno,pedro27@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO53289,2,Pedro Moreno,pedro27@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53318,5,Jay Rodriguez,jay26@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO53300,1,Catherine Ramirez,catherine6@adventure-works.com,ML Road Tire,1,24.99,1.9992

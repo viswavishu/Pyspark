@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51500,3,Diana Carlson,diana17@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51489,3,Maria Carter,maria53@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51478,4,Sheena Raji,sheena20@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51481,2,Willie Shan,willie29@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51499,2,Adrienne Hernandez,adrienne3@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

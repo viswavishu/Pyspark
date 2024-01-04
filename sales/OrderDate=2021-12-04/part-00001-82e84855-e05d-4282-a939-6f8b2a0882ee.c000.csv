@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61461,1,Mackenzie Phillips,mackenzie28@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61477,2,Taylor Moore,taylor55@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61438,2,Meagan Martinez,meagan17@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO61437,2,Renee Gutierrez,renee10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61452,2,Destiny Stewart,destiny23@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

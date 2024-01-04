@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58189,1,Dawn Chen,dawn3@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO58173,1,Audrey Gill,audrey15@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58144,2,Isabella Russell,isabella30@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58185,1,Natalie Griffin,natalie43@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO58160,1,Danny Blanco,danny16@adventure-works.com,ML Road Tire,1,24.99,1.9992

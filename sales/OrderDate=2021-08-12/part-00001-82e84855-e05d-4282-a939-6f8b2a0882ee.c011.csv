@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54188,1,Pamela Patel,pamela6@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO54192,1,Toni Randall,toni11@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO54235,3,Frank Ruiz,frank32@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO54246,2,Wayne Anand,wayne24@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO54240,1,Meagan Madan,meagan8@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

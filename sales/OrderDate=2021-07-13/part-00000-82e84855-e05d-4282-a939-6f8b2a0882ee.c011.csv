@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52492,2,Zachary Butler,zachary13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52495,1,Jamie Hernandez,jamie27@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO52516,1,Brandy Saunders,brandy6@adventure-works.com,"Mountain-500 Black, 42",1,539.99,43.1992
+SO52493,1,Jordan Hill,jordan67@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO52482,4,Juan Romero,juan1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

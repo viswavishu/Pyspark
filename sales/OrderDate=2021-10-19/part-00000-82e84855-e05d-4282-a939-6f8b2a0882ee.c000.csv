@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58230,3,Morgan Turner,morgan3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58227,3,David Garcia,david79@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO58232,1,Arturo Lin,arturo8@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58244,2,Gary Gutierrez,gary22@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58193,5,Katherine Gonzales,katherine43@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

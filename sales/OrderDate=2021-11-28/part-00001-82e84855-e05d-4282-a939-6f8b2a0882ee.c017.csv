@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61011,1,Anna Brooks,anna23@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO61017,1,Gabrielle Cooper,gabrielle9@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO61007,1,Shelby Sanchez,shelby24@adventure-works.com,"Mountain-500 Black, 52",1,539.99,43.1992
+SO60993,2,Damien Sun,damien10@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60991,1,Gilbert Luo,gilbert27@adventure-works.com,ML Road Tire,1,24.99,1.9992

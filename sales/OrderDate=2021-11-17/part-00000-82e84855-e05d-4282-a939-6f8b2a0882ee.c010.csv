@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60284,3,Albert Diaz,albert5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60307,2,Jasmine Garcia,jasmine14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60254,4,Ruben Sara,ruben11@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60283,1,Dylan Lal,dylan28@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60260,2,Roy Chandra,roy2@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63057,1,Tamara He,tamara8@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO63024,1,Rachel Bailey,rachel36@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO63046,1,Justin Jackson,justin31@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO63056,2,Alexandra Murphy,alexandra9@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO63020,1,Nathan Gonzales,nathan13@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

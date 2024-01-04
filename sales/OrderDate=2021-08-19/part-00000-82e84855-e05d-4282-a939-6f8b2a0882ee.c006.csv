@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54631,2,Trisha He,trisha13@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO54637,1,Autumn Xu,autumn11@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54592,1,Troy Chandra,troy2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54641,3,Carson Perry,carson6@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54602,1,Lawrence Alonso,lawrence6@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

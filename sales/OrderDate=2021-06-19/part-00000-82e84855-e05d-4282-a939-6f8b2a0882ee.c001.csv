@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51478,1,Sheena Raji,sheena20@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO51493,6,Eugene Huang,eugene10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51482,2,Erick Sai,erick5@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO51488,4,Kate Tang,kate3@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51489,1,Maria Carter,maria53@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51958,1,Sophia Allen,sophia21@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO51957,1,Bryce Brooks,bryce2@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO51942,2,Hailey Patterson,hailey30@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO51949,3,Pedro Raman,pedro12@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51957,3,Bryce Brooks,bryce2@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

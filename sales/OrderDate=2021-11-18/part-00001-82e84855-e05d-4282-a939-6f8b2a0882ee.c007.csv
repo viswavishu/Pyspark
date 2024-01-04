@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60343,1,Jordan Roberts,jordan32@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60365,1,Amanda Howard,amanda11@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO60362,3,Christina Ramirez,christina5@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60364,2,Destiny Cox,destiny36@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60326,1,Larry Rubio,larry23@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55664,1,Briana Ramos,briana14@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO55642,2,Carolyn Kapoor,carolyn2@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55668,2,Summer Madan,summer6@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55677,2,Hailey Butler,hailey34@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55633,1,Anna Ross,anna28@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

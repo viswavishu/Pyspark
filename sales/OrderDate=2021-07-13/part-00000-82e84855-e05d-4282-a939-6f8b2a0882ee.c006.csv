@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52500,1,Fernando Williams,fernando3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52489,1,Jessica Stewart,jessica0@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52486,2,Angela Alexander,angela21@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52496,3,Nicole Williams,nicole2@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO52513,2,Brian Ramirez,brian19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

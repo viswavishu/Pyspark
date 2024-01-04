@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56216,3,Shawna Andersen,shawna14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56218,4,Stacy Diaz,stacy4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56203,1,Jasmine James,jasmine36@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56219,3,Ruben Gomez,ruben24@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO56224,2,Seth Jenkins,seth54@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

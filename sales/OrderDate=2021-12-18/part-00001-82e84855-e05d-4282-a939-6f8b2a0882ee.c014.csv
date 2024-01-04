@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62288,1,Rebekah Diaz,rebekah23@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO62340,1,Isaiah Hernandez,isaiah44@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO62319,1,Sheena Xie,sheena3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62340,4,Isaiah Hernandez,isaiah44@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62291,4,Cindy Rodriguez,cindy18@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55615,1,Donna Raji,donna19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55639,1,Carlos Rogers,carlos22@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55665,1,Priscilla Shen,priscilla2@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO55644,1,Misty Shan,misty12@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55661,2,Max Moyer,max10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

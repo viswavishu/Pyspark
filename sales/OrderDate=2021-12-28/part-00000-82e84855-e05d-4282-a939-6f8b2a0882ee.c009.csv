@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62938,3,Katherine Mitchell,katherine59@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62903,1,Dylan Jenkins,dylan5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62916,3,Adrian Stewart,adrian21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62894,3,Xavier Bennett,xavier64@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO62910,1,Michele Suri,michele55@adventure-works.com,Road Tire Tube,1,3.99,0.3192

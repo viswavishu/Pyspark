@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57272,2,Rachel Blue,rachel50@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO57260,2,Ashley Henderson,ashley31@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57257,1,Bianca Zimmerman,bianca0@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO57274,2,Richard King,richard21@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO57281,1,Gina Martin,gina1@adventure-works.com,HL Mountain Tire,1,35.0,2.8

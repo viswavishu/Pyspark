@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59501,2,Kristi Vance,kristi20@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59493,1,Kristine Ramos,kristine18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59535,2,Gilbert McDonald,gilbert3@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59566,3,Jake Zhou,jake9@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO59489,5,Bonnie Xie,bonnie8@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

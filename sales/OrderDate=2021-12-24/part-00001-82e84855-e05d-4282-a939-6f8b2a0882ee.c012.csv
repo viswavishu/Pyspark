@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62643,1,Hailey Roberts,hailey46@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62663,2,Samuel Hernandez,samuel49@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62675,2,Roger Chander,roger43@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO62672,3,Barbara Deng,barbara32@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO62631,3,Sheila Alonso,sheila8@adventure-works.com,"Classic Vest, M",1,63.5,5.08

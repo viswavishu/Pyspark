@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62220,2,Clarence Wu,clarence2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62185,2,James Patterson,james26@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO62170,1,Russell Shen,russell6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62232,4,Karl Xu,karl5@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO62216,4,Meredith Arun,meredith5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

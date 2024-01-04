@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58688,4,Monique Moreno,monique2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58683,1,Austin Davis,austin44@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO58657,1,Nelson Vazquez,nelson13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

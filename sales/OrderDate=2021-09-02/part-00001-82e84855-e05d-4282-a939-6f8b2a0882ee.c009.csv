@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55490,1,Sydney James,sydney18@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO55502,1,Danielle Brooks,danielle4@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO55463,1,Samantha Russell,samantha42@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55490,3,Sydney James,sydney18@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO55454,2,Alejandro Lal,alejandro35@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

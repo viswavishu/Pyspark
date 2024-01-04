@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62466,1,Francis Moreno,francis4@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO62445,2,Aidan Perry,aidan8@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62450,4,Randy Zeng,randy24@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO62437,2,James Davis,james80@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62446,3,Brian Cox,brian22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

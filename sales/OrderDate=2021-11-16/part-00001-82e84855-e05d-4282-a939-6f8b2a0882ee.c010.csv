@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60202,2,Blake Wright,blake28@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60198,1,Mason Roberts,mason25@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60215,1,Jodi Xu,jodi5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60187,1,Jose Carlson,jose36@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60238,1,Jeffery Lu,jeffery12@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468

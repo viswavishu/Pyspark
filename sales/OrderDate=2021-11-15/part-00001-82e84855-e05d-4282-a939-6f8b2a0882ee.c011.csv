@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60155,2,Johnny Yuan,johnny7@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60172,3,Connor Phillips,connor35@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60171,1,Noah Williams,noah58@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO60129,2,Cesar Garcia,cesar14@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60170,1,Xavier Martin,xavier12@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256

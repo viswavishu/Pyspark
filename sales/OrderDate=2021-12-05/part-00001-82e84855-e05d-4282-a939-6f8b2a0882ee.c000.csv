@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61496,3,Arturo Sun,arturo14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61504,4,Katherine Powell,katherine34@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO61529,2,Anthony Rodriguez,anthony6@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO61511,2,Rachel James,rachel44@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61530,1,Ian Baker,ian31@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

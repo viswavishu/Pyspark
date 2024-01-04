@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57608,1,Dalton Gonzales,dalton63@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57629,1,Dalton Rogers,dalton91@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO57596,3,Jodi Lal,jodi8@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO57604,2,Gabriel Carter,gabriel41@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57600,1,April Jai,april9@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592

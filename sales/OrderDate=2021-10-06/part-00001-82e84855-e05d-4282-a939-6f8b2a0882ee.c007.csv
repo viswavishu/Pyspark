@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57516,1,Devin Cox,devin78@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO57530,1,Katrina Becker,katrina19@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO57502,1,Dalton Hill,dalton28@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57501,1,Nicholas Rodriguez,nicholas0@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO57509,2,Cassie Raji,cassie19@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

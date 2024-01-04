@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60542,4,Aimee Zhou,aimee7@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60545,2,Andrew Smith,andrew9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60532,2,Natalie Simmons,natalie37@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60525,2,Louis Yang,louis43@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60542,3,Aimee Zhou,aimee7@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

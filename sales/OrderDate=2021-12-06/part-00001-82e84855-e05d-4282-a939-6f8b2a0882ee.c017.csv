@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61592,2,Clarence Yuan,clarence21@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192

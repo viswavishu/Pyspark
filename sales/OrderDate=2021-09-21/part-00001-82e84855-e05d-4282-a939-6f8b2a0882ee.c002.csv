@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56526,4,Derek Goel,derek17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56486,2,J�sus Munoz,j�sus6@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56521,2,Kaylee Evans,kaylee20@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56486,1,J�sus Munoz,j�sus6@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO56531,1,Mariah Washington,mariah18@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388

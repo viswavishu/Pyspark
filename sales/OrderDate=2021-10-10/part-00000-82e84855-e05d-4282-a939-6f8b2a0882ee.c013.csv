@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57708,2,Julia Morgan,julia50@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57724,1,Marcus Sanders,marcus77@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57726,2,Elizabeth Patterson,elizabeth40@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO57729,1,Joshua Lee,joshua24@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO57722,2,Abigail Rivera,abigail12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

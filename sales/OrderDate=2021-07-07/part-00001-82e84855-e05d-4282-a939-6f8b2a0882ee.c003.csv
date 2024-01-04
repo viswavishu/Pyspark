@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52196,1,Richard Williams,richard42@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO52207,1,Michele Nath,michele19@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO52206,1,Cedric Zhou,cedric9@adventure-works.com,"Mountain-500 Black, 52",1,539.99,43.1992
+SO52183,2,Alexandria Simmons,alexandria15@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52156,3,Denise Sanchez,denise21@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

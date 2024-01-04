@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58350,1,Bobby Ray,bobby7@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO58351,1,Warren Cai,warren34@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO58386,4,Terrence Goel,terrence20@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO58364,2,Alyssa Watson,alyssa43@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58411,1,Lawrence Alvarez,lawrence2@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392

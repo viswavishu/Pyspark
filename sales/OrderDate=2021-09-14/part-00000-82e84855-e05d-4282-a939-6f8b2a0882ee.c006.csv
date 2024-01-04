@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56137,2,Ian Jenkins,ian47@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56127,1,Lori Dominguez,lori14@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO56129,4,Diane Munoz,diane12@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO56161,1,Faith Henderson,faith4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56126,3,Dwayne Navarro,dwayne9@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

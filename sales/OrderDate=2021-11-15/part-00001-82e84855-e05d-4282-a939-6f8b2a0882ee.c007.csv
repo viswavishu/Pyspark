@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60134,1,Natalie Cooper,natalie11@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO60144,1,Eduardo Hall,eduardo23@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO60162,1,Mircea Singer,mircea0@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO60157,1,Karen Wang,karen11@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60160,2,Benjamin Griffin,benjamin22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

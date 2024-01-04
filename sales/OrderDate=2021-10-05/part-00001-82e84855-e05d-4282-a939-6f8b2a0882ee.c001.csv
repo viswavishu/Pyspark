@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57478,2,Megan Clark,megan22@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57447,3,Xavier Butler,xavier54@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO57477,1,Jan Evans,jan10@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO57473,2,Krystal Hu,krystal20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57476,2,Warren Nara,warren6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

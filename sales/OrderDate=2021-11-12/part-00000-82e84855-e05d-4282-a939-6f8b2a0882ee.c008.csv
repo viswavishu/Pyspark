@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59970,1,Savannah Richardson,savannah8@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO59948,2,Raul Xu,raul5@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59935,1,Sydney Brown,sydney68@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59939,3,Oscar Foster,oscar2@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59928,2,Jennifer Simmons,jennifer88@adventure-works.com,Road Tire Tube,1,3.99,0.3192

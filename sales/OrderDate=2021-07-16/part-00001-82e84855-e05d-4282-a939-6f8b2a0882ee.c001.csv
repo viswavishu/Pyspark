@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52643,3,Dwayne Gomez,dwayne1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52617,2,Courtney Hernandez,courtney14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52638,1,Trevor Harrison,trevor22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52651,2,Amber Perez,amber12@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52648,2,Nelson Martin,nelson0@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

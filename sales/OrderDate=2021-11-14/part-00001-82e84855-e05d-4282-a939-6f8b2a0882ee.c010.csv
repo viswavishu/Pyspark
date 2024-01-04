@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60094,1,Russell Jai,russell14@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO60102,3,Christopher Thomas,christopher11@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO60064,2,Samuel Rodriguez,samuel64@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60078,1,Alvin Ma,alvin15@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60118,1,Jenna Hall,jenna21@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392

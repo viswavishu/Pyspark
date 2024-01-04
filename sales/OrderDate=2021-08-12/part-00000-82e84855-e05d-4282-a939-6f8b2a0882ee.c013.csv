@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54242,2,Audrey Ramos,audrey19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54218,1,Jennifer Simmons,jennifer88@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54185,1,Ronnie Yang,ronnie4@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO54235,1,Frank Ruiz,frank32@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO54193,1,Megan Long,megan59@adventure-works.com,ML Road Tire,1,24.99,1.9992

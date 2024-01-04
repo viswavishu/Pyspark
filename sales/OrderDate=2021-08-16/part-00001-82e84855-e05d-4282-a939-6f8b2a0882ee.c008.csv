@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54438,1,Logan Garcia,logan68@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO54440,1,Jerome Navarro,jerome8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54476,2,Sabrina Moreno,sabrina4@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54430,3,Brittney Wu,brittney5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54447,1,Jeremiah Lewis,jeremiah9@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

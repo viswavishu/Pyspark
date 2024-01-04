@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56701,1,Mallory Gomez,mallory9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56730,2,Joe Alvarez,joe45@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56719,1,Alyssa Stewart,alyssa24@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56734,1,Luke Edwards,luke33@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56692,2,Derrick Ruiz,derrick2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

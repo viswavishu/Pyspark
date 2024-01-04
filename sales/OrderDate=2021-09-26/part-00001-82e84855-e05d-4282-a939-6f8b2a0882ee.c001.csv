@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56784,1,Christy Zimmerman,christy0@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388
+SO56789,3,Monica Vance,monica4@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO56772,2,Jackson Wright,jackson51@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO56760,2,Kevin Yang,kevin30@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56776,1,Steven Gray,steven16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

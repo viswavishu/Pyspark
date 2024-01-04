@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53194,1,Susan Zhang,susan10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53210,1,Cindy Gray,cindy25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53205,3,Ryan Thompson,ryan38@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO53230,1,Isaiah Scott,isaiah39@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53221,1,Walter Vazquez,walter8@adventure-works.com,HL Road Tire,1,32.6,2.608

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60698,1,Gabriella Collins,gabriella23@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO60758,3,Jada Allen,jada27@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60701,1,Cara Zhang,cara0@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO60714,3,Amy Lu,amy18@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60753,4,Jade Morgan,jade10@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61810,1,James Moore,james73@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO61804,5,Richard Martin,richard55@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61825,1,Cindy Jordan,cindy2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61809,2,Angelica Diaz,angelica21@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61853,2,Alisha Lu,alisha11@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

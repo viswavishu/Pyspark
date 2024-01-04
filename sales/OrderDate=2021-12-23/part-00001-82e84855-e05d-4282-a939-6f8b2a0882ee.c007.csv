@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62625,2,Gerrit Straatsma,gerrit0@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62620,2,Jacob Rodriguez,jacob16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62591,2,Taylor Ward,taylor15@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62609,2,Anna Brown,anna65@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62627,1,Daisy Navarro,daisy6@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992

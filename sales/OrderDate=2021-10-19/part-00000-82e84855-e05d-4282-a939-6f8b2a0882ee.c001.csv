@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58208,1,Kaitlyn Thompson,kaitlyn38@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58247,4,Elijah Russell,elijah21@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58221,2,Mandy Li,mandy4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58247,1,Elijah Russell,elijah21@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO58214,3,Haley Long,haley28@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

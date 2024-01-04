@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54421,2,Margaret Lu,margaret17@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54385,1,Clarence Chander,clarence30@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54396,2,Abigail White,abigail53@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO54419,1,Ethan Butler,ethan10@adventure-works.com,"Touring-3000 Yellow, 54",1,742.35,59.388
+SO54397,2,Eduardo Hernandez,eduardo26@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

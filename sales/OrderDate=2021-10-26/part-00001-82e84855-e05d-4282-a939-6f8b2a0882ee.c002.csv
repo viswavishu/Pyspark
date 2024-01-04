@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58611,2,Chelsea Rodriguez,chelsea21@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO58588,1,Bruce Ashe,bruce27@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO58600,2,Luke Lal,luke18@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58601,1,Gabriel King,gabriel50@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58632,1,Krista Ruiz,krista2@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

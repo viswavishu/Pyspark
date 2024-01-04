@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52808,2,Summer Prasad,summer8@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52783,2,Luke Foster,luke5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52792,1,Chloe Brown,chloe38@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52826,1,Randy Wu,randy8@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO52796,1,Luis Alexander,luis18@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

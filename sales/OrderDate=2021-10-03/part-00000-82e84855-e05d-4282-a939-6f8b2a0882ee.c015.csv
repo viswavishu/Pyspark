@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57366,2,Amber Roberts,amber3@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57305,1,Marc Vazquez,marc18@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO57356,3,Alexandra Bailey,alexandra10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57328,1,Daniel Thompson,daniel5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57348,1,Samuel Martinez,samuel56@adventure-works.com,"Mountain-500 Silver, 40",1,564.99,45.1992

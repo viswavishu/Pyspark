@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51257,1,Caitlin Morgan,caitlin19@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO51255,1,Karl Andersen,karl14@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO51259,3,Maurice Shan,maurice11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

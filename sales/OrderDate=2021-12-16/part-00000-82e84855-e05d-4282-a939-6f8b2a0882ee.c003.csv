@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62210,6,Billy Ortega,billy22@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62208,6,Emily Flores,emily37@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62229,1,Leonard Xie,leonard4@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO62181,1,Alexandra Perez,alexandra54@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO62229,3,Leonard Xie,leonard4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

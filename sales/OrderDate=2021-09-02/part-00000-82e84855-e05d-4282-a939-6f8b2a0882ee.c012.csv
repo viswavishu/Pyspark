@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55484,1,Larry Hernandez,larry5@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55452,1,Tonya She,tonya0@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO55488,2,Jose Li,jose20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55717,2,Mariah Richardson,mariah34@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55719,3,Brandy Martinez,brandy14@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO55701,1,Olivia Clark,olivia18@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55719,4,Brandy Martinez,brandy14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55723,1,Thomas King,thomas55@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188

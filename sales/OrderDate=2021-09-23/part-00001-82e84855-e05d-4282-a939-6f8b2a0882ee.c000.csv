@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56638,4,Marc Hernandez,marc7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56625,1,Michael Robinson,michael50@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56643,4,Ashlee Deng,ashlee8@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO56637,1,Grace Harris,grace13@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO56604,1,Tracy Deng,tracy3@adventure-works.com,HL Mountain Tire,1,35.0,2.8

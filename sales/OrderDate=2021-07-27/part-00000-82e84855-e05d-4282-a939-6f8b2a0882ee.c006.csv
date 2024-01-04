@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53197,1,Dalton Bennett,dalton46@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53206,2,Nichole Rai,nichole17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53231,2,Gilbert Sun,gilbert10@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO53211,1,Jose Collins,jose40@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53227,1,Dylan Zhang,dylan23@adventure-works.com,Touring Tire,1,28.99,2.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49913,1,Tasha Shan,tasha11@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279
+SO49916,1,Crystal Lu,crystal12@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136
+SO49907,1,Vanessa Coleman,vanessa6@adventure-works.com,"Mountain-200 Black, 42",1,2049.0982,163.9279
+SO49906,1,Daniel Miller,daniel24@adventure-works.com,"Mountain-200 Black, 42",1,2049.0982,163.9279
+SO49908,1,Jesse Wright,jesse45@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279

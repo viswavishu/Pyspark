@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59653,3,Kelsey Yuan,kelsey6@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59661,2,Aidan Hughes,aidan12@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59667,1,Blake Hill,blake30@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59703,1,Kristina Suri,kristina0@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO59708,3,Alan Liang,alan20@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

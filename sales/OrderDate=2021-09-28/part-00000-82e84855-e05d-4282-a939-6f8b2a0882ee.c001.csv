@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56898,1,Frederick Sai,frederick5@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO56870,2,Kaylee Rivera,kaylee13@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56896,2,Vanessa Bryant,vanessa19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56905,4,Mason Richardson,mason10@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO56895,1,Haley Powell,haley27@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

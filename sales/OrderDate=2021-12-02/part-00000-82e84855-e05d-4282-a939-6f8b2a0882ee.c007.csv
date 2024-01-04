@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61329,3,Jordan Wright,jordan74@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61350,3,Robert Collins,robert45@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61329,1,Jordan Wright,jordan74@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO61313,2,Desiree Dominguez,desiree9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61329,2,Jordan Wright,jordan74@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

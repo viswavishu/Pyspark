@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55699,6,Antonio Ross,antonio4@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO55720,3,Hannah Moore,hannah8@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO55706,3,Gabrielle Green,gabrielle57@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO55711,3,Sydney Walker,sydney85@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55716,1,Hunter Clark,hunter51@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

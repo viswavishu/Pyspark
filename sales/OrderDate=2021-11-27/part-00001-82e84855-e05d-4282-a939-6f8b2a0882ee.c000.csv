@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60930,3,Isabella Ross,isabella15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60941,1,Savannah Bell,savannah13@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO60922,4,Katherine Bryant,katherine44@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO60918,3,Briana Gill,briana13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60928,4,Megan Hughes,megan60@adventure-works.com,"Classic Vest, S",1,63.5,5.08

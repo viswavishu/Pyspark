@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61898,1,Lauren Bailey,lauren7@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61916,1,James Kumar,james44@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO61918,3,Alison Nath,alison19@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61905,3,Latasha Alonso,latasha8@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61871,3,Isaac King,isaac41@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57946,2,Eric Baker,eric50@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57906,2,Sophia Carter,sophia9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57941,2,Joy Jimenez,joy6@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO57938,2,Olivia Coleman,olivia51@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO57926,2,Mackenzie Scott,mackenzie34@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

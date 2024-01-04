@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52062,2,Carson Gonzales,carson16@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO52039,2,Andrea Hernandez,andrea40@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52044,3,Elijah Jenkins,elijah10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52024,3,Erica Gao,erica15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52040,2,Jessica Thomas,jessica58@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

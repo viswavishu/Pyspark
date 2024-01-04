@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58171,3,Morgan Morris,morgan48@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58161,1,Latasha Suarez,latasha19@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO58132,1,Amy Huang,amy13@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO58138,2,Mallory Gill,mallory0@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO58186,2,Katherine Garcia,katherine87@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

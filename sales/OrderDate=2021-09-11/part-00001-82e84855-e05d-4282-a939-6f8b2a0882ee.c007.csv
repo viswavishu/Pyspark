@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55968,2,Karla She,karla0@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55985,2,Paige Kelly,paige25@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56011,1,Byron Ortega,byron16@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO55978,2,Mario Nath,mario17@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO55986,3,Nicholas Harris,nicholas14@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

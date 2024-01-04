@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61427,1,Joe Lopez,joe19@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO61402,3,Tabitha Gill,tabitha34@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO61412,4,Nathaniel Cooper,nathaniel9@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61379,1,Ethan Henderson,ethan1@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO61393,3,Trevor Gonzales,trevor17@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

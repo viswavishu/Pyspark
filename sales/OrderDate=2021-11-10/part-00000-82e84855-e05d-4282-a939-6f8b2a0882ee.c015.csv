@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59797,3,Xavier Richardson,xavier76@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59804,2,Carol Washington,carol19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59790,2,Dawn Hu,dawn22@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59766,2,Seth Garcia,seth16@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59817,2,Nelson Suarez,nelson18@adventure-works.com,LL Road Tire,1,21.49,1.7192

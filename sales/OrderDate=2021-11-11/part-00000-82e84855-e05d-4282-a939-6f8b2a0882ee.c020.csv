@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59870,2,Evan Richardson,evan10@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59863,1,Jon Li,jon22@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59853,1,Marcus Edwards,marcus47@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

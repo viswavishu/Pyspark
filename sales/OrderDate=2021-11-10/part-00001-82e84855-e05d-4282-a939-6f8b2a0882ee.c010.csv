@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59799,1,Haley Mitchell,haley50@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO59812,2,Deanna Weber,deanna7@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59790,1,Dawn Hu,dawn22@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59808,1,Abigail Patterson,abigail35@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO59785,3,Amber Hall,amber22@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

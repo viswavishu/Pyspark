@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62912,1,Barry Rodriguez,barry19@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO62943,3,Cedric Zhang,cedric0@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62895,1,Charles Ramirez,charles55@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62945,1,Gabriel Griffin,gabriel18@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO62897,1,Sara Phillips,sara31@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

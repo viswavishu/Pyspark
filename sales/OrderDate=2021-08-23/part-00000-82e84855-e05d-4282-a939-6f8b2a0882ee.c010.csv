@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54879,1,Francisco Ashe,francisco7@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO54835,1,Wyatt Garcia,wyatt17@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO54827,2,Francisco Ashe,francisco7@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54823,1,Darren Prasad,darren12@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54855,1,Corey Deng,corey1@adventure-works.com,LL Road Tire,1,21.49,1.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62317,1,Jenny McDonald,jenny17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62298,4,Tamara Li,tamara34@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO62322,3,Tara Sutton,tara4@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62316,2,Bailey Morris,bailey16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62344,1,Alfredo Munoz,alfredo8@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992

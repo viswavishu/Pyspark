@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63090,1,Grace Bell,grace30@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO63067,1,Shannon Munoz,shannon28@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO63090,3,Grace Bell,grace30@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO63112,1,Anna Barnes,anna27@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO63061,2,Steven Reed,steven30@adventure-works.com,Road Tire Tube,1,3.99,0.3192

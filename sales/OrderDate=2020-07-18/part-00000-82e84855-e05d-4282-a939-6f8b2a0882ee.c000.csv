@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47218,1,Ricky Romero,ricky9@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468
+SO47213,1,Laura Xu,laura18@adventure-works.com,"Road-250 Black, 52",1,2181.5625,174.525
+SO47215,1,Lauren Cook,lauren3@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468
+SO47214,1,Darren Romero,darren31@adventure-works.com,"Road-550-W Yellow, 48",1,1000.4375,80.035
+SO47217,1,Kelvin Xu,kelvin2@adventure-works.com,"Road-250 Black, 48",1,2181.5625,174.525

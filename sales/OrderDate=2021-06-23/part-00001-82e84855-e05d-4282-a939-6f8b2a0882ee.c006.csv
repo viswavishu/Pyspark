@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51548,2,Terrance Smith,terrance6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51543,2,Katie Lal,katie11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51563,4,Tabitha Subram,tabitha10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51555,6,Chloe Garcia,chloe27@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51569,1,Amanda Ramirez,amanda16@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992

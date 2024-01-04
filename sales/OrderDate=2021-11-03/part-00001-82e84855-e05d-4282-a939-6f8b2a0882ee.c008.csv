@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59299,1,Charles Jackson,charles15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59279,1,Brandy Kapoor,brandy19@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59338,2,Kevin Russell,kevin22@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59329,2,Kara Lal,kara9@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO59301,2,Cole Cooper,cole10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

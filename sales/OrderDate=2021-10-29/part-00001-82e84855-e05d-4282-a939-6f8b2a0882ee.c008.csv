@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58830,1,Angela Flores,angela15@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO58797,2,Luis Phillips,luis38@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58826,2,Robert Lopez,robert76@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58792,3,Hailey Carter,hailey51@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58805,2,Marie Patel,marie7@adventure-works.com,LL Road Tire,1,21.49,1.7192

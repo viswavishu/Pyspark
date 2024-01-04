@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49176,1,Shawn Sharma,shawn11@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136
+SO49177,1,Barbara Chande,barbara44@adventure-works.com,"Mountain-200 Silver, 42",1,2071.4196,165.7136
+SO49172,1,Brian Howard,brian23@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468

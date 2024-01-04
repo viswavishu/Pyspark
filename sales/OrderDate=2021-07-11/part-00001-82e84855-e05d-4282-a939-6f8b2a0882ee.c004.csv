@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52384,1,Angel Gonzalez,angel31@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO52378,1,Dylan Simmons,dylan14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52400,4,Mariah Coleman,mariah10@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52398,2,Ernest Zhu,ernest14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52366,2,Jose Carlson,jose36@adventure-works.com,LL Road Tire,1,21.49,1.7192

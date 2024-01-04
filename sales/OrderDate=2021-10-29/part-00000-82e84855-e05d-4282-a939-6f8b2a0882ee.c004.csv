@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58815,1,Patricia Saunders,patricia14@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO58835,2,Christy Chande,christy32@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO58789,2,Samuel Carter,samuel40@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO58781,3,Alexis Hayes,alexis46@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO58838,3,Harold Raman,harold9@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

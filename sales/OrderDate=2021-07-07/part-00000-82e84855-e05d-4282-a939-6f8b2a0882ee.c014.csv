@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52207,5,Michele Nath,michele19@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO52177,2,Marcus Allen,marcus26@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52205,3,Ernest Zhao,ernest10@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52193,2,Brandon Russell,brandon17@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52162,3,Mitchell Kumar,mitchell7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

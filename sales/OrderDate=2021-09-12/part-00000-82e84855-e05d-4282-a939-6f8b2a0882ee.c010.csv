@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56052,3,Jodi Pal,jodi12@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO56034,3,Alejandro Deng,alejandro27@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56043,2,Robert Scott,robert56@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

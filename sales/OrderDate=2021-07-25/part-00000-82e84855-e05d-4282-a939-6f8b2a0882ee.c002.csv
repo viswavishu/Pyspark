@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53129,1,Jonathan Powell,jonathan8@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO53120,2,Alyssa Morgan,alyssa30@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53095,1,Fernando Diaz,fernando63@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53111,3,Tara Yuan,tara7@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53075,1,Cindy Rana,cindy11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

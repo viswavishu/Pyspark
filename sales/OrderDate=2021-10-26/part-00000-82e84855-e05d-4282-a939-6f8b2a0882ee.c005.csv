@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58610,1,Jared Sanchez,jared19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58587,3,Anne Dominguez,anne14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58628,1,Franklin Tang,franklin22@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO58612,3,Tonya Shan,tonya10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58625,3,Rafael Luo,rafael29@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

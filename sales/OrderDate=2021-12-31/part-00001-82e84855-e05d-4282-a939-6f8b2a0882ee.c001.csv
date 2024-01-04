@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63110,3,Cole Ramirez,cole9@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO63109,1,Lydia Suri,lydia0@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO63108,2,Bryant Sanchez,bryant19@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO63077,1,Ian Ward,ian69@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO63117,4,Tony Natsuhara,tony21@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

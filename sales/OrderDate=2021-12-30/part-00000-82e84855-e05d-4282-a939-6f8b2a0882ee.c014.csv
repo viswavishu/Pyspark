@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63057,3,Tamara He,tamara8@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

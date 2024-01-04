@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56961,3,Victor Moreno,victor8@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57000,2,Francis Carlson,francis16@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56996,1,Hailey Stewart,hailey0@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO56989,2,Brandy Martinez,brandy14@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56994,1,Kelsey Raje,kelsey13@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

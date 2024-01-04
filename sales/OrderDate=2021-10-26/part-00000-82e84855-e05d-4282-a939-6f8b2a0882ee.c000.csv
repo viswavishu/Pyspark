@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58587,1,Anne Dominguez,anne14@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO58586,2,Beth Ortega,beth24@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58586,3,Beth Ortega,beth24@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58630,2,Ethan Jones,ethan33@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58620,2,Nina Xu,nina5@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

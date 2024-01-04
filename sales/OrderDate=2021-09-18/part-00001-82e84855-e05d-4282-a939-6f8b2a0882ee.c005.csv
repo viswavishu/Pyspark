@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56361,3,Angel Kelly,angel1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56373,1,Seth Gonzales,seth65@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO56358,1,Lucas Morris,lucas89@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56347,2,Kaylee Mitchell,kaylee33@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56353,1,Mariah Bailey,mariah40@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53385,3,Henry Garcia,henry16@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53371,1,Carlos Sanchez,carlos20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53385,1,Henry Garcia,henry16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53375,1,Isabella Richardson,isabella91@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53355,1,Roy Martin,roy22@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

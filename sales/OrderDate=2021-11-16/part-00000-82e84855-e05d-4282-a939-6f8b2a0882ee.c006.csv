@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60245,1,Miranda Griffin,miranda21@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO60218,1,Damien Chen,damien1@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60236,3,April She,april0@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO60214,1,Kelly Alexander,kelly23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60230,2,Mario Rai,mario16@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55820,1,Regina Kapoor,regina1@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO55864,1,Tabitha Fernandez,tabitha13@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO55844,4,Priscilla Kumar,priscilla7@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55822,1,Terrence Black,terrence21@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO55825,5,Gerald Madan,gerald37@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

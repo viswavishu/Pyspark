@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62630,2,Margaret Lin,margaret14@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO62681,1,Jordan Kumar,jordan24@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO62662,2,Connor Edwards,connor30@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62660,1,Blake Turner,blake41@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62689,3,Brad Andersen,brad13@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

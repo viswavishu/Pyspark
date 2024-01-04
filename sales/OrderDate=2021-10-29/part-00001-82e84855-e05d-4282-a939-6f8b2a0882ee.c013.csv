@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58787,6,Bryant Mehta,bryant13@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO58809,2,Eduardo Hughes,eduardo56@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58837,1,Emma Bradley,emma31@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58786,1,Bob Gonzalez,bob10@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO58827,1,Hailey Flores,hailey32@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992

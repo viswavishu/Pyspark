@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48439,1,Ethan Butler,ethan10@adventure-works.com,"Road-550-W Yellow, 48",1,1000.4375,80.035

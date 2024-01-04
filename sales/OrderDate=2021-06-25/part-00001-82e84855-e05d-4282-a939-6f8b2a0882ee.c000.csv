@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51586,3,Phillip Gonzalez,phillip20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51601,1,Sandra Zeng,sandra29@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO51587,1,Dana Gill,dana6@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO51594,3,Edgar Sara,edgar11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO51593,1,Jennifer Russell,jennifer93@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

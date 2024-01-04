@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61600,1,Tammy Rodriguez,tammy20@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61637,1,Nicole Blue,nicole51@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO61647,1,Destiny Jackson,destiny11@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO61653,1,Sergio Raman,sergio12@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO61640,3,Sean Rivera,sean24@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

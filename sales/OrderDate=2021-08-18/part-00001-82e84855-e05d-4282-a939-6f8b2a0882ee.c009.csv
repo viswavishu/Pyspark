@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54539,1,Jodi Nath,jodi19@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54579,3,Ricardo Xie,ricardo3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54549,1,Isabelle Ross,isabelle4@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54573,2,Sophia Wright,sophia18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54557,2,Logan King,logan45@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

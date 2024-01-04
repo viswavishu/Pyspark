@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48582,1,Richard Howard,richard93@adventure-works.com,"Road-650 Black, 52",1,782.99,62.6392

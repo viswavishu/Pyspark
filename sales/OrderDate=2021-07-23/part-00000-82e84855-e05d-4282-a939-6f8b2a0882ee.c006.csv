@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52972,2,Ruth Vance,ruth8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52979,2,Jennifer Turner,jennifer7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52993,2,Tabitha Martinez,tabitha14@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO52995,2,Edward Parker,edward19@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52964,2,Dalton Coleman,dalton51@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62347,1,Rodney Romero,rodney5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62377,1,Dylan Bryant,dylan17@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO62378,2,Johnathan Chapman,johnathan3@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO62386,1,Alex Sanchez,alex21@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO62355,2,Ashley Jackson,ashley12@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

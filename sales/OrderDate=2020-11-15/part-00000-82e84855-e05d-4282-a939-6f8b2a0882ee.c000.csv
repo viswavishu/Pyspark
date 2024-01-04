@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48567,1,Damien Lal,damien25@adventure-works.com,"Road-250 Black, 52",1,2181.5625,174.525
+SO48568,1,Jake Zheng,jake17@adventure-works.com,"Road-650 Red, 44",1,782.99,62.6392
+SO48577,1,Lacey Pal,lacey2@adventure-works.com,"Road-650 Black, 60",1,782.99,62.6392

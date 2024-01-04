@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54312,1,Maria Price,maria23@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO54252,1,Nicolas Kumar,nicolas5@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO54282,1,Jeremy Rivera,jeremy37@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54275,1,Jesse Morris,jesse19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54263,1,Mary Ramos,mary38@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

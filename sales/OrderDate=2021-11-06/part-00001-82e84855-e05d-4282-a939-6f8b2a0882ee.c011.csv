@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59529,1,Elizabeth Rodriguez,elizabeth24@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59530,1,Audrey Martin,audrey1@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO59548,3,Tony Chander,tony18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59573,4,Casey Jim�nez,casey29@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO59573,5,Casey Jim�nez,casey29@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

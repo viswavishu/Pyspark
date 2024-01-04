@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57696,2,Micah Huang,micah16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57704,2,Franklin Rai,franklin34@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57746,1,Bianca Lu,bianca9@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO57712,3,Adam Wang,adam21@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO57693,2,Cassie Nara,cassie15@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

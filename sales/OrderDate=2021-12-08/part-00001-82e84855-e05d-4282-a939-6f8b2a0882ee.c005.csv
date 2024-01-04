@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61682,1,Alex Watson,alex3@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO61688,1,Arianna Cox,arianna32@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61720,1,Austin Sharma,austin27@adventure-works.com,"Touring-3000 Yellow, 58",1,742.35,59.388
+SO61717,2,Alvin Yang,alvin6@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO61680,1,Brittney Cai,brittney20@adventure-works.com,HL Road Tire,1,32.6,2.608

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62581,1,Drew Pal,drew13@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62609,1,Anna Brown,anna65@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62623,3,Dakota Wood,dakota1@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62611,2,Harold Ray,harold8@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62619,4,Carmen Madan,carmen10@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

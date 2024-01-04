@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58885,1,Allison Cox,allison9@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO58892,2,Micah Cai,micah9@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO58841,1,Christy Rai,christy35@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58896,2,Riley Perry,riley5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58846,3,Kate Becker,kate17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

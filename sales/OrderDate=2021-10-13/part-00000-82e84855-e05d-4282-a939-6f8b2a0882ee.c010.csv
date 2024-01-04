@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57891,3,Lisa Cai,lisa24@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57868,1,John Brown,john42@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57844,2,Lindsey Andersen,lindsey14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57873,2,Jonathan Moore,jonathan58@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO57846,1,Margaret He,margaret25@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

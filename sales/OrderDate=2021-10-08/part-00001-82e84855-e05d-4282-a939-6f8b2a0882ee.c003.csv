@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57633,2,Gloria Ruiz,gloria4@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO57602,1,Destiny Moore,destiny8@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57604,3,Gabriel Carter,gabriel41@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO57609,1,Jared Peterson,jared8@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO57604,4,Gabriel Carter,gabriel41@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

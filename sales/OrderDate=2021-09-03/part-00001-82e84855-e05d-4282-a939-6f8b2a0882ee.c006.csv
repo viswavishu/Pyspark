@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55527,1,Faith Hughes,faith10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55540,2,Autumn Ma,autumn15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55551,1,Kelli Cai,kelli21@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO55507,4,Edgar Garcia,edgar16@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO55524,3,Miguel Moore,miguel7@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

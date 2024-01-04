@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53760,1,Gabriella Torres,gabriella11@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO53725,2,Derek Nara,derek15@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53739,3,Alexandra Mitchell,alexandra53@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO53721,1,Alexia Foster,alexia13@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO53741,1,Samuel Harris,samuel70@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

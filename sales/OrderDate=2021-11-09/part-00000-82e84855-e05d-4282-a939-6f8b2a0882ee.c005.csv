@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59735,1,Tracy Goel,tracy18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59728,3,Abigail Sanders,abigail24@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59759,1,Wyatt Mitchell,wyatt40@adventure-works.com,"Touring-3000 Blue, 62",1,742.35,59.388
+SO59710,2,Brianna Griffin,brianna66@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59713,2,Kaitlyn Brown,kaitlyn27@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

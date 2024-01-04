@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57992,2,Nathan Lal,nathan26@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58015,1,Dominic Srini,dominic8@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO58018,1,Bianca Wu,bianca6@adventure-works.com,"Touring-3000 Yellow, 54",1,742.35,59.388
+SO57960,3,Lacey Anand,lacey11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57992,1,Nathan Lal,nathan26@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

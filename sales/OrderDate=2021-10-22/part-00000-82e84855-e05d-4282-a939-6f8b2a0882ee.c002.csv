@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58399,5,Danny Ortega,danny23@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58358,1,Julia Washington,julia79@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO58396,1,Jackson Lopez,jackson42@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO58379,2,Carolyn Suri,carolyn1@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO58371,4,Krista Gomez,krista1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

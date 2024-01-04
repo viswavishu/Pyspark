@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47219,1,Francis Sanz,francis18@adventure-works.com,"Mountain-200 Black, 46",1,2049.0982,163.9279
+SO47216,1,Y. Yong,y0@adventure-works.com,"Mountain-200 Black, 42",1,2049.0982,163.9279
+SO47220,1,Lydia Sanchez,lydia18@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279

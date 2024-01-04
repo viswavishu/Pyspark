@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52649,2,Savannah Baker,savannah39@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52632,1,Fernando Lewis,fernando19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

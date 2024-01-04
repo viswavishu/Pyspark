@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44872,1,Dale Anand,dale20@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51674,1,Meredith Perez,meredith21@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO51676,1,Alyssa Sanchez,alyssa25@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO51681,1,Justin Alexander,justin16@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388
+SO51675,1,Morgan Brooks,morgan67@adventure-works.com,"Mountain-500 Black, 44",1,539.99,43.1992
+SO51675,3,Morgan Brooks,morgan67@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

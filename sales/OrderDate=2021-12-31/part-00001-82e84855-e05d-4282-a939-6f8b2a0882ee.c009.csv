@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63076,3,Douglas Rana,douglas15@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO63066,1,Teresa Navarro,teresa10@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO63114,1,Kristy Ruiz,kristy2@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO63094,4,Nicole Sandberg,nicole47@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO63082,3,Connor Scott,connor42@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

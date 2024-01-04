@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62781,3,Victoria Thomas,victoria12@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO62788,1,Tasha Luo,tasha6@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO62763,2,Carlos Scott,carlos43@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO62782,1,Elijah Washington,elijah17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62775,3,Samantha Jenkins,samantha32@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

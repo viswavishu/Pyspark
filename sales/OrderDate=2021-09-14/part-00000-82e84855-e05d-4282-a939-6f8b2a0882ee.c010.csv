@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56160,2,Lori Hernandez,lori6@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO56181,1,Gabrielle Simmons,gabrielle37@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO56164,2,Cara Cai,cara17@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56171,3,Felicia Dominguez,felicia12@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO56134,2,Ivan Rodriguez,ivan16@adventure-works.com,ML Road Tire,1,24.99,1.9992

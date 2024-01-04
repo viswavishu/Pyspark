@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53637,4,Madeline Evans,madeline0@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO53632,4,Samantha Jenkins,samantha32@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO53633,4,Jesse James,jesse8@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO53661,3,Melinda Serrano,melinda11@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53652,1,Kaitlyn Cooper,kaitlyn56@adventure-works.com,"Touring-3000 Blue, 62",1,742.35,59.388

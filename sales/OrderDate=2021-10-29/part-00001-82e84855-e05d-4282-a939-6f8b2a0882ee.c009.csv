@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58805,1,Marie Patel,marie7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58783,1,Amy Sun,amy19@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO58788,1,Thomas Walker,thomas82@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58796,1,Samuel Thompson,samuel54@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58820,2,Krystal Yang,krystal5@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

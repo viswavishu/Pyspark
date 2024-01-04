@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56012,1,Nathan Walker,nathan59@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO55969,4,Abby Subram,abby10@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55982,2,Mason Roberts,mason25@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56001,1,Lawrence Navarro,lawrence8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56009,1,Orlando Serrano,orlando16@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468

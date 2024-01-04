@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62132,1,Taylor Butler,taylor39@adventure-works.com,"Mountain-500 Silver, 52",1,564.99,45.1992
+SO62091,1,Gerald Sanz,gerald27@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO62155,1,Marie Ramos,marie41@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388

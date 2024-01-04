@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62012,3,Brianna McDonald,brianna55@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62011,2,Vanessa Washington,vanessa14@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO62003,3,Bailey Stewart,bailey23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61975,2,Warren Shan,warren41@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62013,3,Katherine Gonzalez,katherine65@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

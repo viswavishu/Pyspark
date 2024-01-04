@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59724,1,Allison Allen,allison45@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59725,1,Eric Perry,eric16@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59753,3,Brendan Raji,brendan19@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO59738,2,Keith Chande,keith18@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO59743,1,Logan Parker,logan27@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

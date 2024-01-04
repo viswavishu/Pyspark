@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54239,3,Krystal Sun,krystal13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54201,2,Kelli He,kelli19@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO54246,5,Wayne Anand,wayne24@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO54194,4,Warren Yang,warren22@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54220,1,Nathaniel Brooks,nathaniel2@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

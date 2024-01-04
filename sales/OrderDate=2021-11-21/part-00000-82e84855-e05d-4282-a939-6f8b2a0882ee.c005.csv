@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60550,1,Anna Simmons,anna40@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO60524,1,Clifford Prasad,clifford9@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO60519,3,Chase Gray,chase6@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60556,3,Angela Reed,angela46@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60559,3,Samuel Lopez,samuel51@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52209,2,Calvin Kumar,calvin8@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52164,3,Evan James,evan8@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52210,2,Erica Chen,erica2@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52159,5,Veronica Srini,veronica9@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52178,3,Andrea Morgan,andrea22@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

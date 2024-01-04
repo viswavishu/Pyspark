@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59695,2,Gilbert Raje,gilbert35@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59707,1,Autumn Wang,autumn1@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO59708,2,Alan Liang,alan20@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO59700,3,Arianna Hayes,arianna20@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59677,3,Clayton Gao,clayton14@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

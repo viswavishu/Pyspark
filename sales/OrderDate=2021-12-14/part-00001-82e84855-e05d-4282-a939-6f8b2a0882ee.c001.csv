@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62082,2,Jordan Jenkins,jordan3@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62081,1,Jessica Watson,jessica21@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO62073,2,Kristen Guo,kristen15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62087,3,Troy Sara,troy11@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62081,3,Jessica Watson,jessica21@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59526,1,Bernard Thames,bernard1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59546,2,Abigail Barnes,abigail28@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59546,3,Abigail Barnes,abigail28@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59529,2,Elizabeth Rodriguez,elizabeth24@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

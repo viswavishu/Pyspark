@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59331,3,Shaun Luo,shaun7@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59316,1,Karl Yuan,karl7@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59294,1,Abhijit Thakur,abhijit0@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59288,2,Mathew Dominguez,mathew8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59337,2,Logan Alexander,logan20@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192

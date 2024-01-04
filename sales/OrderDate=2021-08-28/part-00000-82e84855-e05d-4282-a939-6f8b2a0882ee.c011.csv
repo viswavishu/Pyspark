@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55135,2,Paige Cox,paige34@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55113,1,Katherine Lopez,katherine69@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55132,2,Harold Sai,harold3@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO55101,2,Arturo Sun,arturo14@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO55134,2,Angela Henderson,angela7@adventure-works.com,HL Mountain Tire,1,35.0,2.8

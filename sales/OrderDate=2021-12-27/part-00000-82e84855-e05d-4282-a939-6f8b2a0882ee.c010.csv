@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62872,3,Isaiah Cox,isaiah9@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO62855,3,Thomas White,thomas74@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62861,1,Veronica Kapoor,veronica1@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO62870,3,Lindsey Chander,lindsey17@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62839,2,Dalton Turner,dalton39@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192

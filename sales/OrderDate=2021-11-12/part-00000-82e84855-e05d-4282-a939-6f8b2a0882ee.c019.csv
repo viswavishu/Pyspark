@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59918,1,Jonathon Alonso,jonathon5@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59905,1,Philip Diaz,philip2@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO59943,1,Franklin Becker,franklin37@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59940,1,David White,david71@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59943,3,Franklin Becker,franklin37@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

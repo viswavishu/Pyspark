@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58214,2,Haley Long,haley28@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58212,2,Daniel Brown,daniel22@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58195,2,Allen Garcia,allen13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58234,2,Isaiah Campbell,isaiah30@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO58215,2,Kellie Rubio,kellie18@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

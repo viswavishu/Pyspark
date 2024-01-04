@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51972,1,Raul Chande,raul12@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52010,3,Jose Patterson,jose33@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52017,4,Randall Dominguez,randall14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51973,1,Frank Gutierrez,frank18@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52003,3,Hailey Campbell,hailey49@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57644,2,Miranda Gonzales,miranda17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57660,3,Mary Mitchell,mary24@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO57643,1,Hailey Patterson,hailey30@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57681,1,Arianna Ramirez,arianna28@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO57685,3,Kimberly Morgan,kimberly23@adventure-works.com,Touring Tire,1,28.99,2.3192

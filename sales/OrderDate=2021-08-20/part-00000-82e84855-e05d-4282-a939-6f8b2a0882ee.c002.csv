@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54707,2,Juan James,juan9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54685,2,Chloe Bradley,chloe69@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO54697,1,Julia Bryant,julia84@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54673,3,Eugene Ye,eugene13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54689,1,Edward Davis,edward27@adventure-works.com,LL Road Tire,1,21.49,1.7192

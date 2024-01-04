@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59519,3,Brad Yuan,brad6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59542,1,Rebecca Young,rebecca25@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO59531,1,Cesar McDonald,cesar3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59545,1,Robert Diaz,robert33@adventure-works.com,"Mountain-500 Silver, 52",1,564.99,45.1992
+SO59565,1,Casey Andersen,casey14@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256

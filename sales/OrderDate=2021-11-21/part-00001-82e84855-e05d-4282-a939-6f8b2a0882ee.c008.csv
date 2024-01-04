@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60561,2,Aaron Wright,aaron52@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60558,3,Cindy Prasad,cindy9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60550,2,Anna Simmons,anna40@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60544,1,Amber Allen,amber23@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60535,1,Allison Rivera,allison16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

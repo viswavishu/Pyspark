@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54425,1,Riley Cox,riley30@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO54422,4,Mitchell Pal,mitchell11@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO54389,2,Alexandra Jenkins,alexandra30@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54424,1,Madison Powell,madison44@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO54392,3,Mandy Cai,mandy22@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

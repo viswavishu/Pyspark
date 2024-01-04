@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60225,2,Brian Cooper,brian20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60235,3,Nicolas Nara,nicolas15@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60192,1,Theodore Rowe,theodore22@adventure-works.com,"Mountain-500 Black, 42",1,539.99,43.1992
+SO60226,1,Jonathan Henderson,jonathan4@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60248,2,Kristina Raman,kristina12@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

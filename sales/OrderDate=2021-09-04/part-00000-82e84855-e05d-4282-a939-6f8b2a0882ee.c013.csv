@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55584,2,Jessie Dominguez,jessie32@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55605,1,Todd Yang,todd6@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO55580,1,Isabelle Ross,isabelle4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55598,1,Maria Morgan,maria6@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO55597,2,Victoria Butler,victoria61@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

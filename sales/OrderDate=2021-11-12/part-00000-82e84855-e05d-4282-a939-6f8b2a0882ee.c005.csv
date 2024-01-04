@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59974,2,Monica Madan,monica8@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59949,3,Mindy Yuan,mindy11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59973,4,Meagan Arun,meagan7@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59934,2,Blake Hill,blake30@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59940,2,David White,david71@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

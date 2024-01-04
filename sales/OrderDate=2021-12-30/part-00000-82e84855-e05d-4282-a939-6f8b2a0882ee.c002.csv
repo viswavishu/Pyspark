@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63005,3,Nancy Fernandez,nancy19@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO63054,1,Hailey Morgan,hailey5@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO63059,2,Corey Lal,corey8@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO63036,2,Roger Harui,roger4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO63011,1,Vincent Cai,vincent21@adventure-works.com,Road Tire Tube,1,3.99,0.3192

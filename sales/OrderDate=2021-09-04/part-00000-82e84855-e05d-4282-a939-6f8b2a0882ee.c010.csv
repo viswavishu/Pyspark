@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55561,1,Andres Shen,andres1@adventure-works.com,"Mountain-500 Black, 44",1,539.99,43.1992
+SO55609,2,Jill Patterson,jill33@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55601,3,Heidi Vance,heidi6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55606,3,Deanna Mehta,deanna17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55606,2,Deanna Mehta,deanna17@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

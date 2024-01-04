@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52735,3,Miguel Simmons,miguel61@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52763,1,Raul Luo,raul6@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO52747,4,Carrie Ruiz,carrie1@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO52736,3,Brian Peterson,brian17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52777,1,Tara Simpson,tara2@adventure-works.com,"Touring-3000 Yellow, 58",1,742.35,59.388

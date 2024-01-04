@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54386,2,Juan Rogers,juan29@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54388,1,Fernando Barnes,fernando47@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO54381,2,Tyrone Diaz,tyrone2@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54387,2,Lori Ramos,lori18@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54426,1,Eric Kumar,eric36@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392

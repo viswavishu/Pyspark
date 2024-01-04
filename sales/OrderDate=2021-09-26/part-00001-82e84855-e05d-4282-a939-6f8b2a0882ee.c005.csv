@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56789,1,Monica Vance,monica4@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO56769,1,Jennifer Gonzalez,jennifer20@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO56762,1,Alvin Nath,alvin39@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56788,4,Ann Martinez,ann22@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO56778,4,Mayra Sanchez,mayra19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

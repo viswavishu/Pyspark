@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52021,1,Ronnie Zeng,ronnie19@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO52043,2,Jada Reed,jada12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52040,1,Jessica Thomas,jessica58@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO52039,3,Andrea Hernandez,andrea40@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52043,1,Jada Reed,jada12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56210,2,Seth Rivera,seth81@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

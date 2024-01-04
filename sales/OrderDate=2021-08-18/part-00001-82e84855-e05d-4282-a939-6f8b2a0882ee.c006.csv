@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54577,1,Ricky Gomez,ricky1@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO54578,4,Jacquelyn Diaz,jacquelyn3@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO54563,1,Molly Sanchez,molly19@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO54546,3,Anthony Lee,anthony8@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54582,1,Gabriella Sanders,gabriella1@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

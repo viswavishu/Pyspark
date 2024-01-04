@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54287,1,Tina Arthur,tina8@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54307,4,Meredith Gutierrez,meredith34@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54303,3,Randall Gomez,randall2@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54304,5,Candace Raman,candace12@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO54280,1,Sierra Hernandez,sierra16@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

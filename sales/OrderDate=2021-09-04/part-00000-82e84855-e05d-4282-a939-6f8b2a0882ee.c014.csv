@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55601,1,Heidi Vance,heidi6@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO55588,2,April Shan,april8@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55575,2,Dustin Chande,dustin15@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO55569,1,Aidan Alexander,aidan20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55563,2,Jennifer Cooper,jennifer63@adventure-works.com,"Classic Vest, S",1,63.5,5.08

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52051,1,Lydia Lopez,lydia15@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52054,3,Danielle Cox,danielle12@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52023,1,Sarah Simmons,sarah40@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52057,1,Andrew Wedge,andrew22@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO52041,1,Donald Prasad,donald11@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992

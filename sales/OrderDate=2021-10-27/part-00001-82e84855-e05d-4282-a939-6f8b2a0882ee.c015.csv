@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58693,2,Seth Taylor,seth9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO58651,1,Kevin Lal,kevin32@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58649,2,Bryce Richardson,bryce8@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58658,2,Andrea Phillips,andrea31@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58671,1,Neil Diaz,neil4@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

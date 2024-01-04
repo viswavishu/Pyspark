@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60415,1,Wyatt Wright,wyatt30@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO60405,2,Dominique Patel,dominique3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60417,3,Stephanie Barnes,stephanie30@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60417,1,Stephanie Barnes,stephanie30@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992
+SO60410,1,Mario Black,mario19@adventure-works.com,LL Road Tire,1,21.49,1.7192

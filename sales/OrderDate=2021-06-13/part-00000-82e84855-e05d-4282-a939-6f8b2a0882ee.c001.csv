@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51392,1,Jay Torres,jay41@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO51400,2,Blake Johnson,blake0@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51404,3,Caitlin Bell,caitlin11@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51406,3,Dale Luo,dale5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51402,2,Jonathan Mitchell,jonathan40@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

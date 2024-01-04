@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56874,1,James Davis,james80@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56887,1,Jermaine Perez,jermaine20@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56851,1,Tammy Arthur,tammy7@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56880,3,Brent Wu,brent6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56897,2,Cassandra Sara,cassandra11@adventure-works.com,LL Road Tire,1,21.49,1.7192

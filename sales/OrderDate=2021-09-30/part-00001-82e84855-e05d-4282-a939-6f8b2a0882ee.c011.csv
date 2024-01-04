@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57007,2,Tamara Cai,tamara10@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO56996,2,Hailey Stewart,hailey0@adventure-works.com,HL Road Tire,1,32.6,2.608

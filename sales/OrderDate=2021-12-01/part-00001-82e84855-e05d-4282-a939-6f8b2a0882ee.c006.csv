@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61304,1,Sergio Sai,sergio6@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO61272,1,Christy Liang,christy15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61304,3,Sergio Sai,sergio6@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61285,2,Aaron Griffin,aaron20@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61300,3,Olivia Ward,olivia38@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

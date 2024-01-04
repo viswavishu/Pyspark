@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60493,3,Amanda Cooper,amanda8@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60456,1,Marc Schmidt,marc24@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO60453,3,Clinton Blanco,clinton12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60468,4,Dennis Chen,dennis3@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60461,2,Jenny Li,jenny5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

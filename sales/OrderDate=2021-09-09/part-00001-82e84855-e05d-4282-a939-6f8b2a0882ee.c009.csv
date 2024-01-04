@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55905,2,Juan Ruiz,juan0@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55881,3,Elijah Allen,elijah49@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO55875,1,Darrell Yuan,darrell15@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55913,1,Mariah Bryant,mariah23@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO55884,2,Katherine Hall,katherine96@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

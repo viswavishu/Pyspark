@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62531,1,Brittany Foster,brittany14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62538,3,Marshall Sutton,marshall25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62550,2,Luke Diaz,luke11@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO62534,1,Gerald Chandra,gerald31@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62558,1,Karla Sharma,karla10@adventure-works.com,Touring Tire,1,28.99,2.3192

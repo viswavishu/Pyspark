@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62385,4,Elizabeth Martinez,elizabeth21@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62356,1,Jesse Phillips,jesse30@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO62347,2,Rodney Romero,rodney5@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO62358,4,Katherine Jenkins,katherine32@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62360,1,Hunter Wilson,hunter66@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

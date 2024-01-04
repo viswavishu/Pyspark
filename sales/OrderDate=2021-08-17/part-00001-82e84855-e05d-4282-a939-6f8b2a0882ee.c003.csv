@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54477,2,Deb Torres,deb4@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO54487,3,Eric Lal,eric37@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54508,1,Lauren Walker,lauren41@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54480,1,Ashlee Andersen,ashlee19@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54521,2,Aidan Barnes,aidan3@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

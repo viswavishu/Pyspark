@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61165,2,Abby Sai,abby4@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61099,1,Kaitlin Patel,kaitlin3@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61129,1,Richard Alexander,richard74@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO61100,1,Joy Romero,joy10@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO61096,3,Kristen Ye,kristen8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

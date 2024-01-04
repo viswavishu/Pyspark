@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54659,1,Marvin Moreno,marvin7@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO54702,1,Alexandra Garcia,alexandra80@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO54668,1,Colin She,colin23@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54710,1,Lauren Patterson,lauren58@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO54665,3,Joel Rodriguez,joel18@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

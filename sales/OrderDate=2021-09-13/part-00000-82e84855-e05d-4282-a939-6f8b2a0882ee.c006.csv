@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56117,1,Dylan Li,dylan26@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO56074,2,Xavier Cox,xavier77@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56109,3,Keith Shan,keith13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56103,1,Regina Martinez,regina16@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO56079,1,Sean James,sean15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

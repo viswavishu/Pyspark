@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52120,1,Darryl Gao,darryl14@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO52140,3,Karen She,karen32@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52129,2,Brianna Taylor,brianna7@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52148,1,Nicole Cox,nicole37@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO52114,1,Janet Moreno,janet11@adventure-works.com,ML Road Tire,1,24.99,1.9992

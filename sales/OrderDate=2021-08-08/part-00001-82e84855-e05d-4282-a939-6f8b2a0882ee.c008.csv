@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54012,2,Edwin Nath,edwin41@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53993,2,Gina Martin,gina1@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54022,3,Abigail Walker,abigail63@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO53982,2,Cory Weber,cory2@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53997,2,Jan Hall,jan18@adventure-works.com,Road Tire Tube,1,3.99,0.3192

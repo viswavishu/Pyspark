@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59270,4,Gina Hernandez,gina4@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO59232,1,Ian Kelly,ian67@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59271,1,Jaime Gutierrez,jaime12@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO59240,3,Mackenzie Nelson,mackenzie31@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

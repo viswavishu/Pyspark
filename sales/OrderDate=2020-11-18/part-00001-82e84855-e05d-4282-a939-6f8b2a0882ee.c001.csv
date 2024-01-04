@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48611,1,Brendan Goldstein,brendan17@adventure-works.com,"Mountain-200 Black, 42",1,2049.0982,163.9279
+SO48603,1,Joe Belson,joe18@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136
+SO48605,1,Colin Goel,colin42@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279

@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48220,1,Candace Madan,candace7@adventure-works.com,"Road-250 Black, 48",1,2181.5625,174.525
+SO48221,1,Victoria Gray,victoria42@adventure-works.com,"Road-650 Black, 62",1,782.99,62.6392

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57866,2,Andrea Gonzalez,andrea33@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57859,1,Latoya Anand,latoya21@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57855,1,Christy Hu,christy18@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO57855,3,Christy Hu,christy18@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO57865,1,Hailey Patterson,hailey30@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

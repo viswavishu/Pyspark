@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59722,1,Benjamin Martin,benjamin51@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59756,1,Nicholas Moore,nicholas9@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO59713,1,Kaitlyn Brown,kaitlyn27@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59711,1,Kathryn Xu,kathryn4@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59758,3,Rebekah Chandra,rebekah2@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

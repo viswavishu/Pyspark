@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52650,3,Jason Carter,jason39@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52632,4,Fernando Lewis,fernando19@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO52662,1,Lucas Lewis,lucas35@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO52621,1,Troy Garcia,troy16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52666,2,J�sus Diaz,j�sus3@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

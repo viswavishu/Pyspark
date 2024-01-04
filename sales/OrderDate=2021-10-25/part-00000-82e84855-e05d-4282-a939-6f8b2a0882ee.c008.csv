@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58558,1,Isabella Bailey,isabella90@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58583,1,Arthur Gonzalez,arthur19@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO58557,2,Ryan Thompson,ryan38@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58550,2,Henry Garcia,henry16@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO58576,1,Kevin Green,kevin52@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256

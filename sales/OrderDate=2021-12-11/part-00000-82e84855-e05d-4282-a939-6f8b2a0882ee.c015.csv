@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61881,2,James Green,james63@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO61914,1,Karen Zeng,karen31@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO61888,1,Andrea Campbell,andrea32@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61883,1,Anthony Harris,anthony21@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61868,1,Richard Powell,richard63@adventure-works.com,HL Road Tire,1,32.6,2.608

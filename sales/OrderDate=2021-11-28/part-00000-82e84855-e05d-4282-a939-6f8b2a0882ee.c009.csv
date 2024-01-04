@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60980,3,Amanda Rogers,amanda2@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO61004,1,Warren Zheng,warren32@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60970,3,Megan Richardson,megan38@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60992,1,Melody Torres,melody12@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO61004,2,Warren Zheng,warren32@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58268,1,Bryce Stewart,bryce21@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58282,2,Adam Campbell,adam37@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58283,3,Xavier Adams,xavier29@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

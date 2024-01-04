@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52066,4,Luis Washington,luis12@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO52100,3,Donald Subram,donald14@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO52090,2,Katelyn Murphy,katelyn14@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO52087,2,Morgan Stewart,morgan46@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52097,3,Dawn Chande,dawn39@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

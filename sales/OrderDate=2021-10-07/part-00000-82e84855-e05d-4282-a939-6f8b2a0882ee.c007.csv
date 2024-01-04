@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57584,2,Troy Subram,troy14@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57583,4,Carly Goel,carly17@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57579,2,Melanie Bradley,melanie16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57575,1,Emily Russell,emily45@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO57557,1,William Taylor,william24@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

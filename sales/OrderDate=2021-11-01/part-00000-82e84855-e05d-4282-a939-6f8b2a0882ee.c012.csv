@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59175,2,Krystal Zhu,krystal14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59181,2,Evan Kelly,evan2@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59150,4,Mario Pal,mario10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59189,1,Kaitlyn Evans,kaitlyn0@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO59144,3,Maurice Andersen,maurice14@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

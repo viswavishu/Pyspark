@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62854,3,Juan Watson,juan10@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO62858,1,Ana Washington,ana12@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO62861,3,Veronica Kapoor,veronica1@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62840,2,Mayra Garcia,mayra15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62862,1,Lindsay Sharma,lindsay9@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392

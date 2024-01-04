@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52834,3,Darren Saunders,darren13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52791,1,Daniel Davis,daniel23@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52840,2,Max Moreno,max7@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52822,3,Caleb Hayes,caleb19@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52824,2,Lucas King,lucas42@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

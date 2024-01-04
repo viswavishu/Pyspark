@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59348,2,Vincent He,vincent18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59351,2,Jasmine Powell,jasmine48@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59363,2,Susan Zhu,susan24@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59343,1,Summer Lopez,summer14@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59377,4,Chloe Russell,chloe85@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

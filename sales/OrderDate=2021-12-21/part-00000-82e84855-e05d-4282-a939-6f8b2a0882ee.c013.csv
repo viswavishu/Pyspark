@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62517,2,Rafael Nath,rafael42@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62509,2,Isabelle Russell,isabelle18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62528,2,Gregory Tang,gregory8@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO62510,1,Aaron Scott,aaron45@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO62529,2,Darren Vazquez,darren37@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

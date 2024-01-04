@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60597,1,Clayton Yang,clayton5@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60614,1,Deanna Martin,deanna25@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO60629,1,Cheryl Diaz,cheryl4@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO60562,4,Ronald Kapoor,ronald3@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60584,1,Katelyn Watson,katelyn7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

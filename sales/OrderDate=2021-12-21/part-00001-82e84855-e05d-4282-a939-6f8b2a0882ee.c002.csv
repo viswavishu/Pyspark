@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62490,2,Kayla Harrison,kayla14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62471,3,Joy Carlson,joy17@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62527,2,Oscar Ross,oscar12@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO62496,2,J�sus Dominguez,j�sus11@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62484,1,Isabella Russell,isabella30@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192

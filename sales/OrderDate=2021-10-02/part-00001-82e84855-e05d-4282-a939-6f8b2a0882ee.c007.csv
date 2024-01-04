@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57276,1,Franklin Chander,franklin33@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57251,1,Bonnie Nath,bonnie24@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO57243,1,Nichole Nara,nichole16@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO57263,1,Jon Nath,jon15@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO57286,2,Xavier Turner,xavier37@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

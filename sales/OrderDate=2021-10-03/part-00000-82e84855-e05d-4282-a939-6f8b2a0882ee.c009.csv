@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57360,1,Alvin Pal,alvin34@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO57312,2,Lisa Wu,lisa10@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO57336,1,Isaiah Morgan,isaiah12@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57319,1,Jason Griffin,jason18@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57336,2,Isaiah Morgan,isaiah12@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

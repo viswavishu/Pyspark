@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61308,3,Mindy Xu,mindy9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61273,1,Savannah Turner,savannah27@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61277,1,Joshua Miller,joshua8@adventure-works.com,"Mountain-500 Silver, 48",1,564.99,45.1992
+SO61288,1,Christian Martin,christian50@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61297,1,Leah Zheng,leah15@adventure-works.com,Touring Tire,1,28.99,2.3192

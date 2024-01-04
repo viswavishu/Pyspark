@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51669,2,Kyle Holt,kyle6@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388
+SO51664,2,Benjamin Ross,benjamin5@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO51660,4,Ruth Suri,ruth6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51664,3,Benjamin Ross,benjamin5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51668,2,Abby Sai,abby4@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

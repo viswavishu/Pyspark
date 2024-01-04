@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46753,1,Tiffany Yang,tiffany5@adventure-works.com,"Road-250 Black, 58",1,2181.5625,174.525
+SO46751,1,Jason Foster,jason13@adventure-works.com,"Road-250 Black, 52",1,2181.5625,174.525
+SO46756,1,Zachary Patterson,zachary9@adventure-works.com,"Road-550-W Yellow, 40",1,1000.4375,80.035

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53284,4,Wyatt Jones,wyatt3@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO53260,1,Lucas Gray,lucas78@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53244,2,Cory Rana,cory9@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO53275,1,Edward Long,edward58@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53266,1,Terrence Xu,terrence5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

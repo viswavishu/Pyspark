@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56891,1,Lucas Scott,lucas46@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56872,1,Hunter Hall,hunter58@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56903,2,Beth Jim�nez,beth8@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56894,3,Garrett Sanchez,garrett22@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56885,2,Candice Zhou,candice14@adventure-works.com,Touring Tire,1,28.99,2.3192

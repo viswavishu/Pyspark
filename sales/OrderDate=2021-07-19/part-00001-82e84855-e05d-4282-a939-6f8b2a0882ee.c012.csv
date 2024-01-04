@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52794,2,Taylor Wood,taylor27@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO52780,3,Ethan Jai,ethan28@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52839,1,Joe Blanco,joe39@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO52831,3,Austin Alexander,austin15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52797,2,Isabel Coleman,isabel6@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

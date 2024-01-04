@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59526,2,Bernard Thames,bernard1@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO59517,1,Marcus Davis,marcus5@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59578,1,Ruben Mu�oz,ruben30@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO59532,2,Tamara Guo,tamara7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59488,2,Reginald Romero,reginald16@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

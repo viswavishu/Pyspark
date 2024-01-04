@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60976,2,Dalton Moore,dalton7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61005,3,Edward Coleman,edward54@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO60993,3,Damien Sun,damien10@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO60997,1,Darryl Zhang,darryl0@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60994,1,Terry Champion,terry17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

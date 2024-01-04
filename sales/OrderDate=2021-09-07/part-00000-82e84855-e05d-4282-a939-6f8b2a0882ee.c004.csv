@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55797,1,Jacquelyn Jimenez,jacquelyn5@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO55803,1,Tina Madan,tina9@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO55781,1,Hector Romero,hector7@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55804,1,Brandon Yang,brandon24@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO55805,1,Trinity Cox,trinity10@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992

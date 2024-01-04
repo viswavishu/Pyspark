@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59756,3,Nicholas Moore,nicholas9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59741,3,Kristen Wang,kristen1@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59756,2,Nicholas Moore,nicholas9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59729,2,Miguel Miller,miguel5@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO59742,1,Colleen Gao,colleen15@adventure-works.com,Touring Tire,1,28.99,2.3192

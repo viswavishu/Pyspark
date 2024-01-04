@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60494,1,Mariah Sanders,mariah3@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO60517,4,Kate Anand,kate19@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60481,2,Ryan Jenkins,ryan9@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60466,4,Colin Ye,colin10@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60517,1,Kate Anand,kate19@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61016,1,Justin Yang,justin24@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO61014,2,Katherine Wood,katherine27@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60981,2,Austin Jenkins,austin2@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO60980,1,Amanda Rogers,amanda2@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60980,2,Amanda Rogers,amanda2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

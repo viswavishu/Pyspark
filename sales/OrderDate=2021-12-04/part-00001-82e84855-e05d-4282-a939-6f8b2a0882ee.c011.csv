@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61432,1,Carla Arthur,carla9@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61453,2,Anna Garcia,anna54@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61478,1,Emma Butler,emma60@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO61448,1,Jose Williams,jose58@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61435,1,Alicia She,alicia0@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56568,3,Miguel Henderson,miguel51@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56598,2,Marvin Gomez,marvin1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56541,1,Jack Li,jack27@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO56583,2,Taylor Rogers,taylor3@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56553,2,Arturo Shan,arturo35@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53795,1,Alisha Oliver,alisha36@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO53826,3,Maria Blue,maria7@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52867,1,Chelsea Sai,chelsea6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52877,2,Kristi Arthur,kristi23@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52878,1,Jordyn Wood,jordyn1@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO52841,4,Trisha Li,trisha21@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52868,4,Alvin Shen,alvin24@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

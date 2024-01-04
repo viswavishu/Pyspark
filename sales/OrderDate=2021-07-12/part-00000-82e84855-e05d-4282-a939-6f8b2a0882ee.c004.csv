@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52450,1,Arianna Hughes,arianna9@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO52410,3,Shannon Liu,shannon4@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52435,1,Hailey Watson,hailey18@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52458,3,Jaime Gutierrez,jaime12@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52453,2,Nina Yuan,nina7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

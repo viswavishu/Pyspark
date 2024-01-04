@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60269,1,Tristan Russell,tristan20@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO60249,2,Madison Hughes,madison47@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60293,1,Tracy Pal,tracy11@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO60287,3,Wyatt Robinson,wyatt19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60288,2,Ernest Lu,ernest11@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

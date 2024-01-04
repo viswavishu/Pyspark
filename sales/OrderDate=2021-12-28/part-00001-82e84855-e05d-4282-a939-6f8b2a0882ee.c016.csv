@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62918,4,Caleb Campbell,caleb36@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO62933,1,Damien Ye,damien7@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO62921,1,Meagan Subram,meagan13@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62932,2,Devon Kennedy,devon5@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62934,2,Brenda Arun,brenda10@adventure-works.com,HL Mountain Tire,1,35.0,2.8

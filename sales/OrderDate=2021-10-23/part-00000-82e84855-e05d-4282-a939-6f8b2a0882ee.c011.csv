@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58458,1,Shaun Lal,shaun9@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO58433,1,Jenna Perez,jenna11@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO58449,3,Bonnie Shan,bonnie16@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58428,2,Jenny Guo,jenny19@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58455,2,Dalton Butler,dalton60@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

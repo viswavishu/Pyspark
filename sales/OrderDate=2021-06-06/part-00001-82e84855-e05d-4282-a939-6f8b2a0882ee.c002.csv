@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51278,1,Joel Vance,joel3@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388
+SO51269,2,Ethan Coleman,ethan2@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51275,3,Elizabeth Jones,elizabeth7@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51278,2,Joel Vance,joel3@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51278,3,Joel Vance,joel3@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

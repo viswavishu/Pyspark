@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62600,1,Sheila Gutierrez,sheila11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62616,2,Trevor Simmons,trevor15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62582,2,Bradley Anand,bradley24@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62613,3,Natalie Jenkins,natalie29@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62622,1,Joe Subram,joe16@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

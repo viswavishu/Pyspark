@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55382,1,Eduardo White,eduardo11@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO55369,1,Antonio Price,antonio0@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55348,3,Olivia Jones,olivia3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55333,2,Angel Richardson,angel9@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55373,1,Cynthia Lopez,cynthia22@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388

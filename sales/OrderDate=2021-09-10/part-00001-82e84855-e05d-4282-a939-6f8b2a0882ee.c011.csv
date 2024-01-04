@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55964,1,Victoria Clark,victoria18@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO55924,1,Kevin Bryant,kevin20@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO55949,3,Eduardo Butler,eduardo58@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO55932,2,Sydney Bryant,sydney40@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60773,2,Carla Martinez,carla20@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60779,2,Luis Diaz,luis21@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO60820,2,Amanda Bradley,amanda5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60778,1,Trinity Sanders,trinity3@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60819,1,Hunter King,hunter43@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57650,2,Elizabeth Bryant,elizabeth46@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO57673,4,Anne Hernandez,anne4@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO57652,2,Blake Lewis,blake21@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57657,1,Darren Ramos,darren40@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57644,1,Miranda Gonzales,miranda17@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

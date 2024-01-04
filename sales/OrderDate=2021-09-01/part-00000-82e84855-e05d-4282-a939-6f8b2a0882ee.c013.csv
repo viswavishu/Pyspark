@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55437,1,Makayla Kelly,makayla2@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO55385,1,Samantha Jenkins,samantha32@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55422,4,Adriana Arthur,adriana7@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54037,1,Mackenzie Ramirez,mackenzie5@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO54023,2,Alyssa Cooper,alyssa35@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54014,1,Marshall Yang,marshall4@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53998,2,Evan Hill,evan38@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54009,1,Jon Andersen,jon9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62235,1,Monica Schmidt,monica11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62251,1,Brian Peterson,brian17@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO62283,2,Latasha Romero,latasha9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62246,2,Amber Turner,amber4@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62276,5,Jenny Sun,jenny15@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

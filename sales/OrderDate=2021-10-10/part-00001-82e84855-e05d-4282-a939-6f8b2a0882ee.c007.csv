@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57730,2,Taylor Williams,taylor49@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57715,2,Mandy Guo,mandy19@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57708,1,Julia Morgan,julia50@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57737,1,Rafael Raje,rafael38@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO57709,2,Alexandra Johnson,alexandra64@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

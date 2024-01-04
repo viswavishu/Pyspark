@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62583,1,Willie Pal,willie31@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62624,3,Louis Xie,louis20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62614,1,Sydney Harris,sydney76@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO62610,1,Nicole Jones,nicole3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62595,3,Melissa Alexander,melissa14@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

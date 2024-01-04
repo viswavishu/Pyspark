@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58438,2,Jada Cooper,jada9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58461,2,Laura Zhou,laura15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58415,3,Joseph Taylor,joseph15@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58468,2,Tara Raje,tara14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58463,1,Cameron Jackson,cameron30@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388

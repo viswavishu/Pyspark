@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61034,1,Emmanuel Patel,emmanuel3@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO61062,1,Evan Young,evan43@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61047,4,Devin Bennett,devin67@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO61083,3,Xavier Ramirez,xavier73@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61082,2,Charles Richardson,charles58@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

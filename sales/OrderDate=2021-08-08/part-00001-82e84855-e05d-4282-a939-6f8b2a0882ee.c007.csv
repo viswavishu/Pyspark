@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54022,1,Abigail Walker,abigail63@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO53982,3,Cory Weber,cory2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53986,1,Cindy Srini,cindy8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53996,3,Marcus Davis,marcus5@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54004,1,Blake Hernandez,blake27@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

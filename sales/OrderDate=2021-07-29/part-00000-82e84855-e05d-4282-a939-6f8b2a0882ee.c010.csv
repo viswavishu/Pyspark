@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53315,1,Jennifer Perez,jennifer14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53330,2,Adriana Smith,adriana9@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO53332,3,Jared Cox,jared12@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53299,2,Tamara Liang,tamara6@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO53342,1,Jared Kelly,jared4@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392

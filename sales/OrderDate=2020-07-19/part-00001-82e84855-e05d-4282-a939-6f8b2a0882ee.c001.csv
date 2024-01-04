@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47225,1,Nathan Brown,nathan62@adventure-works.com,"Road-250 Black, 48",1,2181.5625,174.525
+SO47221,1,Margaret Zheng,margaret26@adventure-works.com,"Road-250 Red, 52",1,2443.35,195.468

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61034,4,Emmanuel Patel,emmanuel3@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61075,3,Kristin Raji,kristin18@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61088,5,Gabriel Adams,gabriel47@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO61089,4,Chad Rai,chad18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61042,2,Crystal Lin,crystal10@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

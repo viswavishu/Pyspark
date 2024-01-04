@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53951,2,Ricky Torres,ricky12@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53929,1,Gary Diaz,gary13@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53970,3,Mindy Black,mindy25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53953,4,Melanie Patterson,melanie26@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53939,2,Melanie Ward,melanie38@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60859,1,Alexis Flores,alexis35@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60866,2,Paige Sanchez,paige42@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60853,3,Samantha Jenkins,samantha32@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60890,3,Geoffrey Ashe,geoffrey6@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60878,2,Kellie Ramos,kellie16@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

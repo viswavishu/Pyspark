@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59882,1,Douglas Rodriguez,douglas23@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO59875,2,Richard Baker,richard27@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59891,4,Angela Washington,angela16@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59876,2,Juan Gray,juan16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59890,1,Zachary Powell,zachary7@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59382,3,Rafael Ye,rafael10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59356,2,Adriana Garcia,adriana16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59400,2,Melvin Ashe,melvin21@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59376,1,Ashley Washington,ashley40@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO59370,3,Austin White,austin48@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

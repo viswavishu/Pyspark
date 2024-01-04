@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52417,1,Harold Garcia,harold12@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO52422,4,Henry Garcia,henry16@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52409,2,Sydney Bryant,sydney40@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52452,1,Hunter Rodriguez,hunter53@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO52451,3,Eugene Zhu,eugene18@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56899,3,Jessie Ortega,jessie41@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56853,2,Carolyn Gill,carolyn34@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO56853,1,Carolyn Gill,carolyn34@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56881,2,Lisa Chen,lisa5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56862,1,Alexandra Jenkins,alexandra30@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

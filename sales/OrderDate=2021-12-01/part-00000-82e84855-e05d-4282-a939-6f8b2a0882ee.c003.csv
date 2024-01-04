@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61285,1,Aaron Griffin,aaron20@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61302,3,Jonathan Coleman,jonathan5@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61296,1,Ross Gill,ross31@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61311,1,Raul Tang,raul4@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO61278,2,Cassandra Lopez,cassandra18@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

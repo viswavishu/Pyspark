@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58243,1,Stacy Alvarez,stacy6@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO58211,2,Samuel Davis,samuel63@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO58230,5,Morgan Turner,morgan3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58224,4,Rachel Cook,rachel32@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO58202,1,Henry Garcia,henry16@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

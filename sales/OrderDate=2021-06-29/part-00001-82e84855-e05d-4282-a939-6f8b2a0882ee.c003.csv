@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51670,2,Seth Kelly,seth75@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

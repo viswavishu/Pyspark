@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56741,4,Antonio Bryant,antonio18@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56722,2,Devin Powell,devin47@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO56698,3,Aimee Sun,aimee9@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56723,1,Stacey Wu,stacey7@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO56708,1,Sarah Simmons,sarah40@adventure-works.com,Road Tire Tube,1,3.99,0.3192

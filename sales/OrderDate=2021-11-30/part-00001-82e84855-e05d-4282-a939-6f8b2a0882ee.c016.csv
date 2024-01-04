@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61126,2,Jada Morgan,jada14@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO61144,2,Shaun Andersen,shaun14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61149,1,Veronica Martinez,veronica19@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61096,1,Kristen Ye,kristen8@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO61113,1,Joy Ruiz,joy3@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592

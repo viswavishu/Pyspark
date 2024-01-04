@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52174,2,Taylor Harris,taylor61@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52194,2,Carolyn Alvarez,carolyn26@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO52158,2,Stacy Serrano,stacy17@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO52190,2,Morgan Kelly,morgan68@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52192,1,Haley Barnes,haley22@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56255,2,Amanda Adams,amanda58@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56256,3,Maurice Xie,maurice3@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO56235,3,Jared Howard,jared13@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO56238,2,Haley Kelly,haley18@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56251,3,Adam Hughes,adam9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

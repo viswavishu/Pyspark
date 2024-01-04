@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55047,1,Hailey Patterson,hailey30@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55089,1,Michael Davis,michael37@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO55079,3,Barbara Liang,barbara26@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55051,3,Gabriel Campbell,gabriel37@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55042,3,Gloria Carlson,gloria19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

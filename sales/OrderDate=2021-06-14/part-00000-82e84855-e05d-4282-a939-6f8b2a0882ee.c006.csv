@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51419,2,Louis Zeng,louis16@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO51419,1,Louis Zeng,louis16@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO51415,4,Bryan Kelly,bryan5@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO51407,1,Ronald Suri,ronald2@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO51420,4,Ruben Kapoor,ruben1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

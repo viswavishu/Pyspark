@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46779,1,Karla Raji,karla22@adventure-works.com,"Road-250 Black, 52",1,2181.5625,174.525
+SO46784,1,Megan Gray,megan43@adventure-works.com,"Road-250 Black, 48",1,2181.5625,174.525
+SO46780,1,Morgan Harris,morgan35@adventure-works.com,"Road-250 Black, 58",1,2181.5625,174.525
+SO46782,1,Marcus Wilson,marcus7@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525
+SO46785,1,Jonathan Diaz,jonathan21@adventure-works.com,"Road-250 Black, 44",1,2181.5625,174.525

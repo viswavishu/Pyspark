@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61083,2,Xavier Ramirez,xavier73@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61040,1,Alan Zhou,alan12@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61033,3,Christy Zheng,christy17@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO61056,1,Meghan Gill,meghan13@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60792,1,Richard Hayes,richard78@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60804,1,Erik Gill,erik14@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60814,2,Carly Chander,carly14@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO60796,1,Logan Powell,logan11@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60832,1,Ethan Bryant,ethan14@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256

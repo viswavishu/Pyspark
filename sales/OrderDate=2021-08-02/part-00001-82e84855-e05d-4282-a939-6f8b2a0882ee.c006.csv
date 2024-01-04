@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53716,1,Catherine Howard,catherine10@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO53712,1,Laura Lin,laura14@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO53696,2,Marshall Black,marshall40@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53712,2,Laura Lin,laura14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53689,2,Daniel Anderson,daniel7@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

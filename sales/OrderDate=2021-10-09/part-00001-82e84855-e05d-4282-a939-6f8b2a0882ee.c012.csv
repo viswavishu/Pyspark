@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57649,2,Blake Young,blake26@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57637,1,Rebecca Parker,rebecca10@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO57642,2,Jeffery Ye,jeffery10@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO57675,5,Kaylee Hill,kaylee35@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO57668,3,Savannah Carter,savannah32@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

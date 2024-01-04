@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59592,1,Grace Rodriguez,grace19@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59637,4,Eduardo Jenkins,eduardo51@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59599,3,Samuel Bryant,samuel17@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO59579,3,Colleen Goel,colleen42@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59619,2,Lauren Cox,lauren11@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

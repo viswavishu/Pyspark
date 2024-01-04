@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54073,2,Arthur Diaz,arthur26@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO54055,6,Nicholas Brown,nicholas6@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO54094,3,Jaclyn Zhang,jaclyn0@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO54079,3,Elijah Alexander,elijah20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54061,1,Haley Evans,haley42@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992

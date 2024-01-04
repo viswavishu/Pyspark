@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56080,4,Arthur Hernandez,arthur27@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56119,2,Andrea Young,andrea39@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56124,1,Gregory Goel,gregory23@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO56105,3,Allison Lopez,allison44@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO56086,1,Michelle Kelly,michelle4@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

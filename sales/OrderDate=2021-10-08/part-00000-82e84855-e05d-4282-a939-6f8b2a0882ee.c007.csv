@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57628,2,Richard Adams,richard26@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57595,2,Ronnie He,ronnie16@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO57601,1,Elizabeth Hall,elizabeth28@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57624,1,Alyssa Diaz,alyssa66@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO57596,1,Jodi Lal,jodi8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

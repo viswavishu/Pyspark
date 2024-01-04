@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52354,2,Kendra Moreno,kendra6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52329,1,Colleen Ma,colleen16@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO52341,1,Edward Carter,edward12@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52361,1,Tasha Jai,tasha12@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO52329,3,Colleen Ma,colleen16@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

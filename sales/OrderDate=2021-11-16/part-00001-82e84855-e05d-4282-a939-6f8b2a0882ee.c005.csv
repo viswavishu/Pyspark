@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60227,1,Jonathan Zhang,jonathan23@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60205,2,Nicole Patterson,nicole59@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60214,2,Kelly Alexander,kelly23@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO60222,1,Emily Hall,emily24@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60233,1,Jason Mitchell,jason40@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

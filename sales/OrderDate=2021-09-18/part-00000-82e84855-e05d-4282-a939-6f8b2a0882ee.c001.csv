@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56375,4,Lee Navarro,lee8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56358,2,Lucas Morris,lucas89@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56368,3,Kaitlin Suri,kaitlin0@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO56365,4,Kathryn Yuan,kathryn6@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56364,1,Jeremy Perez,jeremy14@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

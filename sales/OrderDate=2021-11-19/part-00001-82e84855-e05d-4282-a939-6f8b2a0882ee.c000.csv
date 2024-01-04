@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60412,2,Sheena Kennedy,sheena6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60423,2,Sheila Rowe,sheila19@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60449,3,Neil Ruiz,neil3@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60433,3,Clayton Zhou,clayton7@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO60432,1,Bryan Stewart,bryan22@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392

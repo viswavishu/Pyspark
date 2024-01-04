@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45225,1,Troy Fernandez,troy17@adventure-works.com,"Road-650 Black, 44",1,699.0982,55.9279

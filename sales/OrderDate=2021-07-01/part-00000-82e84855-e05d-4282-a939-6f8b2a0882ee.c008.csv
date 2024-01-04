@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51885,1,Gary Gomez,gary11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51902,1,Allen Mehta,allen12@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO51887,1,Andrew Martinez,andrew24@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO51910,1,Lauren Price,lauren47@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO51880,2,Bradley Jai,bradley13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52854,3,Victoria Cox,victoria37@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52873,2,Marissa Price,marissa19@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO52861,1,Pamela Malhotra,pamela8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52871,2,Sergio Kapoor,sergio1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52846,1,Edward Patterson,edward59@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49724,1,Jennifer Allen,jennifer26@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136
+SO49722,1,Karl Lal,karl9@adventure-works.com,"Mountain-200 Silver, 38",1,2071.4196,165.7136
+SO49721,1,Audrey Ruiz,audrey3@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136

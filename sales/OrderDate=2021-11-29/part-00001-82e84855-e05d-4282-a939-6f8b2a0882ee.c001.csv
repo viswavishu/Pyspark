@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61088,2,Gabriel Adams,gabriel47@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61037,3,Andres Pal,andres9@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61077,3,Sean Reed,sean28@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61085,1,Madeline Parker,madeline7@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO61090,1,Nathaniel Bradley,nathaniel15@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792

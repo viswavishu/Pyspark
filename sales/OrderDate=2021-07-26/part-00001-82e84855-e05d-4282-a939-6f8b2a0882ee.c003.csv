@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53157,5,Tina Subram,tina14@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO53162,1,Kristi Gomez,kristi41@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53177,3,Logan Long,logan12@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53157,4,Tina Subram,tina14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53178,2,Kaitlyn Price,kaitlyn68@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

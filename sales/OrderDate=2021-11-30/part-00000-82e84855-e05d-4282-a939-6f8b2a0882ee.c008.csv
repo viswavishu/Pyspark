@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61153,3,Dwayne Ramos,dwayne16@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO61126,1,Jada Morgan,jada14@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61103,1,Jay Fernandez,jay22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61141,1,Alisha Xu,alisha12@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO61164,2,Morgan Davis,morgan28@adventure-works.com,LL Road Tire,1,21.49,1.7192

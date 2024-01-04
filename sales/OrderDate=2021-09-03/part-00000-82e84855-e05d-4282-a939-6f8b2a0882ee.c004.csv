@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55552,2,Clinton Gill,clinton10@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55512,1,Alison Raje,alison14@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO55515,2,Jack Wright,jack56@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO55513,1,Frederick Rana,frederick10@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO55514,2,Jessica Griffin,jessica45@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

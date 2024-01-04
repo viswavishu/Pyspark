@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61277,3,Joshua Miller,joshua8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61303,1,Virginia Mehta,virginia16@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO61278,4,Cassandra Lopez,cassandra18@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO61299,1,Kevin Alexander,kevin21@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61297,3,Leah Zheng,leah15@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

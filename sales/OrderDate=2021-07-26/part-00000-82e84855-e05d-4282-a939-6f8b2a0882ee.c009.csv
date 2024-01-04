@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53159,2,Alberto Diaz,alberto4@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO53175,5,George Garcia,george21@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO53153,1,Xavier Johnson,xavier1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53144,4,Zachary Zhang,zachary22@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO53147,3,Cameron Li,cameron22@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

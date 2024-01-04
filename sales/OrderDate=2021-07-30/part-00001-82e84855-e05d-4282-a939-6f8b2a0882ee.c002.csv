@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53370,3,Mya Price,mya2@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO53349,3,Gloria Alvarez,gloria6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53350,1,Gary Vazquez,gary25@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO53397,3,Summer Rana,summer9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53367,1,Kristy Jimenez,kristy6@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

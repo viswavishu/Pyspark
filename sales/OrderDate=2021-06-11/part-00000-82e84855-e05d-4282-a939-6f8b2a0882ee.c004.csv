@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51364,1,Haley Morgan,haley4@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO51365,2,Maria Roberts,maria47@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO51372,1,Caleb Washington,caleb10@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO51370,6,Christopher Harris,christopher14@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51360,1,Joseph Martin,joseph21@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

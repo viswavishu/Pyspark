@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51358,3,Monique Suarez,monique15@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO51341,1,Nichole Nara,nichole16@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO51353,2,Emily Jackson,emily12@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO51343,3,Janet Munoz,janet12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51339,3,Levi Suri,levi0@adventure-works.com,"Classic Vest, M",1,63.5,5.08

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57525,2,Samantha Powell,samantha34@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO57488,2,Tanya Gutierrez,tanya7@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57502,2,Dalton Hill,dalton28@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57528,2,Rebekah Sandberg,rebekah40@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO57483,2,Cassidy Russell,cassidy21@adventure-works.com,Road Tire Tube,1,3.99,0.3192

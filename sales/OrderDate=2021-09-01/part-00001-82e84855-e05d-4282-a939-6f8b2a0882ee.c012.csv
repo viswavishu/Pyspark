@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55389,1,Scot Schulte,scot1@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO55449,1,Audrey Munoz,audrey8@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO55449,3,Audrey Munoz,audrey8@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO55438,2,Sandra Xu,sandra19@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55399,3,Barbara Wang,barbara11@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

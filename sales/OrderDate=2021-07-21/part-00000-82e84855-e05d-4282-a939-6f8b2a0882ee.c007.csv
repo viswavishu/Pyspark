@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52922,3,Robert Robinson,robert78@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52928,1,Karen Liang,karen26@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO52901,1,Emily Flores,emily37@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52929,1,Candice Zhao,candice16@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO52904,3,Xavier Williams,xavier2@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

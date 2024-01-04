@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55547,2,Olivia Martinez,olivia16@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO55548,1,Jamie Huang,jamie8@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO55509,3,Melody Moreno,melody7@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO55548,3,Jamie Huang,jamie8@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55509,2,Melody Moreno,melody7@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

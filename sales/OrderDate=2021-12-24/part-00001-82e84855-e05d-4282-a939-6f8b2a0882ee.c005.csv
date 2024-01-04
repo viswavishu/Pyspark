@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62688,1,Gerald Hernandez,gerald12@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO62677,3,Juan Ramos,juan5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62656,3,Lee Carlson,lee17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62669,1,Gilbert Guo,gilbert15@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO62671,1,Cara Zeng,cara18@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468

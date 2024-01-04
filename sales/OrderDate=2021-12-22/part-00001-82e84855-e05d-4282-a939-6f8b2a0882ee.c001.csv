@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62550,1,Luke Diaz,luke11@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO62567,2,Arturo Xu,arturo13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62568,1,Ryan Perry,ryan10@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO62570,1,Morgan Perez,morgan9@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO62540,3,Jaclyn Luo,jaclyn29@adventure-works.com,Road Tire Tube,1,3.99,0.3192

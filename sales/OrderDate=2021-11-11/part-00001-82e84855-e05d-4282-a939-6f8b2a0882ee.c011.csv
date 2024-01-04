@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59835,1,Ebony Garcia,ebony15@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO59832,3,Clinton Moreno,clinton3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59899,4,Jill Serrano,jill24@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO59894,1,Destiny Morris,destiny25@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO59862,1,Jenny Shen,jenny26@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

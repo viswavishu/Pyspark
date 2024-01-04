@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57615,1,Aaron Simmons,aaron14@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57620,2,Trevor Jenkins,trevor6@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57598,2,Eduardo Jackson,eduardo10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57619,1,Devin Martin,devin13@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57597,2,Leonard Becker,leonard22@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192

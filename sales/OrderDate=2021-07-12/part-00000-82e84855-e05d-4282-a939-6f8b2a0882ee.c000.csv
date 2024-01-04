@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52461,2,Savannah Allen,savannah46@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO52453,1,Nina Yuan,nina7@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO52413,3,Pablo Rovira Diez,pablo0@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52463,3,Heidi Patel,heidi5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52457,2,Kenneth Lal,kenneth8@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192

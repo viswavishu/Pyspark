@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55462,1,Jasmine Powell,jasmine48@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55469,1,Hunter Bryant,hunter15@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO55495,2,Sabrina Rubio,sabrina15@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55504,2,Colleen Anand,colleen45@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55486,1,Clarence Sharma,clarence24@adventure-works.com,Touring Tire,1,28.99,2.3192

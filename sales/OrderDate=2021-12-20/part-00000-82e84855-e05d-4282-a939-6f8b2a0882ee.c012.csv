@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62422,1,Julia Hall,julia45@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62454,1,Jocelyn Coleman,jocelyn6@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO62436,2,Ann Fernandez,ann20@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62408,2,Ryan Garcia,ryan52@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62421,2,Darren Fernandez,darren17@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992

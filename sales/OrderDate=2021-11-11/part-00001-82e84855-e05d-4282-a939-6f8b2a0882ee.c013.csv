@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59878,4,Justin Shan,justin27@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO59885,2,Orlando Blanco,orlando15@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59887,1,Dalton Lee,dalton21@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO59876,1,Juan Gray,juan16@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO59879,3,Kaitlyn Bryant,kaitlyn85@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

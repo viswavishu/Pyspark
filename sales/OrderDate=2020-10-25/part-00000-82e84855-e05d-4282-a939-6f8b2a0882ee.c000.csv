@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48241,1,Chloe Ramirez,chloe61@adventure-works.com,"Mountain-200 Black, 42",1,2049.0982,163.9279
+SO48240,1,Tiffany Hu,tiffany21@adventure-works.com,"Road-650 Red, 60",1,782.99,62.6392

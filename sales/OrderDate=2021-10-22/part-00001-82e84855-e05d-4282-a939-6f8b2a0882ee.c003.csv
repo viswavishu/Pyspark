@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58361,1,Gilbert Lal,gilbert29@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO58377,1,Xavier Foster,xavier56@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58360,5,Kendra Sanz,kendra20@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO58411,2,Lawrence Alvarez,lawrence2@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58383,2,Susan Wu,susan16@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

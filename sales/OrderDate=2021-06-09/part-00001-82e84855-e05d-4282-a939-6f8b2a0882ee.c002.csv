@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51321,1,Terrence Raje,terrence14@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO51335,2,Kaitlyn Campbell,kaitlyn5@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO51327,3,Levi Sanchez,levi18@adventure-works.com,"Classic Vest, M",1,63.5,5.08

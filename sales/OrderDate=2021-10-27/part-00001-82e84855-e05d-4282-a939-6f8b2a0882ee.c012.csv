@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58653,3,Alexia Bennett,alexia1@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO58657,3,Nelson Vazquez,nelson13@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58652,2,Arturo Sun,arturo14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58666,3,Isaac Bailey,isaac15@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO58684,1,Marcus Rogers,marcus94@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

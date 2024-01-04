@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51926,1,Mathew Sanz,mathew16@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO51961,1,Rafael Sun,rafael14@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO51960,1,Todd Zeng,todd19@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51940,1,Tyler White,tyler1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51939,1,Mya Henderson,mya7@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

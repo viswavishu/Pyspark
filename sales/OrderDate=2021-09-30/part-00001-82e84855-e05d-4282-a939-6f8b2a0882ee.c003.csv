@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56965,1,Ashlee Chande,ashlee0@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56974,3,Jack Perry,jack8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56980,2,Alexandra Smith,alexandra92@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56973,3,Theresa Rubio,theresa17@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56984,1,Katelyn Cox,katelyn9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

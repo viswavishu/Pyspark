@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52388,4,Joan James,joan3@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52398,1,Ernest Zhu,ernest14@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO52392,1,Megan Sherman,megan2@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52389,2,Ross Vance,ross3@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52366,1,Jose Carlson,jose36@adventure-works.com,Road Tire Tube,1,3.99,0.3192

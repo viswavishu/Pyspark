@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56776,3,Steven Gray,steven16@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO56767,2,Anthony Williams,anthony11@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56787,4,Douglas Suri,douglas4@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO56783,2,Joe Sanz,joe43@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56788,1,Ann Martinez,ann22@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

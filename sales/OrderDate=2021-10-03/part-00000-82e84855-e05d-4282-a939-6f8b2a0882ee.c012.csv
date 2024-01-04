@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57330,1,Sebastian Ward,sebastian4@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO57307,1,Faith Ward,faith31@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO57319,3,Jason Griffin,jason18@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57305,4,Marc Vazquez,marc18@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO57306,2,Mallory Navarro,mallory17@adventure-works.com,Road Tire Tube,1,3.99,0.3192

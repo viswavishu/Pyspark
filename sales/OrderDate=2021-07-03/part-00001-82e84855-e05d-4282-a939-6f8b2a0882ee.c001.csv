@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51991,1,Chloe Campbell,chloe4@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO52015,1,Jonathan Hughes,jonathan11@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO51965,1,Jeremiah Hall,jeremiah12@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO51990,3,Caleb Flores,caleb9@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO51998,1,Drew Deng,drew1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

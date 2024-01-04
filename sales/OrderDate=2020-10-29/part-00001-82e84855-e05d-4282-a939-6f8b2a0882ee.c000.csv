@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48273,1,Martin Suri,martin6@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468
+SO48274,1,Margaret Xu,margaret18@adventure-works.com,"Road-250 Red, 52",1,2443.35,195.468
+SO48276,1,Reginald Ortega,reginald7@adventure-works.com,"Road-650 Red, 62",1,782.99,62.6392

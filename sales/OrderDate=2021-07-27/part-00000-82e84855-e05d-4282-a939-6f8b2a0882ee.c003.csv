@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53186,1,Gerald Mehta,gerald1@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO53202,1,Emma Cox,emma37@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53234,4,Sarah Gonzales,sarah41@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO53238,1,Melanie Hayes,melanie10@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO53190,3,Warren Chande,warren4@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

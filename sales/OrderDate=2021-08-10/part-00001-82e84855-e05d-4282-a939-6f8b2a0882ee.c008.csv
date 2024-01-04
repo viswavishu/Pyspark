@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54130,2,Alexandria Rogers,alexandria40@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54147,1,Adrienne Serrano,adrienne13@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO54129,2,Carol Rai,carol8@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54143,1,Garrett Watson,garrett4@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO54145,3,Meredith Gomez,meredith23@adventure-works.com,Road Tire Tube,1,3.99,0.3192

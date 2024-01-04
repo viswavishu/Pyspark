@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52382,1,Sebastian Richardson,sebastian10@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52405,2,Janet Diaz,janet8@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO52403,2,Adrian Torres,adrian6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52396,3,Angel Baker,angel30@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52365,2,Tonya Nara,tonya16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

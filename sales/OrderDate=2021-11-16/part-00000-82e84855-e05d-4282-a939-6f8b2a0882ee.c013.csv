@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60246,1,Destiny Walker,destiny21@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO60235,2,Nicolas Nara,nicolas15@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60242,1,Jessie Liu,jessie9@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO60194,2,Wendy Ortega,wendy20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60202,3,Blake Wright,blake28@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

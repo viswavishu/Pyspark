@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61373,1,Byron Vazquez,byron9@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61399,1,Jennifer Brown,jennifer32@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61396,3,Rachel Price,rachel47@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO61402,1,Tabitha Gill,tabitha34@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61412,6,Nathaniel Cooper,nathaniel9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

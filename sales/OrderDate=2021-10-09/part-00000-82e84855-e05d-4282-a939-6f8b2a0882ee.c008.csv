@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57656,2,Nina Chander,nina16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57666,1,Sara Hill,sara39@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO57645,3,Makayla Ramirez,makayla7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57645,1,Makayla Ramirez,makayla7@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO57674,1,Tina Smith,tina10@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

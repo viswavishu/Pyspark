@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51567,2,Megan Hall,megan26@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO51569,3,Amanda Ramirez,amanda16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51552,3,Brian Torres,brian16@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO51566,2,Adam Edwards,adam31@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51568,2,Jenna Nelson,jenna9@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

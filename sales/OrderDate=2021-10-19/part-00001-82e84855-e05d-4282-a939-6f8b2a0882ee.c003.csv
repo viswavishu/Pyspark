@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58226,1,Jeremy Nelson,jeremy12@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58219,1,Zoe Howard,zoe10@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58211,3,Samuel Davis,samuel63@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58202,2,Henry Garcia,henry16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58194,2,Tyrone Hernandez,tyrone3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

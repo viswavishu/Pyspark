@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62558,3,Karla Sharma,karla10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62533,1,Armando Gomez,armando1@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62559,4,Omar Nara,omar37@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62564,1,Philip Suarez,philip18@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO62575,1,Benjamin Rodriguez,benjamin57@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392

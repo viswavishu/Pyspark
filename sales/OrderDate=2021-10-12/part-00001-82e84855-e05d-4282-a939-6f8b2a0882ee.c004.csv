@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57828,2,Angel Rivera,angel16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57824,3,Emma Torres,emma40@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57801,2,Michele Ramos,michele51@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57823,2,Sara Mitchell,sara37@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57840,1,Devin James,devin61@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54669,1,Heather Zeng,heather21@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO54690,2,Gerald Vance,gerald33@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54677,2,Austin Anderson,austin47@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54672,1,Theodore Ruiz,theodore2@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO54671,1,Arthur Madan,arthur9@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468

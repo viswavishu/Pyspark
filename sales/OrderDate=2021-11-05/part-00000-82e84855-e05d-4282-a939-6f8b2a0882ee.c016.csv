@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59408,2,Erika Serrano,erika14@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59415,1,Ivan Sai,ivan4@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59484,1,Jacqueline Morris,jacqueline43@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO59482,1,Kelvin Lal,kelvin5@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO59450,2,Cindy Stewart,cindy23@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61925,2,Tanya Blanco,tanya12@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO61942,1,Morgan Coleman,morgan75@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61971,4,Darren Alonso,darren30@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO61968,2,Frank Carlson,frank26@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61933,1,Sheena Shen,sheena2@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

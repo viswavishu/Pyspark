@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61532,4,Savannah James,savannah6@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO61511,1,Rachel James,rachel44@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO61482,3,Rodney Ramos,rodney13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61532,1,Savannah James,savannah6@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO61486,1,Colin Kumar,colin31@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

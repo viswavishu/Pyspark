@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59978,3,Drew Nara,drew18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59919,2,Jay Martin,jay29@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59923,1,Logan White,logan64@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59964,2,Drew Andersen,drew14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59969,1,Marcus Howard,marcus87@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992

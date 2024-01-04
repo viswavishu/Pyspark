@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57975,1,Eduardo Adams,eduardo30@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57973,2,Andrew Anderson,andrew19@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57971,1,Ariana Cooper,ariana16@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58003,1,Vadim Sazanovich,vadim0@adventure-works.com,"Touring-3000 Yellow, 54",1,742.35,59.388
+SO57959,2,Omar Zheng,omar18@adventure-works.com,Road Tire Tube,1,3.99,0.3192

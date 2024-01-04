@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54131,2,Eduardo Ramirez,eduardo75@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO54118,1,Shelby Rogers,shelby19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54141,2,Alexandria Patterson,alexandria10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54139,1,Micah Zhao,micah21@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO54111,2,Brandi Gill,brandi13@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

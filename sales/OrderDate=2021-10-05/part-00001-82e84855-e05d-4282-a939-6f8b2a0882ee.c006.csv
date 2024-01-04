@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57455,2,Billy Martin,billy1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57467,1,Jordan Turner,jordan33@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO57442,4,Isabella Nelson,isabella39@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO57444,3,Sydney Rivera,sydney10@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO57429,1,Eduardo Foster,eduardo60@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

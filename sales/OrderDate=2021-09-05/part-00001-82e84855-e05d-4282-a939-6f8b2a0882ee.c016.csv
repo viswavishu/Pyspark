@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55651,5,Jill Ruiz,jill9@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55666,3,Joe Ramos,joe41@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55616,2,Kelvin Wu,kelvin26@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55651,6,Jill Ruiz,jill9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55650,2,Caleb Jenkins,caleb3@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

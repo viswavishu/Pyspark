@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62779,2,Jennifer Ward,jennifer66@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62769,2,Jillian Prasad,jillian10@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO62816,2,Colin He,colin19@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO62784,4,Emma Walker,emma22@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62772,1,Edward Martinez,edward40@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

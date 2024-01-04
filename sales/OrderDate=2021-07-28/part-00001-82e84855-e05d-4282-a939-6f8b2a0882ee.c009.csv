@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53257,2,Jaime Rubio,jaime23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53256,2,Maria Adams,maria57@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53284,1,Wyatt Jones,wyatt3@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO53265,2,Kelli Zhou,kelli9@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO53277,1,Brianna Jackson,brianna10@adventure-works.com,HL Mountain Tire,1,35.0,2.8

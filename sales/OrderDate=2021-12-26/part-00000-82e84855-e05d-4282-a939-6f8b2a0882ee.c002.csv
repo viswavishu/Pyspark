@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62753,2,Karen Liu,karen13@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO62816,1,Colin He,colin19@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO62776,3,Brad Oliver,brad12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62775,1,Samantha Jenkins,samantha32@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62813,3,Colleen Ma,colleen16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62198,4,John Lee,john56@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO62187,2,Noah Perry,noah4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62207,3,Spencer Powell,spencer10@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO62176,3,Alejandro She,alejandro26@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62210,1,Billy Ortega,billy22@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592

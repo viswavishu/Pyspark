@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62731,3,Robert Mitchell,robert53@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO62704,1,Morgan Morris,morgan48@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO62697,1,Mariah James,mariah32@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62723,1,Richard Kelly,richard82@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62748,3,Cody Rogers,cody19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

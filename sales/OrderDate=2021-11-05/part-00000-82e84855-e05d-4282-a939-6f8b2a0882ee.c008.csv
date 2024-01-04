@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59434,1,Wyatt Hayes,wyatt51@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59442,1,Madison Walker,madison23@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59475,5,Devin Robinson,devin17@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO59417,1,Devon Lal,devon6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59487,4,Theresa Vazquez,theresa10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

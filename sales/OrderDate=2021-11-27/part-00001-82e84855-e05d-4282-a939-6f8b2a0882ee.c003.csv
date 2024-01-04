@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60936,4,Tanya Jimenez,tanya1@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO60896,3,Ethan Bryant,ethan14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60929,1,Christian Foster,christian3@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO60945,3,Samantha Barnes,samantha28@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60931,4,Joseph Clark,joseph26@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

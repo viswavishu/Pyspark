@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59429,1,Savannah Phillips,savannah28@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO59428,1,Jos� Hernandez,jos�54@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59479,2,Roger Nara,roger44@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59416,1,Allison Bailey,allison15@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO59440,3,Haley Parker,haley47@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

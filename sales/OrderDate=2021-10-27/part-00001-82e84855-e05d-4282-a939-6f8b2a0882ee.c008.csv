@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58673,1,William Lee,william28@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58648,3,Ebony Sanz,ebony41@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58651,3,Kevin Lal,kevin32@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO58642,2,Keith Xu,keith7@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO58670,4,Randall Sanz,randall22@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

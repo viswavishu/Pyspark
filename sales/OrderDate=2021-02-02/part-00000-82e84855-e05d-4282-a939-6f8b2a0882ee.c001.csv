@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49587,1,Ruben Vazquez,ruben38@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136
+SO49594,1,Julio Jimenez,julio5@adventure-works.com,"Road-250 Black, 58",1,2181.5625,174.525

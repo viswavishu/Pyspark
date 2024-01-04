@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60150,3,Willie Ma,willie14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60153,2,Claudia Guo,claudia15@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60148,2,Pedro Prasad,pedro9@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60134,2,Natalie Cooper,natalie11@adventure-works.com,Road Tire Tube,1,3.99,0.3192

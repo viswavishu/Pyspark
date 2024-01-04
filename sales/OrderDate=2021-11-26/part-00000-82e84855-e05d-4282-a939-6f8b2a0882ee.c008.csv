@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60837,1,Johnny Moyer,johnny20@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO60877,1,Kaylee Watson,kaylee6@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO60865,3,Angelica Alexander,angelica18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60852,1,Katelyn Hall,katelyn46@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO60855,2,Samuel Simmons,samuel14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

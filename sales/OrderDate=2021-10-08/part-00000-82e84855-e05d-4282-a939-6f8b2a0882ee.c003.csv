@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57631,1,Walter Ortega,walter15@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO57613,2,Natalie Stewart,natalie0@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57631,4,Walter Ortega,walter15@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO57602,3,Destiny Moore,destiny8@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57629,2,Dalton Rogers,dalton91@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

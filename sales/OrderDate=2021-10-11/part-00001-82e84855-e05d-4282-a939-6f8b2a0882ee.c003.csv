@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57752,2,Bruce Ruiz,bruce24@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57752,3,Bruce Ruiz,bruce24@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO57769,2,Linda Vazquez,linda30@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57758,2,Hailey Sanders,hailey20@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO57775,2,Bobby Subram,bobby9@adventure-works.com,Road Tire Tube,1,3.99,0.3192

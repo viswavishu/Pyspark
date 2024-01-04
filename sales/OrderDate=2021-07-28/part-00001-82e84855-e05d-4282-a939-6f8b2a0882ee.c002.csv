@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53258,3,Isabella Harris,isabella69@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53246,2,Bianca Ma,bianca12@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53267,1,Amber Parker,amber7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53284,3,Wyatt Jones,wyatt3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53249,4,Heather He,heather17@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

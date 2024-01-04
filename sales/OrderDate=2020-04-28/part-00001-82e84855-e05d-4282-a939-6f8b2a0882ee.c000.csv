@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46311,1,Yolanda Xie,yolanda3@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616

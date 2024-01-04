@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52025,4,Austin Butler,austin10@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52061,2,Rodney Blanco,rodney11@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52048,1,Alexis Washington,alexis36@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52058,2,Elijah Ross,elijah7@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52060,2,Blake Griffin,blake68@adventure-works.com,ML Road Tire,1,24.99,1.9992

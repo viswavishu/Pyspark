@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54005,1,Haley Parker,haley47@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54035,2,Joanna Sanz,joanna19@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54033,1,Courtney Hall,courtney18@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO54021,1,Carson Foster,carson15@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO54026,1,Marie Gutierrez,marie34@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188

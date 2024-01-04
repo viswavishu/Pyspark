@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56758,4,Mitchell Xu,mitchell4@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO56763,1,Dominic Garcia,dominic15@adventure-works.com,"Mountain-500 Silver, 48",1,564.99,45.1992
+SO56760,4,Kevin Yang,kevin30@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO56787,1,Douglas Suri,douglas4@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO56778,1,Mayra Sanchez,mayra19@adventure-works.com,Touring Tire,1,28.99,2.3192

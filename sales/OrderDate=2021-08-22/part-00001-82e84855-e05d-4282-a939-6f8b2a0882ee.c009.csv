@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54802,1,Logan Chow,logan25@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO54819,1,Eugene Zhao,eugene14@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO54811,2,Michelle Ramirez,michelle8@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54816,1,Edgar Subram,edgar14@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO54803,4,Chloe White,chloe45@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

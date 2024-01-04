@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52289,2,Brandy Mehta,brandy10@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52292,1,Steve Liang,steve19@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO52327,2,Gary Serrano,gary27@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52327,3,Gary Serrano,gary27@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52279,4,Alison Chander,alison16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

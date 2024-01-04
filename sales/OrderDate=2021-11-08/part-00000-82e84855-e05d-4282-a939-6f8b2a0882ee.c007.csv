@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59687,1,Bonnie Xu,bonnie10@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO59679,1,Wendy Munoz,wendy7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59648,2,Ivan Raman,ivan8@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59662,3,Ryan Moore,ryan47@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59668,1,Jade Rogers,jade15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

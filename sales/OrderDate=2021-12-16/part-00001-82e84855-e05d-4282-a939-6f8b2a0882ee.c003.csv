@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62223,1,Marcus Lewis,marcus22@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO62219,2,Monica Patel,monica3@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO62219,1,Monica Patel,monica3@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO62224,4,Isaiah Peterson,isaiah4@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO62177,3,Craig Navarro,craig11@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

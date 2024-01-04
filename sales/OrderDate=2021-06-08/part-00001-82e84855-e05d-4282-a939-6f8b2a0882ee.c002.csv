@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51314,1,Ashlee Beck,ashlee4@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO51315,1,Christy Zhu,christy12@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO51307,2,Shaun Raji,shaun21@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51306,1,Emily Miller,emily6@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO51311,3,Briana Ashe,briana4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

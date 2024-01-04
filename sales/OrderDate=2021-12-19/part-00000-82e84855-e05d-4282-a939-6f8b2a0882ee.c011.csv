@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62379,2,Nina Goel,nina19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62384,4,Terry Yuan,terry10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62381,3,Gabrielle Mitchell,gabrielle54@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62395,2,Maria Foster,maria38@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62378,1,Johnathan Chapman,johnathan3@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592

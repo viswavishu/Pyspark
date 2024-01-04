@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53770,2,Samantha Mohamed,samantha9@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53758,1,Allison King,allison42@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO53761,3,Charles Richardson,charles58@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO53743,1,Kimberly Sanchez,kimberly25@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53741,2,Samuel Harris,samuel70@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

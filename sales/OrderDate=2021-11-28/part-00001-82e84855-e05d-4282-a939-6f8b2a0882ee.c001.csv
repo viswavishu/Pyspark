@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60966,2,Jacquelyn Rowe,jacquelyn22@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60963,2,Bonnie Shen,bonnie7@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61000,3,Joseph White,joseph19@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61020,2,Jessica Murphy,jessica8@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO61008,2,James Anderson,james82@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

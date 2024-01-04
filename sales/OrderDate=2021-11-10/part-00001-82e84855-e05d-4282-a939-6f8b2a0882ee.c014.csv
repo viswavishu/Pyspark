@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59821,1,Riley Flores,riley10@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO59792,1,Tamara Zhou,tamara39@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59791,2,Tanya Navarro,tanya6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59827,4,Luis Hughes,luis10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59830,4,Albert Blanco,albert15@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

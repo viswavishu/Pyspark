@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52963,1,Natalie Moore,natalie75@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO52964,1,Dalton Coleman,dalton51@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO52983,2,Rebecca Allen,rebecca24@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52991,1,Jorge She,jorge25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52995,3,Edward Parker,edward19@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

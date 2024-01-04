@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58573,3,Anna Martinez,anna55@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58554,3,Danielle Bailey,danielle18@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58541,1,Anne Serrano,anne18@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO58573,4,Anna Martinez,anna55@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO58542,2,Michele Suarez,michele53@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

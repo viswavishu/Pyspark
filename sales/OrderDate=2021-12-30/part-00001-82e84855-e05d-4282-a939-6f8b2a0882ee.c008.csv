@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63016,2,Virginia Sara,virginia12@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO63045,1,Jerome Gutierrez,jerome9@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO63034,3,Suzanne Huang,suzanne7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO63027,1,Amanda Watson,amanda18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO63039,1,Caleb Jenkins,caleb3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

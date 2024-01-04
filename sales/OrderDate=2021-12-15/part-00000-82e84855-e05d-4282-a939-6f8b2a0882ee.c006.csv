@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62148,3,Ryan Williams,ryan41@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62150,1,Xavier Mohamed,xavier86@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO62154,2,Maria Watson,maria19@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO62157,1,Kristi Suarez,kristi15@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO62100,1,Seth Henderson,seth53@adventure-works.com,Touring Tire,1,28.99,2.3192

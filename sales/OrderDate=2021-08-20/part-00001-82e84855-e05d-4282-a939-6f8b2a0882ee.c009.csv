@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54657,1,Tasha Nath,tasha19@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO54681,1,Andrea Perez,andrea34@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54710,3,Lauren Patterson,lauren58@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO54715,1,Kaylee Brooks,kaylee0@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO54712,2,Carolyn Browning,carolyn36@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

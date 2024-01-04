@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60955,3,Darren Carlson,darren41@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60950,1,Jaclyn Shan,jaclyn34@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO60944,2,Jackson Mitchell,jackson41@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60954,3,Heather Zhu,heather13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60901,2,Erica Lin,erica7@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

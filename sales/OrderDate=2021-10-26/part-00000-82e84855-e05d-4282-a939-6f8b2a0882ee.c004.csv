@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58621,2,Devin Flores,devin51@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO58587,4,Anne Dominguez,anne14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58618,2,Megan Cox,megan39@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58612,1,Tonya Shan,tonya10@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO58592,2,J�sus Vazquez,j�sus13@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

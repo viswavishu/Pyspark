@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44322,1,Candace Sai,candace5@adventure-works.com,"Road-650 Red, 48",1,699.0982,55.9279

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54627,2,Eduardo Hernandez,eduardo26@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54610,2,Jared Peterson,jared8@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO54595,3,Walter Torres,walter5@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO54612,1,Jill Martin,jill6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54598,3,Francis Hernandez,francis1@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

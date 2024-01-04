@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51242,3,Jeremy Watson,jeremy32@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO51241,3,Alexa Bell,alexa12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51227,1,Ann Rana,ann16@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO51230,4,Seth Phillips,seth42@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51237,3,Todd Gao,todd14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

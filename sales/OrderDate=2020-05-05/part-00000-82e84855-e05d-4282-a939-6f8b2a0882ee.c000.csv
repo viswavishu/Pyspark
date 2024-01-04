@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46421,1,Summer Raman,summer10@adventure-works.com,"Road-650 Black, 62",1,699.0982,55.9279
+SO46420,1,Ernest Liu,ernest4@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616

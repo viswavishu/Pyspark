@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60086,1,Roy Jimenez,roy26@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60045,2,Rosa Lin,rosa8@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60104,2,Geoffrey Fernandez,geoffrey13@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO60119,1,Tyrone Blanco,tyrone14@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO60112,2,Natalie Mitchell,natalie54@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

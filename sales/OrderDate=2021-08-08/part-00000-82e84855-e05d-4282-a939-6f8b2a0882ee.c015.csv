@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54014,2,Marshall Yang,marshall4@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53990,2,Jorge Zhao,jorge12@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54024,4,Adrian Ramirez,adrian9@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO54035,4,Joanna Sanz,joanna19@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54011,3,Jade James,jade5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

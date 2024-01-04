@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54358,1,Sebastian Stewart,sebastian21@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO54329,2,Ramon Lu,ramon11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54365,1,Orlando Carlson,orlando18@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO54351,2,Peter Sharma,peter15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54323,1,Dominique Chandra,dominique2@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

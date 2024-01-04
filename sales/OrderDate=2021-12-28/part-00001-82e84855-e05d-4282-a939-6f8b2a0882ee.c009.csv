@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62889,1,Isabella Russell,isabella30@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO62918,3,Caleb Campbell,caleb36@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62903,2,Dylan Jenkins,dylan5@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62924,3,Natalie Diaz,natalie44@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62933,4,Damien Ye,damien7@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

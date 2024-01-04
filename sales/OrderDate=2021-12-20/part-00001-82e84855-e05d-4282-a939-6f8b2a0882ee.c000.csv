@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62434,3,Jeffery Sun,jeffery13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62464,3,Jasmine Bryant,jasmine57@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62420,1,Jeremy Clark,jeremy5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62437,3,James Davis,james80@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO62454,2,Jocelyn Coleman,jocelyn6@adventure-works.com,HL Road Tire,1,32.6,2.608

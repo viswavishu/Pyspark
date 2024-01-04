@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62795,1,Chad Jai,chad13@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO62789,1,Diana Sanz,diana19@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62753,1,Karen Liu,karen13@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62807,1,Omar Liu,omar4@adventure-works.com,"Mountain-500 Black, 44",1,539.99,43.1992
+SO62798,2,Jill Martin,jill6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

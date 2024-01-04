@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61092,3,Jamie Suarez,jamie41@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61041,2,Deanna Hernandez,deanna29@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO61085,3,Madeline Parker,madeline7@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO61066,2,Evelyn Arun,evelyn7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61077,4,Sean Reed,sean28@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

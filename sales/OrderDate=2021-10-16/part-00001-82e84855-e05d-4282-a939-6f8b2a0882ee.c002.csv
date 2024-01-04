@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58064,2,Renee Suarez,renee17@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58026,1,Cassie Nara,cassie15@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO58042,2,Kaylee Young,kaylee40@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO58044,1,Marie Moreno,marie30@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO58027,1,Colleen She,colleen24@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

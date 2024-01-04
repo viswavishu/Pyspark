@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58800,1,Hannah Thomas,hannah10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58818,3,Nelson Diaz,nelson3@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58828,1,Karen Zhao,karen20@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO58813,3,Jackson Jai,jackson5@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58816,3,Carla Rana,carla13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

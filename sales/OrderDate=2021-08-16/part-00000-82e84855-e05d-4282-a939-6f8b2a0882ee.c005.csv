@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54446,1,Morgan Parker,morgan6@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54432,1,Rachael Patel,rachael3@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54445,1,Jon Jai,jon7@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54445,3,Jon Jai,jon7@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54438,3,Logan Garcia,logan68@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

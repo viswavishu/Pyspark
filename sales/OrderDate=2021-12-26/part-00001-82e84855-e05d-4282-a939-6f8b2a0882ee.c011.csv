@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62818,2,Laura Lin,laura14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62800,1,Mariah Torres,mariah28@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62807,3,Omar Liu,omar4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62814,2,Barbara Ma,barbara25@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62777,3,Christian White,christian48@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

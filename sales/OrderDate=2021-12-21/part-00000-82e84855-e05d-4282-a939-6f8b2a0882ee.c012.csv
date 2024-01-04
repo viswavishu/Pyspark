@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62512,1,Edwin Zhao,edwin11@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388
+SO62516,1,Cesar Mehta,cesar13@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO62478,1,Reginald Sanz,reginald6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62518,1,Robert Kumar,robert40@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO62479,1,Kelli Becker,kelli43@adventure-works.com,Road Tire Tube,1,3.99,0.3192

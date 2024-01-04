@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54803,3,Chloe White,chloe45@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54772,1,Cassie Sutton,cassie2@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO54818,1,Virginia Arun,virginia8@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO54789,1,Dalton Torres,dalton75@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54795,1,Deborah Anand,deborah22@adventure-works.com,Road Tire Tube,1,3.99,0.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57299,4,Lori Dominguez,lori14@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57279,1,Margaret Zhang,margaret7@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57272,1,Rachel Blue,rachel50@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57295,1,Stacy Navarro,stacy10@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO57268,1,Mary Baker,mary30@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

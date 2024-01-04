@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55078,3,Andy Jim�nez,andy10@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55042,2,Gloria Carlson,gloria19@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55044,3,James Parker,james57@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55068,2,Colleen Liang,colleen17@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO55033,1,Desiree Dominguez,desiree9@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992

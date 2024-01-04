@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55399,1,Barbara Wang,barbara11@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO55390,3,Candice Liang,candice0@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55438,1,Sandra Xu,sandra19@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO55434,1,Shawn Rai,shawn19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55417,1,Michelle Murphy,michelle15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

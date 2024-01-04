@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55178,1,Martin Martinez,martin22@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO55169,2,Nancy Garcia,nancy18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55150,2,Kaitlyn Sanders,kaitlyn67@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55174,2,Andy Gomez,andy6@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO55164,3,Abigail Garcia,abigail57@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

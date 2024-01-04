@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61586,4,Maria Perry,maria31@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61572,3,Hector Alonso,hector6@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO61540,4,Alejandro Yang,alejandro7@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO61543,1,Roger Zhang,roger5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61548,3,Katherine Perry,katherine33@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

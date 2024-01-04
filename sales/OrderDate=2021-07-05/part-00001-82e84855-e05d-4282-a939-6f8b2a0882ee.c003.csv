@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52104,3,Jaime Moreno,jaime48@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52098,3,Dominique Sai,dominique5@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52091,2,Jordan Gonzalez,jordan62@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO52105,2,Christian Hughes,christian26@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52079,2,Rafael Zeng,rafael22@adventure-works.com,HL Road Tire,1,32.6,2.608

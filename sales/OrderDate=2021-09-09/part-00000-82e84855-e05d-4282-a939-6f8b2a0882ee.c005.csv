@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55919,2,Tamara Ma,tamara5@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO55878,1,Gabriel Allen,gabriel53@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55901,2,Shawna Anand,shawna21@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55881,2,Elijah Allen,elijah49@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55906,3,Brooke Ramirez,brooke7@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

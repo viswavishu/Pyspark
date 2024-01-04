@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62613,2,Natalie Jenkins,natalie29@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO62617,4,Amber Hill,amber13@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62587,5,Brandy Rana,brandy7@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO62587,1,Brandy Rana,brandy7@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO62624,2,Louis Xie,louis20@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

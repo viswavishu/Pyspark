@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62150,3,Xavier Mohamed,xavier86@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62138,3,Tonya Andersen,tonya12@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO62137,1,Ashlee Luo,ashlee13@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO62142,2,Colleen West,colleen1@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62151,3,Katherine Rogers,katherine5@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

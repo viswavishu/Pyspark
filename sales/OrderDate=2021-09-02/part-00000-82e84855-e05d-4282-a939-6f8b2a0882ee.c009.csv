@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55488,3,Jose Li,jose20@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55476,1,Jonathan Johnson,jonathan61@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55499,2,Michele Madan,michele63@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO55504,3,Colleen Anand,colleen45@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO55473,1,Jason King,jason47@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

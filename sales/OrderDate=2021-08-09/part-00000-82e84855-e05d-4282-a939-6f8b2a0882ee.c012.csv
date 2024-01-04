@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54055,2,Nicholas Brown,nicholas6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54087,4,Wyatt Roberts,wyatt42@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO54066,2,Adam Perez,adam33@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54094,2,Jaclyn Zhang,jaclyn0@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54052,1,Ariana Sanders,ariana3@adventure-works.com,LL Road Tire,1,21.49,1.7192

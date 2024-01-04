@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60486,1,Isaac Evans,isaac23@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60489,4,Candice Zeng,candice6@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO60493,4,Amanda Cooper,amanda8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60496,1,Ashlee Jai,ashlee18@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO60502,1,George Fernandez,george22@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468

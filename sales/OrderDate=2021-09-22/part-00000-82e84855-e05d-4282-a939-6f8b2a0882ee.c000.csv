@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56586,2,Mindy Jai,mindy16@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56584,2,Jerome Torres,jerome10@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56588,3,Ross Prasad,ross9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56573,2,Nicolas Xu,nicolas3@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56558,2,Thomas Lal,thomas32@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

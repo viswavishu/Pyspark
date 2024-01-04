@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61479,2,Nathaniel Cook,nathaniel22@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO61436,4,Bradley She,bradley3@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61436,1,Bradley She,bradley3@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

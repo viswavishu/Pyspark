@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60874,2,Faith Patterson,faith9@adventure-works.com,HL Mountain Tire,1,35.0,2.8

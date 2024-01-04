@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53916,2,Brenda Perez,brenda25@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53910,3,Ian Harris,ian13@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53882,3,Eduardo Morris,eduardo85@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO53883,1,Krista Alvarez,krista5@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO53901,1,Julia Gonzalez,julia14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

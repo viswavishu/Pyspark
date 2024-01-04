@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59547,1,Kristi Ramos,kristi13@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO59534,3,Rafael Zhang,rafael0@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59515,3,Tyler Garcia,tyler12@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO59549,1,Emma Patterson,emma56@adventure-works.com,"Touring-3000 Yellow, 54",1,742.35,59.388
+SO59568,4,Jocelyn Jenkins,jocelyn7@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

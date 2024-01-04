@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57568,1,Kara Chavez,kara13@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57552,2,Megan Ross,megan54@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57586,2,Brian Watson,brian12@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57535,1,James Flores,james28@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO57554,3,Henry Garcia,henry16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

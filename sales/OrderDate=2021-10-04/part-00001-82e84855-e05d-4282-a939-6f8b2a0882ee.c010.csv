@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57423,4,Austin Lal,austin26@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO57412,2,Savannah Edwards,savannah22@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57427,1,Tina Chandra,tina4@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388
+SO57420,2,Tamara Pal,tamara23@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57379,1,Drew Xie,drew3@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

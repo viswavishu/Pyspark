@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60626,1,Paula Gill,paula16@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO60585,2,Jerome Navarro,jerome8@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO60623,2,Jasmine Robinson,jasmine15@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60607,1,Martin Garcia,martin19@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO60596,1,Angelica Butler,angelica14@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

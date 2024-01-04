@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51587,2,Dana Gill,dana6@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO51588,4,Gerald Rubio,gerald28@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51590,4,Danielle Reed,danielle23@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51592,2,Angela Butler,angela17@adventure-works.com,HL Mountain Tire,1,35.0,2.8

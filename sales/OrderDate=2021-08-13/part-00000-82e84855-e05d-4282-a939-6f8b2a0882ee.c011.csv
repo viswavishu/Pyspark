@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54289,1,Andres Goel,andres16@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54307,2,Meredith Gutierrez,meredith34@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54294,1,Cameron Hughes,cameron6@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54267,1,Edgar Sanchez,edgar21@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO54271,3,Edward Green,edward7@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

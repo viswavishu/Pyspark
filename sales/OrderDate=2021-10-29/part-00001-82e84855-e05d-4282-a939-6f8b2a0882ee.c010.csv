@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58836,3,Nichole Andersen,nichole13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO58794,4,Alexandra Morris,alexandra3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58782,1,Xavier Henderson,xavier46@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58792,2,Hailey Carter,hailey51@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58836,1,Nichole Andersen,nichole13@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256

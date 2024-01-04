@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56690,1,Taylor Jenkins,taylor32@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO56674,1,Ian White,ian12@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56680,2,Lydia Sara,lydia9@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO56659,1,Alvin Nara,alvin37@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56689,1,Giorgio Veronesi,giorgio0@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58208,3,Kaitlyn Thompson,kaitlyn38@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58203,2,Blake Hughes,blake59@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58236,2,Anna Harris,anna51@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58213,1,Aaron Perez,aaron36@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58221,1,Mandy Li,mandy4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60174,1,Angel Campbell,angel29@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO60176,1,Amber Campbell,amber6@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO60137,1,Michael Thomas,michael43@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO60157,2,Karen Wang,karen11@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60156,2,Miranda Gonzales,miranda17@adventure-works.com,HL Mountain Tire,1,35.0,2.8

@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60083,2,Austin Diaz,austin18@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60058,1,Lauren Ward,lauren13@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO60050,2,Billy Suarez,billy19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60115,1,Raymond Prasad,raymond11@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792

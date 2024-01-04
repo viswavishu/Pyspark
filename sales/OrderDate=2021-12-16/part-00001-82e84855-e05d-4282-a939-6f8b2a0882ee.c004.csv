@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62213,2,Rachel Kelly,rachel45@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62228,1,Madison Washington,madison25@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO62184,1,Mariah Perry,mariah12@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62181,3,Alexandra Perez,alexandra54@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO62213,3,Rachel Kelly,rachel45@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

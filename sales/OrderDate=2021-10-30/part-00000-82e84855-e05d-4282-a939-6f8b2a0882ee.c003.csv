@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58887,1,Yolanda Raji,yolanda20@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO58855,3,Richard Jones,richard43@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58853,1,Zoe Cooper,zoe16@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58852,2,Maria Simmons,maria37@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58883,2,Karen Morgan,karen34@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

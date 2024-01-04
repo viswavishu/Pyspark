@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57486,1,Dominique Perez,dominique18@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57485,1,Richard Blue,richard59@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57511,1,Bryant Lopez,bryant16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57488,1,Tanya Gutierrez,tanya7@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO57518,3,Riley Price,riley0@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

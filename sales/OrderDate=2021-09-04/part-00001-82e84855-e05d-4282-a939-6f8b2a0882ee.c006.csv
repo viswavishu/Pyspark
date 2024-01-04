@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55563,1,Jennifer Cooper,jennifer63@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55571,2,Jason Griffin,jason18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55557,1,Christian Gonzales,christian4@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55567,2,Cole Gray,cole8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55558,3,Melinda Hernandez,melinda0@adventure-works.com,"Classic Vest, M",1,63.5,5.08

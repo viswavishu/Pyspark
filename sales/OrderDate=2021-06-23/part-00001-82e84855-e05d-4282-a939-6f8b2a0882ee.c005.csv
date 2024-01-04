@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51549,1,Curtis Lin,curtis7@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO51564,2,Julian Powell,julian10@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO51566,3,Adam Edwards,adam31@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51566,1,Adam Edwards,adam31@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO51564,1,Julian Powell,julian10@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388

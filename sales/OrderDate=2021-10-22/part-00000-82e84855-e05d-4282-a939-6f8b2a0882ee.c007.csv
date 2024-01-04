@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58373,4,Samuel Young,samuel47@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58373,2,Samuel Young,samuel47@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58381,1,Jackson Hayes,jackson24@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58367,1,Alejandro Shan,alejandro37@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58369,1,Olivia Lewis,olivia20@adventure-works.com,HL Road Tire,1,32.6,2.608

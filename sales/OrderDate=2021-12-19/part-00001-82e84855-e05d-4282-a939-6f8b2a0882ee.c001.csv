@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62370,2,Gina Serrano,gina17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62367,1,Cedric Rai,cedric36@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO62380,3,Jeremy Young,jeremy8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62364,4,Joe Gonzalez,joe21@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO62355,1,Ashley Jackson,ashley12@adventure-works.com,Touring Tire,1,28.99,2.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54573,1,Sophia Wright,sophia18@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO54545,1,Bryan Howard,bryan12@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO54543,2,Maria Sanders,maria22@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54582,4,Gabriella Sanders,gabriella1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54549,3,Isabelle Ross,isabelle4@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

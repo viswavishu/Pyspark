@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51420,3,Ruben Kapoor,ruben1@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO51412,2,Kristi Mehta,kristi31@adventure-works.com,HL Road Tire,1,32.6,2.608

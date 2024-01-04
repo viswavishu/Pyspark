@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54732,2,Richard Watson,richard80@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54733,1,Jordan Li,jordan22@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54729,1,Kaitlyn Adams,kaitlyn13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54733,2,Jordan Li,jordan22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54754,4,Julia Garcia,julia38@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

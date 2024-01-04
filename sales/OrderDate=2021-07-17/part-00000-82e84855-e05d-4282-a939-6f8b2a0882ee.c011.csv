@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52725,3,Kaitlyn Henderson,kaitlyn72@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52708,1,Mason Roberts,mason25@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52705,3,Melinda Romero,melinda4@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO52699,4,Alberto Gutierrez,alberto12@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52699,1,Alberto Gutierrez,alberto12@adventure-works.com,HL Mountain Tire,1,35.0,2.8

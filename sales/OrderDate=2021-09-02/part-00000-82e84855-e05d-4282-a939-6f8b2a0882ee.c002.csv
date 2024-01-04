@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55465,2,Samantha Simmons,samantha38@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO55462,4,Jasmine Powell,jasmine48@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO55479,1,Erick Martinez,erick17@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO55456,2,Kaitlin Schmidt,kaitlin10@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55461,1,Tiffany Zhang,tiffany0@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

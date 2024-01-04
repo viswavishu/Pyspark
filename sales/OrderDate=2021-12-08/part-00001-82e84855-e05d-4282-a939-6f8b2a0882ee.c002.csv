@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61704,1,Caleb Gonzales,caleb14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61719,2,Jerry Sharma,jerry10@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61730,1,Jessie Ramos,jessie36@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO61706,1,Madeline Collins,madeline2@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61705,1,Samuel Green,samuel45@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

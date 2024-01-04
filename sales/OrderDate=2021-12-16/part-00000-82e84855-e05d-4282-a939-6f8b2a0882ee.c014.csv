@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62182,1,Logan Young,logan43@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO62190,2,Anna Brown,anna65@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62198,1,John Lee,john56@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62175,1,Casey Shan,casey11@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO62204,2,Kelly Washington,kelly18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

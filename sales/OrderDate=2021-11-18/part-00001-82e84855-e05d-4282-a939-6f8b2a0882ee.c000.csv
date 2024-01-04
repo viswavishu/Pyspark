@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60321,2,Katrina Tang,katrina3@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO60339,1,Hannah Thompson,hannah13@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60370,2,Gregory Becker,gregory24@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60344,1,Destiny Price,destiny48@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO60370,3,Gregory Becker,gregory24@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

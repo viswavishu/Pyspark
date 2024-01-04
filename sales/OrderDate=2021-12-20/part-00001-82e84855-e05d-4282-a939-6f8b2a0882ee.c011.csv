@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62457,1,Seth Russell,seth68@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO62453,1,Katie Nath,katie21@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO62425,4,Patricia Srini,patricia12@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO62408,4,Ryan Garcia,ryan52@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62408,3,Ryan Garcia,ryan52@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

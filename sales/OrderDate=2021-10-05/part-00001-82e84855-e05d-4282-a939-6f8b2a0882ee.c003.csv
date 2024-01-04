@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57435,1,Katie Sharma,katie12@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO57472,3,Leslie Dominguez,leslie13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57458,1,Robert Lal,robert41@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57437,1,Sydney Watson,sydney19@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO57464,3,Madeline Baker,madeline15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

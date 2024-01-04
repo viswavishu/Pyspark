@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58890,1,Stanley Madan,stanley8@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO58880,1,Dalton Bennett,dalton46@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58872,1,Hunter Henderson,hunter1@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58845,8,Peter She,peter8@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO58852,1,Maria Simmons,maria37@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60591,1,Julia Hill,julia19@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO60580,1,Sierra Young,sierra15@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60630,1,Kyle Patterson,kyle5@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO60630,2,Kyle Patterson,kyle5@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO60617,1,Isabella Kelly,isabella9@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

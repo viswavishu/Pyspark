@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62680,1,Derrick Romero,derrick9@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO62666,1,Lauren Butler,lauren61@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO62642,1,Julian Henderson,julian6@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO62644,2,Katherine Cox,katherine14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62662,4,Connor Edwards,connor30@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

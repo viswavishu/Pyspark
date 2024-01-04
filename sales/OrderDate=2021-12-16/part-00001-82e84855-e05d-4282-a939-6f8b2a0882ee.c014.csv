@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62226,1,Morgan King,morgan16@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO62220,1,Clarence Wu,clarence2@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO62232,1,Karl Xu,karl5@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO62199,1,Jonathon Alvarez,jonathon1@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO62202,1,Andre Lopez,andre16@adventure-works.com,LL Road Tire,1,21.49,1.7192

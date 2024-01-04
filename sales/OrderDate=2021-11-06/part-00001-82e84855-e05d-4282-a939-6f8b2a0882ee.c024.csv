@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59562,1,Lucas Harris,lucas27@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59495,2,Jenny Liang,jenny18@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO59499,1,Grant Tang,grant6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59564,1,Jessica Lewis,jessica69@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO59574,3,Bailey Gray,bailey4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

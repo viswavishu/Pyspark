@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54208,1,Hailey Collins,hailey45@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54242,3,Audrey Ramos,audrey19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54220,2,Nathaniel Brooks,nathaniel2@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO54194,1,Warren Yang,warren22@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54224,1,Warren Xie,warren38@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

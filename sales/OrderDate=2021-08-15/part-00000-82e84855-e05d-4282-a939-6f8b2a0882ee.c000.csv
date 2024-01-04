@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54417,1,Hailey Adams,hailey55@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO54398,1,Fernando Brown,fernando4@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54421,4,Margaret Lu,margaret17@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO54390,1,Andrea Evans,andrea24@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54378,1,Ann Rodriguez,ann24@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

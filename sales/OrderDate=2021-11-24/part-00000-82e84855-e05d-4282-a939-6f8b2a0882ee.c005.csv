@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60718,3,Emma Gonzales,emma63@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60750,1,Aaron Nelson,aaron42@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388
+SO60759,2,Bryan Rogers,bryan20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60735,1,Sarah Jackson,sarah14@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO60757,2,Marc Ortega,marc26@adventure-works.com,"Classic Vest, L",1,63.5,5.08

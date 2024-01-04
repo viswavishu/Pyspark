@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55161,1,Jennifer Diaz,jennifer95@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55143,1,Sebastian Reed,sebastian19@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO55164,2,Abigail Garcia,abigail57@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55176,3,Julio Ortega,julio23@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55173,1,Chloe Jenkins,chloe73@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592

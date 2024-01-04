@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53659,1,Kevin Edwards,kevin38@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO53660,1,Bryce Morris,bryce17@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO53645,2,Phillip Fernandez,phillip17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53661,1,Melinda Serrano,melinda11@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO53644,1,Isabella Peterson,isabella4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

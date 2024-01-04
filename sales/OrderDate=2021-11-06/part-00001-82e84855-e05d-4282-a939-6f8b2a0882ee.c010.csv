@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59509,2,Frederick Perez,frederick18@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO59513,1,Faith Bryant,faith17@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO59536,1,Jocelyn Alexander,jocelyn18@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59565,4,Casey Andersen,casey14@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59500,2,Jorge Ma,jorge18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

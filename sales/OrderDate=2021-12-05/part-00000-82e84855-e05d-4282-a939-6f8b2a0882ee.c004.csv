@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61527,1,Jose Thompson,jose77@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO61519,1,Holly Mehta,holly13@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO61529,1,Anthony Rodriguez,anthony6@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO61496,2,Arturo Sun,arturo14@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO61487,1,Terrance Lopez,terrance14@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

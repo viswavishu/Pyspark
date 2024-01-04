@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54187,1,Randy Zhao,randy12@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO54186,4,Micah Sun,micah0@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54244,4,Anthony Taylor,anthony18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54227,2,Emmanuel Rana,emmanuel10@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54236,1,Lacey Zhang,lacey12@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792

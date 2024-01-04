@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53638,1,Wyatt Edwards,wyatt47@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO53631,3,Nathan Gonzales,nathan13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53650,2,Lacey Rai,lacey7@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53651,2,Devin Simmons,devin53@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53637,2,Madeline Evans,madeline0@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

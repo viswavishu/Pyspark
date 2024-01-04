@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56534,1,Erin Bailey,erin20@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO56500,3,Destiny Stewart,destiny23@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56523,5,Angelica Washington,angelica13@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO56501,4,Gavin Hughes,gavin11@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56519,1,Martha Wu,martha6@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

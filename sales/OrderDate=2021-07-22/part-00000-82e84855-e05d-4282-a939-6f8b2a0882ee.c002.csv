@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52943,2,Max Jimenez,max6@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO52947,1,Stanley Fernandez,stanley17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52962,1,Megan Griffin,megan68@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO52958,1,Sebastian James,sebastian0@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO52939,2,Wyatt Evans,wyatt46@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

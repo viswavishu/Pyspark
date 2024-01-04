@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52474,2,Micheal Blanco,micheal11@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52477,1,Brittany Coleman,brittany5@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52509,1,Jose Hall,jose83@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52469,1,Latoya Xu,latoya4@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO52475,1,Cara Ma,cara11@adventure-works.com,LL Road Tire,1,21.49,1.7192

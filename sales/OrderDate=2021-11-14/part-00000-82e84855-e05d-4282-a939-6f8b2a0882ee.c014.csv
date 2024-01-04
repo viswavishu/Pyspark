@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60114,1,Christopher Brown,christopher4@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO60122,1,Pamela Rodriguez,pamela22@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388
+SO60110,2,Emma Stewart,emma24@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60083,1,Austin Diaz,austin18@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60072,3,Miranda Wood,miranda2@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61639,4,Colin Yang,colin5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61654,2,Ann Gonzalez,ann23@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO61641,1,Zachary Thompson,zachary46@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO61638,1,Kristen Ye,kristen8@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188

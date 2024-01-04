@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60788,2,Jocelyn Ross,jocelyn4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60783,3,Derek Nath,derek16@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60779,4,Luis Diaz,luis21@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO60805,3,Margaret Chen,margaret9@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60819,2,Hunter King,hunter43@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

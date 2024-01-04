@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53331,1,Joe Vazquez,joe38@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO53343,2,Clarence Raji,clarence35@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53323,2,Arturo Nara,arturo42@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53292,1,Felicia Martin,felicia0@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO53321,4,Meagan Patel,meagan3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

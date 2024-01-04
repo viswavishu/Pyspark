@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51396,1,Preston Rodriguez,preston17@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO51396,3,Preston Rodriguez,preston17@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO51396,2,Preston Rodriguez,preston17@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO51397,1,Elijah Russell,elijah21@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO51391,1,Kelsey Rai,kelsey16@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468

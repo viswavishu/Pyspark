@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51531,2,Jerome Romero,jerome7@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51541,3,Roger Wu,roger11@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51541,1,Roger Wu,roger11@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO51540,1,Amanda Simmons,amanda36@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO51532,2,Ebony Suri,ebony0@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

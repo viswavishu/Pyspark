@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61524,2,Cheryl Gutierrez,cheryl13@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61499,3,Charles Jackson,charles15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61499,1,Charles Jackson,charles15@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO61510,2,Jorge Li,jorge4@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61537,1,Jenny He,jenny20@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392

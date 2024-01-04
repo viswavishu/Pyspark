@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56529,1,Stanley Lopez,stanley18@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO56509,2,Brianna Smith,brianna0@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56497,3,Alexis Wilson,alexis6@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56523,2,Angelica Washington,angelica13@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56483,2,Rachel Reed,rachel31@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57534,1,Jacquelyn Blanco,jacquelyn16@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO57570,2,James Clark,james92@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57558,1,Jermaine Madan,jermaine6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57536,1,Levi Arun,levi6@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57537,4,Jimmy Blanco,jimmy19@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

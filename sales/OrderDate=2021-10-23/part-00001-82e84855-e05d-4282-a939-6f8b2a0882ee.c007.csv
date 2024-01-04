@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58418,1,Timothy Gonzalez,timothy34@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58416,3,Rosa Hu,rosa20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58425,3,Grant Tang,grant6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58436,3,Logan Foster,logan17@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO58438,1,Jada Cooper,jada9@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

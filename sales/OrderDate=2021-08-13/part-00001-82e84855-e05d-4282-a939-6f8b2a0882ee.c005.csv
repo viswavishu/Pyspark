@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54293,3,Molly Rodriguez,molly18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54308,5,Tristan Bennett,tristan1@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54313,1,Summer Rodriguez,summer17@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO54308,1,Tristan Bennett,tristan1@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO54300,5,Nathan Jenkins,nathan2@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

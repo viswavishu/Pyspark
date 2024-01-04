@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58552,3,Ana Perry,ana7@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO58544,1,Edgar Prasad,edgar10@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58572,2,Cesar Sara,cesar9@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58552,1,Ana Perry,ana7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58542,1,Michele Suarez,michele53@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

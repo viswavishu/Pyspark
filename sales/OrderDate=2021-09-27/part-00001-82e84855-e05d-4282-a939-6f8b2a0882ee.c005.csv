@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56801,1,Tiffany Zhang,tiffany0@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56797,3,Kevin Simmons,kevin18@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56820,1,Sydney Ramirez,sydney17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56843,3,Candice Sun,candice19@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56836,1,Angela Perry,angela10@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

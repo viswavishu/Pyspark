@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58141,2,Jon Chander,jon12@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58154,3,Cindy Murphy,cindy24@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58163,2,Ross Navarro,ross28@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58142,1,Jenny Zhou,jenny11@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO58148,2,Kaylee Hall,kaylee45@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

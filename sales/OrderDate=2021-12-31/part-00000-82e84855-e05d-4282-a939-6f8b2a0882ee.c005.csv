@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63093,1,Rebekah Martin,rebekah20@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO63103,2,Mariah Rivera,mariah41@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO63093,2,Rebekah Martin,rebekah20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO63100,4,Morgan Wilson,morgan30@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO63080,3,Angel Cook,angel20@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

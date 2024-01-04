@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57917,1,Michelle Sanders,michelle5@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57946,1,Eric Baker,eric50@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO57932,1,Sheila Martin,sheila0@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57930,2,Julio Gomez,julio0@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57949,3,Joel Schmidt,joel9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

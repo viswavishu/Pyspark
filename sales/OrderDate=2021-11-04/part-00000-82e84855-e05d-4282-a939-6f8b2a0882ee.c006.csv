@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59378,4,Miranda Powell,miranda8@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59349,1,Brooke Ramirez,brooke7@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO59345,1,Glenn She,glenn24@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59402,1,Carmen Subram,carmen16@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO59386,1,Krystal Liang,krystal17@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388

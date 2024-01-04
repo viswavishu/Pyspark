@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56216,1,Shawna Andersen,shawna14@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO56220,2,Jack Shan,jack32@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO56205,3,Amanda Morgan,amanda4@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56222,3,Hannah Diaz,hannah43@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56190,3,Orlando Jim�nez,orlando6@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

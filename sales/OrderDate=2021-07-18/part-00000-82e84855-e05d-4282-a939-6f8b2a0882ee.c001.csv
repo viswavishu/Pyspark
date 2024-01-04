@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52738,1,Anna Gray,anna19@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52744,2,Stephanie Cook,stephanie8@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52761,2,Christopher Johnson,christopher25@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52735,2,Miguel Simmons,miguel61@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52732,1,Dominic Fernandez,dominic16@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

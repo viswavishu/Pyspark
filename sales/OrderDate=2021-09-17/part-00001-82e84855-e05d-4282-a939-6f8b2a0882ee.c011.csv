@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56287,1,Allison Howard,allison10@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56297,2,Kyle Wright,kyle47@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56292,2,Melissa Foster,melissa11@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO56294,1,Rafael Huang,rafael6@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO56313,5,Katherine Collins,katherine51@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

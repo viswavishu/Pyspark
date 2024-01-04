@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60408,2,Kristina Rana,kristina11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60400,1,Nicole Martinez,nicole17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60429,2,Gloria Alonso,gloria8@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60411,1,Arturo Li,arturo3@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60426,1,Ronnie Lu,ronnie9@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468

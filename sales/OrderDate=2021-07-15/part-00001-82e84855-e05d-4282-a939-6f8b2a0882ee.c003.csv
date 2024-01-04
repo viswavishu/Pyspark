@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52611,1,Bailey Lopez,bailey41@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO52579,1,Mallory Rubio,mallory7@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52607,3,Pedro Torres,pedro32@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO52581,3,Kristy Navarro,kristy9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52577,3,Deanna Gutierrez,deanna37@adventure-works.com,HL Mountain Tire,1,35.0,2.8

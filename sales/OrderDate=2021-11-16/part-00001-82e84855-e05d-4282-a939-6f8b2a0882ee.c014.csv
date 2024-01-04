@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60220,2,Manuel Subram,manuel11@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60209,1,Johnny Sharma,johnny10@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO60231,2,Emmanuel Smith,emmanuel8@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60199,1,Jonathan Patterson,jonathan10@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60230,3,Mario Rai,mario16@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

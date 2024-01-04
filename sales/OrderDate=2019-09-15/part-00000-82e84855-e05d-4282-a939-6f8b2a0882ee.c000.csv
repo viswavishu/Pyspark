@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44403,1,Emma Murphy,emma32@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992

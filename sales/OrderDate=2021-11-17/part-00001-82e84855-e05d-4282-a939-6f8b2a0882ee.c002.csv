@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60300,2,Isabelle Bryant,isabelle16@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60313,1,Dominique Saunders,dominique8@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO60263,1,Isabella Powell,isabella19@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO60270,1,Lucas Bailey,lucas87@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO60251,2,Kate Anand,kate19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

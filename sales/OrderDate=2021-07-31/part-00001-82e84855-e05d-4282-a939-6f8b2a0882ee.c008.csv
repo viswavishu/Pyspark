@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53410,1,Lauren Bryant,lauren64@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53408,2,Jay Patel,jay9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53420,3,Eric Hill,eric54@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO53426,4,Louis Xu,louis6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53428,3,Victor Alvarez,victor6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

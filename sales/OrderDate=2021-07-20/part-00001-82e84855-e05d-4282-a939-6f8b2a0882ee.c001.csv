@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52853,1,Destiny Flores,destiny60@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52873,3,Marissa Price,marissa19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52876,2,Ian Scott,ian28@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52850,2,Morgan Smith,morgan23@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52858,1,Frederick Sanchez,frederick17@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

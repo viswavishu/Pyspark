@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51230,1,Seth Phillips,seth42@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO51240,1,Megan Anderson,megan13@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO51231,2,Jacqueline Powell,jacqueline9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

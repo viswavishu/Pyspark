@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61782,4,Meghan Sanz,meghan19@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61779,1,Nicholas Jackson,nicholas12@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO61744,2,Richard Reed,richard101@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61761,1,Joan Ross,joan8@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO61772,2,Tanya Munoz,tanya3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

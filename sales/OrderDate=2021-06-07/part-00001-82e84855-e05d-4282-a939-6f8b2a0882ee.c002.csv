@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51297,2,Casey Diaz,casey26@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO51298,1,Jason Russell,jason17@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO51291,2,Jennifer Roberts,jennifer15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51286,4,Carl Beck,carl19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51289,2,Lucas Phillips,lucas7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

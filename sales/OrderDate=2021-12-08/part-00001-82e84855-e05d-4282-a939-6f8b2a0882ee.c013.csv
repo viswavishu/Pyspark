@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61691,1,Angel Scott,angel38@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO61713,2,Jennifer Peterson,jennifer68@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61662,1,Clayton Xu,clayton25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61674,2,Henry Garcia,henry16@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61707,1,Kyle Zhang,kyle19@adventure-works.com,HL Mountain Tire,1,35.0,2.8

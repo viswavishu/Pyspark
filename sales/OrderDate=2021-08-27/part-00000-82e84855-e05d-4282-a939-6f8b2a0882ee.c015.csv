@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55085,2,Isaiah Ramirez,isaiah6@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55084,2,Kaylee Cook,kaylee18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55078,2,Andy Jim�nez,andy10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

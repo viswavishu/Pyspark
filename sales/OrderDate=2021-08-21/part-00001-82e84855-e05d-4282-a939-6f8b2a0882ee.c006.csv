@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54756,1,Gabriel Gonzales,gabriel14@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO54762,1,Susan Liu,susan13@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO54735,1,Andrew Smith,andrew9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54724,2,Joel Sai,joel5@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54716,3,Jaclyn Yuan,jaclyn30@adventure-works.com,ML Road Tire,1,24.99,1.9992

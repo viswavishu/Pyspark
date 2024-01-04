@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54384,2,Wayne Pal,wayne14@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54379,3,Jason Griffin,jason18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54414,2,Erin Torres,erin8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54377,4,Ashlee Xu,ashlee12@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54402,1,Jaclyn Zhu,jaclyn15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

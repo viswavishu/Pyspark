@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62922,1,Mackenzie Adams,mackenzie36@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO62941,3,Lucas Mitchell,lucas3@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO62924,4,Natalie Diaz,natalie44@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO62888,1,Megan Rodriguez,megan23@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62941,1,Lucas Mitchell,lucas3@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392

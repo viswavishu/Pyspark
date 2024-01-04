@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52084,1,Jeremiah Johnson,jeremiah25@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52094,1,Damien Zhao,damien8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52094,2,Damien Zhao,damien8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52072,1,Micheal Blanco,micheal11@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52081,1,Paige Russell,paige19@adventure-works.com,HL Road Tire,1,32.6,2.608

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55978,1,Mario Nath,mario17@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO55984,1,Greg Russell,greg7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55998,1,Marco Kapoor,marco1@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO55973,1,Leonard Nara,leonard18@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55983,1,Alexandra Gray,alexandra17@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

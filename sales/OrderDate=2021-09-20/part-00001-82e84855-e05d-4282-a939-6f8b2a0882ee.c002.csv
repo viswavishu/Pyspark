@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56431,1,Kurt Xie,kurt2@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56479,1,Haley Washington,haley32@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO56462,1,Theodore Gomez,theodore1@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56435,1,Jonathan Russell,jonathan19@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56442,3,Shawna Jai,shawna12@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

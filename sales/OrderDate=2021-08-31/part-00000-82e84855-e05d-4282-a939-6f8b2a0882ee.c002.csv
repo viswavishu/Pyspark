@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55354,1,Arthur Torres,arthur36@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55375,1,Maria Cooper,maria11@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO55366,2,Kari Fernandez,kari16@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO55368,4,Victoria Wood,victoria50@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55333,1,Angel Richardson,angel9@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

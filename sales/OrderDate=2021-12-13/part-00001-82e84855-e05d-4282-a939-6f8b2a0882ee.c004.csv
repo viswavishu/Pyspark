@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61991,3,Richard Russell,richard75@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62005,1,Alex Carter,alex39@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO62010,2,Rebekah Suarez,rebekah39@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61999,2,Marshall Wang,marshall0@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61982,2,Brandy Chandra,brandy20@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

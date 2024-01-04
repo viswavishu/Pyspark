@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56960,2,Raymond Malhotra,raymond6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56990,5,Clayton She,clayton20@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57004,3,Ernest Wu,ernest6@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56980,3,Alexandra Smith,alexandra92@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56995,2,Olivia Garcia,olivia15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

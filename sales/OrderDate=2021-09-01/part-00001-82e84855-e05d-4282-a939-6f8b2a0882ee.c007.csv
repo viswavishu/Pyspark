@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55450,1,Devin Russell,devin57@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO55431,1,Andrea Rogers,andrea19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55426,2,Tabitha Suri,tabitha0@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55398,3,Gerald Gomez,gerald9@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO55436,1,Morgan Sanchez,morgan47@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

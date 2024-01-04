@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55856,3,Destiny Rogers,destiny26@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO55865,1,Heather Sun,heather12@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO55835,1,Carol Simmons,carol21@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55865,2,Heather Sun,heather12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55814,1,Stacey Li,stacey3@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188

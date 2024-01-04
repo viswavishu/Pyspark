@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61837,6,Noah Scott,noah42@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO61835,1,Natalie Rogers,natalie3@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO61789,1,Marc Carlson,marc22@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO61814,3,Amber Mitchell,amber11@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO61837,3,Noah Scott,noah42@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

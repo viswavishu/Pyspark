@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52576,2,Carmen Rana,carmen14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52575,3,Desiree Suarez,desiree15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52575,2,Desiree Suarez,desiree15@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52535,1,Mason Roberts,mason25@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52524,1,Xavier Rogers,xavier87@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

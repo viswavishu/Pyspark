@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58068,1,Angelica Coleman,angelica5@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO58053,1,Isabella Lopez,isabella52@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58066,2,Jay Arthur,jay13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58059,3,Rodney Moreno,rodney2@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58024,1,Carl Chande,carl14@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

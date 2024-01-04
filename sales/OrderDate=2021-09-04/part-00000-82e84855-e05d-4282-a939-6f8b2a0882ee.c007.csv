@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55597,1,Victoria Butler,victoria61@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO55581,2,Jackson Scott,jackson44@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55556,1,Janelle Sanchez,janelle17@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO55596,1,Abigail Hughes,abigail66@adventure-works.com,"Mountain-500 Silver, 48",1,564.99,45.1992
+SO55580,2,Isabelle Ross,isabelle4@adventure-works.com,"Classic Vest, M",1,63.5,5.08

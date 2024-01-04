@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51529,3,Carolyn Suarez,carolyn40@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51534,2,Jason Wright,jason46@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51537,2,Tyler Martinez,tyler15@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51529,4,Carolyn Suarez,carolyn40@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51531,1,Jerome Romero,jerome7@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

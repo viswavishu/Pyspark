@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61844,2,Jessica Walker,jessica71@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61784,1,Rafael Rai,rafael41@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61817,2,Shawn Lal,shawn10@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61854,2,Lydia Subram,lydia12@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO61836,3,Ricardo Black,ricardo19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

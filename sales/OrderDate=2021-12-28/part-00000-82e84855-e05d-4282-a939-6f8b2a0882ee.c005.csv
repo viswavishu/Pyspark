@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62938,2,Katherine Mitchell,katherine59@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62910,2,Michele Suri,michele55@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62894,2,Xavier Bennett,xavier64@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO62914,3,J�sus Dominguez,j�sus11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62933,3,Damien Ye,damien7@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

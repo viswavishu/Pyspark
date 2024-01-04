@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56805,2,Kari Blanco,kari36@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56804,4,Cynthia Gonzalez,cynthia24@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO56837,1,Joseph Martin,joseph21@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO56825,3,Lance Munoz,lance7@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO56822,1,Victor Rubio,victor21@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

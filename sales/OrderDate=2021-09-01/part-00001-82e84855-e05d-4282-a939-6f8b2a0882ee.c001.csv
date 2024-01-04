@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55395,2,Randall Romero,randall10@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO55388,1,Amber Carter,amber10@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55403,1,Dylan Lee,dylan52@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55390,1,Candice Liang,candice0@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55424,2,Dawn Wang,dawn2@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

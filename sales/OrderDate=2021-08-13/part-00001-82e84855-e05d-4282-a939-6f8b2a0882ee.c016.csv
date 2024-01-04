@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54291,1,Kyle Scott,kyle43@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54305,4,Nicole Bailey,nicole33@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54310,2,Kaitlyn Howard,kaitlyn58@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO54257,1,Eddie Gill,eddie14@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54269,2,Jasmine Powell,jasmine48@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

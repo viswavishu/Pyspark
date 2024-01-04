@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45371,1,Jaime Alonso,jaime9@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45376,1,Edgar Mehta,edgar15@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO45375,1,Allen Fernandez,allen14@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45372,1,Jarred Gill,jarred1@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992

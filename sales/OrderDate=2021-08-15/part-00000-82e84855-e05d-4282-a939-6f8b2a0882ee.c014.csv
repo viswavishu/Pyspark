@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54400,2,Rafael Liu,rafael4@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

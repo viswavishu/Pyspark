@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56145,3,Armando Schmidt,armando20@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

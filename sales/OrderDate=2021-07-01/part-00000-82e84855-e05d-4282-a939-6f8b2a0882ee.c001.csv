@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51899,1,Jillian Lopez,jillian17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51878,1,Jaclyn Andersen,jaclyn37@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO51888,2,Brian Rogers,brian31@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51913,4,Holly Sanchez,holly18@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO51911,2,Seth Brooks,seth74@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

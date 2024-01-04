@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61958,3,Christy Sun,christy11@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO61925,1,Tanya Blanco,tanya12@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO61924,2,Nathaniel Ward,nathaniel13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61932,3,Katherine Parker,katherine56@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61954,2,Casey Alvarez,casey28@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

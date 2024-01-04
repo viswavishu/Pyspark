@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51267,5,Jon Gao,jon35@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51267,3,Jon Gao,jon35@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51265,1,Eduardo Martin,eduardo13@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO51267,4,Jon Gao,jon35@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51264,4,Christian Thomas,christian46@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

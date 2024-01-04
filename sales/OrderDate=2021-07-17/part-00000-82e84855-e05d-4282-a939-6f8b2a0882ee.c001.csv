@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52715,2,Chloe Miller,chloe39@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52722,3,Arianna Price,arianna0@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO52677,1,Gabriel Alexander,gabriel16@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52719,1,Carla Lopez,carla19@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO52723,1,Ronnie Sun,ronnie11@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

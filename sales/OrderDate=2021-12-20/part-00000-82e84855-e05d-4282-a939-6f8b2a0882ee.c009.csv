@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62456,1,Jaime Mu�oz,jaime8@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO62412,3,Nancy Chapman,nancy7@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62429,3,Lindsay Jai,lindsay11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62419,1,Michael White,michael44@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62434,5,Jeffery Sun,jeffery13@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

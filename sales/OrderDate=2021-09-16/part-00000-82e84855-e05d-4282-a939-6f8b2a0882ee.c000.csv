@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56241,1,Micah Yang,micah15@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56262,2,Meghan Alan,meghan4@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO56237,1,Luis Roberts,luis37@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56257,1,Jill Alonso,jill16@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO56254,2,Xavier Ross,xavier45@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

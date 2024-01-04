@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55650,3,Caleb Jenkins,caleb3@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55649,2,Dale Rai,dale15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55650,1,Caleb Jenkins,caleb3@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO55667,1,George Sanchez,george27@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO55651,4,Jill Ruiz,jill9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

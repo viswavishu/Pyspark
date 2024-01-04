@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60019,2,Darren Blanco,darren38@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59984,2,Melody Diaz,melody3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60034,1,Bryce Cox,bryce9@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO60041,1,Chelsea Madan,chelsea8@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO60027,1,Richard Robinson,richard12@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53354,2,Suzanne Zhang,suzanne1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53386,3,Caleb Flores,caleb9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53381,2,Jimmy Martin,jimmy2@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO53395,2,Brooke Travers,brooke4@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53361,3,Jonathan Edwards,jonathan31@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

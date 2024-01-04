@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54241,3,Dorothy Robinson,dorothy3@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO54202,1,Jill Hernandez,jill11@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54220,3,Nathaniel Brooks,nathaniel2@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54233,4,Wyatt White,wyatt13@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54199,2,Stacey Zhou,stacey9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

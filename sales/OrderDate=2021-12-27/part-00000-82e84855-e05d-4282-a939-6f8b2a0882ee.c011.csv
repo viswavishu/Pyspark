@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62855,2,Thomas White,thomas74@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62834,2,Nancy Chapman,nancy7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62873,3,Marc Torres,marc15@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO62865,2,Diana Alvarez,diana3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62830,3,Russell Xie,russell7@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

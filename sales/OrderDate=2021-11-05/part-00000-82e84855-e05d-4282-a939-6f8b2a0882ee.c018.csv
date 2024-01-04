@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59482,2,Kelvin Lal,kelvin5@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO59478,1,Brent Chen,brent2@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO59426,2,Edward Gonzales,edward65@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59463,2,Alex Cooper,alex12@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59455,2,Kelli Tang,kelli27@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52161,2,Meredith Raman,meredith11@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52175,4,Derrick Alonso,derrick8@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO52191,1,Natalie Hall,natalie90@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52209,3,Calvin Kumar,calvin8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52193,1,Brandon Russell,brandon17@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

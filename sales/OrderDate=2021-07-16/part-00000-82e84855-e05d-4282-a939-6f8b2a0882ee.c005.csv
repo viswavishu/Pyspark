@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52643,4,Dwayne Gomez,dwayne1@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52653,4,Brandy Suri,brandy18@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52627,2,Abigail Lewis,abigail62@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52617,1,Courtney Hernandez,courtney14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52632,2,Fernando Lewis,fernando19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55670,2,Kathryn Chapman,kathryn14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55621,2,Cameron Brown,cameron45@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO55662,3,Sara Murphy,sara16@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55635,2,Tristan Coleman,tristan6@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55628,1,Robert Gonzalez,robert51@adventure-works.com,HL Road Tire,1,32.6,2.608

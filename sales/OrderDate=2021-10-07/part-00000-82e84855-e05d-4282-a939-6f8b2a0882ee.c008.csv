@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57564,2,Arturo Zeng,arturo24@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57564,1,Arturo Zeng,arturo24@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57592,4,Alfredo Hernandez,alfredo5@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57549,1,Alexandria Alexander,alexandria19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57572,1,Alexandra Washington,alexandra36@adventure-works.com,HL Mountain Tire,1,35.0,2.8

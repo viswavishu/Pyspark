@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54909,1,Brendan She,brendan0@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54920,2,Xavier Young,xavier23@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54912,1,Ross Madan,ross7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54902,1,Shelby Rivera,shelby17@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO54924,2,Justin Thompson,justin43@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

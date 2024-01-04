@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56783,3,Joe Sanz,joe43@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO56778,2,Mayra Sanchez,mayra19@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56792,4,Theodore Romero,theodore9@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO56780,1,Katherine Bailey,katherine10@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56760,1,Kevin Yang,kevin30@adventure-works.com,Road Tire Tube,1,3.99,0.3192

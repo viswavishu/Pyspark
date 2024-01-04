@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56855,1,Harold Garcia,harold12@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO56894,4,Garrett Sanchez,garrett22@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56894,1,Garrett Sanchez,garrett22@adventure-works.com,"Mountain-500 Silver, 48",1,564.99,45.1992
+SO56853,3,Carolyn Gill,carolyn34@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO56859,1,Kristin She,kristin2@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

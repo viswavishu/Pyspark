@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60726,2,Katherine Powell,katherine34@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60748,1,Mariah Patterson,mariah15@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388
+SO60755,1,Olivia Johnson,olivia1@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO60719,1,Micheal Ramos,micheal13@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO60721,1,Meredith Suri,meredith0@adventure-works.com,LL Road Tire,1,21.49,1.7192

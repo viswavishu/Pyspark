@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59813,1,Katrina Chande,katrina13@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO59829,3,Robin Alvarez,robin2@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59798,1,Fernando Rodriguez,fernando18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59775,4,James Diaz,james37@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO59767,1,Abigail Murphy,abigail10@adventure-works.com,Road Tire Tube,1,3.99,0.3192

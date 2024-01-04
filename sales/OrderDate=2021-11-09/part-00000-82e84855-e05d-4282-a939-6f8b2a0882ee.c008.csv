@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59741,1,Kristen Wang,kristen1@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59739,1,Crystal Zhu,crystal15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59742,3,Colleen Gao,colleen15@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59726,3,Carolyn Suri,carolyn1@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO59736,1,Raymond Sai,raymond7@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51462,2,Maurice Jai,maurice12@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO51457,2,Francisco Suri,francisco1@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO51463,1,Kaylee Morgan,kaylee19@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO51459,1,Virginia Suri,virginia1@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792

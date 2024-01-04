@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52735,4,Miguel Simmons,miguel61@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO52772,3,Cassie She,cassie0@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52775,1,Cara Lin,cara4@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO52772,1,Cassie She,cassie0@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO52774,1,Isabella Ward,isabella2@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256

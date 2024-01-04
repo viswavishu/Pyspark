@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51265,3,Eduardo Martin,eduardo13@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

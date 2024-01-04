@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55451,2,Kelsey Nara,kelsey15@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO55495,1,Sabrina Rubio,sabrina15@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO55471,3,Lucas Roberts,lucas5@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO55486,3,Clarence Sharma,clarence24@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55463,2,Samantha Russell,samantha42@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

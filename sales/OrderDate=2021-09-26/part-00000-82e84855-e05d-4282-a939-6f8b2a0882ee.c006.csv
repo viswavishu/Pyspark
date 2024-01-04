@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56783,1,Joe Sanz,joe43@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO56764,3,Darryl Li,darryl3@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56774,2,Katelyn Campbell,katelyn29@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO56777,3,Arthur Gutierrez,arthur35@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO56763,2,Dominic Garcia,dominic15@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

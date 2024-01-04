@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44390,1,Bruce Navarro,bruce31@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616

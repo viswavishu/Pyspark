@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53920,1,Ebony Perez,ebony21@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO53926,1,Brandy Gonzalez,brandy15@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO53940,2,Olivia Patterson,olivia56@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53974,1,Terry Tang,terry7@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO53939,1,Melanie Ward,melanie38@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

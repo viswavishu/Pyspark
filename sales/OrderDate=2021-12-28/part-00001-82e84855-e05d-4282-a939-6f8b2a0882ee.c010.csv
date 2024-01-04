@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62937,2,Taylor Griffin,taylor45@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62878,1,Jenny Pal,jenny34@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62932,4,Devon Kennedy,devon5@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62904,2,Terry Sharma,terry13@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO62881,2,Tiffany Zeng,tiffany23@adventure-works.com,HL Mountain Tire,1,35.0,2.8

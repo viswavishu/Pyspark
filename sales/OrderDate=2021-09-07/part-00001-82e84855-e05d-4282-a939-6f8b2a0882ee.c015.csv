@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55779,2,Shaun Anand,shaun22@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55771,1,Maria Griffin,maria42@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55782,4,Pedro Vance,pedro4@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55739,3,Lance Blanco,lance15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55809,3,Devin Torres,devin71@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56990,2,Clayton She,clayton20@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56972,1,Isabella Harris,isabella69@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56968,1,Arturo Raje,arturo39@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO56992,1,Nathan Gonzales,nathan13@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56981,2,Jesse Rivera,jesse17@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

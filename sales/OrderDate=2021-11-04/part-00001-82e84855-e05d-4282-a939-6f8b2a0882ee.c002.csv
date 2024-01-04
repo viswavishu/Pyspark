@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59382,2,Rafael Ye,rafael10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59370,1,Austin White,austin48@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59376,3,Ashley Washington,ashley40@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59394,2,Paige Flores,paige11@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO59360,1,Wyatt Jackson,wyatt12@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

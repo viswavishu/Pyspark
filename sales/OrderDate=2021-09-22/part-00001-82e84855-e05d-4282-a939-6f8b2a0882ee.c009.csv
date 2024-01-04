@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56589,1,Drew Anand,drew23@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO56586,1,Mindy Jai,mindy16@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO56562,2,Morgan Mitchell,morgan8@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56585,3,Robert Hill,robert54@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO56584,3,Jerome Torres,jerome10@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

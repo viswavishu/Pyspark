@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58198,1,Francis Navarro,francis7@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO58196,1,Bianca Lu,bianca9@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO58194,4,Tyrone Hernandez,tyrone3@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58220,3,Alexander Johnson,alexander3@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO58222,2,Hunter Patterson,hunter7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

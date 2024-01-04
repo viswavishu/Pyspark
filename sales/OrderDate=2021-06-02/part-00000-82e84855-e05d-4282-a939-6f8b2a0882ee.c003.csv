@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51210,2,Stephanie Collins,stephanie52@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51205,4,Anne Hernandez,anne4@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51219,2,Jasmine Cox,jasmine30@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO51215,2,Kari Alvarez,kari25@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO51208,2,Brent Lu,brent11@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

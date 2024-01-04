@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56303,2,Clarence Deng,clarence17@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56308,4,Melissa Washington,melissa8@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56314,3,Sara Cook,sara23@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56316,4,Dominique Sanchez,dominique17@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO56303,1,Clarence Deng,clarence17@adventure-works.com,Road Tire Tube,1,3.99,0.3192

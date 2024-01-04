@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60042,1,Leah Ye,leah7@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO60024,4,Warren Liu,warren21@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60015,1,Steven Rogers,steven29@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60005,1,Oscar Price,oscar9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60001,1,Katherine Gray,katherine18@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

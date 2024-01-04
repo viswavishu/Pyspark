@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52549,2,Billy Jim�nez,billy7@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52560,1,Dennis Zhang,dennis1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52542,2,Timothy Bell,timothy15@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO52527,1,Jaime Ramos,jaime19@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO52560,3,Dennis Zhang,dennis1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

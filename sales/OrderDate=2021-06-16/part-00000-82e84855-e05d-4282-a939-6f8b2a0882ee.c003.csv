@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51440,1,Lindsay Chande,lindsay15@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO51452,2,Fernando Scott,fernando29@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51445,3,Hunter Davis,hunter64@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO51453,2,Abby Kov�r,abby3@adventure-works.com,Road Tire Tube,1,3.99,0.3192

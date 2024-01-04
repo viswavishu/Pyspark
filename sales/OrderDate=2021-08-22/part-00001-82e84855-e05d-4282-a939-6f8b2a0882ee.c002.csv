@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54797,3,Wyatt Thomas,wyatt11@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO54776,2,Randall Hernandez,randall5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54782,1,Xavier Morgan,xavier80@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54790,3,Erin Brooks,erin5@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO54784,5,Autumn Li,autumn3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

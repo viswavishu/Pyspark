@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54381,1,Tyrone Diaz,tyrone2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54382,2,Dominique Perez,dominique18@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54411,1,Erika Sanz,erika17@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54412,2,Erica Huang,erica5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54414,1,Erin Torres,erin8@adventure-works.com,HL Mountain Tire,1,35.0,2.8

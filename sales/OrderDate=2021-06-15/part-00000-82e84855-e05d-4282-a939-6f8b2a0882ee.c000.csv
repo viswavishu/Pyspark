@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51426,1,Danny Alonso,danny9@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO51439,3,Leslie Romero,leslie10@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO51437,5,Madison Henderson,madison40@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO51426,2,Danny Alonso,danny9@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51430,3,Jenny Rai,jenny40@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

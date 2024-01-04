@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56527,2,Gary Alonso,gary19@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56495,2,Kristy Gill,kristy12@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO56533,1,Max Alvarez,max5@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO56506,1,Thomas Gonzalez,thomas45@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

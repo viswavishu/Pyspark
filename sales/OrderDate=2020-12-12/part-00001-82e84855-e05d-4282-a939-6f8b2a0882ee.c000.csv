@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48890,1,Jay Raman,jay19@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279
+SO48889,1,Mya Bryant,mya18@adventure-works.com,"Mountain-200 Black, 46",1,2049.0982,163.9279
+SO48888,1,Audrey Rubio,audrey23@adventure-works.com,"Road-650 Red, 48",1,782.99,62.6392

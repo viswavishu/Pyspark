@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55804,2,Brandon Yang,brandon24@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55742,2,Samantha Russell,samantha42@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO55748,2,Darren Prasad,darren12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55783,1,Fernando Wilson,fernando7@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55778,2,Kelly Butler,kelly19@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

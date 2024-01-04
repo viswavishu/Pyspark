@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61810,2,James Moore,james73@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO61847,1,Mariah Griffin,mariah25@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO61801,2,Sydney Carter,sydney51@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61792,3,Angel Gray,angel5@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO61842,3,Johnathan Madan,johnathan9@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

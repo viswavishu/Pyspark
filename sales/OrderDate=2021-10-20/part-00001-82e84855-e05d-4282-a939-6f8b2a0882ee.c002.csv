@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58276,1,Jaime Chander,jaime38@adventure-works.com,"Mountain-500 Black, 48",1,539.99,43.1992
+SO58249,2,Ebony Sara,ebony10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58280,2,Natalie Cox,natalie13@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO58256,1,Devin Phillips,devin38@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58287,4,Theresa Blanco,theresa11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

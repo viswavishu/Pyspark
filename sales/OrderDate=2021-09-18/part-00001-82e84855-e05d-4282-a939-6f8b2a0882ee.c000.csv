@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56352,1,Tony Jai,tony14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56360,2,Alberto Martin,alberto1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56352,2,Tony Jai,tony14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56359,4,George Martinez,george24@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO56361,2,Angel Kelly,angel1@adventure-works.com,HL Mountain Tire,1,35.0,2.8

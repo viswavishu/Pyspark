@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55152,1,Hunter Butler,hunter11@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55139,2,Emmanuel Sai,emmanuel5@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55155,2,Rachel Ramirez,rachel43@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO55172,1,Christian Jenkins,christian21@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55163,3,Katherine Sanchez,katherine3@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53753,1,Sarah Thomas,sarah13@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53736,1,Morgan Campbell,morgan5@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO53755,1,Alexa Sanders,alexa3@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992
+SO53756,3,Jesse Kelly,jesse2@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO53724,1,Chelsea Garcia,chelsea16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52987,2,Meredith Sanchez,meredith20@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52983,1,Rebecca Allen,rebecca24@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52998,5,Joan Washington,joan7@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO52990,2,Nancy Raman,nancy15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52985,2,Roy Alonso,roy28@adventure-works.com,"Classic Vest, L",1,63.5,5.08

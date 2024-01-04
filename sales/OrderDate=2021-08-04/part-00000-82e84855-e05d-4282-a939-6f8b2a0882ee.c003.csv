@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53785,1,Carl Raje,carl13@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO53813,3,Cindy Madan,cindy7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53818,5,Susan Ye,susan19@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO53787,1,Amanda Cook,amanda3@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53793,3,Brianna Davis,brianna4@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

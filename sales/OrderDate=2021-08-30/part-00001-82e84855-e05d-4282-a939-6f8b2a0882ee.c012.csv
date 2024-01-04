@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55220,4,Caleb Simmons,caleb12@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55204,2,Justin Henderson,justin1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55227,4,Naomi Alonso,naomi8@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO55208,1,Cheryl Alan,cheryl10@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55232,1,Evelyn Lopez,evelyn17@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256

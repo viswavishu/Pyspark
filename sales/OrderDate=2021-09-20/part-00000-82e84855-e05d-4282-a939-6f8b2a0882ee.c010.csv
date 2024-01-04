@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56460,2,David Johnson,david74@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56445,2,Leah Liang,leah13@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56452,2,Jessica Kelly,jessica23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56478,2,Alexandra Coleman,alexandra29@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56452,1,Jessica Kelly,jessica23@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

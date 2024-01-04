@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53898,1,Mary Gonzalez,mary21@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53895,3,Janet Turner,janet32@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53913,3,Omar He,omar17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53909,1,Destiny Coleman,destiny54@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO53875,3,Alexis Powell,alexis31@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

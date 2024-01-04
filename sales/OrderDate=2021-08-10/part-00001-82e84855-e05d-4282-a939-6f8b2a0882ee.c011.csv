@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54119,1,Johnathan Malhotra,johnathan6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54137,2,Johnathan Perez,johnathan20@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54106,4,Terrance Lopez,terrance14@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO54139,3,Micah Zhao,micah21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54132,2,Adrian Richardson,adrian11@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

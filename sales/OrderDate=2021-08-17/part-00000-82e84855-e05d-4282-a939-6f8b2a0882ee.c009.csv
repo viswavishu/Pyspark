@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54507,3,Katrina Shan,katrina9@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO54511,2,Roy Navarro,roy30@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54490,2,Trevor Henderson,trevor4@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO54523,4,Alvin Deng,alvin23@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54509,2,Tanya Gill,tanya10@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

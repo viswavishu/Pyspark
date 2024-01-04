@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53707,1,Noah Butler,noah11@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO53663,3,Johnathan Suri,johnathan1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53699,4,Christine Nath,christine13@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53701,2,Elizabeth Thompson,elizabeth19@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53704,2,Kenneth She,kenneth1@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

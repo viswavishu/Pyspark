@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51217,4,Alvin Hu,alvin19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51219,3,Jasmine Cox,jasmine30@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO51206,3,Franklin Raji,franklin38@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51207,3,Frank Navarro,frank17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

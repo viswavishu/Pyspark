@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45444,1,Claudia Ye,claudia8@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45440,1,Daisy Romero,daisy5@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45443,1,Julia Thompson,julia37@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45442,1,Justin Bryant,justin15@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52274,3,Jillian Martinez,jillian18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52225,2,Ryan Powell,ryan11@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52227,1,Charles Adams,charles35@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52240,2,Jennifer Wright,jennifer23@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52223,1,Karla Shan,karla11@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468

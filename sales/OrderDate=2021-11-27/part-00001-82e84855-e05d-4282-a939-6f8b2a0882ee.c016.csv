@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60945,1,Samantha Barnes,samantha28@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992

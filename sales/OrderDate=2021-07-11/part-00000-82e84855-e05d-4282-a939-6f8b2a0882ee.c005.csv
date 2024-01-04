@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52389,1,Ross Vance,ross3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52380,3,Jason Griffin,jason18@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO52385,1,Taylor Torres,taylor16@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO52373,2,Gerald Prasad,gerald39@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52407,1,Amy Zhang,amy9@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468

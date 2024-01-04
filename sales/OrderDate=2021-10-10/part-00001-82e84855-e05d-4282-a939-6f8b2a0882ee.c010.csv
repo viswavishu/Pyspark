@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57736,1,Shannon Carlson,shannon38@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO57720,1,Henry Patel,henry5@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57715,3,Mandy Guo,mandy19@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO57746,2,Bianca Lu,bianca9@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57700,3,Valerie Zhang,valerie1@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

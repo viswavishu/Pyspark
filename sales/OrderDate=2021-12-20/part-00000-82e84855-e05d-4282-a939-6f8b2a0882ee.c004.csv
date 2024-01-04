@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62416,1,Jack Coleman,jack6@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62445,4,Aidan Perry,aidan8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62450,1,Randy Zeng,randy24@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO62460,3,Richard Parker,richard36@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62435,1,Kaitlyn Thompson,kaitlyn38@adventure-works.com,HL Mountain Tire,1,35.0,2.8

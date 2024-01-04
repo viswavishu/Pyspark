@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53973,4,Arianna Murphy,arianna37@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO53967,3,Edwin Li,edwin3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53975,1,Derrick Ruiz,derrick2@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256

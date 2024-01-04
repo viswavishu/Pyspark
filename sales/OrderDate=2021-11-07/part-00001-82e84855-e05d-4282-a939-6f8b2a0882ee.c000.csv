@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59644,4,Maurice Shen,maurice2@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO59597,2,Russell Xu,russell9@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO59634,1,Clarence Shan,clarence25@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO59603,2,Mya Simmons,mya15@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59629,2,Leonard Anand,leonard24@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

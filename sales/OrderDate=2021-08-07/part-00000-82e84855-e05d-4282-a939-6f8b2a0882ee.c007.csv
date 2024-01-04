@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53967,1,Edwin Li,edwin3@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO53968,1,Tracy Andersen,tracy12@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO53922,1,Carlos Gray,carlos7@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO53954,3,Marie Dominguez,marie36@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53921,2,Kendra Munoz,kendra7@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

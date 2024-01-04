@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57934,3,Haley Hernandez,haley53@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57927,2,Sheena Nath,sheena17@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO57951,1,Tanya Vazquez,tanya11@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO57915,2,Nicholas Wilson,nicholas8@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO57930,4,Julio Gomez,julio0@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

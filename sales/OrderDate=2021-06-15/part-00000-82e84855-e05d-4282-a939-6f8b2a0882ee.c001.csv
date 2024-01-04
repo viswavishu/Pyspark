@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51429,1,Luke Allen,luke52@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO51429,2,Luke Allen,luke52@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO51427,1,Robin Alvarez,robin2@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO51430,1,Jenny Rai,jenny40@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO51432,2,Cheryl Diaz,cheryl4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

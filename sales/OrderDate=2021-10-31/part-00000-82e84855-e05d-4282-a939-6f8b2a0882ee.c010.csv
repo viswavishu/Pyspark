@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59133,1,Austin Perry,austin3@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO59103,3,Kathryn Andersen,kathryn11@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO59127,1,Deanna Munoz,deanna33@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO59119,2,Katelyn Hill,katelyn36@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59117,4,Sydney Hernandez,sydney59@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

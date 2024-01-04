@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62710,1,Sarah Simmons,sarah40@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO62717,1,Jordan Perez,jordan40@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62698,1,Bridget Shan,bridget12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

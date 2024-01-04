@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60250,1,Brett Sanchez,brett20@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO60270,3,Lucas Bailey,lucas87@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60290,5,Robyn Ruiz,robyn1@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60311,3,Mary Hernandez,mary31@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60304,3,Paige Brooks,paige24@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62015,2,Gabriella Howard,gabriella9@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61980,1,Jimmy Serrano,jimmy20@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO62014,1,Miguel Edwards,miguel44@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO62003,4,Bailey Stewart,bailey23@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61980,3,Jimmy Serrano,jimmy20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62243,2,Alisha Shan,alisha34@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62264,3,Richard Sanders,richard83@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62269,1,Nina Nath,nina18@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO62254,3,Makayla Sanders,makayla3@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO62284,1,Carly Jai,carly11@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992

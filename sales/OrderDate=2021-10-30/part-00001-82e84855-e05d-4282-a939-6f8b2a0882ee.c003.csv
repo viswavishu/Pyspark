@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58853,2,Zoe Cooper,zoe16@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO58864,1,Devin Hill,devin27@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO58899,1,Deanna Sara,deanna14@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO58886,4,David Kumar,david60@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58851,2,Katelyn Carter,katelyn33@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

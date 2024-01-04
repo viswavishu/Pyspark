@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52580,2,Desiree Gutierrez,desiree7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52584,1,Adam Evans,adam30@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52609,1,Jada Rogers,jada11@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO52596,1,Alicia Luo,alicia4@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO52596,2,Alicia Luo,alicia4@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

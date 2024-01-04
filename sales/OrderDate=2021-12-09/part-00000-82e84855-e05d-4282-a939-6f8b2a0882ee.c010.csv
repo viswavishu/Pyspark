@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61776,1,Ethan Foster,ethan12@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO61764,1,David Martin,david73@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO61746,2,Alexandria Cook,alexandria42@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO61735,1,Roger Anand,roger50@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992
+SO61770,1,John Sandstone,john27@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59328,1,Richard Anderson,richard50@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO59304,3,Kaylee Green,kaylee37@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO59296,2,Oscar Russell,oscar6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59312,1,Nicole Gonzales,nicole66@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59276,2,Preston Perez,preston19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

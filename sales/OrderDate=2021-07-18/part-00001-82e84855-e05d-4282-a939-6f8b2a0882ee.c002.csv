@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52742,1,Jonathon Moreno,jonathon3@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO52765,2,Amanda Wright,amanda63@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52762,1,Cameron Lewis,cameron39@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO52762,2,Cameron Lewis,cameron39@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52730,1,Chloe Jones,chloe37@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792

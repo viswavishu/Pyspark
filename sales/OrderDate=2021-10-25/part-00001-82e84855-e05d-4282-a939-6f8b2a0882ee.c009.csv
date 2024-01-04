@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58564,2,Kari Serrano,kari37@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58550,1,Henry Garcia,henry16@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58569,1,Natalie Cook,natalie5@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO58553,1,Jennifer Wood,jennifer77@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58569,4,Natalie Cook,natalie5@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

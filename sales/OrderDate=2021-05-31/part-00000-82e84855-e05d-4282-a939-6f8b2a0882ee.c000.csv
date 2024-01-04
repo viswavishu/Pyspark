@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51188,1,Audrey Blanco,audrey17@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO51184,4,Trinity Richardson,trinity9@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51184,3,Trinity Richardson,trinity9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO51179,4,Brad Chande,brad15@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO51179,1,Brad Chande,brad15@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

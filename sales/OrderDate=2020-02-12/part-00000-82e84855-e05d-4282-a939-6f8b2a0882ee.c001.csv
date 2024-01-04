@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45677,1,Dustin Chander,dustin16@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO45674,1,Lacey Hu,lacey33@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616

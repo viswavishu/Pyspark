@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54895,1,Ernest Zeng,ernest20@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54928,3,Latasha Navarro,latasha10@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO54906,1,Erin Watson,erin4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54917,1,Douglas Prasad,douglas13@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54926,2,Emma Rivera,emma34@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

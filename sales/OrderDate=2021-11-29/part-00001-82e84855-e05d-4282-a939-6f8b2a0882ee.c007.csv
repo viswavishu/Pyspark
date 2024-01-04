@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61087,2,Catherine James,catherine7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61088,1,Gabriel Adams,gabriel47@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO61057,2,Hunter Roberts,hunter33@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61054,1,Adam Scott,adam44@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61055,1,Patricia Garcia,patricia18@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

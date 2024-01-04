@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54240,2,Meagan Madan,meagan8@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54217,3,Kevin Flores,kevin15@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54229,2,Meredith Srini,meredith7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54190,2,Diana Ortega,diana21@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54241,1,Dorothy Robinson,dorothy3@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

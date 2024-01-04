@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55892,3,Devin Morris,devin84@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55880,1,Charles Jackson,charles15@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55869,1,Justin Alexander,justin16@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO55920,1,Jonathon Serrano,jonathon12@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO55873,3,Janelle Patel,janelle3@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

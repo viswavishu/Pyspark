@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57910,4,Leonard Andersen,leonard14@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57909,2,Zoe Cox,zoe9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57916,3,Emma Davis,emma4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57905,2,Melanie Coleman,melanie21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57929,3,Jay Ruiz,jay31@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

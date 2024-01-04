@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58361,2,Gilbert Lal,gilbert29@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58412,1,Jonathan Harris,jonathan67@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO58391,4,Lauren Long,lauren57@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58392,1,Connor Perry,connor4@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO58357,1,Kristopher Sai,kristopher6@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792

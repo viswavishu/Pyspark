@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60192,2,Theodore Rowe,theodore22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60188,1,Colin Cai,colin21@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO60232,5,Kristi Malhotra,kristi21@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60229,5,Elizabeth Gonzales,elizabeth45@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60185,1,Karen Lin,karen17@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

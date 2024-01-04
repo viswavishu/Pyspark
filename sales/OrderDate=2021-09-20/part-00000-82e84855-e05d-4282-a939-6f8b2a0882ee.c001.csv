@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56463,2,Damien Yuan,damien24@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56480,3,Luis Adams,luis48@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56443,1,Sabrina Alvarez,sabrina2@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO56434,1,Jorge Huang,jorge7@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56446,2,Marcus Hayes,marcus72@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

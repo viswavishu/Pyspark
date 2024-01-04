@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60632,1,Theodore Torres,theodore12@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO60688,2,Allison Roberts,allison26@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60664,3,Kari Garcia,kari15@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO60684,1,Ivan Perez,ivan17@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO60693,5,Rachel Brown,rachel6@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

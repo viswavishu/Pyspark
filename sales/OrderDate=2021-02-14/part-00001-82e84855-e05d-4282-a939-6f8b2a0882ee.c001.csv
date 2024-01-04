@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49697,1,Jay Gonzalez,jay25@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279

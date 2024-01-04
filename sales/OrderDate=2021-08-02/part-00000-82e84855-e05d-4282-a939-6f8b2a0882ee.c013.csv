@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53691,1,Cole Torres,cole6@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53700,1,Wyatt Powell,wyatt60@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53696,1,Marshall Black,marshall40@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO53675,2,Colleen Xu,colleen12@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO53663,2,Johnathan Suri,johnathan1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

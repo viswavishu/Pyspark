@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61325,2,Henry Suri,henry2@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO61367,4,Adam Ross,adam2@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO61320,2,Arthur Martin,arthur23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61353,3,Masaki Umeda,masaki0@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO61338,1,Morgan Perry,morgan77@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

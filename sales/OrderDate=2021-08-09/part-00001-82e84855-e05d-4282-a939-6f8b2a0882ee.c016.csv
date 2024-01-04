@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54042,3,Logan Collins,logan29@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

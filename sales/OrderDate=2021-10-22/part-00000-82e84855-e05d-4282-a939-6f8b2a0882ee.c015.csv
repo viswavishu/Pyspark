@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58383,1,Susan Wu,susan16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58391,5,Lauren Long,lauren57@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58354,1,Isabella Russell,isabella30@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58393,2,Thomas Davis,thomas65@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO58408,2,Shaun Shen,shaun4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

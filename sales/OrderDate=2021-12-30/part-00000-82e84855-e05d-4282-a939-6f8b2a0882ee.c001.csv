@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63040,2,Jamie Cai,jamie25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO63058,1,Edgar Mehta,edgar15@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO63049,5,Dawn Shen,dawn26@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO63004,1,Teresa Alonso,teresa8@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO63019,1,Hailey Campbell,hailey49@adventure-works.com,Road Tire Tube,1,3.99,0.3192

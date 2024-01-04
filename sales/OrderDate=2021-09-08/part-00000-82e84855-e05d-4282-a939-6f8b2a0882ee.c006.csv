@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55843,2,Dylan Thomas,dylan41@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55860,1,Crystal Wang,crystal3@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO55838,4,Fernando Campbell,fernando40@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55833,1,Alexander Martinez,alexander21@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO55832,1,Alexandra Thompson,alexandra79@adventure-works.com,ML Road Tire,1,24.99,1.9992

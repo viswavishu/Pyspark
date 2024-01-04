@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52839,2,Joe Blanco,joe39@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52803,2,Jordan Flores,jordan9@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO52798,2,Nathan Jai,nathan29@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO52820,2,Janelle Subram,janelle10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52838,1,Armando Dominguez,armando13@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392

@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51335,1,Kaitlyn Campbell,kaitlyn5@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992

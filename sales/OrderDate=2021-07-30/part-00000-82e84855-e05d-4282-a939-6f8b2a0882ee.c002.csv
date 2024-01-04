@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53386,1,Caleb Flores,caleb9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53390,2,Wayne Chander,wayne18@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO53393,1,Benjamin Perry,benjamin8@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO53394,3,Jacob Martinez,jacob13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53392,1,Victor Jimenez,victor7@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

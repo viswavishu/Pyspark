@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44668,1,Kristen Liu,kristen4@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616

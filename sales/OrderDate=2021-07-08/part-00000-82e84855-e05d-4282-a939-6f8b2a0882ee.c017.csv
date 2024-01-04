@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52249,2,Ruben Rubio,ruben0@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52246,2,Cassandra Sanchez,cassandra21@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52236,3,Jack Hall,jack57@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52267,1,Austin Bryant,austin14@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

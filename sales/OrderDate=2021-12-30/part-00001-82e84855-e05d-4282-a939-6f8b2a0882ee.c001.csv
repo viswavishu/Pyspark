@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63042,2,Xavier Simmons,xavier55@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO63048,2,Barry Madan,barry8@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO63048,1,Barry Madan,barry8@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO63038,1,Jan Hernandez,jan15@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO63059,4,Corey Lal,corey8@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

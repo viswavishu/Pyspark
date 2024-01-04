@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56899,2,Jessie Ortega,jessie41@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56893,1,Eric Rothenberg,eric9@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO56874,2,James Davis,james80@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO56890,2,Alyssa Patterson,alyssa56@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56896,1,Vanessa Bryant,vanessa19@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

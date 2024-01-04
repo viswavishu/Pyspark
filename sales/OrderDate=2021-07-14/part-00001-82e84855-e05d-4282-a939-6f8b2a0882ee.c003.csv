@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52530,2,Colleen Yang,colleen5@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO52556,1,Megan Taylor,megan12@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52573,1,J�sus Rubio,j�sus20@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO52540,1,Marcus Reed,marcus95@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52572,2,Bailey Parker,bailey28@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

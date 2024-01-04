@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60710,2,Hunter Perez,hunter32@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60731,3,Marissa Wood,marissa0@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO60733,3,Alexandra Brown,alexandra67@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60756,1,Alexis Walker,alexis20@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO60750,3,Aaron Nelson,aaron42@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

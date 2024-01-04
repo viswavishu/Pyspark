@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61774,4,Casey Vazquez,casey38@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61754,3,Adrian Morgan,adrian14@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61770,2,John Sandstone,john27@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61749,1,Evan Ramirez,evan7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61757,1,Shawn Andersen,shawn15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

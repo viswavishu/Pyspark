@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57220,4,Dana Vazquez,dana7@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO57228,1,Gavin Diaz,gavin20@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO57225,1,Jack Hernandez,jack53@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO57232,1,Ricky Romero,ricky9@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO57238,2,Fernando Miller,fernando6@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

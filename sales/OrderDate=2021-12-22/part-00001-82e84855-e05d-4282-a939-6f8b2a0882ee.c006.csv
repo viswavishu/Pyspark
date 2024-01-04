@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62559,2,Omar Nara,omar37@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO62539,1,Martha Hee,martha18@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO62557,1,April Shan,april8@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO62566,3,Darren Malhotra,darren7@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62564,2,Philip Suarez,philip18@adventure-works.com,Touring Tire,1,28.99,2.3192

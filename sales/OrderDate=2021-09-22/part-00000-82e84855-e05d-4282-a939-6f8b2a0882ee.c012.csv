@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56582,3,Kurt Chander,kurt16@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56594,1,Erica Hu,erica19@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO56546,1,Kellie Dominguez,kellie11@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO56590,2,Levi Malhotra,levi4@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56585,2,Robert Hill,robert54@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

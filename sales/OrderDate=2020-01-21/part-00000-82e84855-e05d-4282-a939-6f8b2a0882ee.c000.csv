@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45466,1,Meagan Prasad,meagan9@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55608,2,Megan Kelly,megan48@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55556,2,Janelle Sanchez,janelle17@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55593,4,Carson Simmons,carson14@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO55585,1,Donna Yuan,donna6@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55593,3,Carson Simmons,carson14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

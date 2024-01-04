@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53327,4,James Rodriguez,james93@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53340,1,Chloe Adams,chloe13@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO53305,2,Mariah Sanchez,mariah44@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO53344,4,Louis Ye,louis3@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53305,1,Mariah Sanchez,mariah44@adventure-works.com,Road Tire Tube,1,3.99,0.3192

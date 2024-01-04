@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56715,3,Jordyn Hughes,jordyn11@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO56693,2,Meredith Prasad,meredith8@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56707,2,Aaron Bryant,aaron17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56746,2,Eugene She,eugene26@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56749,2,Candice She,candice7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

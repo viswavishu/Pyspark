@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51325,4,Alyssa Cox,alyssa37@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51325,1,Alyssa Cox,alyssa37@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO51333,3,Theodore Serrano,theodore17@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO51322,1,Francisco Sara,francisco11@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO51321,2,Terrence Raje,terrence14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

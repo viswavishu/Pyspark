@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53936,1,Joseph Williams,joseph8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53946,1,Mason Adams,mason35@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53941,1,Alex Wright,alex50@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53974,3,Terry Tang,terry7@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO53951,1,Ricky Torres,ricky12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

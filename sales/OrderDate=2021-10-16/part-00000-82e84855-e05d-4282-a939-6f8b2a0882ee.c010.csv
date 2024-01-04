@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58034,4,Brent Zhao,brent10@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO58069,4,Emma Garcia,emma15@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO58035,2,Logan Li,logan26@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO58046,1,Fernando Harris,fernando12@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58067,1,Stephanie Brooks,stephanie25@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188

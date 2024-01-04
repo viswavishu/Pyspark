@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55682,3,Katrina Sharma,katrina8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55687,2,Gary Dominguez,gary23@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO55699,2,Antonio Ross,antonio4@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55712,2,Lawrence Jimenez,lawrence3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55730,3,Jasmine Sanders,jasmine40@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

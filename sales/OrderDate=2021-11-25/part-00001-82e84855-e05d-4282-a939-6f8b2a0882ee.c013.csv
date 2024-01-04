@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60832,2,Ethan Bryant,ethan14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60776,3,Dominic Sara,dominic10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60774,2,Daisy Hernandez,daisy0@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO60770,1,J�sus Hernandez,j�sus4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60774,1,Daisy Hernandez,daisy0@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792

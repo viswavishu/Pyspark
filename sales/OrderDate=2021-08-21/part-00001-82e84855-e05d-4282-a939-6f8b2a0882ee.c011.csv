@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54769,2,Lydia Sai,lydia5@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54745,1,Priscilla Raji,priscilla20@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54738,1,Blake Davis,blake4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54747,1,Pedro Sai,pedro6@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO54734,2,Aaron Jenkins,aaron6@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

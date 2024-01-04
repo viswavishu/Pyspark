@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45149,1,Emma Patterson,emma56@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616

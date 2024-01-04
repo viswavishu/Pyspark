@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56756,2,Arthur Sara,arthur12@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56746,3,Eugene She,eugene26@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56705,2,Andre Patel,andre3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56754,2,Patrick James,patrick5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56745,2,Renee Jimenez,renee5@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

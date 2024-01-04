@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54182,2,Darren Martin,darren22@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO54162,2,Rafael Liang,rafael18@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54151,2,Christy Lu,christy10@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54167,1,Omar Zhou,omar8@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54166,3,Morgan Sanchez,morgan47@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54640,2,Robyn Gill,robyn11@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO54642,1,Melissa Russell,melissa15@adventure-works.com,"Mountain-500 Silver, 48",1,564.99,45.1992
+SO54654,2,Maria Rogers,maria3@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54590,1,Jorge Liang,jorge19@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO54595,2,Walter Torres,walter5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

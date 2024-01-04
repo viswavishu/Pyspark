@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52268,1,Christy McDonald,christy7@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388
+SO52254,2,Luke Green,luke45@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52253,2,Randy Ma,randy18@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52273,3,Katherine Hernandez,katherine66@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52262,3,Xavier Rogers,xavier87@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

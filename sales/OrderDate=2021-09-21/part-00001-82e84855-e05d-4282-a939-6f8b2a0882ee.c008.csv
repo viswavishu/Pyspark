@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56490,1,Lacey Andersen,lacey3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56502,3,Marcus Reed,marcus95@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56528,4,Bruce Sanz,bruce41@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56530,3,Holly Fernandez,holly15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56497,2,Alexis Wilson,alexis6@adventure-works.com,Road Tire Tube,1,3.99,0.3192

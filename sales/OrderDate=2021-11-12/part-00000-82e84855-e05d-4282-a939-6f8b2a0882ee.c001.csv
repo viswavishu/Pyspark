@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59979,2,Jay Alonso,jay37@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59966,4,Taylor Ramirez,taylor19@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59960,4,Clayton Deng,clayton21@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59955,4,Eduardo Scott,eduardo29@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59941,1,Anna Murphy,anna10@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

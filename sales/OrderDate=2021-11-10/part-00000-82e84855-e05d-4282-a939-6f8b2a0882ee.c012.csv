@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59820,1,Aimee Liu,aimee4@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO59775,1,James Diaz,james37@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59823,1,Kaitlyn Ward,kaitlyn59@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO59761,2,Randy Hu,randy23@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO59781,1,Neil Ortega,neil21@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

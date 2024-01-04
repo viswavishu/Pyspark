@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57426,1,Roger Zhao,roger15@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO57383,1,Gabrielle Adams,gabrielle58@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57426,4,Roger Zhao,roger15@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57404,1,Alexia Perry,alexia7@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57413,1,Roy Patel,roy3@adventure-works.com,"Touring-3000 Blue, 62",1,742.35,59.388

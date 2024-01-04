@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62128,4,Marissa Butler,marissa11@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62091,3,Gerald Sanz,gerald27@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62127,3,Tristan Alexander,tristan19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62127,2,Tristan Alexander,tristan19@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO62100,2,Seth Henderson,seth53@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

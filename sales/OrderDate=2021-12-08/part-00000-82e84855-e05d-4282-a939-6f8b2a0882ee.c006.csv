@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61719,4,Jerry Sharma,jerry10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61711,3,Glenn Huang,glenn6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61719,3,Jerry Sharma,jerry10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61724,1,Jordyn Jenkins,jordyn6@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO61661,2,Calvin Shen,calvin2@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992

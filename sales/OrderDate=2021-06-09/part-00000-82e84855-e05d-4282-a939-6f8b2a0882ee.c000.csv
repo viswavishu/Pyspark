@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51328,1,Kelvin Sharma,kelvin6@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO51323,2,Deanna Ramos,deanna44@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51327,2,Levi Sanchez,levi18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51331,1,Gabriel Wright,gabriel48@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51326,1,Kate Nara,kate13@adventure-works.com,"Touring-3000 Yellow, 58",1,742.35,59.388

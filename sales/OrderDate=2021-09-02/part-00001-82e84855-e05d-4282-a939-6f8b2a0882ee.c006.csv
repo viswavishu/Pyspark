@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55477,2,Dwayne Martin,dwayne0@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55489,3,Jordan Gonzalez,jordan62@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55465,1,Samantha Simmons,samantha38@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55486,2,Clarence Sharma,clarence24@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55454,3,Alejandro Lal,alejandro35@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

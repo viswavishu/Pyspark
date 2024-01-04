@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58333,4,Natalie Edwards,natalie45@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO58303,1,Ryan Jackson,ryan51@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58338,1,Cassandra Van,cassandra4@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO58295,1,Krista Alonso,krista9@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58314,2,Gabriel Simmons,gabriel12@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

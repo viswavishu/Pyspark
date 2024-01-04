@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51318,2,Bridget Xie,bridget4@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51312,1,Larry Moreno,larry8@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO51308,5,Natalie Sanchez,natalie1@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO51315,4,Christy Zhu,christy12@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51309,3,Ivan Lopez,ivan13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

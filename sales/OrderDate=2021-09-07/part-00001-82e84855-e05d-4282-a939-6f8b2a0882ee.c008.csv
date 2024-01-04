@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55790,2,Mariah Kelly,mariah2@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55802,1,Manuel Martinez,manuel16@adventure-works.com,"Mountain-500 Black, 52",1,539.99,43.1992
+SO55748,1,Darren Prasad,darren12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55811,4,Nichole Nara,nichole16@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO55753,1,Alberto Suarez,alberto18@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52097,1,Dawn Chande,dawn39@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52083,1,Fernando Barnes,fernando47@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52073,1,Brandy Raman,brandy8@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO52078,3,Janelle Arthur,janelle6@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52078,2,Janelle Arthur,janelle6@adventure-works.com,HL Road Tire,1,32.6,2.608

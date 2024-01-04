@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52452,3,Hunter Rodriguez,hunter53@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52455,1,Carol Saunders,carol22@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO52465,3,Lydia Chandra,lydia1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52430,1,Meghan Serrano,meghan16@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52443,3,Todd Li,todd5@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

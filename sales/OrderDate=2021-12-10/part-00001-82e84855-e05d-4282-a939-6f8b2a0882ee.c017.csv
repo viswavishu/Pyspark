@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61784,3,Rafael Rai,rafael41@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61819,1,Alexis Barnes,alexis25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61837,2,Noah Scott,noah42@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

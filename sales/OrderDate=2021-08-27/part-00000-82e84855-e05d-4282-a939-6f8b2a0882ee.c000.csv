@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55045,1,Daniel Davis,daniel23@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55076,1,Stephanie Wood,stephanie29@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO55073,1,Jose Jai,jose26@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55058,1,Dylan Foster,dylan15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55059,1,Christopher Lewis,christopher21@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55154,2,Carson Foster,carson15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55163,2,Katherine Sanchez,katherine3@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55177,2,Sean Mitchell,sean43@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55144,1,Alex Green,alex45@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55140,1,Johnny Shan,johnny11@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188

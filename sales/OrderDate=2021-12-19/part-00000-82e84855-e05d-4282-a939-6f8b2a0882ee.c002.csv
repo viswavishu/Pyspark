@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62366,2,Janet Jimenez,janet10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62391,2,Jesse Brooks,jesse1@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62348,2,Justin Lewis,justin49@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62365,3,Eugene Xu,eugene16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62384,2,Terry Yuan,terry10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

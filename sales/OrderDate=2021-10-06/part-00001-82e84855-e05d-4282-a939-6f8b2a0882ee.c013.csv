@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57526,2,Zachary Shan,zachary0@adventure-works.com,Touring Tire,1,28.99,2.3192

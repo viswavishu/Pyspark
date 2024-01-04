@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62723,3,Richard Kelly,richard82@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO62720,1,Alyssa Bryant,alyssa63@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62715,2,Alex Peterson,alex8@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62735,4,Jesse Scott,jesse37@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO62729,3,Kimberly Ramirez,kimberly10@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

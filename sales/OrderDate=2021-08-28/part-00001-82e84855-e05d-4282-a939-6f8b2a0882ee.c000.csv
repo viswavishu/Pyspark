@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55108,1,Nelson Alonso,nelson7@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55122,3,Kristopher Sara,kristopher9@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO55127,1,Ruben Srini,ruben9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55137,2,Mya Foster,mya16@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55129,2,Antonio Hughes,antonio11@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

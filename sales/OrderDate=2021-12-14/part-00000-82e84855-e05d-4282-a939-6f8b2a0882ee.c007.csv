@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62067,2,Jennifer Foster,jennifer89@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62023,1,Alicia Xu,alicia3@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62033,1,Tyrone Rubio,tyrone20@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO62040,1,Alexis Miller,alexis5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62086,1,Evelyn Madan,evelyn8@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992

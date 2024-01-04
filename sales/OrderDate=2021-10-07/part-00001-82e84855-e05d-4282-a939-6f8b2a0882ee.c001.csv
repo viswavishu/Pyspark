@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57587,4,Alex Campbell,alex35@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57582,1,Clarence Zhang,clarence37@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO57566,2,Edward Wood,edward50@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57547,2,Noah Hall,noah72@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57577,2,Thomas Diaz,thomas24@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59382,1,Rafael Ye,rafael10@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO59368,3,Aaron Shan,aaron31@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59386,3,Krystal Liang,krystal17@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59381,3,Charles Sanchez,charles65@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59353,1,Wyatt Thomas,wyatt11@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

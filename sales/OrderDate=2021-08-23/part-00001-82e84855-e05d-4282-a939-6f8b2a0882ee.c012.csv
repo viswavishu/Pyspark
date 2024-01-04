@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54845,2,Mitchell Nara,mitchell14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54829,2,Charles Bailey,charles64@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54826,1,Rafael Jai,rafael35@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54859,3,Kelly Jenkins,kelly11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54870,2,Dustin Chander,dustin16@adventure-works.com,HL Mountain Tire,1,35.0,2.8

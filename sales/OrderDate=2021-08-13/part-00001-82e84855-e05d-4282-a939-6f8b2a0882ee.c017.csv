@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54314,1,Leonard Tang,leonard5@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388
+SO54305,5,Nicole Bailey,nicole33@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO54278,1,Margaret Zhu,margaret20@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO54264,1,Jerome Serrano,jerome15@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792

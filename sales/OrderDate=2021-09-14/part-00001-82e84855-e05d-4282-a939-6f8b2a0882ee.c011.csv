@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56187,4,Bethany Shan,bethany13@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO56133,3,Cindy Patel,cindy3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56143,1,Alexandra Cox,alexandra14@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56186,3,Dana Dominguez,dana5@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56163,3,Sarah Walker,sarah0@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

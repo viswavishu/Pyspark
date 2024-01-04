@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61813,3,Alisha Chande,alisha39@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61818,2,Tasha Yuan,tasha7@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO61826,1,Gerald Navarro,gerald18@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO61839,1,Tommy Raje,tommy10@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO61840,4,Lydia Srini,lydia7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

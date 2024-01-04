@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62446,1,Brian Cox,brian22@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO62440,1,Hailey Roberts,hailey46@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62414,1,Natalie King,natalie62@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO62467,5,Alexis Coleman,alexis28@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62416,2,Jack Coleman,jack6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

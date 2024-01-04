@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52773,1,Ebony Chandra,ebony1@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO52772,2,Cassie She,cassie0@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52771,1,Garrett Rivera,garrett21@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392

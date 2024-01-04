@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO50476,1,Matthew Miller,matthew12@adventure-works.com,"Road-650 Black, 48",1,782.99,62.6392

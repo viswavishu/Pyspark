@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54037,3,Mackenzie Ramirez,mackenzie5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53984,2,Colleen Zeng,colleen23@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54027,2,Andre Arun,andre6@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53987,1,Bridget Shen,bridget3@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO54025,4,Kevin Campbell,kevin44@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

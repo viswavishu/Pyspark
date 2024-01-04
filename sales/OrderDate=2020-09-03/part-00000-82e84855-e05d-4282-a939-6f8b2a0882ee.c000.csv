@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47758,1,Frederick Madan,frederick6@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525
+SO47755,1,Franklin Sharma,franklin27@adventure-works.com,"Road-550-W Yellow, 44",1,1000.4375,80.035
+SO47760,1,Haley Bryant,haley37@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525

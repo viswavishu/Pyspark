@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57964,4,Marcus Ward,marcus78@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57960,1,Lacey Anand,lacey11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57989,1,Alan Gao,alan18@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58005,4,Cristina Xie,cristina3@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO57987,2,Neil Blanco,neil14@adventure-works.com,ML Road Tire,1,24.99,1.9992

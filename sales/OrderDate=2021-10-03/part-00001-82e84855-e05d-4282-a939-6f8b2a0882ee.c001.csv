@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57353,3,Vanessa Ross,vanessa4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57340,1,Andrea Morris,andrea18@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57363,1,Renee Ruiz,renee2@adventure-works.com,"Touring-3000 Yellow, 54",1,742.35,59.388
+SO57341,2,Austin Griffin,austin17@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57334,1,Alyssa Ross,alyssa50@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

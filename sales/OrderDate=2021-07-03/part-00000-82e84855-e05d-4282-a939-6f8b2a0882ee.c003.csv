@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51985,2,Cole Murphy,cole15@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO51995,3,Eric Lopez,eric53@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51990,4,Caleb Flores,caleb9@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO51989,1,Carol Serrano,carol11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52011,2,Cedric Gao,cedric14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

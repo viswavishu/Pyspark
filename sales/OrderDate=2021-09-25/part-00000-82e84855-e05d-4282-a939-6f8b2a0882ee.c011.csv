@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56738,2,Madeline Hall,madeline20@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56725,2,Jocelyn Foster,jocelyn15@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO56704,1,Marco Sara,marco11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56749,1,Candice She,candice7@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO56705,1,Andre Patel,andre3@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468

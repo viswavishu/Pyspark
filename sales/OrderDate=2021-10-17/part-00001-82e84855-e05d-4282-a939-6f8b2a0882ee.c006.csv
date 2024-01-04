@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58112,1,Monica Malhotra,monica5@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO58073,1,Nicholas Brown,nicholas6@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO58128,4,Rachael Chandra,rachael2@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO58098,2,Marcus Watson,marcus74@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58122,3,Sydney Baker,sydney57@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

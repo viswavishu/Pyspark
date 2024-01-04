@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52507,3,Misty Nath,misty20@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52485,1,Katelyn Lopez,katelyn45@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52488,1,Morgan Hughes,morgan81@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO52521,2,Abigail Smith,abigail47@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO52469,2,Latoya Xu,latoya4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

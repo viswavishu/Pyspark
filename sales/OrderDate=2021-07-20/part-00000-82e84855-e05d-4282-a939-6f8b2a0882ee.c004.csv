@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52854,2,Victoria Cox,victoria37@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52870,2,Bradley Xu,bradley7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52864,3,Hailey Hughes,hailey31@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO52868,3,Alvin Shen,alvin24@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52874,1,Philip Ramos,philip16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

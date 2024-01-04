@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59974,1,Monica Madan,monica8@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO59978,2,Drew Nara,drew18@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59973,6,Meagan Arun,meagan7@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59950,1,Marcel Truempy,marcel0@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO59965,1,Gilbert Liang,gilbert14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

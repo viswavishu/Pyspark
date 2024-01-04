@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55663,1,Joseph Taylor,joseph15@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO55637,1,William Jones,william19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55617,1,Faith Gray,faith27@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55621,1,Cameron Brown,cameron45@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55644,3,Misty Shan,misty12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58076,2,Sheena She,sheena0@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO58103,3,Cara Wang,cara1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58109,1,Jackson Phillips,jackson36@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO58101,3,Christian Powell,christian23@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58101,1,Christian Powell,christian23@adventure-works.com,ML Road Tire,1,24.99,1.9992

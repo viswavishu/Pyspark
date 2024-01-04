@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52276,1,Misty Chande,misty16@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO52241,2,Sydney Lewis,sydney83@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52217,2,Jenny Zhu,jenny16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52212,1,Heather Yang,heather4@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO52260,1,Cristina Chande,cristina13@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59153,1,Andrew Martinez,andrew24@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59209,4,Jon Gao,jon35@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59186,2,Richard Foster,richard71@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59178,1,Grace Butler,grace62@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59158,1,Kelli Pal,kelli35@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

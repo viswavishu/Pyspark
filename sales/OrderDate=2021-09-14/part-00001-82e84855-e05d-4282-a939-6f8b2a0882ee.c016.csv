@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56162,1,Kaitlin Sai,kaitlin5@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56145,1,Armando Schmidt,armando20@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56135,1,Jacqueline Perry,jacqueline8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56168,2,Olivia Watson,olivia44@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56143,2,Alexandra Cox,alexandra14@adventure-works.com,Road Tire Tube,1,3.99,0.3192

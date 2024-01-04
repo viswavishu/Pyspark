@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51610,1,Destiny Wilson,destiny7@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO51611,3,Steve Chen,steve6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51616,4,Austin Jones,austin42@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51612,3,Julio Ruiz,julio1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO51605,2,Walter Munoz,walter20@adventure-works.com,ML Road Tire,1,24.99,1.9992

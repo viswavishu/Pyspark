@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57288,1,Nathan Brown,nathan62@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO57298,2,Gina Alonso,gina8@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57290,1,Jasmine Walker,jasmine20@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO57273,1,Samuel Roberts,samuel34@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57271,1,Isabella Hughes,isabella21@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54490,1,Trevor Henderson,trevor4@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO54485,2,Cole Rogers,cole20@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54481,2,Krista Jimenez,krista6@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54484,1,Frederick Garcia,frederick13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54521,1,Aidan Barnes,aidan3@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992

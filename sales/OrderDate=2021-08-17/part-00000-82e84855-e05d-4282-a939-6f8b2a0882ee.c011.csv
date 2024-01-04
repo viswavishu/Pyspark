@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54517,2,Andrea Murphy,andrea16@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388

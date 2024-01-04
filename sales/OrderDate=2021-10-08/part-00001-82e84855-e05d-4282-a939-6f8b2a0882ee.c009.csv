@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57607,1,Lauren Griffin,lauren67@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57632,3,Raymond Malhotra,raymond6@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57628,3,Richard Adams,richard26@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

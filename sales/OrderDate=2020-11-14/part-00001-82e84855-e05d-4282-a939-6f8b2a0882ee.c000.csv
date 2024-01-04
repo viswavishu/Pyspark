@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48562,1,Edwin Deng,edwin23@adventure-works.com,"Road-250 Black, 48",1,2181.5625,174.525
+SO48563,1,Drew Xu,drew5@adventure-works.com,"Road-650 Black, 48",1,782.99,62.6392
+SO48564,1,Craig Carlson,craig17@adventure-works.com,"Road-250 Black, 48",1,2181.5625,174.525

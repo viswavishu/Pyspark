@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54459,2,Alisha Raje,alisha38@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54476,1,Sabrina Moreno,sabrina4@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO54468,5,Devin Nelson,devin32@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO54440,3,Jerome Navarro,jerome8@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54430,4,Brittney Wu,brittney5@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

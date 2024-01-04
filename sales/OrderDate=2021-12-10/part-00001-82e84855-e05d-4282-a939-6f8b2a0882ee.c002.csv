@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61821,2,Amy Zhao,amy17@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61843,1,Isaiah Murphy,isaiah14@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO61825,3,Cindy Jordan,cindy2@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61831,3,Emily Robinson,emily19@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO61811,1,Angel Adams,angel37@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

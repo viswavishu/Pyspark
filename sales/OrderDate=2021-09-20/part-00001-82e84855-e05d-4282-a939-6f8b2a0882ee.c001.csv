@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56442,1,Shawna Jai,shawna12@adventure-works.com,"Mountain-500 Silver, 44",1,564.99,45.1992
+SO56478,1,Alexandra Coleman,alexandra29@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO56446,1,Marcus Hayes,marcus72@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO56477,1,Aaron Zhang,aaron23@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO56468,2,Joy Martin,joy1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56429,1,Amanda Powell,amanda30@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO56389,2,Nicholas Anderson,nicholas11@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56386,2,Gerald Suri,gerald29@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO56413,2,Wayne Rai,wayne20@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56388,4,Manuel Garcia,manuel13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

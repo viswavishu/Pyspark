@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49787,1,Naomi Ramos,naomi18@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468
+SO49779,1,Jacqueline James,jacqueline32@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468

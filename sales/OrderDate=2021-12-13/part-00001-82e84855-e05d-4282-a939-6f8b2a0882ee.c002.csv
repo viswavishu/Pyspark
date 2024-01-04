@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61979,3,Taylor Morgan,taylor6@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61981,2,Hector Ortega,hector19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62021,3,Christy Raje,christy31@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61977,2,Clinton Carlson,clinton14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62000,1,Lauren Diaz,lauren68@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

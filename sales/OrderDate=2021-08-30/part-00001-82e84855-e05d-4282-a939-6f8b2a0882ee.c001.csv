@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55225,4,Ariana Stewart,ariana21@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55215,2,Angela James,angela34@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55216,2,Kaitlyn Patterson,kaitlyn77@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55187,1,Ashley Hughes,ashley38@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992
+SO55183,1,Kathryn Ashe,kathryn20@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

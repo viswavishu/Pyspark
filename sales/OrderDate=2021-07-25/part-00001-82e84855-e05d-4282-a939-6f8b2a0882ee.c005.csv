@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53110,2,Erik Dominguez,erik13@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53112,3,Arturo Guo,arturo19@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO53117,3,Victoria Miller,victoria7@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO53130,1,Keith Lal,keith11@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO53092,4,Ashley Henderson,ashley31@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

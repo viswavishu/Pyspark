@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59222,2,Isaiah Adams,isaiah38@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59220,1,Jeff Smith,jeff4@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO59252,2,Donald Fernandez,donald17@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO59229,3,Connor Green,connor41@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO59226,1,Emily Robinson,emily19@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

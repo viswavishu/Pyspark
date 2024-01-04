@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55024,2,Kristine Serrano,kristine17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55022,2,Xavier Edwards,xavier41@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO54994,2,Andres Chavez,andres12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55006,1,Veronica Madan,veronica8@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54982,3,Ricardo Shan,ricardo10@adventure-works.com,ML Road Tire,1,24.99,1.9992

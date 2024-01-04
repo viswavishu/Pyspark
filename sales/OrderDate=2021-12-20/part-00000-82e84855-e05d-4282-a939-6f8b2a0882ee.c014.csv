@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62416,3,Jack Coleman,jack6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62433,3,Alex Ward,alex16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62425,1,Patricia Srini,patricia12@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62441,2,Natalie Flores,natalie35@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62418,3,Brandon Thomas,brandon31@adventure-works.com,"Racing Socks, L",1,8.99,0.7192

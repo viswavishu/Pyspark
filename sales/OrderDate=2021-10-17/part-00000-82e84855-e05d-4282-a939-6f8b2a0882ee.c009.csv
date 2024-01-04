@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58079,3,Glenn Zeng,glenn23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58085,1,Patrick Richardson,patrick14@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58079,1,Glenn Zeng,glenn23@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO58112,2,Monica Malhotra,monica5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58096,2,Caleb Roberts,caleb33@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57676,3,Denise Mehta,denise15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57646,1,Jack Griffin,jack21@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO57673,1,Anne Hernandez,anne4@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO57642,1,Jeffery Ye,jeffery10@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57668,1,Savannah Carter,savannah32@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

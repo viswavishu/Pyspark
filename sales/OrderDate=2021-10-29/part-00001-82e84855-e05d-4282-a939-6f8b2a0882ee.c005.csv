@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58804,1,Dustin Raji,dustin21@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58803,2,Marshall Gao,marshall14@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO58805,3,Marie Patel,marie7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58777,1,Joseph White,joseph19@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58784,2,Dalton Bell,dalton85@adventure-works.com,HL Road Tire,1,32.6,2.608

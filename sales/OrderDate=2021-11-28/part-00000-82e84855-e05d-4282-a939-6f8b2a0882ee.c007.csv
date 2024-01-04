@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60998,1,Russell Xie,russell7@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61016,2,Justin Yang,justin24@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61029,1,Alicia Shen,alicia1@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO60967,1,Walter Rubio,walter14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60970,1,Megan Richardson,megan38@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592

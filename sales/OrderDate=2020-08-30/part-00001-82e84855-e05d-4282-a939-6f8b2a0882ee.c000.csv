@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47656,1,Jay Ramos,jay47@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468
+SO47650,1,Ricardo Sharma,ricardo9@adventure-works.com,"Road-250 Red, 52",1,2443.35,195.468
+SO47655,1,Kelli She,kelli23@adventure-works.com,"Road-550-W Yellow, 42",1,1000.4375,80.035
+SO47653,1,Krystal Zhang,krystal0@adventure-works.com,"Road-650 Red, 62",1,782.99,62.6392
+SO47654,1,Dwayne Ortega,dwayne20@adventure-works.com,"Road-550-W Yellow, 44",1,1000.4375,80.035

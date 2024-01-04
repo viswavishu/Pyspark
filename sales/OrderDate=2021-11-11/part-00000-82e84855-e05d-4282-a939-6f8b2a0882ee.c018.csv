@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59879,2,Kaitlyn Bryant,kaitlyn85@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59878,2,Justin Shan,justin27@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59865,3,Tristan Barnes,tristan3@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59834,1,Krista Martin,krista0@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO59862,2,Jenny Shen,jenny26@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

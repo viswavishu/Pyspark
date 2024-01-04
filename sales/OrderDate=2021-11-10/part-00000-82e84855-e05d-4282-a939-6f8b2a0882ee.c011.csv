@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59786,2,Melody Saunders,melody20@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59783,1,Seth Hall,seth23@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59789,1,Natasha Carlson,natasha18@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59767,2,Abigail Murphy,abigail10@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO59828,1,Edward Lopez,edward4@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992

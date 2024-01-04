@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57464,2,Madeline Baker,madeline15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57468,1,Danielle Bell,danielle16@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO57473,4,Krystal Hu,krystal20@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO57451,2,William Robinson,william13@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57469,2,Allison Gonzalez,allison31@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

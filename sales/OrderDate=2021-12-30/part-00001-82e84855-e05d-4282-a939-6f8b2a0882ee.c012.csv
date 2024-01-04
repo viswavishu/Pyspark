@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63045,2,Jerome Gutierrez,jerome9@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO63049,1,Dawn Shen,dawn26@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388
+SO63011,2,Vincent Cai,vincent21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO63020,2,Nathan Gonzales,nathan13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO63018,3,Kayla Walker,kayla22@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

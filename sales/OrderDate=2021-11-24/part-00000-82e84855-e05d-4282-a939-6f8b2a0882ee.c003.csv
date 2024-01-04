@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60718,1,Emma Gonzales,emma63@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO60738,4,Alejandro Chen,alejandro4@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60716,1,Gabriella Bailey,gabriella14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60757,1,Marc Ortega,marc26@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO60711,1,Nathan White,nathan70@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

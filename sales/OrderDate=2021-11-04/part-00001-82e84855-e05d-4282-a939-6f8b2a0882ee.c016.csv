@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59358,3,Dalton Johnson,dalton1@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59352,1,Johnathan Sai,johnathan7@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO59390,2,Randall Rubio,randall23@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59405,2,Cassandra Madan,cassandra8@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388
+SO59366,2,Dominique Patel,dominique3@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

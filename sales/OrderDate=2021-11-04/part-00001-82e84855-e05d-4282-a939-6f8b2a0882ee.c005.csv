@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59403,2,Kristin Jai,kristin12@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59405,1,Cassandra Madan,cassandra8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59372,2,Samuel Anderson,samuel66@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59395,1,Stephanie Howard,stephanie17@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO59374,1,Rachel Patterson,rachel58@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592

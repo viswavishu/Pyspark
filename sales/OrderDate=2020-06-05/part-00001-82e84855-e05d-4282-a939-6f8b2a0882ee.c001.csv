@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46727,1,Carolyn Rodriguez,carolyn19@adventure-works.com,"Road-250 Red, 52",1,2443.35,195.468
+SO46721,1,Robyn Gomez,robyn0@adventure-works.com,"Road-250 Red, 52",1,2443.35,195.468

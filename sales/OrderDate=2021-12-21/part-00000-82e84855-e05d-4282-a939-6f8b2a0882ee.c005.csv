@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62502,1,Ashley Jenkins,ashley33@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62504,2,April Shan,april8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62481,2,Brandi Ruiz,brandi2@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62524,4,Tina Fernandez,tina17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62516,2,Cesar Mehta,cesar13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

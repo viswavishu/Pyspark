@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54743,1,Leah Ma,leah12@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO54767,3,Colleen Sun,colleen13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54766,1,Michelle Brooks,michelle3@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO54731,1,Jordan Hill,jordan67@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54765,2,Alexandria Ramirez,alexandria30@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

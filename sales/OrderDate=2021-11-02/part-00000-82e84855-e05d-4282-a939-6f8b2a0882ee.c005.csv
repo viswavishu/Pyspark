@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59243,1,Cory Mehta,cory12@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO59239,3,Emily Wood,emily27@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59232,3,Ian Kelly,ian67@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO59259,4,Nathan Hughes,nathan7@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO59263,4,Toni Sai,toni5@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

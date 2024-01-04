@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52772,5,Cassie She,cassie0@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52769,1,Brandi Romero,brandi9@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO52765,3,Amanda Wright,amanda63@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52741,2,Luke Diaz,luke11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52777,2,Tara Simpson,tara2@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

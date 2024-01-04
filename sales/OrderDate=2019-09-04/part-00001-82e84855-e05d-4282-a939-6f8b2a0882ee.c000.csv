@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44332,1,Jason Butler,jason11@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616

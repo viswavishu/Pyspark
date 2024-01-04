@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62648,1,Caleb Yang,caleb23@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO62667,4,Hannah Barnes,hannah26@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO62684,2,Mason Hall,mason43@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62653,1,Wyatt Thompson,wyatt16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62642,3,Julian Henderson,julian6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

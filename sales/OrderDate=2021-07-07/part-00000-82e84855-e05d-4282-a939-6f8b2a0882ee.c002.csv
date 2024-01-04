@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52160,2,Dustin Deng,dustin1@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52207,3,Michele Nath,michele19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52156,4,Denise Sanchez,denise21@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52174,1,Taylor Harris,taylor61@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52164,1,Evan James,evan8@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

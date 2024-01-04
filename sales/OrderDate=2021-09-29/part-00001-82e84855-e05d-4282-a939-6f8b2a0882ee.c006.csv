@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56919,1,Frank Martin,frank30@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56944,4,Rebekah Serrano,rebekah36@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56925,1,Haley Hernandez,haley53@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO56953,3,William Martin,william10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56918,3,Aaron Adams,aaron48@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

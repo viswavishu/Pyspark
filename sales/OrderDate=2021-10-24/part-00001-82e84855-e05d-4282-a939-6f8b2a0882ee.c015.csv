@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58496,1,Samuel Wright,samuel50@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO58526,4,Jake Wang,jake1@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO58498,2,Blake Hall,blake24@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58528,3,Richard Rogers,richard100@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58524,3,Amanda Brooks,amanda19@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

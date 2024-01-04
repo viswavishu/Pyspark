@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62330,1,Olivia Russell,olivia65@adventure-works.com,"Mountain-500 Silver, 42",1,564.99,45.1992
+SO62341,5,Nina Raji,nina21@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62315,3,Zoe Sanchez,zoe22@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO62342,1,Brad Goel,brad20@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388
+SO62297,1,Noah Phillips,noah33@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

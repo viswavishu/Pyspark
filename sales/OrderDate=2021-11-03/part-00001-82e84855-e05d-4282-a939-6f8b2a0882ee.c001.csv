@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59326,2,Stefanie Rodriguez,stefanie17@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59273,3,Micheal Rubio,micheal17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59330,2,Susan He,susan29@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59286,2,Sebastian Watson,sebastian1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59320,4,Adam Patterson,adam8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

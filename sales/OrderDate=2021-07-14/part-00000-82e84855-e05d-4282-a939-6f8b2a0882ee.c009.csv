@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52527,2,Jaime Ramos,jaime19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52541,2,Isaiah Phillips,isaiah29@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO52568,3,Jillian Patel,jillian3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52533,3,Clayton Andersen,clayton31@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52566,3,Marshall Chavez,marshall35@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

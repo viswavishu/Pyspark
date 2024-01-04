@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60998,3,Russell Xie,russell7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60985,2,Melody Dominguez,melody13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60956,2,Evelyn Malhotra,evelyn5@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60975,2,Jackson Young,jackson48@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60995,2,Bob Lopez,bob9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62955,3,Jeremy Rogers,jeremy45@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62952,1,Derrick Jim�nez,derrick5@adventure-works.com,"Mountain-500 Black, 52",1,539.99,43.1992
+SO62980,1,Jessica Williams,jessica49@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62950,1,Roger Yuan,roger34@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO62960,1,Barry Garcia,barry15@adventure-works.com,LL Road Tire,1,21.49,1.7192

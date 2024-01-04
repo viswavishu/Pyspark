@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60813,4,Simon Pearson,simon3@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO60784,3,Evan Bradley,evan15@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60818,1,Ruben Kapoor,ruben1@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60813,1,Simon Pearson,simon3@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO60793,3,Sophia Parker,sophia6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60350,1,Gilbert She,gilbert21@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60357,1,Austin Thompson,austin31@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60339,2,Hannah Thompson,hannah13@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60369,2,Shane Suri,shane4@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO60347,1,Jack Washington,jack13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

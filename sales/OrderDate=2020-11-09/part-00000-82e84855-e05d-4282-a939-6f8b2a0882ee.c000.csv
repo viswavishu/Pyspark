@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48494,1,Sydney Ward,sydney13@adventure-works.com,"Road-550-W Yellow, 42",1,1000.4375,80.035
+SO48496,1,Sheila Ruiz,sheila2@adventure-works.com,"Mountain-200 Black, 46",1,2049.0982,163.9279
+SO48497,1,Hannah Harris,hannah12@adventure-works.com,"Mountain-200 Black, 42",1,2049.0982,163.9279

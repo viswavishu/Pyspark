@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52331,1,Tamara Huang,tamara36@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO52342,1,Elijah Coleman,elijah9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52336,2,Colleen Liu,colleen4@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52355,2,Holly Chandra,holly4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52351,2,Rachel Russell,rachel68@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

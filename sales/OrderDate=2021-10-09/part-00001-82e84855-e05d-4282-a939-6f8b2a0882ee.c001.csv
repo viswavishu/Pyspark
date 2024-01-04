@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57679,3,Christopher Johnson,christopher25@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57679,1,Christopher Johnson,christopher25@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO57660,1,Mary Mitchell,mary24@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57684,1,Melinda Rubio,melinda15@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO57679,2,Christopher Johnson,christopher25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57219,1,Dustin Shan,dustin10@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57233,1,Alex Hill,alex42@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO57207,2,Megan Sanders,megan49@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57205,1,Haley Scott,haley51@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57197,1,Tiffany Liang,tiffany17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60301,2,Eduardo Wood,eduardo46@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

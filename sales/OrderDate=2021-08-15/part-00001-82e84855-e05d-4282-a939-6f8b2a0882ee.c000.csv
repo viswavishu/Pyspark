@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54378,3,Ann Rodriguez,ann24@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54395,4,Carlos Hill,carlos39@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO54386,1,Juan Rogers,juan29@adventure-works.com,"Mountain-500 Silver, 52",1,564.99,45.1992
+SO54389,1,Alexandra Jenkins,alexandra30@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO54396,3,Abigail White,abigail53@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

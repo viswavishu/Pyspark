@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54994,1,Andres Chavez,andres12@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55002,2,Bruce Ramos,bruce38@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO54997,3,Bobby Van,bobby3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55013,1,Hunter Shan,hunter26@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54992,3,Adrian Ward,adrian5@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

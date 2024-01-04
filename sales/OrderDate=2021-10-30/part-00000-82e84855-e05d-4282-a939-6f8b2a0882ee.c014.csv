@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58845,7,Peter She,peter8@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58886,2,David Kumar,david60@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

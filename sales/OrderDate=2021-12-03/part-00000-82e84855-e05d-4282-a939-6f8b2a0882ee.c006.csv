@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61421,2,Victoria Butler,victoria61@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO61424,1,Troy Prasad,troy10@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO61382,3,Julia Morris,julia48@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61379,3,Ethan Henderson,ethan1@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61405,1,Veronica Garcia,veronica16@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

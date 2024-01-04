@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62505,3,Anders Skj�naa,anders0@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO62498,1,Wayne Yuan,wayne8@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO62506,3,Regina Fernandez,regina15@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62501,1,Ruben Madan,ruben8@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO62485,1,Andrea Morris,andrea18@adventure-works.com,Road Tire Tube,1,3.99,0.3192

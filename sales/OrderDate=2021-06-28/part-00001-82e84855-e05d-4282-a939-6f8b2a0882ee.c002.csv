@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51643,1,Stacey Sun,stacey14@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO51642,3,Jacquelyn Gutierrez,jacquelyn11@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO51655,1,Benjamin Gonzales,benjamin18@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO51639,1,Nichole Tang,nichole4@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO51657,2,Arianna Bryant,arianna16@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

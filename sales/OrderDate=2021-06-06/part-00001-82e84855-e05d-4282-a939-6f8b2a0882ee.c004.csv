@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51274,3,Marshall Cai,marshall19@adventure-works.com,HL Road Tire,1,32.6,2.608

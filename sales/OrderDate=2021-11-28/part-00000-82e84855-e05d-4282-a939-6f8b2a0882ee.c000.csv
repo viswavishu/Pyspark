@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60966,1,Jacquelyn Rowe,jacquelyn22@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO61032,1,Gerald Gill,gerald22@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO61013,1,Allison Brooks,allison0@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO61021,1,Mariah Brooks,mariah1@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO61029,4,Alicia Shen,alicia1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

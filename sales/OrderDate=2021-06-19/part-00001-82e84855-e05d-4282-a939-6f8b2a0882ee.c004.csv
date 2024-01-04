@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51483,3,Kenneth Raje,kenneth12@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO51493,3,Eugene Huang,eugene10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51483,4,Kenneth Raje,kenneth12@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51494,2,Brenda Rodriguez,brenda23@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51478,2,Sheena Raji,sheena20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

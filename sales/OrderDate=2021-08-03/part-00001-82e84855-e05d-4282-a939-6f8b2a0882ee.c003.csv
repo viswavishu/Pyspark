@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53725,3,Derek Nara,derek15@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO53739,1,Alexandra Mitchell,alexandra53@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53755,2,Alexa Sanders,alexa3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53722,4,Ronald Raman,ronald14@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO53735,1,Amanda Washington,amanda34@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

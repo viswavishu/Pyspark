@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56964,2,Stanley Suri,stanley1@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57011,1,Leonard Nath,leonard20@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO57007,3,Tamara Cai,tamara10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56972,4,Isabella Harris,isabella69@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO56965,2,Ashlee Chande,ashlee0@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

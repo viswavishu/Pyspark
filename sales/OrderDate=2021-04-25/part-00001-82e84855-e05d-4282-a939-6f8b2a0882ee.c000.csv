@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO50591,1,Ariana Gray,ariana5@adventure-works.com,"Mountain-200 Black, 42",1,2049.0982,163.9279
+SO50588,1,Marcus Morris,marcus93@adventure-works.com,"Mountain-200 Black, 46",1,2049.0982,163.9279
+SO50592,1,Grace Patterson,grace58@adventure-works.com,"Road-650 Black, 58",1,782.99,62.6392
+SO50586,1,Janet Sanz,janet26@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468
+SO50587,1,Courtney Hill,courtney10@adventure-works.com,"Mountain-200 Black, 42",1,2049.0982,163.9279

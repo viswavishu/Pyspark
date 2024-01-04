@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51970,4,Neil Torres,neil11@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO51973,2,Frank Gutierrez,frank18@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO51971,4,Gary Jimenez,gary16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52010,5,Jose Patterson,jose33@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO52017,1,Randall Dominguez,randall14@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256

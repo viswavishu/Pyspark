@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60222,2,Emily Hall,emily24@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO60243,2,Mary Hill,mary26@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60238,2,Jeffery Lu,jeffery12@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60213,2,Caleb Diaz,caleb18@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO60224,4,Gabriel Allen,gabriel53@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61383,3,Lacey He,lacey31@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61386,2,Audrey Alonso,audrey9@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO61416,3,Eddie Dominguez,eddie13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61390,1,Roger Liang,roger21@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO61425,2,Dennis Zeng,dennis24@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52106,1,Anna Perry,anna32@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO52096,2,Adriana Prasad,adriana10@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52091,1,Jordan Gonzalez,jordan62@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO52104,2,Jaime Moreno,jaime48@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52080,1,Angel James,angel7@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

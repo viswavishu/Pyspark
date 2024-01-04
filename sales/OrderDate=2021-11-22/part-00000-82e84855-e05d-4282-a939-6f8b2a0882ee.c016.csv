@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60567,1,Lori Blanco,lori16@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60565,2,Jason Griffin,jason18@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO60610,1,Dominique Garcia,dominique12@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO60614,2,Deanna Martin,deanna25@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO60609,2,Carolyn Munoz,carolyn28@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55168,2,Janelle Suri,janelle0@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO55174,1,Andy Gomez,andy6@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO55145,1,Mason Stewart,mason24@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO55149,1,Carrie Diaz,carrie2@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55151,2,Ana Perry,ana7@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

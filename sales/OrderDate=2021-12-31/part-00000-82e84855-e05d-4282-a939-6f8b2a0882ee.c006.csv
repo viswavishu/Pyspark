@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63095,3,Austin Johnson,austin40@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO63117,3,Tony Natsuhara,tony21@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO63100,5,Morgan Wilson,morgan30@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO63109,2,Lydia Suri,lydia0@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO63111,4,Katrina Xu,katrina4@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

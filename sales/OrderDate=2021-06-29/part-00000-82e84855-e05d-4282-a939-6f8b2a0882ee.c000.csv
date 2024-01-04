@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51667,1,Carolyn Navarro,carolyn30@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO51670,3,Seth Kelly,seth75@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO51661,1,Jimmy Rubio,jimmy25@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO51662,1,Dale Xu,dale4@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO51661,2,Jimmy Rubio,jimmy25@adventure-works.com,ML Road Tire,1,24.99,1.9992

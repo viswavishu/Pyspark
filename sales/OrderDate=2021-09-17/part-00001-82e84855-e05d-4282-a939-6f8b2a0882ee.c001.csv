@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56286,2,Jackson Wright,jackson51@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO56315,2,Megan Gray,megan43@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56291,2,Luis Gonzales,luis16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56309,1,Damien Chande,damien31@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56279,2,Terrance Rodriguez,terrance17@adventure-works.com,HL Road Tire,1,32.6,2.608

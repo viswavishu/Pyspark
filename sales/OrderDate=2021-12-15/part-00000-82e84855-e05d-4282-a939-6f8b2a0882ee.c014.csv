@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62119,1,Tracy Nath,tracy17@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO62141,1,Franklin Ma,franklin15@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO62126,1,Tamer Salah,tamer0@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62129,2,Dalton Sanchez,dalton89@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62135,2,Emily Miller,emily6@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

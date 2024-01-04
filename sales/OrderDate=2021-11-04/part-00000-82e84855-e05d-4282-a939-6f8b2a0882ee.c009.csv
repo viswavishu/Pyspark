@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59406,2,Alexis Long,alexis32@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59379,1,Misty Xie,misty4@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO59348,3,Vincent He,vincent18@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO59377,1,Chloe Russell,chloe85@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992
+SO59398,1,Gregory Pal,gregory15@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392

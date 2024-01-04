@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56040,1,Emma Watson,emma45@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56058,2,Cassidy Bryant,cassidy19@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56061,1,Mayra Raman,mayra12@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO56057,3,Jackson Zhang,jackson25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56046,3,Randall Gill,randall15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

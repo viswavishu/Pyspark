@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55595,3,Kaitlyn Blue,kaitlyn52@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55569,3,Aidan Alexander,aidan20@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55569,4,Aidan Alexander,aidan20@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55600,1,Alex Sanchez,alex21@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO55604,1,Devon Raje,devon11@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256

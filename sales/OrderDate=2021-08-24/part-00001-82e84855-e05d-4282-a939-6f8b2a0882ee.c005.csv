@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54914,2,Julia Edwards,julia3@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54891,2,Marvin Hernandez,marvin4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54925,1,Trisha Gao,trisha9@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO54898,2,Sydney Bennett,sydney23@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54923,2,Chelsea Mehta,chelsea15@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

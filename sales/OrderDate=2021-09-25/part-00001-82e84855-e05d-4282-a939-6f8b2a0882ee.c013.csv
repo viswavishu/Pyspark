@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56698,1,Aimee Sun,aimee9@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56702,1,Noah Jenkins,noah3@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO56703,1,Derek Raji,derek19@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56748,2,Al�cia Anand,al�cia18@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56734,3,Luke Edwards,luke33@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

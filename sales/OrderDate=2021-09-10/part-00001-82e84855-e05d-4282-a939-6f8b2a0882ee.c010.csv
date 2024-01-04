@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55958,2,Cedric Sun,cedric12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55928,4,Lucas Powell,lucas58@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO55942,2,Grace Thomas,grace10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55954,2,Thomas Roberts,thomas41@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55961,3,Ashley Russell,ashley47@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

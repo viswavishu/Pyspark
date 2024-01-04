@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51629,2,Tina Mehta,tina15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51620,4,Chad Luo,chad7@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO51619,2,Kelvin Tang,kelvin1@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO51627,3,Angelica Long,angelica9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51621,2,Sophia Mitchell,sophia10@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59574,5,Bailey Gray,bailey4@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO59499,2,Grant Tang,grant6@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59577,1,Wilson Pais,wilson0@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO59533,1,Jeffery Hu,jeffery20@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59573,3,Casey Jim�nez,casey29@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

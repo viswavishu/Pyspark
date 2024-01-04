@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53417,3,Ethan Jackson,ethan45@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53416,4,Julia Bennett,julia67@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO53446,1,Caleb Edwards,caleb30@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO53448,4,Lance Blanco,lance15@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53445,2,Gavin Coleman,gavin5@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

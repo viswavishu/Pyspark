@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58370,1,Fernando Barnes,fernando47@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO58408,5,Shaun Shen,shaun4@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO58366,3,Xavier Hill,xavier26@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58366,2,Xavier Hill,xavier26@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58389,1,Jeffery Liang,jeffery16@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

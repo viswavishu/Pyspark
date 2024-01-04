@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54583,2,Jack Turner,jack40@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54541,3,Jose Hughes,jose34@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

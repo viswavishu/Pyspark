@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54246,6,Wayne Anand,wayne24@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54245,1,Heidi Sara,heidi12@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO54223,2,James Nelson,james59@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54232,1,Timothy Gonzalez,timothy34@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54203,5,Jeremiah Miller,jeremiah0@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

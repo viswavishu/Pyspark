@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57848,2,Katelyn Cook,katelyn20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57862,2,Kyle Perry,kyle3@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57881,1,Alberto Rowe,alberto20@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57888,3,Patrick Murphy,patrick20@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57876,3,Martha Zeng,martha21@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

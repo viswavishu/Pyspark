@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59200,1,Fernando Adams,fernando31@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO59195,1,Alexia Hayes,alexia19@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO59204,1,Cole Stewart,cole23@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO59147,4,Ruben Hernandez,ruben27@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59165,2,Savannah Perez,savannah34@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

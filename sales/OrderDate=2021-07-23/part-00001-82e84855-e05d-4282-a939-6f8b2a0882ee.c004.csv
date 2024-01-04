@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52964,3,Dalton Coleman,dalton51@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52982,1,Grace Martinez,grace17@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52996,1,Jessie Guo,jessie22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52975,1,Ross Perez,ross20@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO52973,1,Shannon Zheng,shannon18@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

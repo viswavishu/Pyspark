@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55715,1,Suzanne Guo,suzanne19@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55698,4,Xavier Wood,xavier43@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55693,2,Kelly Simmons,kelly20@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55687,1,Gary Dominguez,gary23@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO55698,5,Xavier Wood,xavier43@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

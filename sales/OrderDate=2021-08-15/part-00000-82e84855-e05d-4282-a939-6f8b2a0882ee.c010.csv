@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54419,2,Ethan Butler,ethan10@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54399,2,Aaron Roberts,aaron37@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO54421,3,Margaret Lu,margaret17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54409,1,Franklin Wang,franklin1@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54426,2,Eric Kumar,eric36@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

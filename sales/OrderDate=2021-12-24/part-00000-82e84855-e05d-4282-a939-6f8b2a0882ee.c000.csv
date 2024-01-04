@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62678,3,Carmen Perez,carmen3@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62639,1,Edwin Zhou,edwin9@adventure-works.com,"Mountain-500 Black, 52",1,539.99,43.1992
+SO62641,3,Priscilla Pal,priscilla10@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62658,2,Kari Rodriguez,kari19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62631,1,Sheila Alonso,sheila8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

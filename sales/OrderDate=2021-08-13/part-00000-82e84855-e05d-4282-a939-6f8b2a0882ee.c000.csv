@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54315,2,Cassandra Sai,cassandra6@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54284,1,Jordan Wright,jordan49@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54279,1,Jackson Adams,jackson47@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54300,1,Nathan Jenkins,nathan2@adventure-works.com,"Touring-3000 Yellow, 54",1,742.35,59.388
+SO54288,2,Adrienne Gill,adrienne10@adventure-works.com,"Classic Vest, S",1,63.5,5.08

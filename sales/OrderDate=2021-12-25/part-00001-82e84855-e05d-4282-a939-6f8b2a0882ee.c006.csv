@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62702,2,Ethan Bryant,ethan14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62701,2,Blake Taylor,blake8@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO62745,1,Megan Russell,megan67@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO62713,2,Carson Washington,carson12@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO62695,1,Isaac Rivera,isaac16@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

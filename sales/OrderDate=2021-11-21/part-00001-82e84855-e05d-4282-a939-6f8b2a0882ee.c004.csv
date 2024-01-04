@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60522,1,James Gonzales,james32@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO60554,1,Linda Hernandez,linda18@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO60546,1,Grace Jones,grace2@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60540,1,Amber Edwards,amber1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60538,3,Teresa Serrano,teresa17@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192

@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48969,1,Kendra Gomez,kendra1@adventure-works.com,"Road-250 Black, 58",1,2181.5625,174.525
+SO48971,1,Jason Campbell,jason36@adventure-works.com,"Mountain-200 Black, 46",1,2049.0982,163.9279
+SO48965,1,Marco Arun,marco7@adventure-works.com,"Road-550-W Yellow, 48",1,1000.4375,80.035

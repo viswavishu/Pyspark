@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58382,2,Dalton Stone,dalton0@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58390,2,Haley Kelly,haley18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58396,4,Jackson Lopez,jackson42@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58396,2,Jackson Lopez,jackson42@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58353,1,Cristina Beck,cristina17@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

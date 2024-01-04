@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60548,1,Benjamin Brown,benjamin36@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO60534,2,Victoria Torres,victoria40@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60536,3,Jenna Edwards,jenna1@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60519,1,Chase Gray,chase6@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO60531,1,Dalton Perez,dalton37@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

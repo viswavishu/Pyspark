@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51919,2,Kristy Sanz,kristy18@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO51917,1,Terry Raje,terry16@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO51919,1,Kristy Sanz,kristy18@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO51884,1,Barbara Zhang,barbara10@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO51882,3,Arthur Sanz,arthur42@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

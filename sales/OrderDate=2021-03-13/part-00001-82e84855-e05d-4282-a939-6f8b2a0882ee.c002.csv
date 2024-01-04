@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO50014,1,Monique Suarez,monique15@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468
+SO50013,1,Lisa Lin,lisa11@adventure-works.com,"Road-250 Black, 58",1,2181.5625,174.525
+SO50027,1,Martha Wang,martha1@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525

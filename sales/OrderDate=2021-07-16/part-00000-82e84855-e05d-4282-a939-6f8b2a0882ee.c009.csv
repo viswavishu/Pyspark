@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52649,1,Savannah Baker,savannah39@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52643,2,Dwayne Gomez,dwayne1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52626,3,Luke Lal,luke18@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO52636,1,Paige Washington,paige12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52641,1,Kari Sanchez,kari20@adventure-works.com,ML Road Tire,1,24.99,1.9992

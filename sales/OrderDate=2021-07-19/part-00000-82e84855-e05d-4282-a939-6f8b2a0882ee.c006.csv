@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52818,2,Douglas Sanchez,douglas24@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52814,3,Kelsey Jai,kelsey11@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52794,1,Taylor Wood,taylor27@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52824,1,Lucas King,lucas42@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52782,3,Susan Guo,susan28@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

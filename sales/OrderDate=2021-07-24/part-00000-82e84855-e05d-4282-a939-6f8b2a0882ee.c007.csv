@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53063,1,Paige Reed,paige45@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO53057,2,Marc Munoz,marc11@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53040,2,Cheryl Gill,cheryl16@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53039,2,Donna Chander,donna14@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53033,1,Sara Baker,sara43@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

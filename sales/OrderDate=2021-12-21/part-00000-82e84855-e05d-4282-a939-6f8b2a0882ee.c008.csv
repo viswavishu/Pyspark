@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62493,2,Amanda Allen,amanda67@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62518,4,Robert Kumar,robert40@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO62510,4,Aaron Scott,aaron45@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62488,1,Charles Cooper,charles57@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62524,1,Tina Fernandez,tina17@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992

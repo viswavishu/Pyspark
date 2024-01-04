@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57652,1,Blake Lewis,blake21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57661,1,Alexandria Henderson,alexandria5@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO57683,2,Nathan Alexander,nathan15@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO57664,1,Anna Russell,anna45@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO57675,4,Kaylee Hill,kaylee35@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

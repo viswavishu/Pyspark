@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62824,1,Ricardo She,ricardo0@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO62832,1,Isabel Diaz,isabel20@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62858,3,Ana Washington,ana12@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO62864,2,Willie Xu,willie24@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO62851,2,Amber Baker,amber17@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60203,1,Gabriel Patterson,gabriel7@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60190,3,Marie Vance,marie8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60243,1,Mary Hill,mary26@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO60233,6,Jason Mitchell,jason40@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60199,2,Jonathan Patterson,jonathan10@adventure-works.com,ML Road Tire,1,24.99,1.9992

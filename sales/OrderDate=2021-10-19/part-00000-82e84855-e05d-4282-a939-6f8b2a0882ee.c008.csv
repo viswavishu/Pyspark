@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58215,3,Kellie Rubio,kellie18@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO58247,3,Elijah Russell,elijah21@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58195,4,Allen Garcia,allen13@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58204,1,Jeremy Washington,jeremy28@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58202,3,Henry Garcia,henry16@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

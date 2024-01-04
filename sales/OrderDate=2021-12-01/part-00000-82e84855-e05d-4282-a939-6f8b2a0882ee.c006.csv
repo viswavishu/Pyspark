@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61311,2,Raul Tang,raul4@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61304,4,Sergio Sai,sergio6@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61286,2,Andrew Martinez,andrew24@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61302,2,Jonathan Coleman,jonathan5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61309,2,Jason Campbell,jason36@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

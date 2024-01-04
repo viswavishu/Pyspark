@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57904,1,Tanya Carlson,tanya15@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO57957,1,Arthur Vazquez,arthur39@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388
+SO57943,2,Jill Jimenez,jill13@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57910,3,Leonard Andersen,leonard14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57945,2,Deborah Yuan,deborah11@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

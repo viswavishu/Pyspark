@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62924,1,Natalie Diaz,natalie44@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO62930,2,Alfredo Ramos,alfredo18@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62886,3,Kurt Nara,kurt17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62902,1,Leonard Goel,leonard21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62903,3,Dylan Jenkins,dylan5@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

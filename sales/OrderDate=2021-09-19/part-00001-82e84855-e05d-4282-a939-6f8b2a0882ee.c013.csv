@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56421,4,Joshua Smith,joshua2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56422,3,Isaiah Wright,isaiah45@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56427,1,Cedric Shan,cedric31@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392

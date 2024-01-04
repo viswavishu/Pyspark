@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56406,1,Adrian Morris,adrian19@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56410,1,Emma Morris,emma26@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56383,1,Gavin Butler,gavin13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56396,3,Mariah Hughes,mariah16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56408,3,April Sharma,april7@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

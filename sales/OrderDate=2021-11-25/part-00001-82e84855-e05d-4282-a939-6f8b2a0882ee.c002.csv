@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60780,1,John Lee,john56@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO60773,1,Carla Martinez,carla20@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO60784,2,Evan Bradley,evan15@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60820,4,Amanda Bradley,amanda5@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO60825,2,Eduardo Peterson,eduardo73@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

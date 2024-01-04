@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56421,1,Joshua Smith,joshua2@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO56424,1,Jodi Chapman,jodi16@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO56424,2,Jodi Chapman,jodi16@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56415,3,Gabrielle Lopez,gabrielle63@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56417,1,Destiny Foster,destiny64@adventure-works.com,HL Mountain Tire,1,35.0,2.8

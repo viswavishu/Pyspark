@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53357,1,Alison Xu,alison4@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO53371,3,Carlos Sanchez,carlos20@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53389,4,Sarah Washington,sarah38@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO53397,1,Summer Rana,summer9@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO53345,1,Carol Nelson,carol13@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

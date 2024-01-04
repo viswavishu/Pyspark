@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59553,3,Valerie She,valerie25@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO59548,4,Tony Chander,tony18@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59489,2,Bonnie Xie,bonnie8@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59556,2,Drew Chander,drew17@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59539,1,Rachel Hall,rachel27@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

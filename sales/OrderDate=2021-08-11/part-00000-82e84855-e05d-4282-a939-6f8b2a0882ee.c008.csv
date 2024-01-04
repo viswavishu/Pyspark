@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54154,1,Wayne Nara,wayne19@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54156,2,Eduardo Gray,eduardo74@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO54183,1,Janet Gomez,janet6@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO54151,3,Christy Lu,christy10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54179,4,Lucas Perez,lucas4@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

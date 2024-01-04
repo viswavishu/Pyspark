@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52598,2,Clarence Zhao,clarence6@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO52591,1,Stefanie Smith,stefanie5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52586,3,Amber Carter,amber10@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52595,3,Alexandre Lobao,alexandre1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52577,1,Deanna Gutierrez,deanna37@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992

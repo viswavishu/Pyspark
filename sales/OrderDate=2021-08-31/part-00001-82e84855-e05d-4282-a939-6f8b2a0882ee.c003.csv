@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55379,1,Erick Sai,erick5@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO55381,1,Thomas Garcia,thomas78@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO55342,1,Henry Garcia,henry16@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55364,3,Cassandra Patel,cassandra3@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55347,2,Thomas Henderson,thomas6@adventure-works.com,Road Tire Tube,1,3.99,0.3192

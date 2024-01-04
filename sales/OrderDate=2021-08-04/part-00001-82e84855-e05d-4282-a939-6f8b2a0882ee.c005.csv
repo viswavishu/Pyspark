@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53780,1,Ronald Fernandez,ronald18@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53788,3,Nicole White,nicole13@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53815,1,Ashley Simmons,ashley42@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53772,1,Kari Torres,kari32@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO53823,1,Devin Lopez,devin26@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388

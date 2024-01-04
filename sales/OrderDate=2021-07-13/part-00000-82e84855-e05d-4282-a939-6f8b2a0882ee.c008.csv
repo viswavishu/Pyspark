@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52508,1,Lacey Lin,lacey20@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52507,2,Misty Nath,misty20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52520,1,Julia Anderson,julia32@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO52487,1,Samantha Jenkins,samantha32@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52485,2,Katelyn Lopez,katelyn45@adventure-works.com,LL Road Tire,1,21.49,1.7192

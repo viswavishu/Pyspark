@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61875,2,Jada Peterson,jada2@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61861,1,Pamela Kapoor,pamela4@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO61885,2,Arthur Navarro,arthur34@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO61870,2,Miguel Johnson,miguel0@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61876,1,Noah Edwards,noah28@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

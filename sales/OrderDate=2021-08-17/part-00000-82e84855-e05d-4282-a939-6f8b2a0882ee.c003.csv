@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54502,4,Omar Cai,omar20@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54478,1,Janet Munoz,janet12@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO54494,2,Mariah Gray,mariah30@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54518,2,Angelica Bryant,angelica17@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54525,2,Carolyn Sanchez,carolyn20@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54856,2,Molly Martinez,molly16@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO54847,1,Sydney Stewart,sydney0@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54855,3,Corey Deng,corey1@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO54876,4,Tammy Malhotra,tammy5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54856,3,Molly Martinez,molly16@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61536,2,Destiny Jenkins,destiny55@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO61491,2,Latasha Dominguez,latasha12@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61482,2,Rodney Ramos,rodney13@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO61500,3,Kayla Hall,kayla23@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO61522,1,Adam Powell,adam6@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792

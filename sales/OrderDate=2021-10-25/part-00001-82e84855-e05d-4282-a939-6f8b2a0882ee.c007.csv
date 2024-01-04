@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58541,2,Anne Serrano,anne18@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO58562,2,Jocelyn Bradley,jocelyn1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58569,3,Natalie Cook,natalie5@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO58554,1,Danielle Bailey,danielle18@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58582,3,Shaun Chapman,shaun17@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

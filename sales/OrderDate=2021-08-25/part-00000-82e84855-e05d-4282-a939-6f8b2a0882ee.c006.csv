@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54945,2,Maria Ross,maria27@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54963,1,Chloe Sanders,chloe65@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO54966,2,Tasha Andersen,tasha14@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54940,3,Kelly Price,kelly4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54969,1,Curtis Zimmerman,curtis1@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388

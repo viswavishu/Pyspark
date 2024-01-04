@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55924,2,Kevin Bryant,kevin20@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55940,1,Fernando Hughes,fernando54@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO55923,4,Gerald Rodriguez,gerald5@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55936,3,Sheila Alvarez,sheila5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55962,2,Adriana Lopez,adriana17@adventure-works.com,HL Mountain Tire,1,35.0,2.8

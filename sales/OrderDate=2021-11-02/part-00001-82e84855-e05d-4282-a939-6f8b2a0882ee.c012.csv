@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59255,4,Hunter Hayes,hunter18@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59229,1,Connor Green,connor41@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59244,3,Gabriella Cox,gabriella8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59214,3,Cedric Xu,cedric11@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO59212,4,Marie Sanz,marie44@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

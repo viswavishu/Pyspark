@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51380,1,Taylor Lewis,taylor67@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO51375,2,Ann Chandra,ann7@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51384,5,Cassie Chande,cassie13@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO51384,2,Cassie Chande,cassie13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51385,2,Willie Raji,willie40@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

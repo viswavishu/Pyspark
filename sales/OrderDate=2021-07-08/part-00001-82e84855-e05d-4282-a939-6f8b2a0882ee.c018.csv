@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52248,1,Kara Andersen,kara12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

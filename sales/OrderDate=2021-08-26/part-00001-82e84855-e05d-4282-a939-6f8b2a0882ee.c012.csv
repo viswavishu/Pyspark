@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55002,1,Bruce Ramos,bruce38@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO54999,2,Kayla Barnes,kayla27@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54978,2,Evelyn Suri,evelyn0@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54990,1,Eduardo Phillips,eduardo39@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO54984,2,Colin Zhu,colin15@adventure-works.com,"Racing Socks, L",1,8.99,0.7192

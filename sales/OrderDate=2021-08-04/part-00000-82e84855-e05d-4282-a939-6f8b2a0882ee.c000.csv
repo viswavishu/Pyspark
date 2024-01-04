@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53819,1,Gabriella Carter,gabriella33@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53801,1,Natalie Baker,natalie59@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53774,2,Louis Zhu,louis8@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO53804,2,Zachary Smith,zachary40@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO53818,4,Susan Ye,susan19@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

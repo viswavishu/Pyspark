@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60177,1,Sydney Bell,sydney7@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO60164,3,Phil Spencer,phil0@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO60172,1,Connor Phillips,connor35@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO60125,1,Joanna Torres,joanna10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60142,3,Ian Ward,ian69@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

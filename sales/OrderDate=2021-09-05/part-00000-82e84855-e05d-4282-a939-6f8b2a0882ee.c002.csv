@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55618,3,Willie Andersen,willie32@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55652,1,Rebekah Blanco,rebekah35@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55640,3,Kathleen Torres,kathleen14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55626,2,Dalton Perez,dalton37@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55635,3,Tristan Coleman,tristan6@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

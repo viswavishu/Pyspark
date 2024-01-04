@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62190,1,Anna Brown,anna65@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62183,3,Carla Srini,carla11@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62162,2,Dustin Xie,dustin3@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62211,1,Jeremiah Howard,jeremiah43@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO62226,2,Morgan King,morgan16@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

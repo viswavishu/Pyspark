@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60710,1,Hunter Perez,hunter32@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO60722,2,Claudia Yang,claudia4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60761,2,Karl Kumar,karl8@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60753,2,Jade Morgan,jade10@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60733,4,Alexandra Brown,alexandra67@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

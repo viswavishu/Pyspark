@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55529,2,Kayla Anderson,kayla10@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55533,3,Isabel Bradley,isabel1@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO55531,1,Stacy Ortega,stacy22@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55546,1,Faith Russell,faith19@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO55532,2,Carol Perry,carol20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

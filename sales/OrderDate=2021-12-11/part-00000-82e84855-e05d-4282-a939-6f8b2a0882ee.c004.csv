@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61904,1,Madison Alexander,madison31@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO61895,1,Kaitlyn Adams,kaitlyn13@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61906,3,Rachael Lopez,rachael15@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61905,1,Latasha Alonso,latasha8@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO61909,1,Devin Taylor,devin7@adventure-works.com,"Mountain-500 Black, 48",1,539.99,43.1992

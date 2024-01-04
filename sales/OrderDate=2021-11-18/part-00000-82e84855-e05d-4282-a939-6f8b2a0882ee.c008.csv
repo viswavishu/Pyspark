@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60332,2,Darren Jim�nez,darren27@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60343,2,Jordan Roberts,jordan32@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60335,1,Larry Vazquez,larry17@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO60340,1,Isabella Gonzalez,isabella48@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60322,1,Virginia Mehta,virginia16@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

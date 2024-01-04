@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56921,1,Robyn Suarez,robyn15@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56915,1,Justin Li,justin23@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56910,1,Luke Lal,luke18@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56934,2,Dwayne Gomez,dwayne1@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56929,1,Lauren Taylor,lauren27@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

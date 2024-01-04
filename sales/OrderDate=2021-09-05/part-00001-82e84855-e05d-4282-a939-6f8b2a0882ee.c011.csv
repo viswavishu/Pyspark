@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55665,3,Priscilla Shen,priscilla2@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55664,2,Briana Ramos,briana14@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55641,1,Keith Rai,keith21@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55629,4,Kaitlyn Harris,kaitlyn36@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO55666,2,Joe Ramos,joe41@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

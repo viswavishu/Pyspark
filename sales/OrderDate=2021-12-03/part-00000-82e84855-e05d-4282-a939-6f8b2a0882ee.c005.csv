@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61412,5,Nathaniel Cooper,nathaniel9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61391,2,Julia Peterson,julia59@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO61395,2,Jesse Bell,jesse14@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61424,2,Troy Prasad,troy10@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61372,1,Franklin Yang,franklin5@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

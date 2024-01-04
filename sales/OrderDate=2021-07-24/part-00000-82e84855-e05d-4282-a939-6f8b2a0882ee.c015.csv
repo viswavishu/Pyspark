@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53064,3,Jacqueline Bell,jacqueline38@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53027,2,Devin Price,devin66@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53049,3,Angel Young,angel40@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53065,2,Sierra Collins,sierra2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

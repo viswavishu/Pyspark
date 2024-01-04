@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53907,1,Meagan Chandra,meagan2@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO53882,2,Eduardo Morris,eduardo85@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53918,1,Brendan Deng,brendan1@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO53876,3,Suzanne Zhou,suzanne10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53914,1,Cody Morgan,cody13@adventure-works.com,"Touring-3000 Yellow, 58",1,742.35,59.388

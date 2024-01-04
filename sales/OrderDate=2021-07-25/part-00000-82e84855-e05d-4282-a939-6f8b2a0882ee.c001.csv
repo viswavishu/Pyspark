@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53099,2,James Phillips,james55@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO53083,1,Cindy Weber,cindy4@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO53071,4,Mandy Sun,mandy15@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO53071,3,Mandy Sun,mandy15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53087,2,Kaylee Blue,kaylee10@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

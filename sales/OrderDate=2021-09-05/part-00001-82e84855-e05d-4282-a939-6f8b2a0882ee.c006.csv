@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55668,3,Summer Madan,summer6@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO55681,2,Margaret He,margaret25@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55636,1,Xavier Alan,xavier22@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55623,4,Lisa Cai,lisa24@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55663,4,Joseph Taylor,joseph15@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

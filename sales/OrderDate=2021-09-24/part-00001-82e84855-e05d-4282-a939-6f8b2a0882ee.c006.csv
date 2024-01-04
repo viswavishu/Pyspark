@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56651,1,Robert Mitchell,robert53@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO56684,1,Danny Suarez,danny20@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO56646,1,Jimmy Ashe,jimmy7@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56676,1,Robert Harris,robert72@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56686,1,Jessica Ramirez,jessica19@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256

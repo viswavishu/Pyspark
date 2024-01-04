@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60165,1,Meghan Alonso,meghan8@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO60150,2,Willie Ma,willie14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60163,1,Erika Serrano,erika14@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO60139,2,Alexandria Price,alexandria0@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60123,1,Michele Lal,michele9@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

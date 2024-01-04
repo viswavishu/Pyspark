@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60057,4,Eduardo Taylor,eduardo7@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO60117,2,Max Gomez,max2@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60122,2,Pamela Rodriguez,pamela22@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60101,1,Rodney Alonso,rodney4@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO60116,2,Alexandra Scott,alexandra55@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

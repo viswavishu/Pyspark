@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58599,1,Alexandra Jenkins,alexandra30@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO58604,2,Amanda Bennett,amanda22@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO58639,1,Kelvin Yang,kelvin24@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO58604,1,Amanda Bennett,amanda22@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58585,1,Krystal Liang,krystal17@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

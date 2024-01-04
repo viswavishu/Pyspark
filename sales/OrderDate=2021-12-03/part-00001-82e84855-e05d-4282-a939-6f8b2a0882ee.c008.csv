@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61410,3,Eric Evans,eric42@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61395,1,Jesse Bell,jesse14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61418,1,Harold Patel,harold1@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO61383,1,Lacey He,lacey31@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO61383,2,Lacey He,lacey31@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

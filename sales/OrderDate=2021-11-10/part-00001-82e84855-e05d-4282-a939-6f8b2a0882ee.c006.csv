@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59786,3,Melody Saunders,melody20@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO59799,4,Haley Mitchell,haley50@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59789,3,Natasha Carlson,natasha18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59772,2,Joan Ross,joan5@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO59819,2,Nathan Taylor,nathan67@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

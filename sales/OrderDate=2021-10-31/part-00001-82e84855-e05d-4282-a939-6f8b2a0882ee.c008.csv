@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59123,1,Kristine Gill,kristine14@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO59086,2,Dustin Yuan,dustin6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59109,2,Dalton Perry,dalton53@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO59087,1,Sheila Serrano,sheila15@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO59081,2,Clifford Sanchez,clifford19@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

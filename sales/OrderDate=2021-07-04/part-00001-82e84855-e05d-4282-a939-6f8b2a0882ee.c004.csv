@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52042,3,Jocelyn Patterson,jocelyn11@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO52030,1,Dana Navarro,dana2@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52042,1,Jocelyn Patterson,jocelyn11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52052,1,Colin Raji,colin44@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52056,2,Marcus Johnson,marcus1@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56118,3,Anne Moreno,anne7@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO56098,2,George Suri,george6@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56090,3,Shawn Anand,shawn24@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56098,3,George Suri,george6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56076,3,April Pal,april10@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

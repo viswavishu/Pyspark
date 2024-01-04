@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55025,1,Aaron Diaz,aaron21@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO54981,1,Kathleen Moreno,kathleen8@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55016,4,Amanda Phillips,amanda49@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO55021,2,Claudia Sun,claudia12@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55006,3,Veronica Madan,veronica8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

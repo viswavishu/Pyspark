@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56694,4,Felicia Blanco,felicia15@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56753,3,Monique Dominguez,monique9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56752,2,Leah Hu,leah16@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO56717,2,Taylor James,taylor20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56709,1,Gabrielle Young,gabrielle65@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

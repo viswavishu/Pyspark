@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52841,3,Trisha Li,trisha21@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52865,2,Grace Thompson,grace15@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52856,2,Destiny Anderson,destiny10@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52844,2,Donna Sharma,donna9@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52873,1,Marissa Price,marissa19@adventure-works.com,HL Mountain Tire,1,35.0,2.8

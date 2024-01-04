@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49010,1,Kristin Shan,kristin11@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468
+SO49011,1,Brooke Rivera,brooke14@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61651,1,David Ross,david36@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO61633,1,Dalton Hall,dalton23@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO61622,1,Robin Torres,robin8@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61631,2,Kevin Evans,kevin37@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO61634,1,Francisco Chandra,francisco3@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

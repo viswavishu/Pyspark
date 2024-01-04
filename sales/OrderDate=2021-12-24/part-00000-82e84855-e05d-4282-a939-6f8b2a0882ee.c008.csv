@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62667,2,Hannah Barnes,hannah26@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62657,2,Mindy Deng,mindy5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62646,1,Austin Harris,austin49@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO62654,2,Troy Mehta,troy15@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO62691,1,Angela Henderson,angela7@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256

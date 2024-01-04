@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59569,1,Zachary Alexander,zachary17@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO59489,1,Bonnie Xie,bonnie8@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO59531,2,Cesar McDonald,cesar3@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59508,1,Evelyn Raman,evelyn13@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO59542,2,Rebecca Young,rebecca25@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

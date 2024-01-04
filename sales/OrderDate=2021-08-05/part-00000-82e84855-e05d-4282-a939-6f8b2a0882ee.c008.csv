@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53852,3,Maria Reed,maria4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53832,1,Corey Shen,corey2@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53868,1,Jennifer Perry,jennifer82@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO53864,1,Sabrina Torres,sabrina7@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO53873,4,Carl She,carl0@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

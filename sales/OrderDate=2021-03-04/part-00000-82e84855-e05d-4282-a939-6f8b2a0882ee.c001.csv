@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49927,1,Ricky Moreno,ricky6@adventure-works.com,"Road-550-W Yellow, 44",1,1000.4375,80.035

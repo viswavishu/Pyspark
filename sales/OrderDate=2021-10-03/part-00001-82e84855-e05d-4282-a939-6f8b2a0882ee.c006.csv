@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57307,4,Faith Ward,faith31@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57366,3,Amber Roberts,amber3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57302,1,Kara Pal,kara11@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO57332,2,Hunter Washington,hunter10@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO57350,1,Chloe Long,chloe76@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792

@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47485,1,Carla Prasad,carla12@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525
+SO47483,1,Stefanie Raman,stefanie9@adventure-works.com,"Road-250 Black, 58",1,2181.5625,174.525

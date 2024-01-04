@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49623,1,Tristan Patterson,tristan11@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136
+SO49622,1,Joe Martin,joe24@adventure-works.com,"Mountain-200 Silver, 38",1,2071.4196,165.7136
+SO49613,1,Danny Gutierrez,danny12@adventure-works.com,"Road-250 Black, 48",1,2181.5625,174.525
+SO49618,1,Byron Ramos,byron11@adventure-works.com,"Mountain-200 Silver, 38",1,2071.4196,165.7136
+SO49617,1,Tommy Tang,tommy2@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279

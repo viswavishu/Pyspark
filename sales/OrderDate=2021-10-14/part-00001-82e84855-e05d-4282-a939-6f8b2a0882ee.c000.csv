@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57952,2,Albert Martin,albert3@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO57950,2,Kaitlyn Martinez,kaitlyn40@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57922,4,Brandon Patterson,brandon8@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO57934,2,Haley Hernandez,haley53@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57956,2,Joy Gomez,joy2@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

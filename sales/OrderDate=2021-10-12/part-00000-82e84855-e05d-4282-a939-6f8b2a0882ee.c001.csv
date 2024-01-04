@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57810,2,Franklin Luo,franklin24@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO57839,3,Olivia Long,olivia55@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57811,1,Gabrielle Gray,gabrielle15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57804,1,Wesley Guo,wesley17@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO57835,3,Isaac Brooks,isaac1@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

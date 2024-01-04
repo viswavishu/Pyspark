@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51611,1,Steve Chen,steve6@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO51609,1,Janelle Madan,janelle7@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO51608,1,Alvin Andersen,alvin35@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO51617,2,Andrea Torres,andrea14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51604,2,Latasha Rubio,latasha21@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

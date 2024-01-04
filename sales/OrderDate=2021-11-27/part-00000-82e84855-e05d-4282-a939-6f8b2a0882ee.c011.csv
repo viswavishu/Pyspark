@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60899,4,Jasmine Stewart,jasmine22@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO60940,5,Hannah Harris,hannah12@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO60942,3,Zoe Rivera,zoe15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60933,2,Bradley Raje,bradley16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60925,1,Isabella Wood,isabella13@adventure-works.com,"Mountain-500 Black, 42",1,539.99,43.1992

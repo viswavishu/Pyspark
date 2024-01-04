@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53807,1,Gerald Rana,gerald41@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53788,4,Nicole White,nicole13@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO53797,1,Megan Jones,megan6@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO53816,1,Martha Zeng,martha21@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53819,4,Gabriella Carter,gabriella33@adventure-works.com,"Classic Vest, S",1,63.5,5.08

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62286,3,Peter Shan,peter16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62287,1,Barbara Schultz,barbara7@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO62300,1,Sara Collins,sara27@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62289,1,Ernest Zeng,ernest20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62322,4,Tara Sutton,tara4@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57431,1,Gregory Chander,gregory19@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57465,1,Benjamin Taylor,benjamin43@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO57476,4,Warren Nara,warren6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57442,1,Isabella Nelson,isabella39@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57459,2,David Hayes,david56@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

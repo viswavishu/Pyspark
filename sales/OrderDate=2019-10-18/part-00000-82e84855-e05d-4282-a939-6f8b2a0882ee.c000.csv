@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44678,1,Jackson Henderson,jackson7@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616

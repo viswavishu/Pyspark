@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57557,2,William Taylor,william24@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57565,2,Ethan Kumar,ethan24@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57537,2,Jimmy Blanco,jimmy19@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57576,3,Ariana Watson,ariana0@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO57567,2,Jared Peterson,jared8@adventure-works.com,HL Mountain Tire,1,35.0,2.8

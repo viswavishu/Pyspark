@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54432,2,Rachael Patel,rachael3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54473,1,Lance Ramos,lance17@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO54468,4,Devin Nelson,devin32@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54462,1,Edward Taylor,edward31@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54464,2,Spencer Hayes,spencer25@adventure-works.com,HL Mountain Tire,1,35.0,2.8

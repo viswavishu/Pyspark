@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54891,1,Marvin Hernandez,marvin4@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54911,1,Ernest Gao,ernest15@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54888,1,Arthur Malhotra,arthur7@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54903,1,Taylor Powell,taylor34@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54913,1,Micheal Alvarez,micheal1@adventure-works.com,Touring Tire,1,28.99,2.3192

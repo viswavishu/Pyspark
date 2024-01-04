@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58184,4,Jeremiah Turner,jeremiah21@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58166,1,Lucas Johnson,lucas14@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58164,1,Isaiah Bailey,isaiah15@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58168,2,Charles Torres,charles52@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58138,1,Mallory Gill,mallory0@adventure-works.com,Road Tire Tube,1,3.99,0.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63079,2,Cole Cook,cole22@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO63115,2,Andr�s Anand,andr�s18@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO63095,6,Austin Johnson,austin40@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO63080,2,Angel Cook,angel20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO63090,2,Grace Bell,grace30@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

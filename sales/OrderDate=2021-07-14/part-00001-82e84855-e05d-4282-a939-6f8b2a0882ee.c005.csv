@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52554,1,Kelvin She,kelvin42@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52540,2,Marcus Reed,marcus95@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52537,1,Luis Chen,luis25@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52541,1,Isaiah Phillips,isaiah29@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO52546,1,Kaylee Ward,kaylee9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

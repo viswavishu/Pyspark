@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58820,1,Krystal Yang,krystal5@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO58821,1,Jackson Henderson,jackson7@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO58801,4,Benjamin Russell,benjamin21@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58806,1,April Shan,april8@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58780,4,Latasha Vazquez,latasha14@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

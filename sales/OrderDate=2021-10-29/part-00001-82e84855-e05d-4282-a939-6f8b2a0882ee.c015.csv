@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58834,1,Kelvin He,kelvin37@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO58815,2,Patricia Saunders,patricia14@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58787,1,Bryant Mehta,bryant13@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO58779,3,Mandy She,mandy24@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58821,2,Jackson Henderson,jackson7@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

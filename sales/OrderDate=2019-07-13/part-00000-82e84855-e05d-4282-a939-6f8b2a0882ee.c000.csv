@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO43800,1,Brittany Gonzales,brittany15@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO43801,1,Blake Butler,blake62@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO43799,1,Danny Gomez,danny1@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO43797,1,Francis Ramos,francis15@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO43796,1,Jaime Gomez,jaime0@adventure-works.com,"Road-650 Black, 52",1,699.0982,55.9279

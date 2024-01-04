@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53320,3,Mason Hernandez,mason41@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53318,4,Jay Rodriguez,jay26@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO53301,2,Hunter Perry,hunter4@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53301,4,Hunter Perry,hunter4@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO53327,5,James Rodriguez,james93@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

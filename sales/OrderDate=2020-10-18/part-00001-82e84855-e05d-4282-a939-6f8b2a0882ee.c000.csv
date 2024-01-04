@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48194,1,Ian Price,ian40@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468

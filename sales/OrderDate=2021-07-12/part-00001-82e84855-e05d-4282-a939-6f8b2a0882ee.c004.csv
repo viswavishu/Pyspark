@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52467,1,Darren Suri,darren2@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO52460,3,Ian Bailey,ian83@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO52464,1,Bruce Suri,bruce0@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO52423,1,Frank Rubio,frank29@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO52418,2,Dale Holt,dale8@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63114,3,Kristy Ruiz,kristy2@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO63096,2,Seth Miller,seth6@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO63100,3,Morgan Wilson,morgan30@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO63089,1,Alejandro Chavez,alejandro39@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO63113,1,Carolyn Alonso,carolyn29@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392

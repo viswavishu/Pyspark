@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53919,1,Shawn Shan,shawn12@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO53890,2,Patrick Ward,patrick17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53896,1,Kelli Goel,kelli42@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53916,3,Brenda Perez,brenda25@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO53891,1,Isabelle Winston,isabelle12@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992

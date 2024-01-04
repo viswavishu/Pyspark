@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55773,3,Cara Lu,cara7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55746,1,Alejandro Rai,alejandro42@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55787,2,Latasha Gomez,latasha1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55807,1,Nathan Russell,nathan16@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO55752,1,Latasha Jimenez,latasha5@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

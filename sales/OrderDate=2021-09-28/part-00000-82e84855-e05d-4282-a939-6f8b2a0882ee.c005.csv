@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56865,2,Richard Bradley,richard57@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56880,1,Brent Wu,brent6@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO56858,1,Bethany Jai,bethany14@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO56871,1,Katelyn Evans,katelyn22@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56885,3,Candice Zhou,candice14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

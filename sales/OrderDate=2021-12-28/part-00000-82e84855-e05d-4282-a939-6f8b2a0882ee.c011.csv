@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62923,3,Bianca Guo,bianca14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62890,1,Joshua Lewis,joshua23@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO62898,1,Caleb Collins,caleb31@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO62920,1,Marc Ruiz,marc5@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO62896,4,Fernando Barnes,fernando47@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

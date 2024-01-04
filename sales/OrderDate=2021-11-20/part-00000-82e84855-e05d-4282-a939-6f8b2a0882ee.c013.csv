@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60455,1,Dominique Malhotra,dominique4@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO60494,5,Mariah Sanders,mariah3@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO60495,3,Emily Martin,emily15@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60472,4,Evan Gray,evan6@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60509,2,Caleb Powell,caleb5@adventure-works.com,LL Road Tire,1,21.49,1.7192

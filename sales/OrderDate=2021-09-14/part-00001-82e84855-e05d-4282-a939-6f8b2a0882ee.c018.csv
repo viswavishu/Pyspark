@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56169,1,Stephanie Campbell,stephanie54@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56146,1,Jamie Torres,jamie34@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

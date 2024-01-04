@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52686,3,Xavier Washington,xavier53@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52691,1,Amanda Long,amanda31@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52707,2,Kari Moreno,kari26@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52719,2,Carla Lopez,carla19@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52710,2,Richard Torres,richard85@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

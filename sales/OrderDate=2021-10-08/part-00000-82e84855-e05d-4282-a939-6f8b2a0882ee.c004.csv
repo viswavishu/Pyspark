@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57616,2,Catherine Morgan,catherine19@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO57607,2,Lauren Griffin,lauren67@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57601,3,Elizabeth Hall,elizabeth28@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO57615,2,Aaron Simmons,aaron14@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO57616,1,Catherine Morgan,catherine19@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

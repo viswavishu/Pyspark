@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59185,1,Charles Johnston,charles4@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO59164,2,Tammy Madan,tammy8@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO59199,4,Jeremy Price,jeremy21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59147,2,Ruben Hernandez,ruben27@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59149,1,Jill Ashe,jill12@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792

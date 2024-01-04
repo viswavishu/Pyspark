@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58572,7,Cesar Sara,cesar9@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO58550,3,Henry Garcia,henry16@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58565,2,Wyatt Parker,wyatt45@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58572,5,Cesar Sara,cesar9@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO58567,2,Matthew Thomas,matthew16@adventure-works.com,HL Mountain Tire,1,35.0,2.8

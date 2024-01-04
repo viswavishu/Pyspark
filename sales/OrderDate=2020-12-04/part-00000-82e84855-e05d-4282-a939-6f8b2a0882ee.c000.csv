@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48826,1,Willie Yuan,willie26@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468
+SO48828,1,Javier Browning,javier10@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468
+SO48829,1,Danny Ramos,danny18@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468

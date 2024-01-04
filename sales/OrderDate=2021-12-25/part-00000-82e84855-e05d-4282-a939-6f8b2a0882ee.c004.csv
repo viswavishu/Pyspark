@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62712,1,Devin Hughes,devin50@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO62740,2,Melanie Bradley,melanie16@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62737,2,Arthur Carlson,arthur41@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62746,4,James Simmons,james31@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO62744,1,Marcus Williams,marcus2@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992

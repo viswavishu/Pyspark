@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54965,1,Zachary Bryant,zachary16@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992
+SO54964,1,Eduardo Stewart,eduardo89@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO54944,2,Bryan Murphy,bryan15@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO54967,1,Bryce Morgan,bryce12@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO54972,3,Darren Hernandez,darren25@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

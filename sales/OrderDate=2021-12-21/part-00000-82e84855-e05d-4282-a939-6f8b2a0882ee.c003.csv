@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62519,1,Alberto Gill,alberto14@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO62501,4,Ruben Madan,ruben8@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO62472,1,Bobby Saunders,bobby6@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62490,1,Kayla Harrison,kayla14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62511,2,Caitlin Brooks,caitlin1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

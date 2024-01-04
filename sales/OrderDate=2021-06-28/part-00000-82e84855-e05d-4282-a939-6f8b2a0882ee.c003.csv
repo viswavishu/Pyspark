@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51641,1,Dennis She,dennis25@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO51644,1,Randall Dominguez,randall14@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO51648,2,Jasmine Coleman,jasmine46@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51636,1,Eduardo Harris,eduardo12@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO51635,2,Christine Pal,christine7@adventure-works.com,HL Road Tire,1,32.6,2.608

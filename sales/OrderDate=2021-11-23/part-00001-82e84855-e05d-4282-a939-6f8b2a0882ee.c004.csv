@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60687,1,Terrence Rai,terrence18@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO60651,4,Ronnie Ma,ronnie14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60686,4,Janet Browning,janet21@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO60643,1,Jake Gao,jake13@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60650,3,Robin Ortega,robin17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

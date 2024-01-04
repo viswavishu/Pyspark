@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51882,1,Arthur Sanz,arthur42@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO51892,1,Anna Rivera,anna12@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51898,1,Hailey Campbell,hailey49@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51908,1,Nichole Nath,nichole18@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO51911,1,Seth Brooks,seth74@adventure-works.com,HL Mountain Tire,1,35.0,2.8

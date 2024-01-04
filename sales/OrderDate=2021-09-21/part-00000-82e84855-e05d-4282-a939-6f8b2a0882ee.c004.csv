@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56495,1,Kristy Gill,kristy12@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO56538,4,Nicolas Jai,nicolas9@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56504,1,Luke Sharma,luke19@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56500,1,Destiny Stewart,destiny23@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56522,2,Luis Flores,luis11@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

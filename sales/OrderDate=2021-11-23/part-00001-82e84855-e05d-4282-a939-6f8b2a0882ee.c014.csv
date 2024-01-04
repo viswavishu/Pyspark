@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60668,1,Francis Gill,francis11@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60677,1,Logan Gonzalez,logan34@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60651,2,Ronnie Ma,ronnie14@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60696,1,Dylan Washington,dylan12@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO60690,1,Michael Williams,michael34@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188

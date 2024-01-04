@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58476,1,Alison Pal,alison12@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO58482,1,Adrienne Ruiz,adrienne2@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO58473,2,Carly Xie,carly2@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58485,3,David Martinez,david80@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58471,2,Cassandra Rana,cassandra12@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

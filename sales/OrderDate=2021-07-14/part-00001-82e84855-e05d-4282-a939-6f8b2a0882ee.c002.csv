@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52571,4,Jeremiah Scott,jeremiah17@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO52558,2,Jessica Henderson,jessica29@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52544,2,Natalie Harris,natalie81@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52531,1,Katie She,katie3@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52563,2,Robert Roberts,robert47@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

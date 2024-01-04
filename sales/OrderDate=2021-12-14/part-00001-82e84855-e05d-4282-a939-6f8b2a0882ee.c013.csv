@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62054,1,Gary Blanco,gary26@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62047,1,Ryan Diaz,ryan25@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO62052,1,Calvin Goel,calvin18@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62034,1,Kristin Jai,kristin12@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52895,1,Lawrence Ramos,lawrence16@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52920,1,Stephanie Powell,stephanie36@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO52918,1,Chloe Rivera,chloe54@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52893,1,Isabella Russell,isabella30@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52909,1,Nichole Yuan,nichole6@adventure-works.com,Road Tire Tube,1,3.99,0.3192

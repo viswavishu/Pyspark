@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62260,1,Jennifer Rivera,jennifer62@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62279,3,Ebony Gutierrez,ebony33@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62276,1,Jenny Sun,jenny15@adventure-works.com,"Mountain-500 Silver, 44",1,564.99,45.1992
+SO62252,3,Brandon Hayes,brandon19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62251,5,Brian Peterson,brian17@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62369,1,Jenna Adams,jenna15@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO62385,1,Elizabeth Martinez,elizabeth21@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO62351,3,Susan Cai,susan32@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO62390,1,Paige Stewart,paige47@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO62383,1,Dennis Hu,dennis22@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60726,4,Katherine Powell,katherine34@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60758,1,Jada Allen,jada27@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO60704,1,James Brown,james79@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60714,1,Amy Lu,amy18@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60739,2,Tony Pal,tony15@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

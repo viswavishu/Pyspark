@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53321,2,Meagan Patel,meagan3@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53294,2,Orlando Sanz,orlando20@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO53337,4,Rachael Rodriguez,rachael18@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO53336,1,Jamie Guo,jamie21@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO53292,3,Felicia Martin,felicia0@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

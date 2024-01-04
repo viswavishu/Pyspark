@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51513,2,Julie She,julie4@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO51519,2,Ryan Alexander,ryan22@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO51523,2,Evelyn Fernandez,evelyn16@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51518,4,Sierra Nelson,sierra9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51523,4,Evelyn Fernandez,evelyn16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

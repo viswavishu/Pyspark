@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55740,4,Karen Lu,karen21@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55762,4,Pedro Gonzalez,pedro18@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55812,1,Melody Suarez,melody19@adventure-works.com,"Touring-3000 Blue, 62",1,742.35,59.388
+SO55768,1,Benjamin Henderson,benjamin6@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55793,3,Cynthia Srini,cynthia13@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

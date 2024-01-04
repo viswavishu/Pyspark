@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60601,5,Sophia Campbell,sophia5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60601,4,Sophia Campbell,sophia5@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60622,1,Kendra Vazquez,kendra14@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO60603,1,Maria Hall,maria64@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO60627,4,Jose Butler,jose8@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

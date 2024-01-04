@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60615,1,William Harris,william9@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51995,2,Eric Lopez,eric53@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO51970,1,Neil Torres,neil11@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO51984,2,Marcus Bailey,marcus92@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51982,1,William Rodriguez,william15@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO51966,3,Paula Ortega,paula23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

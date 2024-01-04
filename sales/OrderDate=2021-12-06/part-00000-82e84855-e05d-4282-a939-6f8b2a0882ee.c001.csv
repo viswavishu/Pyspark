@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61568,2,Frederick Malhotra,frederick4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61582,1,Bonnie Yuan,bonnie12@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388
+SO61594,4,Abby Gonzalez,abby16@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO61570,2,Josue Blanco,josue2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61564,1,Tasha She,tasha0@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

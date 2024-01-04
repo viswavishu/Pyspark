@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61524,1,Cheryl Gutierrez,cheryl13@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO61485,1,Michele Mehta,michele27@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO61517,1,Thomas Walker,thomas82@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61509,1,Gilbert Tang,gilbert25@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61530,2,Ian Baker,ian31@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

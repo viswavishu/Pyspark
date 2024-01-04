@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55467,2,Christy Kumar,christy25@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55501,1,Paula Munoz,paula10@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO55487,1,Isaiah Collins,isaiah24@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55478,1,Gabriel Sharma,gabriel27@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO55460,2,Theresa Carlson,theresa14@adventure-works.com,LL Road Tire,1,21.49,1.7192

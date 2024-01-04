@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62548,2,Seth McDonald,seth29@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO62559,3,Omar Nara,omar37@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62563,3,Cassandra Malhotra,cassandra5@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO62565,3,Casey Alonso,casey32@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62548,1,Seth McDonald,seth29@adventure-works.com,Road Tire Tube,1,3.99,0.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51987,1,Jessica Stewart,jessica0@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52006,2,Renee Carlson,renee16@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51992,1,Hunter Adams,hunter40@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO52007,1,Brandon Lal,brandon26@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO51969,1,Jorge Ma,jorge18@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

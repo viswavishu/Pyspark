@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56698,2,Aimee Sun,aimee9@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56727,1,Russell She,russell4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56747,2,Mitchell Xie,mitchell3@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56713,1,Blake Turner,blake41@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO56711,3,Thomas Parker,thomas36@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

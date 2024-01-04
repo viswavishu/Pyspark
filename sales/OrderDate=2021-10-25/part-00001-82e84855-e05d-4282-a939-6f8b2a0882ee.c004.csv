@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58575,4,Amy Wu,amy14@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO58573,1,Anna Martinez,anna55@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO58562,1,Jocelyn Bradley,jocelyn1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58578,3,Katie Becker,katie23@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58545,1,Anna Jenkins,anna31@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192

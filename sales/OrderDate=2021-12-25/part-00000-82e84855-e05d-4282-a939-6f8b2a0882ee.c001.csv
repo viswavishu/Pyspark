@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62701,1,Blake Taylor,blake8@adventure-works.com,"Mountain-500 Silver, 42",1,564.99,45.1992
+SO62697,2,Mariah James,mariah32@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO62724,1,Carmen Stone,carmen11@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO62727,1,Dominic Madan,dominic7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62709,2,Stephanie Young,stephanie69@adventure-works.com,LL Road Tire,1,21.49,1.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62076,1,Katelyn Ward,katelyn11@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO62023,2,Alicia Xu,alicia3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62027,1,Adriana Sara,adriana11@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62038,3,Jill Perry,jill32@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62069,4,Bryant Fernandez,bryant15@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59488,4,Reginald Romero,reginald16@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59492,3,Cristina Tang,cristina4@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59516,4,Jade Ward,jade9@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO59490,2,Terrance Rodriguez,terrance17@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59573,2,Casey Jim�nez,casey29@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

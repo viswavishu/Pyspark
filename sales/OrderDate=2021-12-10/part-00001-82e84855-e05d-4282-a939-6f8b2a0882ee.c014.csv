@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61827,1,Diana Suarez,diana18@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO61795,3,Donna Deng,donna2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61792,4,Angel Gray,angel5@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61800,3,Ryan Thompson,ryan38@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO61832,2,Alexandria Coleman,alexandria6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

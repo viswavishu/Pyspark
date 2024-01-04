@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58600,1,Luke Lal,luke18@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58620,1,Nina Xu,nina5@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58600,3,Luke Lal,luke18@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO58615,2,Casey Browning,casey39@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58624,1,Jose Garcia,jose78@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

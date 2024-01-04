@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54575,2,Christy Pal,christy29@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54573,3,Sophia Wright,sophia18@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO54562,3,Stephanie Parker,stephanie55@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54568,1,Victor Ortega,victor22@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54572,3,Alejandro Cai,alejandro24@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

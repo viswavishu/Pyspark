@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55402,2,Casey Torres,casey35@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55439,1,Chloe Rodriguez,chloe30@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO55428,2,Jada Morgan,jada14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55395,1,Randall Romero,randall10@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO55448,1,Melissa Patterson,melissa5@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

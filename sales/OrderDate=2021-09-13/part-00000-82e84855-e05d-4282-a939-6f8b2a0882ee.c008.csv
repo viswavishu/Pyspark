@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56122,1,Carlos Lopez,carlos41@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO56121,2,Russell Raji,russell24@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56110,2,Mathew Ramos,mathew13@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56109,4,Keith Shan,keith13@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO56115,1,Molly Prasad,molly9@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388

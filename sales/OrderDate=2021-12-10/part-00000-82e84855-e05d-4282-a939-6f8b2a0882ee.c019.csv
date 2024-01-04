@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61853,3,Alisha Lu,alisha11@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO61848,2,Julia Jones,julia25@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61793,1,Ross Rubio,ross39@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO61806,1,Timothy Baker,timothy33@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO61829,2,Bruce Perez,bruce21@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

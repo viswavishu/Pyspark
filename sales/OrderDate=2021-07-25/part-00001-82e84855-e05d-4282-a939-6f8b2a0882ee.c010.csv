@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53124,2,Taylor Peterson,taylor17@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53088,1,Sydney Ross,sydney26@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53118,2,Aidan Alexander,aidan20@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53076,1,Craig Ramos,craig16@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53085,3,Nathan Johnson,nathan55@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

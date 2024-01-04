@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51358,4,Monique Suarez,monique15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51341,3,Nichole Nara,nichole16@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51341,2,Nichole Nara,nichole16@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO51357,1,Natalie Phillips,natalie49@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992

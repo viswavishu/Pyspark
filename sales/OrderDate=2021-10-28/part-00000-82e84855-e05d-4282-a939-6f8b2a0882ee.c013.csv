@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58729,1,Jose Parker,jose37@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58719,1,Gregory Yuan,gregory11@adventure-works.com,"Mountain-500 Silver, 48",1,564.99,45.1992
+SO58760,1,Mariah Henderson,mariah9@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO58713,2,Tasha Pal,tasha13@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58762,3,Brendan Shen,brendan2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

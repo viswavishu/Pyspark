@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55665,4,Priscilla Shen,priscilla2@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO55672,3,Brittany Powell,brittany7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55671,4,Blake Baker,blake34@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55633,2,Anna Ross,anna28@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO55630,1,Christopher Smith,christopher24@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

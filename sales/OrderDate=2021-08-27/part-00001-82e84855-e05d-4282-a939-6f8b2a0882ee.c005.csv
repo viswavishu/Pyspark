@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55076,2,Stephanie Wood,stephanie29@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO55084,4,Kaylee Cook,kaylee18@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO55053,4,Noah Collins,noah29@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO55084,3,Kaylee Cook,kaylee18@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO55054,1,Sydney Parker,sydney50@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

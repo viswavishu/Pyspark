@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56748,3,Al�cia Anand,al�cia18@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56735,1,Nathan Garcia,nathan74@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56731,2,Latasha Ramos,latasha17@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO56718,3,Angela Hayes,angela25@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO56752,1,Leah Hu,leah16@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992

@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51248,1,Brad She,brad1@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

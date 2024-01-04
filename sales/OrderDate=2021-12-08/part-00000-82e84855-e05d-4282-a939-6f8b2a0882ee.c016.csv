@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61696,2,George Mehta,george20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61680,2,Brittney Cai,brittney20@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61716,4,Janet Ward,janet29@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61670,1,Corey Kumar,corey7@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

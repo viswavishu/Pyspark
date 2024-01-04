@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57279,2,Margaret Zhang,margaret7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57292,2,Byron Ramos,byron11@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO57275,1,Alan Liu,alan8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57270,1,Evan Torres,evan4@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO57284,2,Raymond Rodriguez,raymond20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

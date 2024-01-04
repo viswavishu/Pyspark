@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60467,2,Manuel Madan,manuel6@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60503,2,Jimmy Jimenez,jimmy8@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60471,2,Preston Smith,preston7@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60499,1,Gerald Vazquez,gerald23@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388
+SO60511,3,Connor Mitchell,connor39@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

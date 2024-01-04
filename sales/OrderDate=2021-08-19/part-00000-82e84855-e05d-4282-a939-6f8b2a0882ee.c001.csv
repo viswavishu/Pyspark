@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54653,3,Kevin Sharma,kevin33@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54604,2,Andres Shan,andres7@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54629,2,Jeremiah Hayes,jeremiah38@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54623,3,Julia Kelly,julia64@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54622,1,Cynthia Garcia,cynthia20@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62002,1,David Wilson,david65@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992
+SO62003,2,Bailey Stewart,bailey23@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61990,1,Alexandria Coleman,alexandria6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61984,2,Anna Brown,anna65@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62004,3,Taylor Taylor,taylor56@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

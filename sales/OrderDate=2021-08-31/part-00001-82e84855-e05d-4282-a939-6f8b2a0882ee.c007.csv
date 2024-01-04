@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55346,3,Brittney Xu,brittney11@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55353,4,Thomas Sharma,thomas33@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO55354,2,Arthur Torres,arthur36@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55358,2,Grant Sharma,grant11@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO55363,3,Andre Kov�r,andre4@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

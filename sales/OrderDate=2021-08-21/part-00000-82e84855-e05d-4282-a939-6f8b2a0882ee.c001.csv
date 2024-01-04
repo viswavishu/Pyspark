@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54760,1,Alan Xu,alan15@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO54763,3,Jeremy Campbell,jeremy17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54766,2,Michelle Brooks,michelle3@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54759,1,Laura Zheng,laura25@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO54737,2,Sean King,sean50@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

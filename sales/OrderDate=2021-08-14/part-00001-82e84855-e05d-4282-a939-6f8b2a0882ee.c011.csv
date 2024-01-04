@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54345,1,Jessie Carlson,jessie37@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54364,1,Alejandro Huang,alejandro8@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO54355,3,Jacqueline Price,jacqueline0@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54348,3,Ernest Huang,ernest5@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54322,1,Clarence Guo,clarence10@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60558,2,Cindy Prasad,cindy9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60553,1,Kristine Sandberg,kristine21@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992
+SO60552,3,Anne Martin,anne1@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO60539,3,Amanda Price,amanda21@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO60555,1,Connor Washington,connor8@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62443,1,Kayla Ross,kayla28@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO62449,3,Jerome Romero,jerome7@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62401,1,Geoffrey Malhotra,geoffrey5@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62441,1,Natalie Flores,natalie35@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO62398,3,Olivia Sanchez,olivia25@adventure-works.com,"Classic Vest, L",1,63.5,5.08

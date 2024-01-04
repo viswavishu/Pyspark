@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52549,1,Billy Jim�nez,billy7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52534,4,Nicolas Nara,nicolas15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52568,2,Jillian Patel,jillian3@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52522,1,Manuel Fernandez,manuel14@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO52525,1,Stanley Martinez,stanley19@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58442,1,Chad Shan,chad12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58461,1,Laura Zhou,laura15@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO58444,1,Abby Perez,abby18@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58440,1,Edward King,edward2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58445,1,Angela Torres,angela30@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

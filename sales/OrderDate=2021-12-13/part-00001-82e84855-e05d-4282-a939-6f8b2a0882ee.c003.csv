@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62021,1,Christy Raje,christy31@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO61989,2,Savannah Ward,savannah11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62002,2,David Wilson,david65@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61995,1,Raul Shen,raul3@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62008,1,Clifford Gonzalez,clifford17@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392

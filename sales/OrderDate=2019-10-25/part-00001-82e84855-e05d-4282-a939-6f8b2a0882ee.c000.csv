@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44710,1,Nathan Yang,nathan24@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616

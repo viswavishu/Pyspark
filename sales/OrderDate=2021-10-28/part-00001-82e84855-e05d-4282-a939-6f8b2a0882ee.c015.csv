@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58726,2,Noah Carter,noah37@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

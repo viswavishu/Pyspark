@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO50876,1,Nicolas Raje,nicolas12@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136

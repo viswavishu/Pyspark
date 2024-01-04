@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61773,4,J�sus Blanco,j�sus14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61744,1,Richard Reed,richard101@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61768,3,John Thomas,john48@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61768,2,John Thomas,john48@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61772,4,Tanya Munoz,tanya3@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

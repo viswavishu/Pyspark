@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60116,1,Alexandra Scott,alexandra55@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO60099,1,Emma Sanchez,emma25@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO60075,3,Gina Vazquez,gina15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60099,2,Emma Sanchez,emma25@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60046,4,Jay Moyer,jay36@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62068,4,Mackenzie Reed,mackenzie19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62062,1,Nicholas Robinson,nicholas19@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62037,1,Aaron Chen,aaron25@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO62026,1,Brandi Alonso,brandi8@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO62052,3,Calvin Goel,calvin18@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

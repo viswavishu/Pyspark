@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57794,2,Xavier Henderson,xavier46@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57814,3,Robert Patterson,robert24@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57790,3,Todd Zeng,todd19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57824,2,Emma Torres,emma40@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57820,3,Dylan Lewis,dylan51@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

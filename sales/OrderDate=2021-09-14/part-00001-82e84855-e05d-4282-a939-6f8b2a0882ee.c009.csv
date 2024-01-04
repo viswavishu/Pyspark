@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56187,1,Bethany Shan,bethany13@adventure-works.com,"Touring-3000 Yellow, 54",1,742.35,59.388
+SO56174,1,Albert Serrano,albert16@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO56163,2,Sarah Walker,sarah0@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO56185,2,Emma Anderson,emma9@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO56142,1,Bailey Morgan,bailey20@adventure-works.com,HL Road Tire,1,32.6,2.608

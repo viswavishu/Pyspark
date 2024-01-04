@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54866,2,Tamara Luo,tamara17@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54834,1,Arturo Sun,arturo14@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54871,3,Edward Ross,edward52@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO54832,2,Ramon Ma,ramon14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54867,2,Darryl Zheng,darryl19@adventure-works.com,HL Road Tire,1,32.6,2.608

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52002,4,Alexandra Jenkins,alexandra30@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51968,1,Catherine Torres,catherine12@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO52009,2,Taylor Garcia,taylor63@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51988,2,Natalie Howard,natalie14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51996,2,Ana Russell,ana18@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

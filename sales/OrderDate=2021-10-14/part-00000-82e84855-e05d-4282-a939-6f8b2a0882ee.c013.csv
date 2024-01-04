@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57922,2,Brandon Patterson,brandon8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54632,2,Michele Malhotra,michele60@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO54589,1,Jackson Campbell,jackson37@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO54601,5,Kristine Alvarez,kristine6@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO54628,2,J�sus Carlson,j�sus17@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54621,2,Meghan Rowe,meghan20@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

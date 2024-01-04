@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62147,2,Colin Goel,colin42@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62124,3,Kelsey Luo,kelsey5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62116,2,Martin Sanchez,martin4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62155,2,Marie Ramos,marie41@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62150,2,Xavier Mohamed,xavier86@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

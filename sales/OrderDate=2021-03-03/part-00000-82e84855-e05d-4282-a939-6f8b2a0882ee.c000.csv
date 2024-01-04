@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49922,1,Destiny Jones,destiny3@adventure-works.com,"Mountain-200 Black, 42",1,2049.0982,163.9279
+SO49920,1,Lance Rubio,lance21@adventure-works.com,"Road-550-W Yellow, 44",1,1000.4375,80.035

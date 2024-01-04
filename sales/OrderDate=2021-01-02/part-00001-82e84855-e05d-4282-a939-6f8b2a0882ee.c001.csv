@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49183,1,Alejandro Raji,alejandro46@adventure-works.com,"Road-250 Red, 52",1,2443.35,195.468

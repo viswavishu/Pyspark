@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53964,2,Rachel Garcia,rachel19@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53933,1,Charles King,charles31@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO53937,2,Edward Clark,edward41@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53921,1,Kendra Munoz,kendra7@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO53950,1,Victor Torres,victor12@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

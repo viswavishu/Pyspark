@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61369,1,Beth Hernandez,beth6@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388
+SO61355,1,Alejandro Lin,alejandro10@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO61315,1,Adriana Sara,adriana11@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO61331,1,Jennifer Simmons,jennifer88@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61344,1,Kathryn Raje,kathryn12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

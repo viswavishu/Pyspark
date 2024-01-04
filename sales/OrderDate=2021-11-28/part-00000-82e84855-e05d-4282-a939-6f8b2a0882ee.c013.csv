@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61017,4,Gabrielle Cooper,gabrielle9@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO60976,1,Dalton Moore,dalton7@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO60999,1,Alexandra Hill,alexandra63@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61019,1,Molly Subram,molly12@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO60982,2,Jordyn Henderson,jordyn4@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

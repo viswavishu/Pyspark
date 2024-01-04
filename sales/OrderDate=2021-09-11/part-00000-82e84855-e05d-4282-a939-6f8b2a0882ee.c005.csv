@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55972,3,Colin Liang,colin18@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55980,1,Andres Nara,andres14@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO55992,1,Oscar Coleman,oscar14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55998,4,Marco Kapoor,marco1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56004,2,Raymond Sam,raymond1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58150,2,Jack Adams,jack52@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58145,1,Christian Taylor,christian43@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO58188,3,Summer Suri,summer0@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58135,1,Raul Raje,raul11@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58146,2,Ashley Henderson,ashley31@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

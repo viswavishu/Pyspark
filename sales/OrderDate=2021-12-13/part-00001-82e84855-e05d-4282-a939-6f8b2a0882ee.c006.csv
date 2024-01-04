@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61994,1,Amanda Parker,amanda51@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61989,1,Savannah Ward,savannah11@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61991,2,Richard Russell,richard75@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61991,4,Richard Russell,richard75@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62021,2,Christy Raje,christy31@adventure-works.com,LL Road Tire,1,21.49,1.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51271,1,Alejandro Raji,alejandro46@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO51270,1,Randy Zeng,randy24@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO51272,1,Nathan Miller,nathan64@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO51270,3,Randy Zeng,randy24@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51280,1,Joel Sanchez,joel19@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792

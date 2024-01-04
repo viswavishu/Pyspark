@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56538,2,Nicolas Jai,nicolas9@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56512,2,Justin Patterson,justin7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56498,1,Jonathan Brown,jonathan54@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56496,1,Rafael Lal,rafael32@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56529,5,Stanley Lopez,stanley18@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

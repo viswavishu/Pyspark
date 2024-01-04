@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60399,1,Angelica Wood,angelica1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60446,3,Drew Xu,drew5@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO60392,2,Aimee Wang,aimee1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60414,1,Wesley Wang,wesley1@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO60438,3,Bailey Hill,bailey32@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

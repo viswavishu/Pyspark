@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59521,2,Rebekah Gomez,rebekah21@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59568,1,Jocelyn Jenkins,jocelyn7@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO59550,1,Bruce Rubio,bruce42@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO59492,1,Cristina Tang,cristina4@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59491,2,Roger Yuan,roger34@adventure-works.com,Road Tire Tube,1,3.99,0.3192

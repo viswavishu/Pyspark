@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53734,3,Henry Raman,henry13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53730,1,Jessica Gray,jessica18@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO53763,1,Sergio Srini,sergio9@adventure-works.com,"Touring-3000 Yellow, 58",1,742.35,59.388
+SO53758,3,Allison King,allison42@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO53737,2,Isabel Russell,isabel19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

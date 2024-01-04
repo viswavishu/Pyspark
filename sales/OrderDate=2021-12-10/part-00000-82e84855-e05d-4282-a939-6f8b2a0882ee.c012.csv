@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61835,2,Natalie Rogers,natalie3@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61849,2,Haley Simmons,haley34@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO61852,1,Kari Suarez,kari40@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO61802,3,Brandon Henderson,brandon2@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61840,3,Lydia Srini,lydia7@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

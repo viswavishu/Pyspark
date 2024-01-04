@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58131,2,Margaret Zheng,margaret26@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO58133,2,Gail Alexander,gail5@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58153,3,Jonathan Washington,jonathan13@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58147,1,Haley Griffin,haley40@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58164,2,Isaiah Bailey,isaiah15@adventure-works.com,"Classic Vest, S",1,63.5,5.08

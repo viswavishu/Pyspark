@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57349,3,Isabella Bennett,isabella12@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO57303,3,Carl Shan,carl10@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57358,3,Candace Sara,candace10@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57342,1,Jade Ward,jade9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57342,2,Jade Ward,jade9@adventure-works.com,HL Mountain Tire,1,35.0,2.8

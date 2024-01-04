@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61025,1,Rafael Deng,rafael24@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO60977,2,Richard Walker,richard17@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO60983,2,Zachary Griffin,zachary19@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61018,2,Caroline Foster,caroline17@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61022,1,Kevin Chen,kevin28@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

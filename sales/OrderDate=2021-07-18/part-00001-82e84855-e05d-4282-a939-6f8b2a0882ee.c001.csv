@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52767,1,Carlos Collins,carlos28@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO52757,1,Adam Kumar,adam24@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52775,2,Cara Lin,cara4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52761,3,Christopher Johnson,christopher25@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52732,4,Dominic Fernandez,dominic16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59385,1,Sierra Roberts,sierra3@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO59360,2,Wyatt Jackson,wyatt12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59346,2,Bethany Nath,bethany22@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO59397,3,Brittney Zhu,brittney13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59358,1,Dalton Johnson,dalton1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

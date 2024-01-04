@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62463,1,Evan Evans,evan24@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO62466,3,Francis Moreno,francis4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62418,1,Brandon Thomas,brandon31@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62468,1,Savannah Morris,savannah17@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO62469,1,Ruben Vazquez,ruben38@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388

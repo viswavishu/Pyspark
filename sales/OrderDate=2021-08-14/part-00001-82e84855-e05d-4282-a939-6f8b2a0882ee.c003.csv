@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54322,2,Clarence Guo,clarence10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54350,1,Cassie Rai,cassie16@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO54349,2,Martin Gonzalez,martin23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54331,1,Samantha Jenkins,samantha32@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54358,2,Sebastian Stewart,sebastian21@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

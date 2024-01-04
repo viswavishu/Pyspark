@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55972,2,Colin Liang,colin18@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO56018,2,Bridget Yuan,bridget8@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55977,1,Margaret Liang,margaret23@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO56013,3,Holly Rana,holly10@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO56016,4,Jacquelyn Gutierrez,jacquelyn11@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

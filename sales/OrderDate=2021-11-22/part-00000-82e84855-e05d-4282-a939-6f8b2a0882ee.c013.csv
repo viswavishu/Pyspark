@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60574,3,Kenneth Xie,kenneth3@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60566,1,Jose Foster,jose10@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60593,2,Kevin Griffin,kevin23@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60627,5,Jose Butler,jose8@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO60626,3,Paula Gill,paula16@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

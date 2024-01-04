@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56978,2,Gabriel Lopez,gabriel51@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO57010,6,Allen Garcia,allen13@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO57010,4,Allen Garcia,allen13@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56997,1,Mackenzie Campbell,mackenzie29@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO56993,2,Elizabeth Coleman,elizabeth35@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

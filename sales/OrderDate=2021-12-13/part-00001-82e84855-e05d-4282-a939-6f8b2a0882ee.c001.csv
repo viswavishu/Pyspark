@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61981,3,Hector Ortega,hector19@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62012,2,Brianna McDonald,brianna55@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62009,1,Armando Alonso,armando8@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO62009,2,Armando Alonso,armando8@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61988,2,Mandy Yang,mandy6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

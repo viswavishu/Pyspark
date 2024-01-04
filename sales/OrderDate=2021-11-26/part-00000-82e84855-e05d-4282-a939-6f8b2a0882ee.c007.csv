@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60862,1,Alexia Bryant,alexia14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60883,2,Cory Arun,cory5@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO60859,2,Alexis Flores,alexis35@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60884,1,Jon Zhou,jon28@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO60854,1,Andrew Clark,andrew26@adventure-works.com,Touring Tire,1,28.99,2.3192

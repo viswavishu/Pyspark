@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51183,2,Taylor Perry,taylor33@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO51181,4,Kaitlyn Henderson,kaitlyn72@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51184,2,Trinity Richardson,trinity9@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO51180,5,Hailey Russell,hailey40@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO51179,3,Brad Chande,brad15@adventure-works.com,Road Tire Tube,1,3.99,0.3192

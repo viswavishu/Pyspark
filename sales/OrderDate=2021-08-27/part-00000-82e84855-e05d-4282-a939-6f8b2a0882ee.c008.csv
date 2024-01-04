@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55081,2,Denise Kapoor,denise4@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55042,5,Gloria Carlson,gloria19@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO55073,2,Jose Jai,jose26@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55078,1,Andy Jim�nez,andy10@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO55063,3,Erika Alvarez,erika4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

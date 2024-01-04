@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56435,3,Jonathan Russell,jonathan19@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56447,1,Tonya Luo,tonya6@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56448,2,Dalton Perez,dalton37@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56479,3,Haley Washington,haley32@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO56482,4,Mariah Cooper,mariah33@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

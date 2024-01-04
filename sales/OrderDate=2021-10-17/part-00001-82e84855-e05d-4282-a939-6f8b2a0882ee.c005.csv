@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58129,1,Omar Deng,omar23@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO58114,3,Henry Rana,henry12@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58082,2,Nicole Ramirez,nicole42@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58075,1,Crystal Hu,crystal21@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58103,1,Cara Wang,cara1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

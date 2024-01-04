@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54123,2,Autumn Gao,autumn14@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54103,1,Tracy Black,tracy19@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO54113,3,Dalton Perez,dalton37@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO54144,1,Mason Peterson,mason6@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO54138,2,Deanna Jim�nez,deanna31@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

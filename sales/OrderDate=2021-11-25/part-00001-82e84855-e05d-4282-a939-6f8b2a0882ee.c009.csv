@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60769,2,Kari Lopez,kari17@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO60821,1,Lucas Bradley,lucas50@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO60781,2,Lori Ortega,lori22@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO60821,2,Lucas Bradley,lucas50@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60787,5,Lauren Rivera,lauren8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

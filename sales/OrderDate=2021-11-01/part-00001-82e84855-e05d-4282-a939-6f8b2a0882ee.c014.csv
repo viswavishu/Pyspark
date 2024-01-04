@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59184,5,Destiny Anderson,destiny10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59183,2,Justin Rodriguez,justin48@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59190,1,Colleen Harrison,colleen19@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO59162,2,Robert Jai,robert43@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59203,4,Jermaine Patel,jermaine2@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

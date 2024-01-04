@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53739,2,Alexandra Mitchell,alexandra53@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53747,1,Kelli Xu,kelli13@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53764,2,Shawna Deng,shawna1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53726,1,Arturo Wang,arturo1@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53740,1,Gina Moreno,gina7@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

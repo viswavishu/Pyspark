@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60260,1,Roy Chandra,roy2@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO60294,1,Roberto Ortega,roberto20@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388
+SO60280,3,Erick Arun,erick6@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60293,3,Tracy Pal,tracy11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60314,3,Charles James,charles46@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

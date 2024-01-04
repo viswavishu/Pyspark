@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55756,1,Henry Garcia,henry16@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55789,2,Adam Green,adam45@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55755,4,Alexandra Jenkins,alexandra30@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO55766,1,Richard Miller,richard46@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55786,1,Ashley Lewis,ashley22@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

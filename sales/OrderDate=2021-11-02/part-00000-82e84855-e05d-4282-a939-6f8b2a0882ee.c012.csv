@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59225,2,Cindy Edwards,cindy20@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59214,1,Cedric Xu,cedric11@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59224,3,Connor Lopez,connor40@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59228,1,Richard Rodriguez,richard14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59239,4,Emily Wood,emily27@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

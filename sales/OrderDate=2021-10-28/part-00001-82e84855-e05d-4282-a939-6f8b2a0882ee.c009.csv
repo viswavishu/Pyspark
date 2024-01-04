@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58728,3,Ian Patterson,ian51@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58773,1,Jaclyn Sharma,jaclyn33@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO58773,2,Jaclyn Sharma,jaclyn33@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO58743,4,Calvin She,calvin0@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58769,1,Marcus Walker,marcus24@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51412,1,Kristi Mehta,kristi31@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO51418,4,Darryl Liang,darryl16@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO51411,1,Latoya Goel,latoya18@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO51412,3,Kristi Mehta,kristi31@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51417,1,Megan Barnes,megan53@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992

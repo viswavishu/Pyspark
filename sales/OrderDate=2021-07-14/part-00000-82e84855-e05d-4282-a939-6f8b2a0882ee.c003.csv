@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52545,1,Katherine Richardson,katherine13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52569,1,Edwin Lin,edwin8@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO52530,1,Colleen Yang,colleen5@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO52558,1,Jessica Henderson,jessica29@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52555,2,Christine Jai,christine6@adventure-works.com,Touring Tire,1,28.99,2.3192

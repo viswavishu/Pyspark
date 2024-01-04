@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61357,2,Kevin Adams,kevin54@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61323,1,Jaime Yuan,jaime30@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO61318,1,Tamara Johnston,tamara22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61344,2,Kathryn Raje,kathryn12@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61323,2,Jaime Yuan,jaime30@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

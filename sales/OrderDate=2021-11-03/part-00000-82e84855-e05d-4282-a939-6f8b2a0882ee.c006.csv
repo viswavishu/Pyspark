@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59302,2,Aaron Edwards,aaron34@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO59337,3,Logan Alexander,logan20@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59286,3,Sebastian Watson,sebastian1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59328,4,Richard Anderson,richard50@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59319,5,Destiny Long,destiny58@adventure-works.com,"Racing Socks, L",1,8.99,0.7192

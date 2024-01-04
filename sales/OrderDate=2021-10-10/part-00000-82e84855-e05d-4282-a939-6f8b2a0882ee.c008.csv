@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57710,2,Katherine Sanders,katherine24@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO57738,1,Wyatt Williams,wyatt2@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO57692,1,Fernando Taylor,fernando9@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO57690,4,Melanie Sanchez,melanie47@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57745,1,Zachary Martinez,zachary48@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256

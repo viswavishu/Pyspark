@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60862,3,Alexia Bryant,alexia14@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO60889,2,Garrett Stewart,garrett27@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO60864,1,Noah Smith,noah56@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

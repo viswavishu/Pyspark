@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56398,2,Eduardo Powell,eduardo53@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56409,1,Lisa Zhou,lisa12@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56423,3,Marcus Harris,marcus14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56388,2,Manuel Garcia,manuel13@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56407,3,Tonya Deng,tonya1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

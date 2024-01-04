@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53101,1,Eric Scott,eric55@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53114,1,Kenneth Xu,kenneth5@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53083,3,Cindy Weber,cindy4@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53122,1,Jon Luo,jon46@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62838,2,Miguel Taylor,miguel8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62842,1,Erica Zhou,erica8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62860,2,Jodi Goel,jodi20@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62828,2,Molly Madan,molly7@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO62831,1,Sierra Young,sierra15@adventure-works.com,ML Road Tire,1,24.99,1.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57942,1,Max Romero,max9@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO57942,2,Max Romero,max9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57937,1,Roberto Gill,roberto14@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO57934,1,Haley Hernandez,haley53@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57935,2,Chloe Patterson,chloe77@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

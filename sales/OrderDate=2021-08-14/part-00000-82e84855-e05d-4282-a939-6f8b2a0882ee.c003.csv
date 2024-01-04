@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54364,3,Alejandro Huang,alejandro8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54327,1,Joel Fernandez,joel15@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO54344,3,Kelvin Alan,kelvin19@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO54344,1,Kelvin Alan,kelvin19@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO54368,2,Kyle Griffin,kyle16@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

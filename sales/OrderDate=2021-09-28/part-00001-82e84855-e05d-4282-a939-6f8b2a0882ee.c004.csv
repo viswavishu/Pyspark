@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56852,1,Gloria Ramos,gloria18@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56896,3,Vanessa Bryant,vanessa19@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56905,2,Mason Richardson,mason10@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56895,2,Haley Powell,haley27@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56866,3,Christina Howard,christina9@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

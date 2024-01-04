@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59313,4,Wyatt Foster,wyatt66@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59290,2,Jada Morgan,jada14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59283,1,Lacey Zheng,lacey32@adventure-works.com,"Mountain-500 Black, 52",1,539.99,43.1992
+SO59277,2,Cory Rana,cory9@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59331,1,Shaun Luo,shaun7@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256

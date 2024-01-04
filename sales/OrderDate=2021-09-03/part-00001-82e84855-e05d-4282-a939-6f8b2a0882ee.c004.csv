@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55536,1,Maria Patterson,maria33@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55554,2,Alisha Hu,alisha21@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO55520,4,Angela Bailey,angela42@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55548,2,Jamie Huang,jamie8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55510,1,Willie Wang,willie2@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

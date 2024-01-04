@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59440,2,Haley Parker,haley47@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO59442,2,Madison Walker,madison23@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59472,1,Jorge Leit�o,jorge0@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO59466,1,Olivia Wilson,olivia6@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388
+SO59454,1,Gail Griffin,gail7@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

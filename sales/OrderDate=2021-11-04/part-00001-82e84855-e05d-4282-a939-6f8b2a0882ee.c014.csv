@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59380,2,Marcus Martinez,marcus18@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59384,6,Miranda Ross,miranda4@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59384,1,Miranda Ross,miranda4@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO59359,1,Morgan Jenkins,morgan76@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59364,1,Dennis Gao,dennis16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

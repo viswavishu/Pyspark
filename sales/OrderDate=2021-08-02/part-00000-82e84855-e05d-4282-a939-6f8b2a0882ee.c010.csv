@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53707,2,Noah Butler,noah11@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53711,2,Heather Zhang,heather0@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53718,2,Marcus Parker,marcus45@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53717,3,Allison Carter,allison33@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53667,2,Linda Serrano,linda31@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

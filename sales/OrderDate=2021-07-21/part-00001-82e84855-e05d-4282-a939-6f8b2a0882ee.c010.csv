@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52918,3,Chloe Rivera,chloe54@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO52887,3,Sheena Shan,sheena8@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO52893,2,Isabella Russell,isabella30@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO52885,3,Dylan Rodriguez,dylan50@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52926,3,Lori Jimenez,lori8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

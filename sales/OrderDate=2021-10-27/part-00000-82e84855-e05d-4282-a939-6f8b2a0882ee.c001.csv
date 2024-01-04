@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58700,1,Terrance Rodriguez,terrance17@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO58695,1,Isaac Carter,isaac32@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO58685,2,Craig Diaz,craig5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58662,1,Gilbert Hu,gilbert18@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO58696,3,Ethan Sharma,ethan26@adventure-works.com,ML Road Tire,1,24.99,1.9992

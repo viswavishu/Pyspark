@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52502,3,Melissa Blue,melissa36@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52494,3,Xavier Clark,xavier17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52484,1,Samantha Jenkins,samantha32@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO52518,4,Alexandra Thomas,alexandra74@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52501,2,Catherine Richardson,catherine8@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

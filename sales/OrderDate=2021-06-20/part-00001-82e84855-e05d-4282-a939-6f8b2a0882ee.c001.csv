@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51503,2,Miguel Roberts,miguel39@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO51503,1,Miguel Roberts,miguel39@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO51509,4,Chelsea Perez,chelsea23@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51509,1,Chelsea Perez,chelsea23@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO51504,2,Maria Torres,maria16@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

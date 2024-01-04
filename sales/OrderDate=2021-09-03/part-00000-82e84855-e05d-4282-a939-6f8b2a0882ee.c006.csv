@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55517,1,Wyatt Flores,wyatt62@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55554,1,Alisha Hu,alisha21@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO55534,2,Derrick Bradley,derrick14@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO55536,3,Maria Patterson,maria33@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55543,5,Ricardo Nath,ricardo17@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

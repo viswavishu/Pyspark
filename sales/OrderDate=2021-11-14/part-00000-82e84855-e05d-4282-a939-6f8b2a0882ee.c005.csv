@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60121,2,Whitney Gonzalez,whitney17@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60075,2,Gina Vazquez,gina15@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO60114,2,Christopher Brown,christopher4@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO60069,1,Bailey Cox,bailey8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60102,2,Christopher Thomas,christopher11@adventure-works.com,Road Tire Tube,1,3.99,0.3192

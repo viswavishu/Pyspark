@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54869,1,Meagan Rana,meagan11@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO54824,1,Joe Hernandez,joe27@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54851,2,Katrina Xie,katrina2@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54840,3,Tristan Hayes,tristan22@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO54823,4,Darren Prasad,darren12@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

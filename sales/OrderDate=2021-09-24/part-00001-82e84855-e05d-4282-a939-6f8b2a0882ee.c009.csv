@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56672,2,Marco Suri,marco0@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56678,1,Shawna Yuan,shawna7@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO56668,4,Cesar Subram,cesar12@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56680,4,Lydia Sara,lydia9@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO56671,2,Kelvin Deng,kelvin43@adventure-works.com,Touring Tire,1,28.99,2.3192

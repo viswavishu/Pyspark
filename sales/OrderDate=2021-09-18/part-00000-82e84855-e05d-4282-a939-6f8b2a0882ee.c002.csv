@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56332,1,Marc Blanco,marc19@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO56359,3,George Martinez,george24@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56363,2,Kaitlyn Gray,kaitlyn62@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO56347,3,Kaylee Mitchell,kaylee33@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO56350,3,Alexandra Brooks,alexandra21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

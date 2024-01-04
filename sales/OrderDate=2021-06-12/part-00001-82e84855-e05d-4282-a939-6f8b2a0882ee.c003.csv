@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51384,4,Cassie Chande,cassie13@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO51387,1,George Gonzalez,george25@adventure-works.com,"Mountain-500 Silver, 40",1,564.99,45.1992
+SO51379,2,Andrew Robinson,andrew25@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO51386,1,Casey Luo,casey6@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO51378,2,Deb Foster,deb9@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

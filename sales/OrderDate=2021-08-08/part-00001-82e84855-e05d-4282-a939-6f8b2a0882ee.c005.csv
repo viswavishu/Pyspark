@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54019,2,Jamie Liang,jamie20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54038,1,Roger Yang,roger9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54008,2,Darryl Zeng,darryl21@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53984,3,Colleen Zeng,colleen23@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53998,1,Evan Hill,evan38@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

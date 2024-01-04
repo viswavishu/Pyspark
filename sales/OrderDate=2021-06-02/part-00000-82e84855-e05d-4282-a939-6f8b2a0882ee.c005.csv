@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51206,4,Franklin Raji,franklin38@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51223,4,Kendra Romero,kendra9@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO51209,3,Keith Deng,keith3@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51217,1,Alvin Hu,alvin19@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO51217,3,Alvin Hu,alvin19@adventure-works.com,HL Mountain Tire,1,35.0,2.8

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61716,1,Janet Ward,janet29@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO61671,1,Kyle Roberts,kyle34@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO61714,2,Aaron Foster,aaron15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61710,1,Emma Sandberg,emma47@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO61723,3,Albert Serrano,albert16@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

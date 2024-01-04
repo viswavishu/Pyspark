@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52671,2,Ariana Gray,ariana5@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52673,1,Levi Weber,levi3@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52680,2,Adriana Sai,adriana6@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO52694,1,Isaac Gonzalez,isaac30@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52725,5,Kaitlyn Henderson,kaitlyn72@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61100,3,Joy Romero,joy10@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61146,2,Marshall Sun,marshall12@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61139,1,Kristine Suarez,kristine20@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61160,2,Brittney Zhang,brittney0@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61155,2,Devin Coleman,devin44@adventure-works.com,HL Mountain Tire,1,35.0,2.8

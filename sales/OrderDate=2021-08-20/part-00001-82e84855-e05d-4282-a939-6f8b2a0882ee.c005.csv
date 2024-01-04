@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54674,1,Samantha Russell,samantha42@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO54709,2,Noah Harris,noah55@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO54713,1,Cory Rodriguez,cory16@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO54697,2,Julia Bryant,julia84@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO54664,1,Jonathan Rodriguez,jonathan74@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

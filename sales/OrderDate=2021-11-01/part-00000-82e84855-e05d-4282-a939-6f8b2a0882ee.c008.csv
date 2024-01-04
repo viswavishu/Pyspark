@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59179,1,Tamer Salah,tamer0@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59206,4,Monica Sai,monica6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59150,2,Mario Pal,mario10@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59180,3,Marcus Hall,marcus25@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59150,1,Mario Pal,mario10@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792

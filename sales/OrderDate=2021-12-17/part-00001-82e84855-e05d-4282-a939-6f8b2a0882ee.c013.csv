@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62277,2,Jarrod Rodriguez,jarrod18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62271,3,Abigail Ward,abigail17@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52067,1,Adam Hernandez,adam47@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52102,1,Eddie Martin,eddie1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52095,1,Alyssa Henderson,alyssa51@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52088,1,Olivia Watson,olivia44@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52087,1,Morgan Stewart,morgan46@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

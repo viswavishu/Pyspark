@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53053,1,Joe Torres,joe35@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO53052,3,Tamara Chander,tamara27@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO53030,1,Alexandra Washington,alexandra36@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53024,2,Isabelle Flores,isabelle11@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO53023,1,Charles Jackson,charles15@adventure-works.com,HL Road Tire,1,32.6,2.608

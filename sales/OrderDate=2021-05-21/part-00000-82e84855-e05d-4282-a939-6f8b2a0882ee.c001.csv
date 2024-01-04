@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO50991,1,Harold Patel,harold1@adventure-works.com,"Road-250 Black, 52",1,2181.5625,174.525
+SO50982,1,Lolan Song,lolan1@adventure-works.com,"Road-250 Red, 52",1,2443.35,195.468
+SO50984,1,Johnny Pal,johnny13@adventure-works.com,"Road-650 Black, 62",1,782.99,62.6392
+SO50987,1,Nathan Diaz,nathan18@adventure-works.com,"Road-550-W Yellow, 44",1,1000.4375,80.035

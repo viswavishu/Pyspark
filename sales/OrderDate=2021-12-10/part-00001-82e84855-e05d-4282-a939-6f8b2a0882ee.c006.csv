@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61836,4,Ricardo Black,ricardo19@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO61804,2,Richard Martin,richard55@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61835,3,Natalie Rogers,natalie3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61844,1,Jessica Walker,jessica71@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO61855,1,Dawn Nath,dawn42@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51297,4,Casey Diaz,casey26@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO51299,1,Bonnie Xie,bonnie8@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO51290,2,Kari Kim,kari3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51289,1,Lucas Phillips,lucas7@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO51285,1,Shaun Chapman,shaun17@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

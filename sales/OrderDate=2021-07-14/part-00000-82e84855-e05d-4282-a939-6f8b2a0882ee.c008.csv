@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52531,3,Katie She,katie3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52525,2,Stanley Martinez,stanley19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52575,4,Desiree Suarez,desiree15@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO52536,2,Isabella Scott,isabella44@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52566,1,Marshall Chavez,marshall35@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

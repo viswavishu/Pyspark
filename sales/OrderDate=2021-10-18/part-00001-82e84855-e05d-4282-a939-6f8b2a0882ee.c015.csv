@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58162,3,Brittney Holt,brittney4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58178,3,John Martin,john52@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58173,3,Audrey Gill,audrey15@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58158,2,Jonathan Hernandez,jonathan48@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58155,1,Kaitlyn Martin,kaitlyn37@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

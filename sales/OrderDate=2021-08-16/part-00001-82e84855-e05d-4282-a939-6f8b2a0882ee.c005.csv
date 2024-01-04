@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54468,1,Devin Nelson,devin32@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO54442,2,Marcus Cooper,marcus84@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54471,2,Rachel Powell,rachel56@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54457,1,Christian Russell,christian7@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54472,2,Roberto Hernandez,roberto3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

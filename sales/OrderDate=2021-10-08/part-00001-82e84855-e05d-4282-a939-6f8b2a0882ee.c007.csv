@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57598,1,Eduardo Jackson,eduardo10@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57630,2,Noah Walker,noah70@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO57600,3,April Jai,april9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57610,1,Brandon Lewis,brandon51@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO57603,2,Ethan Griffin,ethan17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

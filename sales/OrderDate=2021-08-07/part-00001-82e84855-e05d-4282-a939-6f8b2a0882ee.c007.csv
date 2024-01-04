@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53925,1,Jamie Zheng,jamie23@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO53975,2,Derrick Ruiz,derrick2@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53956,3,Roger Nath,roger46@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53952,2,Teresa Dominguez,teresa13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53940,1,Olivia Patterson,olivia56@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

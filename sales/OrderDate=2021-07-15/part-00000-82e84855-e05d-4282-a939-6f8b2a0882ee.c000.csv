@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52597,2,Mackenzie Baker,mackenzie37@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO52589,2,Catherine Peterson,catherine5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52586,2,Amber Carter,amber10@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52612,4,Carolyn Dominguez,carolyn33@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO52593,1,Ethan Brown,ethan35@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

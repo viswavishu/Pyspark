@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52743,1,Katherine Price,katherine25@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO52761,4,Christopher Johnson,christopher25@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52735,1,Miguel Simmons,miguel61@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52732,3,Dominic Fernandez,dominic16@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO52733,2,Katie Yuan,katie9@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

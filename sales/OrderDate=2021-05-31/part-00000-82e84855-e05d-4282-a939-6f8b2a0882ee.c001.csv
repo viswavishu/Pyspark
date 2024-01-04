@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51180,2,Hailey Russell,hailey40@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51178,3,Ricky Vazquez,ricky15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51181,3,Kaitlyn Henderson,kaitlyn72@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51187,2,Isaac Allen,isaac40@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO51184,1,Trinity Richardson,trinity9@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

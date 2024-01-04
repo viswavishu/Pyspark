@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59373,1,Trevor Gonzales,trevor17@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59359,2,Morgan Jenkins,morgan76@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59351,1,Jasmine Powell,jasmine48@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59344,1,Randy Zheng,randy22@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO59355,3,Sara Baker,sara43@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

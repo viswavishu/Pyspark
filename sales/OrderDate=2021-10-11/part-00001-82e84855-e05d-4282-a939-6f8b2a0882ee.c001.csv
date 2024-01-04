@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57780,1,Holly Perez,holly19@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO57747,1,Priscilla Rai,priscilla16@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO57771,2,Bob Chapman,bob5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57762,1,Carson Griffin,carson20@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57752,1,Bruce Ruiz,bruce24@adventure-works.com,Road Tire Tube,1,3.99,0.3192

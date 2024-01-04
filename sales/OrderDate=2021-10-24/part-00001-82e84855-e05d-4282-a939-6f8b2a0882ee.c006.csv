@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58536,3,Jessie Zhao,jessie16@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO58532,4,Ronnie Lin,ronnie7@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO58487,2,Richard Perez,richard31@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO58534,1,Arturo Pal,arturo37@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO58526,1,Jake Wang,jake1@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

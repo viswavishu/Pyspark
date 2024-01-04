@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62252,1,Brandon Hayes,brandon19@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO62244,1,Carmen Rana,carmen14@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO62262,2,Candace Patel,candace2@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62273,2,Kelli Anand,kelli45@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO62282,2,Tara Goel,tara20@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

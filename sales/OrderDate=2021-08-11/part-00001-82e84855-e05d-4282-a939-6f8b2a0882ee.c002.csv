@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54177,4,Sean Cooper,sean16@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO54177,2,Sean Cooper,sean16@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54171,2,Richard Roberts,richard32@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54168,1,Gabriel Ross,gabriel1@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54166,1,Morgan Sanchez,morgan47@adventure-works.com,Road Tire Tube,1,3.99,0.3192

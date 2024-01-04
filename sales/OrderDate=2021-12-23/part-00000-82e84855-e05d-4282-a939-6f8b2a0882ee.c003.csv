@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62581,2,Drew Pal,drew13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62605,3,Jason Edwards,jason31@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62598,4,Ashley Ross,ashley30@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO62590,2,Marissa Powell,marissa6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62617,2,Amber Hill,amber13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

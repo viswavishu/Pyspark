@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57833,1,Louis Liang,louis11@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO57836,1,Peter Tang,peter11@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO57800,1,Ross Hernandez,ross24@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO57818,1,Terrance Fernandez,terrance13@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57803,2,Ebony Moreno,ebony29@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

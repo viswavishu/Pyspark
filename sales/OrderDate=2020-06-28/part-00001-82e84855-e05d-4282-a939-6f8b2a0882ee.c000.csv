@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46907,1,Jeremy Collins,jeremy19@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468
+SO46905,1,Frederick Perez,frederick18@adventure-works.com,"Road-250 Black, 48",1,2181.5625,174.525
+SO46908,1,Desiree Rubio,desiree17@adventure-works.com,"Road-250 Red, 52",1,2443.35,195.468

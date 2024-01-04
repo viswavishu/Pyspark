@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59479,1,Roger Nara,roger44@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO59458,1,Randy Liu,randy5@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO59462,1,Alexa Travers,alexa11@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO59427,3,Dalton Perez,dalton37@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59428,3,Jos� Hernandez,jos�54@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47626,1,Nancy Rana,nancy14@adventure-works.com,"Road-650 Red, 58",1,782.99,62.6392
+SO47623,1,Brendan Rai,brendan15@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468

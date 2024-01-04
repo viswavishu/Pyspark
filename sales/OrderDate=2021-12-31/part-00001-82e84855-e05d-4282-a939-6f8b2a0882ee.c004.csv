@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63115,1,Andr�s Anand,andr�s18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO63061,1,Steven Reed,steven30@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO63084,1,Gabrielle Scott,gabrielle56@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO63071,1,Julian Hughes,julian13@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO63063,2,Colleen Zhou,colleen9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

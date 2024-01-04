@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53182,1,Brenda Suri,brenda4@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO53149,3,Andrea Rogers,andrea19@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO53177,4,Logan Long,logan12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53158,1,Alicia Jai,alicia9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53148,1,Antonio Bennett,antonio1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

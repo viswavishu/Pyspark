@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52770,2,Alan Cai,alan25@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52750,2,Brent Zeng,brent20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52729,1,Virginia Malhotra,virginia6@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO52748,3,Virginia Rodriguez,virginia22@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52740,1,Luke Coleman,luke24@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

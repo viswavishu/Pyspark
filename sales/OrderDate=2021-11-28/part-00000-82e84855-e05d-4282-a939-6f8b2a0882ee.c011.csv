@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61029,2,Alicia Shen,alicia1@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60971,4,Cory Kapoor,cory19@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61027,2,Kristina Kovar,kristina4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60999,3,Alexandra Hill,alexandra63@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61010,2,Evan Ward,evan13@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

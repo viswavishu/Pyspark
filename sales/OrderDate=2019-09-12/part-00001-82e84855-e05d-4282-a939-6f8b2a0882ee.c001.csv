@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44391,1,Bridget Tang,bridget5@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616

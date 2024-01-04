@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52112,5,Gary Ortega,gary31@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO52139,3,Stacey Ma,stacey17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52111,1,Cindy Sai,cindy6@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO52121,4,Claudia He,claudia16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52126,1,Jordan Collins,jordan56@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

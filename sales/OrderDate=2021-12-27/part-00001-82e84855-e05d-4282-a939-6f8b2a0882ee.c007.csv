@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62838,3,Miguel Taylor,miguel8@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO62820,1,Patrick Sanchez,patrick22@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62828,3,Molly Madan,molly7@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62827,1,Stacey Liu,stacey4@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO62846,3,Natalie Stewart,natalie0@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

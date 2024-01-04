@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63016,1,Virginia Sara,virginia12@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO63045,4,Jerome Gutierrez,jerome9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO63059,1,Corey Lal,corey8@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO63023,1,Edward Turner,edward16@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO63056,1,Alexandra Murphy,alexandra9@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792

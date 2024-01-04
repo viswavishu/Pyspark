@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55483,1,Jeffery Liu,jeffery4@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55485,3,Omar Jai,omar31@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO55503,2,Ronald Garcia,ronald17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55482,2,Cedric Nath,cedric37@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55469,2,Hunter Bryant,hunter15@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

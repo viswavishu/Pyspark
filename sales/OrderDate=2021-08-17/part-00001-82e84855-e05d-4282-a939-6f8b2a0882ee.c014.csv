@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54516,3,Connor Ross,connor0@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54509,4,Tanya Gill,tanya10@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO54501,1,Miguel Carter,miguel36@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54481,3,Krista Jimenez,krista6@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO54504,2,Terry Nath,terry21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52048,2,Alexis Washington,alexis36@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52049,1,Dawn Chander,dawn40@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52050,2,Kari Romero,kari29@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52025,2,Austin Butler,austin10@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52060,3,Blake Griffin,blake68@adventure-works.com,Road Tire Tube,1,3.99,0.3192

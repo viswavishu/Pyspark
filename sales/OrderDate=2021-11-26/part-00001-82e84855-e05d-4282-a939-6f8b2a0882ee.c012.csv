@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60873,1,Gina Diaz,gina3@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO60885,1,Chad Kumar,chad9@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO60861,1,Bailey Roberts,bailey25@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60894,1,Jermaine Chandra,jermaine1@adventure-works.com,"Touring-3000 Blue, 62",1,742.35,59.388
+SO60862,2,Alexia Bryant,alexia14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

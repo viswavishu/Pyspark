@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56018,1,Bridget Yuan,bridget8@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO56007,1,Jason Foster,jason13@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO56000,4,Heidi Rana,heidi13@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO56003,1,Mayra Chandra,mayra1@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55992,2,Oscar Coleman,oscar14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

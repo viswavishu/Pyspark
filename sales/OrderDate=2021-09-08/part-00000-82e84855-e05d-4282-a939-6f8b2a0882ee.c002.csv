@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55824,2,Bryan Bailey,bryan16@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO55859,2,Morgan Young,morgan22@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55865,3,Heather Sun,heather12@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55825,4,Gerald Madan,gerald37@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55857,1,Gabrielle Roberts,gabrielle48@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188

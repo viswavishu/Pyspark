@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62192,2,Spencer Foster,spencer18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62215,1,Derrick Martin,derrick0@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO62227,1,Ryan Taylor,ryan48@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62214,1,Noah Allen,noah71@adventure-works.com,"Mountain-500 Black, 42",1,539.99,43.1992
+SO62216,1,Meredith Arun,meredith5@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188

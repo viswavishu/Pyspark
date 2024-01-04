@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59481,3,Darrell Stone,darrell11@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO59428,2,Jos� Hernandez,jos�54@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

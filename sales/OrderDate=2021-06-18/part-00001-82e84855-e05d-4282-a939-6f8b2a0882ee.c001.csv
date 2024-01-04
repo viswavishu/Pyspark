@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51472,1,Kathleen Jimenez,kathleen7@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO51467,4,Fernando Allen,fernando23@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO51466,1,Adam Zhang,adam20@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO51469,2,David Rodriguez,david83@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO51471,1,Glenn Liu,glenn5@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48722,1,Jose Baker,jose52@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468
+SO48717,1,Paula Navarro,paula13@adventure-works.com,"Mountain-200 Silver, 38",1,2071.4196,165.7136
+SO48718,1,Tamara Chen,tamara33@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136
+SO48719,1,Kristi Suarez,kristi15@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468

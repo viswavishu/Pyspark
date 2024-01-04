@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59751,1,Cedric Anand,cedric40@adventure-works.com,"Touring-3000 Blue, 62",1,742.35,59.388
+SO59727,1,Nathaniel Kelly,nathaniel3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59745,1,Amanda Stewart,amanda0@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59716,2,Todd Li,todd5@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO59747,4,Alyssa Howard,alyssa38@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

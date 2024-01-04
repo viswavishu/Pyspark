@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58751,1,Fernando Clark,fernando17@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58747,2,Dominique Arun,dominique6@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58743,5,Calvin She,calvin0@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO58714,2,Eric Hayes,eric30@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO58766,1,Heidi Lopez,heidi19@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256

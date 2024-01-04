@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55082,1,Ernest Zhou,ernest8@adventure-works.com,"Mountain-500 Silver, 42",1,564.99,45.1992
+SO55066,3,Derek Chander,derek14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55075,1,Angel Reed,angel19@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO55071,1,Gina Ruiz,gina2@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO55055,1,Brandon Jenkins,brandon4@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

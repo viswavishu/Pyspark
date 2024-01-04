@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60404,2,Ramon Zhao,ramon10@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO60391,2,Mayra Patel,mayra2@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60421,4,Jessica Alexander,jessica43@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60446,1,Drew Xu,drew5@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO60418,3,Susan Ma,susan26@adventure-works.com,"Classic Vest, M",1,63.5,5.08

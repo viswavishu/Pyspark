@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55362,2,Roger Ye,roger14@adventure-works.com,Touring Tire,1,28.99,2.3192

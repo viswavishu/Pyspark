@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51560,1,Kristopher Fernandez,kristopher14@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO51550,2,Megan Ramirez,megan44@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51552,2,Brian Torres,brian16@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO51559,2,Roger Wang,roger6@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO51568,1,Jenna Nelson,jenna9@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

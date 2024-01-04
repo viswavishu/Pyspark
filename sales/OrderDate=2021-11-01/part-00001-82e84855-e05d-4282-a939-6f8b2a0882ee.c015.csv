@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59208,1,Ross Sanz,ross38@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO59181,1,Evan Kelly,evan2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59183,3,Justin Rodriguez,justin48@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59182,2,Isabella Morris,isabella83@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59198,1,Carlos Morris,carlos21@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992

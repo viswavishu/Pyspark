@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46202,1,April Tang,april4@adventure-works.com,"Road-650 Red, 58",1,699.0982,55.9279

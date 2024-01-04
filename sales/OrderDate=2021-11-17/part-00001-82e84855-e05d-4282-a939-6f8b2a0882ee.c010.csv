@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60302,1,Brianna Robinson,brianna17@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO60262,1,Alfredo Blanco,alfredo16@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO60303,3,Brandon Wagner,brandon21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60278,2,Brittany Bennett,brittany1@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60282,1,Monique Alonso,monique4@adventure-works.com,LL Road Tire,1,21.49,1.7192

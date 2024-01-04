@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO43995,1,Dalton Brown,dalton4@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO43999,1,Jay Sanchez,jay27@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO43997,1,Jason Lopez,jason48@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616

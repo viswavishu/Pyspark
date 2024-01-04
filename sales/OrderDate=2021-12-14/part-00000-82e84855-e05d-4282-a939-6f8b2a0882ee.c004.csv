@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62075,1,Kelli Chen,kelli2@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62058,1,Leonard Rai,leonard19@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62033,2,Tyrone Rubio,tyrone20@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62083,1,Brandon Bryant,brandon15@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO62082,3,Jordan Jenkins,jordan3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

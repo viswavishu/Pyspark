@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56223,3,Nina Sharma,nina10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56188,2,Audrey Ruiz,audrey3@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56202,2,Judith Reed,judith5@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO56200,4,Samuel Lal,samuel26@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO56223,2,Nina Sharma,nina10@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

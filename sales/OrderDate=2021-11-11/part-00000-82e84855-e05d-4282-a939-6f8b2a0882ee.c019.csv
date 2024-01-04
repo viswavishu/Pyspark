@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59890,2,Zachary Powell,zachary7@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO59891,1,Angela Washington,angela16@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO59889,2,Dennis Ware,dennis0@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59837,2,Emmanuel Lopez,emmanuel15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59875,1,Richard Baker,richard27@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

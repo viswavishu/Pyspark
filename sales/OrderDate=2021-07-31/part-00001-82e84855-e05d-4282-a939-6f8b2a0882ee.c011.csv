@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53432,2,Jeremy Brooks,jeremy33@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53413,4,Erick Gonzalez,erick18@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO53426,3,Louis Xu,louis6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53442,3,Colin Xu,colin13@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53420,1,Eric Hill,eric54@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

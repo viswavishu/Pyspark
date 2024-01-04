@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59465,1,Carolyn Navarro,carolyn30@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO59470,2,Marcus Gonzales,marcus67@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59474,1,Sarah Powell,sarah33@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO59481,1,Darrell Stone,darrell11@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO59481,2,Darrell Stone,darrell11@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

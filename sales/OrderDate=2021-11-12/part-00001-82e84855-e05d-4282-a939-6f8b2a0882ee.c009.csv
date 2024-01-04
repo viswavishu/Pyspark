@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59969,2,Marcus Howard,marcus87@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO59973,1,Meagan Arun,meagan7@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO59938,3,Mariah Ward,mariah37@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59962,1,Tony Xu,tony8@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO59937,2,Jose Gonzales,jose11@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57672,3,Shane Rana,shane14@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57662,2,Miguel Russell,miguel66@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO57672,1,Shane Rana,shane14@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388
+SO57685,4,Kimberly Morgan,kimberly23@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57634,2,Jennifer Simmons,jennifer88@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

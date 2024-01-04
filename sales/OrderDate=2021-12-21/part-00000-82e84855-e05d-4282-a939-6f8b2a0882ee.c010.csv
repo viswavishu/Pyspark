@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62472,3,Bobby Saunders,bobby6@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO62506,1,Regina Fernandez,regina15@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO62501,5,Ruben Madan,ruben8@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO62499,1,Meagan Sanchez,meagan18@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO62525,2,Caitlin Rivera,caitlin14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

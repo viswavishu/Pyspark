@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51502,2,Mandy Ye,mandy11@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51504,1,Maria Torres,maria16@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO51508,1,Patricia Rodriguez,patricia21@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61482,1,Rodney Ramos,rodney13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61483,1,Max Rubio,max19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61531,5,Brooke Rogers,brooke17@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61499,2,Charles Jackson,charles15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61538,1,Leslie Gill,leslie14@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592

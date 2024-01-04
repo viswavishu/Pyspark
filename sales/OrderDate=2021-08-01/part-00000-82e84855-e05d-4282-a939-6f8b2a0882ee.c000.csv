@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53641,1,Taylor Smith,taylor47@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO53649,1,Sydney Allen,sydney88@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53630,1,Jordan Young,jordan46@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53655,2,Preston Prasad,preston8@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53631,2,Nathan Gonzales,nathan13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

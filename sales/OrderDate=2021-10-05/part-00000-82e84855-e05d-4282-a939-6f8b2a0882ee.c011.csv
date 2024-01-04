@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57462,1,Oscar Alexander,oscar5@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57439,1,Kathryn Nath,kathryn16@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO57434,1,George Vance,george10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57465,3,Benjamin Taylor,benjamin43@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57428,1,Julio Vazquez,julio15@adventure-works.com,"Mountain-500 Black, 42",1,539.99,43.1992

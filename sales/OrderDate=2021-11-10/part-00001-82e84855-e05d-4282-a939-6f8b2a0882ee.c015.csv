@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59803,2,Daniel Harris,daniel10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59785,1,Amber Hall,amber22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59817,3,Nelson Suarez,nelson18@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59799,2,Haley Mitchell,haley50@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59783,2,Seth Hall,seth23@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

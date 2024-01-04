@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54688,3,Isaiah Ward,isaiah11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54679,3,Ryan Miller,ryan45@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO54679,4,Ryan Miller,ryan45@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

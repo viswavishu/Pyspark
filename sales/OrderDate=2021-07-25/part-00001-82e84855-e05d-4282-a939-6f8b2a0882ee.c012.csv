@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53131,3,Terrence Jai,terrence11@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53097,1,Marcus Green,marcus33@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO53090,1,Grace Coleman,grace53@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO53093,1,Samantha Jenkins,samantha32@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53112,1,Arturo Guo,arturo19@adventure-works.com,Road Tire Tube,1,3.99,0.3192

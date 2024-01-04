@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53177,1,Logan Long,logan12@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO53134,1,Darryl Wu,darryl6@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO53143,3,Jada Morgan,jada14@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO53168,2,Kate Yuan,kate5@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO53148,4,Antonio Bennett,antonio1@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

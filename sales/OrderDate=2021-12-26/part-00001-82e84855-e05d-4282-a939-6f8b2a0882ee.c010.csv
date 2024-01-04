@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62803,4,Melissa Perry,melissa2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62771,2,Gabrielle Bryant,gabrielle40@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62799,1,Meghan Dominguez,meghan12@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62812,2,Jessie Chen,jessie8@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO62808,1,Diane Martin,diane6@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59702,2,Omar Wang,omar1@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO59656,1,Megan Morris,megan29@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59648,5,Ivan Raman,ivan8@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59665,2,Melissa Wood,melissa21@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59688,4,Mya Butler,mya14@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

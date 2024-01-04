@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55661,1,Max Moyer,max10@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO55665,2,Priscilla Shen,priscilla2@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55642,1,Carolyn Kapoor,carolyn2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55656,1,Misty Rai,misty19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55615,2,Donna Raji,donna19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

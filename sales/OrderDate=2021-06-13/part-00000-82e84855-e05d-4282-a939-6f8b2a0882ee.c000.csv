@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51405,1,Edward Price,edward49@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO51394,2,Caitlin Morris,caitlin16@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51403,1,Austin Shan,austin28@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO51406,2,Dale Luo,dale5@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO51393,1,Bryan Bell,bryan14@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58799,1,Candice Chow,candice10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58807,1,Andrew Martinez,andrew24@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58781,1,Alexis Hayes,alexis46@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58811,1,John Williams,john39@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO58829,1,Alyssa Kelly,alyssa45@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992

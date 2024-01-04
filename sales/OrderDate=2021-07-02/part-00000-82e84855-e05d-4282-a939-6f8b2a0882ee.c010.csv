@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51950,2,Janet Ruiz,janet7@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO51932,1,Grace Clark,grace18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51960,2,Todd Zeng,todd19@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188

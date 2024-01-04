@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61300,1,Olivia Ward,olivia38@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61280,1,Jamie Liang,jamie20@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

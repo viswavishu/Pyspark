@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62948,1,Bradley Goel,bradley21@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO62991,1,Carla Sullivan,carla15@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO62967,1,Blake Powell,blake56@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62964,1,Jonathan Thomas,jonathan64@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO62984,2,Miguel Sanchez,miguel72@adventure-works.com,HL Mountain Tire,1,35.0,2.8

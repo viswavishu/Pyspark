@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60907,2,Caleb Foster,caleb13@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60940,4,Hannah Harris,hannah12@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60952,2,Julie Jai,julie16@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60899,3,Jasmine Stewart,jasmine22@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60932,2,Jordyn Powell,jordyn8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

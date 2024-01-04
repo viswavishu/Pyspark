@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53386,2,Caleb Flores,caleb9@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53358,2,Katelyn Peterson,katelyn3@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO53349,2,Gloria Alvarez,gloria6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53351,1,Hunter Jackson,hunter45@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO53361,2,Jonathan Edwards,jonathan31@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

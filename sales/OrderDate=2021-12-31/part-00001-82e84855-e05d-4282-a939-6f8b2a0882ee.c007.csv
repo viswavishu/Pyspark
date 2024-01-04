@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63070,2,Angel Cooper,angel8@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO63063,1,Colleen Zhou,colleen9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO63117,1,Tony Natsuhara,tony21@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO63116,3,Janet Ortega,janet27@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO63108,1,Bryant Sanchez,bryant19@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

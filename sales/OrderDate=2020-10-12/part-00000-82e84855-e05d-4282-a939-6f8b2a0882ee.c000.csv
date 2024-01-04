@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48164,1,Alisha Shen,alisha26@adventure-works.com,"Road-650 Red, 48",1,782.99,62.6392
+SO48160,1,George Louverdis,george5@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525

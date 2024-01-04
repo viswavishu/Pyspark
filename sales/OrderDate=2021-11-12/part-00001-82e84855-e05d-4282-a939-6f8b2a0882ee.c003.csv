@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59955,2,Eduardo Scott,eduardo29@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59931,1,Elijah Alexander,elijah20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59905,4,Philip Diaz,philip2@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59908,1,Louis Chen,louis40@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59956,3,Gabrielle Washington,gabrielle35@adventure-works.com,"Classic Vest, L",1,63.5,5.08

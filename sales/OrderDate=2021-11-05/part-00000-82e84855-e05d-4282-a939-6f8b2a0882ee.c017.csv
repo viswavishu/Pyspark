@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59452,4,Alexia Coleman,alexia6@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO59477,3,Marshall Lu,marshall10@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59457,1,Priscilla Andersen,priscilla11@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO59483,3,Ashlee Lal,ashlee15@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59419,1,Franklin Zheng,franklin17@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58492,2,Nathan Lal,nathan26@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO58517,1,Shawn She,shawn2@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58520,2,Leonard Yuan,leonard8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58488,2,Antonio Bennett,antonio1@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58474,1,Erika Diaz,erika2@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54934,4,Carl She,carl0@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54973,2,Morgan Lee,morgan43@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54962,1,Samuel Perry,samuel6@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54974,1,Kaitlyn Hernandez,kaitlyn16@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO54972,1,Darren Hernandez,darren25@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468

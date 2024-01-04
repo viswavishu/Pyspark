@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54966,1,Tasha Andersen,tasha14@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO54934,2,Carl She,carl0@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54947,3,Kristen Ma,kristen14@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54944,1,Bryan Murphy,bryan15@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54938,2,Autumn Cai,autumn20@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

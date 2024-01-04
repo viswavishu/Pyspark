@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51657,1,Arianna Bryant,arianna16@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO51637,3,Andy Torres,andy16@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO51654,4,Luis Simmons,luis14@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO51645,1,Tyler Lewis,tyler21@adventure-works.com,"Mountain-500 Silver, 48",1,564.99,45.1992
+SO51637,1,Andy Torres,andy16@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792

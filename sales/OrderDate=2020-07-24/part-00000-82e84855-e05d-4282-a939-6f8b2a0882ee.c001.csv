@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47271,1,Anthony White,anthony20@adventure-works.com,"Road-550-W Yellow, 38",1,1000.4375,80.035
+SO47270,1,J�sus Ramos,j�sus16@adventure-works.com,"Mountain-200 Black, 42",1,2049.0982,163.9279

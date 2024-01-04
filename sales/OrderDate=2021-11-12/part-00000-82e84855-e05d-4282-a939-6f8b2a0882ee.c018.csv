@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59906,3,Brett Garcia,brett14@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59958,2,Roy Rubio,roy41@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59930,1,Riley James,riley27@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59951,1,Nathan Scott,nathan43@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO59982,1,Johnny Raje,johnny15@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388

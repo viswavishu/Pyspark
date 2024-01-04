@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52177,1,Marcus Allen,marcus26@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52167,3,Shawn Black,shawn22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52204,1,Molly Lopez,molly15@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO52167,4,Shawn Black,shawn22@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52207,4,Michele Nath,michele19@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

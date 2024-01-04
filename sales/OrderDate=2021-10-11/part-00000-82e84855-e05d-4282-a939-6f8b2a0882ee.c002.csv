@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57785,2,Noah Martinez,noah64@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO57760,1,Marcus Ross,marcus53@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57766,2,Thomas Griffin,thomas23@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO57759,2,Natalie Ross,natalie26@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57753,1,Angelica Barnes,angelica2@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

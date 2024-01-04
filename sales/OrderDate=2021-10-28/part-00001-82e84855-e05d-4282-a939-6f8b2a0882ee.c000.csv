@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58742,2,Ross Rodriguez,ross18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58767,1,Olivia Ramirez,olivia42@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO58714,1,Eric Hayes,eric30@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO58774,1,Carly Xie,carly2@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO58709,1,Ethan Lal,ethan25@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

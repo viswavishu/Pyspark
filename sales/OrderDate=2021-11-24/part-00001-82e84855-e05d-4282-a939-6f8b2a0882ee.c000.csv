@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60756,2,Alexis Walker,alexis20@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO60747,2,Kari Alvarez,kari25@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60715,2,Taylor Patterson,taylor35@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60730,2,Natalie Hernandez,natalie61@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60753,3,Jade Morgan,jade10@adventure-works.com,Road Tire Tube,1,3.99,0.3192

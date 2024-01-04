@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51543,4,Katie Lal,katie11@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51558,1,Isabelle Long,isabelle8@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO51555,4,Chloe Garcia,chloe27@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51559,1,Roger Wang,roger6@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO51570,1,Johnny Xu,johnny5@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992

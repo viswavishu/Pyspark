@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54941,2,Meredith Ruiz,meredith24@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54967,3,Bryce Morgan,bryce12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54974,2,Kaitlyn Hernandez,kaitlyn16@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54935,1,Colin Luo,colin29@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54945,3,Maria Ross,maria27@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

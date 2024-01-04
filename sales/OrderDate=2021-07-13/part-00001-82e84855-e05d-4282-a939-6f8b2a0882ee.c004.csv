@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52506,1,Joe Carlson,joe42@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52518,2,Alexandra Thomas,alexandra74@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52492,1,Zachary Butler,zachary13@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52469,5,Latoya Xu,latoya4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52509,4,Jose Hall,jose83@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

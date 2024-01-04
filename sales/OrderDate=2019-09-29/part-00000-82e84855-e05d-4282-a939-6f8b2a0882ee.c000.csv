@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44475,1,Abby Sai,abby4@adventure-works.com,"Mountain-100 Silver, 42",1,3399.99,271.9992
+SO44472,1,Briana Torres,briana11@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO44474,1,Nicolas Rai,nicolas16@adventure-works.com,"Road-650 Red, 52",1,699.0982,55.9279

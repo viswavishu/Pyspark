@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58856,2,Edward Roberts,edward15@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO58861,1,Sydney Barnes,sydney25@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58844,2,Ronnie Huang,ronnie5@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO58891,1,Devin Sanders,devin65@adventure-works.com,"Mountain-500 Black, 44",1,539.99,43.1992
+SO58888,1,Erica Wang,erica1@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992

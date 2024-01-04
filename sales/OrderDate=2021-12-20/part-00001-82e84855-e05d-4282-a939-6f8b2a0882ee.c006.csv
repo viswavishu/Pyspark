@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62465,1,Calvin Chande,calvin13@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO62407,3,Janet Sanz,janet26@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62435,2,Kaitlyn Thompson,kaitlyn38@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62467,1,Alexis Coleman,alexis28@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO62415,2,Sydney Brooks,sydney20@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52827,3,Seth Williams,seth2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52797,1,Isabel Coleman,isabel6@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO52786,1,Morgan Hernandez,morgan15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52831,1,Austin Alexander,austin15@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO52789,1,Gina Martin,gina1@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59897,1,Alyssa Gray,alyssa40@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO59886,1,Carolyn Srini,carolyn8@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO59877,2,Elizabeth Robinson,elizabeth22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59872,1,Steven Richardson,steven19@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO59857,4,Mindy Rai,mindy22@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

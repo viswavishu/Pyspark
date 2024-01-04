@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60334,1,Jamie Ortega,jamie44@adventure-works.com,"Mountain-500 Black, 44",1,539.99,43.1992
+SO60333,2,Damien Lal,damien25@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60372,1,Andrea Green,andrea36@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO60323,3,Terry Tang,terry7@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60375,1,Morgan Thompson,morgan37@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60274,1,Gilbert Ferrier,gilbert42@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO60266,1,Samantha Jenkins,samantha32@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60261,1,Douglas Garcia,douglas19@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO60304,2,Paige Brooks,paige24@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60307,3,Jasmine Garcia,jasmine14@adventure-works.com,LL Road Tire,1,21.49,1.7192

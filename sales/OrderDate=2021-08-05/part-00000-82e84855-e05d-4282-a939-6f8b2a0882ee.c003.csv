@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53871,2,Kevin Diaz,kevin24@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53858,1,Bonnie Raji,bonnie27@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO53857,4,Kaitlyn Bailey,kaitlyn54@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO53862,2,Katrina Anand,katrina21@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53852,1,Maria Reed,maria4@adventure-works.com,HL Mountain Tire,1,35.0,2.8

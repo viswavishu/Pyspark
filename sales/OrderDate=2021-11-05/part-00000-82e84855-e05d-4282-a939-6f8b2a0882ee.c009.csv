@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59460,1,Valerie Wang,valerie2@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO59422,1,Ryan Thompson,ryan38@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59473,2,Xavier Cook,xavier79@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59475,4,Devin Robinson,devin17@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59437,1,Cedric Yuan,cedric28@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

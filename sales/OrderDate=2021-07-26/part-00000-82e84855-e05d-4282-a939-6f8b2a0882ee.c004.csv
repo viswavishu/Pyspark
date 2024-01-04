@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53141,3,Rachael Gonzalez,rachael17@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO53145,1,Melissa Morris,melissa41@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO53163,2,Gina Blanco,gina16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53143,2,Jada Morgan,jada14@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO53176,1,Andr�s Anand,andr�s18@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

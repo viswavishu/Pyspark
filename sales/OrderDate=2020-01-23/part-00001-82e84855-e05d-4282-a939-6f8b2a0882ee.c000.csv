@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45477,1,Brittney Hu,brittney19@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616

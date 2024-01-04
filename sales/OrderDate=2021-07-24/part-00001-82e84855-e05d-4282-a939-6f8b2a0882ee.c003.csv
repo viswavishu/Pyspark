@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53062,1,Morgan Johnson,morgan24@adventure-works.com,"Mountain-500 Black, 48",1,539.99,43.1992
+SO53026,1,Mason Roberts,mason25@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO53029,1,Raul Jai,raul10@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53041,2,April Shan,april8@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53031,3,Kaitlyn Rodriguez,kaitlyn43@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

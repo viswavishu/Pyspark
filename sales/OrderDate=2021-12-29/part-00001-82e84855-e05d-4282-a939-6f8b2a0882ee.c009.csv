@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62947,3,Carolyn Torres,carolyn32@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62972,2,Tabitha Smith,tabitha6@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO62980,2,Jessica Williams,jessica49@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62994,5,Kevin Hall,kevin59@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO62960,3,Barry Garcia,barry15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

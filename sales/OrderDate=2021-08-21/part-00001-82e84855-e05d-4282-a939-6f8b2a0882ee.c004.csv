@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54730,3,Kari Madan,kari8@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54759,2,Laura Zheng,laura25@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO54762,3,Susan Liu,susan13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54727,2,David Hughes,david44@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54724,3,Joel Sai,joel5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

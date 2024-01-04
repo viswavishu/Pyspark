@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59857,1,Mindy Rai,mindy22@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59871,3,Molly Martinez,molly16@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59887,2,Dalton Lee,dalton21@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59840,1,Anne Munoz,anne8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59867,3,April Shan,april8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

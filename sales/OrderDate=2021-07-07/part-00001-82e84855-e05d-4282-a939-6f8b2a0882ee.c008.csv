@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52199,1,Michele Shan,michele10@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52210,3,Erica Chen,erica2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52174,3,Taylor Harris,taylor61@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52158,1,Stacy Serrano,stacy17@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO52199,3,Michele Shan,michele10@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

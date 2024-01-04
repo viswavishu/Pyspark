@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58846,1,Kate Becker,kate17@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO58867,1,Hailey Sanders,hailey20@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58864,2,Devin Hill,devin27@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO58846,4,Kate Becker,kate17@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58884,2,Miranda Russell,miranda20@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

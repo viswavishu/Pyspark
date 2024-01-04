@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61588,1,Dalton Miller,dalton5@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO61571,1,Rebekah Suri,rebekah0@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61592,1,Clarence Yuan,clarence21@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO61550,3,Morgan Bennett,morgan71@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61572,2,Hector Alonso,hector6@adventure-works.com,Road Tire Tube,1,3.99,0.3192

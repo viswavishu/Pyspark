@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53718,3,Marcus Parker,marcus45@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53695,1,Mario Xu,mario4@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53714,3,Justin Garcia,justin44@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53713,2,Ann Gonzalez,ann23@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53681,1,Hunter Brown,hunter63@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

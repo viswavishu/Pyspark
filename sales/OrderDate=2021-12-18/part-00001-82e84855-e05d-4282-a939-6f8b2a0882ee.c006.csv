@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62323,3,Jarrod Arthur,jarrod6@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62308,1,Angela Ward,angela38@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO62337,2,Caleb Nelson,caleb39@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62331,1,Shelby Peterson,shelby5@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO62334,2,Deb Price,deb7@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

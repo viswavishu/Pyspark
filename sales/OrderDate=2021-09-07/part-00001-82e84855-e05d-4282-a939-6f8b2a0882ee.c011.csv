@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55736,2,Misty Raji,misty23@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO55798,2,Joanna Ashe,joanna3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55736,3,Misty Raji,misty23@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55777,1,Jaclyn Wu,jaclyn7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55800,2,Cedric Cai,cedric21@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

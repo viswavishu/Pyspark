@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60740,1,Dana Rubio,dana14@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO60754,1,Connor Campbell,connor36@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO60734,3,Wyatt Bennett,wyatt53@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60739,3,Tony Pal,tony15@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO60762,1,Eddie Vazquez,eddie15@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388

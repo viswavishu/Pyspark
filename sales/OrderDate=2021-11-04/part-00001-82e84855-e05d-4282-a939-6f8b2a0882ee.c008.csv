@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59398,3,Gregory Pal,gregory15@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59381,1,Charles Sanchez,charles65@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO59394,1,Paige Flores,paige11@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO59365,1,Colin Chen,colin2@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59384,3,Miranda Ross,miranda4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57982,1,Angel Edwards,angel23@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO57974,1,Mary Scott,mary27@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57987,1,Neil Blanco,neil14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58009,1,Tony Kumar,tony10@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO58008,1,Ruben Garcia,ruben16@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468

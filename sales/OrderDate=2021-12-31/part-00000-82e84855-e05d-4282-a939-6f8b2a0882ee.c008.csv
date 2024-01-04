@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63083,1,Nicholas Brown,nicholas6@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO63116,2,Janet Ortega,janet27@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO63088,2,Eduardo Ross,eduardo48@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO63114,4,Kristy Ruiz,kristy2@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO63078,2,Jose Russell,jose14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

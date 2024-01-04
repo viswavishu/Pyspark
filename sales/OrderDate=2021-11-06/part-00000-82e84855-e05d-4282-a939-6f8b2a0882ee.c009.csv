@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59493,3,Kristine Ramos,kristine18@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO59570,1,Ian Thomas,ian11@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO59513,3,Faith Bryant,faith17@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59512,2,Ethan Harris,ethan47@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59528,1,Clayton Shan,clayton28@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

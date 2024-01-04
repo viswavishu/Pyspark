@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62808,3,Diane Martin,diane6@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62799,2,Meghan Dominguez,meghan12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62804,5,Bailey Bailey,bailey13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62788,2,Tasha Luo,tasha6@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62781,2,Victoria Thomas,victoria12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

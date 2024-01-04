@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52357,2,Rebecca Hernandez,rebecca19@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO52356,1,Craig Romero,craig10@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO52342,6,Elijah Coleman,elijah9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52339,1,Preston Arun,preston5@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52338,3,Andrew Moore,andrew17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

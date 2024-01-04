@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58692,1,Nancy Mehta,nancy17@adventure-works.com,"Mountain-500 Black, 52",1,539.99,43.1992
+SO58661,3,Sydney Russell,sydney42@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58641,4,Andre Arun,andre6@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO58669,1,Ernest Ye,ernest9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58679,2,Seth Flores,seth60@adventure-works.com,ML Road Tire,1,24.99,1.9992

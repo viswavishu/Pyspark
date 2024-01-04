@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60582,3,Christian Lewis,christian40@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO60604,4,Kaitlyn Jenkins,kaitlyn74@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60601,3,Sophia Campbell,sophia5@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60594,2,Ricardo Jai,ricardo11@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO60604,1,Kaitlyn Jenkins,kaitlyn74@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60476,2,Sarah Davis,sarah7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60492,3,Ian Long,ian50@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60495,2,Emily Martin,emily15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60457,2,Omar Yuan,omar26@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60517,2,Kate Anand,kate19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

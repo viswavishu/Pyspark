@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52571,2,Jeremiah Scott,jeremiah17@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52559,1,Nicole Anderson,nicole10@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52547,1,Jennifer Lee,jennifer49@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52533,2,Clayton Andersen,clayton31@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52567,1,Andy Alvarez,andy9@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992

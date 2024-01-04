@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56019,1,Patricia Chapman,patricia7@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188

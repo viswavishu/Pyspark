@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO50873,1,Kristen Zheng,kristen16@adventure-works.com,"Road-250 Black, 52",1,2181.5625,174.525
+SO50866,1,David Taylor,david67@adventure-works.com,"Road-650 Black, 58",1,782.99,62.6392
+SO50862,1,Samantha Martin,samantha16@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136
+SO50865,1,Claudia Ma,claudia14@adventure-works.com,"Mountain-200 Black, 46",1,2049.0982,163.9279
+SO50871,1,Anne Vazquez,anne16@adventure-works.com,"Mountain-200 Silver, 38",1,2071.4196,165.7136

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61956,1,Kelli Xie,kelli26@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO61941,2,Jake Hu,jake18@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61949,1,Kaitlyn Lewis,kaitlyn44@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO61928,1,Jared Peterson,jared8@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO61937,1,Jennifer Scott,jennifer16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

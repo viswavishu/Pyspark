@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59669,1,Rachel Blue,rachel34@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO59700,4,Arianna Hayes,arianna20@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO59706,1,Mary Carter,mary23@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO59648,1,Ivan Raman,ivan8@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO59650,3,Larry Vazquez,larry17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

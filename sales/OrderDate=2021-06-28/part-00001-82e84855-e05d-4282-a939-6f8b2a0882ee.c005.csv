@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51651,1,Leah Ye,leah7@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO51649,2,Ross Jordan,ross1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51636,2,Eduardo Harris,eduardo12@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51652,4,Brett Mehta,brett13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51648,3,Jasmine Coleman,jasmine46@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

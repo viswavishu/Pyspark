@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57675,2,Kaylee Hill,kaylee35@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57640,2,Lucas Griffin,lucas68@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57678,1,Morgan Walker,morgan44@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388
+SO57651,1,Evan Hall,evan47@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO57671,1,Clifford Mehta,clifford12@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60377,4,Robyn Munoz,robyn5@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60353,4,Kathleen Carlson,kathleen19@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO60372,2,Andrea Green,andrea36@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60355,1,Janelle Rodriguez,janelle16@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60334,2,Jamie Ortega,jamie44@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

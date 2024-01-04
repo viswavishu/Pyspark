@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55822,2,Terrence Black,terrence21@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO55819,2,Desiree Gutierrez,desiree7@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55863,1,Julian Griffin,julian20@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO55830,4,Benjamin Foster,benjamin17@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55864,2,Tabitha Fernandez,tabitha13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

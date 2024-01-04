@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53706,1,Samuel Allen,samuel52@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO53671,1,Carla Mehta,carla16@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53709,1,Valerie Ye,valerie11@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO53696,3,Marshall Black,marshall40@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53677,3,Bridget Luo,bridget7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

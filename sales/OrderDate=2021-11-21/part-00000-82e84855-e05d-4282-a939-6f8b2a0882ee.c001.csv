@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60548,2,Benjamin Brown,benjamin36@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60550,4,Anna Simmons,anna40@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60534,3,Victoria Torres,victoria40@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60528,1,Jay Suri,jay6@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO60559,1,Samuel Lopez,samuel51@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992

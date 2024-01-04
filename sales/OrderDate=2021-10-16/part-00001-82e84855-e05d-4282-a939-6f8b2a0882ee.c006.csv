@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58034,2,Brent Zhao,brent10@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO58023,2,Julie Chander,julie20@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58019,2,Kathleen Ortega,kathleen21@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58029,1,Shaun Black,shaun20@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO58070,2,Clarence Gao,clarence8@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

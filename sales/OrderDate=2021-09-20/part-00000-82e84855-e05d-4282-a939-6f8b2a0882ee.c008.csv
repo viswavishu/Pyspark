@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56430,1,Bruce Lopez,bruce16@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO56444,1,Brian Rivera,brian28@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO56473,3,Melody Hernandez,melody4@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56467,1,Nicole Price,nicole48@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56430,2,Bruce Lopez,bruce16@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192

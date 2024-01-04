@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59941,4,Anna Murphy,anna10@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59942,1,Rafael Goel,rafael43@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59929,1,James Chen,james41@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59955,5,Eduardo Scott,eduardo29@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO59961,1,Arthur Perez,arthur22@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52416,2,Courtney Lopez,courtney17@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO52413,2,Pablo Rovira Diez,pablo0@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52447,2,Kaitlyn Wilson,kaitlyn29@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52409,3,Sydney Bryant,sydney40@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52436,1,Dakota Patterson,dakota9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

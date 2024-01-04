@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57919,1,Fernando Wilson,fernando7@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO57936,2,Edwin Jai,edwin34@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO57912,2,Robert Lal,robert41@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57947,1,Sydney Reed,sydney4@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO57935,1,Chloe Patterson,chloe77@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

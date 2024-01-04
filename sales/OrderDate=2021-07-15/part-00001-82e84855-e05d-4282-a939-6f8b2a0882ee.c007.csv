@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52610,3,Ben Adams,ben2@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52602,2,Kara Luo,kara6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52589,1,Catherine Peterson,catherine5@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52591,2,Stefanie Smith,stefanie5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52593,2,Ethan Brown,ethan35@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

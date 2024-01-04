@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53188,1,Martha Guo,martha17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53212,2,Samuel Campbell,samuel37@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO53193,1,Vincent Cai,vincent21@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO53198,1,Terrance Raman,terrance9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53219,2,Raquel Alvarez,raquel3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60389,2,Melissa Bailey,melissa38@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60398,3,Julia Ramirez,julia60@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60451,1,Melinda Navarro,melinda5@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO60448,2,Gilbert Shan,gilbert31@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60393,1,John Garcia,john35@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468

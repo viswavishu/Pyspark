@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59695,3,Gilbert Raje,gilbert35@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59705,2,Samantha Martinez,samantha19@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59686,2,Victoria Davis,victoria6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59697,4,Dale Anand,dale20@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59699,4,Antonio Gonzales,antonio17@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

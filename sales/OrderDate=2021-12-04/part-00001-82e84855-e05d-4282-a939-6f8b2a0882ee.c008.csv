@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61465,4,Hunter Baker,hunter42@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61447,2,Zachary Hughes,zachary10@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61465,5,Hunter Baker,hunter42@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO61444,2,Dana Navarro,dana2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61450,3,Madison Martinez,madison18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

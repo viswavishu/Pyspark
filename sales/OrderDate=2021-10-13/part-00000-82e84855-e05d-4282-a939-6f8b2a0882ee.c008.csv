@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57859,4,Latoya Anand,latoya21@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO57866,1,Andrea Gonzalez,andrea33@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO57891,4,Lisa Cai,lisa24@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57878,2,Krista Gill,krista13@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57889,3,Sydney Miller,sydney70@adventure-works.com,"Classic Vest, L",1,63.5,5.08

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57796,1,Derek Beck,derek18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57810,1,Franklin Luo,franklin24@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57819,1,Bruce Chandra,bruce2@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57841,1,Victoria Rivera,victoria34@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO57839,1,Olivia Long,olivia55@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992

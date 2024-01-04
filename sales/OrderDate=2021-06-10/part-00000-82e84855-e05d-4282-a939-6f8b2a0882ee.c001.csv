@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51339,2,Levi Suri,levi0@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51355,2,Courtney Allen,courtney19@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO51345,1,David Diaz,david55@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO51351,1,Bethany Chander,bethany19@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO51344,1,Savannah Hernandez,savannah41@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792

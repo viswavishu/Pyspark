@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55600,3,Alex Sanchez,alex21@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55582,1,Christy Zeng,christy20@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55566,2,Madison Taylor,madison9@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55569,2,Aidan Alexander,aidan20@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55595,2,Kaitlyn Blue,kaitlyn52@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

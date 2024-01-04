@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44206,1,Shannon Liu,shannon4@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992

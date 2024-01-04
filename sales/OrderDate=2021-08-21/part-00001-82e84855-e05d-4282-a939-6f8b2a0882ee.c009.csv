@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54765,1,Alexandria Ramirez,alexandria30@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO54762,2,Susan Liu,susan13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54725,1,Nicole Wilson,nicole7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54755,2,Samuel Wang,samuel23@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54724,1,Joel Sai,joel5@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61879,1,Alexandra Mitchell,alexandra53@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO61860,1,Clayton Guo,clayton16@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO61857,1,David Alexander,david52@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

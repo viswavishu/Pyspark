@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63103,1,Mariah Rivera,mariah41@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO63100,2,Morgan Wilson,morgan30@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO63092,1,Dana Mu�oz,dana23@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO63086,2,Faith Torres,faith25@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO63068,2,Ross Johnsen,ross26@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

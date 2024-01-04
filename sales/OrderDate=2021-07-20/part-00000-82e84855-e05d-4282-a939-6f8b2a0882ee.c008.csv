@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52853,2,Destiny Flores,destiny60@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52842,4,Devon Chander,devon13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52860,1,Lauren Russell,lauren66@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52845,1,Johnny Anand,johnny23@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO52875,2,Alexa Richardson,alexa7@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61122,2,Miranda Gonzales,miranda17@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO61133,2,Adam King,adam49@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61158,1,Tiffany Chen,tiffany2@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO61117,1,Emma Rogers,emma27@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO61150,3,Curtis Guo,curtis14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

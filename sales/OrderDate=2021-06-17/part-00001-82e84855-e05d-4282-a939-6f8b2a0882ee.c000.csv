@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51458,1,Marcus Peterson,marcus80@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO51456,1,Wayne She,wayne1@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO51461,1,Toni Sara,toni10@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO51464,1,Michele Martin,michele35@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO51458,2,Marcus Peterson,marcus80@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

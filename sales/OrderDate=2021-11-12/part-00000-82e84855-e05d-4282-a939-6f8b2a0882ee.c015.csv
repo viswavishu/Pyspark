@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59982,2,Johnny Raje,johnny15@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO59907,1,Emma Martinez,emma16@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59934,1,Blake Hill,blake30@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59905,2,Philip Diaz,philip2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59979,1,Jay Alonso,jay37@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256

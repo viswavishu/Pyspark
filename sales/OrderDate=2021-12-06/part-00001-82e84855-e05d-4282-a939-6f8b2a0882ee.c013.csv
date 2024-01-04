@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61591,3,Andrea Sanchez,andrea28@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61552,3,Jasmine Powell,jasmine48@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO61570,3,Josue Blanco,josue2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61593,3,Joan Gao,joan18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61594,5,Abby Gonzalez,abby16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

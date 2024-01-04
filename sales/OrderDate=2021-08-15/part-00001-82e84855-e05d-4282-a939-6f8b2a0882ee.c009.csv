@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54425,2,Riley Cox,riley30@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54377,3,Ashlee Xu,ashlee12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54397,3,Eduardo Hernandez,eduardo26@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO54415,3,Kristina Chandra,kristina2@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54406,1,Christy Goel,christy37@adventure-works.com,Road Tire Tube,1,3.99,0.3192

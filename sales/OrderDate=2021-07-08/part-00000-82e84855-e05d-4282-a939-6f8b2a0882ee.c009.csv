@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52271,2,Gilbert Raje,gilbert35@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52262,2,Xavier Rogers,xavier87@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52267,3,Austin Bryant,austin14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52217,4,Jenny Zhu,jenny16@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO52272,2,Alex Perez,alex31@adventure-works.com,"Classic Vest, M",1,63.5,5.08

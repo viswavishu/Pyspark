@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52162,2,Mitchell Kumar,mitchell7@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52156,2,Denise Sanchez,denise21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52168,2,Nina Deng,nina1@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO52187,2,Austin Li,austin23@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52198,2,Darren Sanchez,darren21@adventure-works.com,Road Tire Tube,1,3.99,0.3192

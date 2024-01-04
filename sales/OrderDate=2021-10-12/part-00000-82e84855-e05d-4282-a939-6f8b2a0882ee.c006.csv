@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57823,1,Sara Mitchell,sara37@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57842,1,Julia Morris,julia48@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO57822,2,Blake Flores,blake60@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57814,2,Robert Patterson,robert24@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57796,2,Derek Beck,derek18@adventure-works.com,"Classic Vest, L",1,63.5,5.08

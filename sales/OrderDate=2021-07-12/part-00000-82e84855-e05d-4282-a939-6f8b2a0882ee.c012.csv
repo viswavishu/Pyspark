@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52443,5,Todd Li,todd5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52448,1,Morgan Hernandez,morgan15@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52463,1,Heidi Patel,heidi5@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO52433,2,Frederick Srini,frederick7@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO52447,3,Kaitlyn Wilson,kaitlyn29@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

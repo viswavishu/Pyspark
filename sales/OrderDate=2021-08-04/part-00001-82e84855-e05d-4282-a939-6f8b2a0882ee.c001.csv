@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53779,2,Jay Weber,jay10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53829,1,Stefanie Gonzalez,stefanie16@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO53802,2,Brian Kelly,brian14@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO53783,2,Alisha Luo,alisha30@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO53793,2,Brianna Davis,brianna4@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45626,1,Victoria Stewart,victoria24@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45628,1,Casey Navarro,casey33@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616

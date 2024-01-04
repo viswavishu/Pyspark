@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59836,1,Savannah Morris,savannah17@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO59876,3,Juan Gray,juan16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59887,4,Dalton Lee,dalton21@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59851,1,Sophia Gonzalez,sophia7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59858,1,Richard Collins,richard39@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62061,2,Oscar Griffin,oscar7@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62045,1,Logan Thomas,logan62@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62044,2,Meghan Dominguez,meghan12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62059,1,Dominic Mehta,dominic14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62028,1,Jesse King,jesse43@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

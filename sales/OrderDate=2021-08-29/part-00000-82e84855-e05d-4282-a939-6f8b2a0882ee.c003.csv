@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55177,4,Sean Mitchell,sean43@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO55166,1,Jay Serrano,jay46@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55162,1,Jon Sharma,jon5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55158,2,Arturo Sun,arturo14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55163,1,Katherine Sanchez,katherine3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

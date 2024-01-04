@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54595,1,Walter Torres,walter5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54632,1,Michele Malhotra,michele60@adventure-works.com,Road Tire Tube,1,3.99,0.3192

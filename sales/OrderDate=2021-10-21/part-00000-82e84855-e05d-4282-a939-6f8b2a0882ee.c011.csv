@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58345,1,Beth Diaz,beth5@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO58331,1,Wyatt Anderson,wyatt10@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO58349,2,Kristine Moreno,kristine7@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58294,2,Ramon Lu,ramon11@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58314,1,Gabriel Simmons,gabriel12@adventure-works.com,HL Mountain Tire,1,35.0,2.8

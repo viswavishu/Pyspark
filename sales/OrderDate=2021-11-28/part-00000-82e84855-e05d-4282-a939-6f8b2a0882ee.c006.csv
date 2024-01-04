@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60965,1,Carly Shen,carly1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61021,2,Mariah Brooks,mariah1@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60977,1,Richard Walker,richard17@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61006,1,Edward Adams,edward8@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO61031,1,Willie Deng,willie21@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188

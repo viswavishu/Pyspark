@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53335,1,Arturo Gao,arturo16@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO53322,1,Gerald Ramos,gerald25@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53295,1,Roger Cai,roger25@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO53329,1,Paige James,paige31@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO53297,1,Vincent Liu,vincent4@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792

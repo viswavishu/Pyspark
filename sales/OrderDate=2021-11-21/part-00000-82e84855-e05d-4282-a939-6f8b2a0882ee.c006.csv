@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60539,2,Amanda Price,amanda21@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO60551,2,Paula Vazquez,paula17@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60544,2,Amber Allen,amber23@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60549,2,Rachel Taylor,rachel11@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60543,2,Ramon Wu,ramon6@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

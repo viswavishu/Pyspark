@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60447,2,Robyn Sanz,robyn16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60424,1,Briana Sandoval,briana17@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO60447,1,Robyn Sanz,robyn16@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO60438,4,Bailey Hill,bailey32@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60419,1,Andrew Rodriguez,andrew27@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992

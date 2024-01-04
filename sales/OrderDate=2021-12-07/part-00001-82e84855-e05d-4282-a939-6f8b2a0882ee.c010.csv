@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61654,1,Ann Gonzalez,ann23@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO61646,1,Randall Blanco,randall17@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO61625,2,Melinda Vazquez,melinda10@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61603,1,Kate Anand,kate19@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO61616,2,Daniel Jackson,daniel16@adventure-works.com,"Classic Vest, L",1,63.5,5.08

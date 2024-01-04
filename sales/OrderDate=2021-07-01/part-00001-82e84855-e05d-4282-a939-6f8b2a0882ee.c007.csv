@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51905,1,Eduardo Anderson,eduardo8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO51904,3,Chelsea Sara,chelsea11@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51910,2,Lauren Price,lauren47@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51914,1,Eduardo Perez,eduardo36@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO51893,1,Kristi Munoz,kristi3@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

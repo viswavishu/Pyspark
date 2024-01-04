@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55102,2,Brandy Chandra,brandy20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55131,1,Cassandra Kapoor,cassandra1@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO55130,2,Kaitlyn Hughes,kaitlyn78@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55112,3,Nicole Cooper,nicole35@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO55098,1,Amy Zhu,amy20@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

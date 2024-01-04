@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51641,2,Dennis She,dennis25@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51639,4,Nichole Tang,nichole4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51642,2,Jacquelyn Gutierrez,jacquelyn11@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO51647,3,Edward Hernandez,edward48@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO51654,1,Luis Simmons,luis14@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256

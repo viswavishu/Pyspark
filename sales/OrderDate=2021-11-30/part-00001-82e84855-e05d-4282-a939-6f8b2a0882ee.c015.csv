@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61163,3,Karen Cai,karen30@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61106,1,Derek Jai,derek10@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO61125,1,Olivia Cook,olivia29@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61163,1,Karen Cai,karen30@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO61132,1,Isaiah Hill,isaiah37@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

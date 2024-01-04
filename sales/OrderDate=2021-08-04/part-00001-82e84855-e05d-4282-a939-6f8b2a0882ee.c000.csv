@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53822,1,Derrick Gomez,derrick1@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO53809,1,Kristen Sun,kristen12@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53793,1,Brianna Davis,brianna4@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO53819,3,Gabriella Carter,gabriella33@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53776,1,Kayla White,kayla13@adventure-works.com,LL Road Tire,1,21.49,1.7192

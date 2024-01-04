@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60487,3,Taylor Cox,taylor13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60476,3,Sarah Davis,sarah7@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO60508,1,Nathaniel Richardson,nathaniel10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60466,2,Colin Ye,colin10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60479,1,Lucas Carter,lucas2@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

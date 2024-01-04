@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56956,4,J�sus Gill,j�sus12@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56945,2,Erik Gomez,erik2@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56923,3,Blake Martin,blake14@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56952,2,Richard Washington,richard68@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

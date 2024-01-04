@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59171,2,Nichole Anand,nichole22@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO59190,2,Colleen Harrison,colleen19@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59166,2,Nathan Gonzales,nathan13@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO59185,2,Charles Johnston,charles4@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59172,4,Pamela Fernandez,pamela19@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

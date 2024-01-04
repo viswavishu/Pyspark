@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53997,3,Jan Hall,jan18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54023,1,Alyssa Cooper,alyssa35@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO53985,1,Tommy Kumar,tommy4@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54003,3,Jesse Ramirez,jesse7@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO54016,3,Darrell Goel,darrell7@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

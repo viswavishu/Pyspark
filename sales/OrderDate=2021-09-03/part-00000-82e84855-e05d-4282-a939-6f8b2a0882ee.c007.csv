@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55551,2,Kelli Cai,kelli21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55545,3,Timothy Allen,timothy41@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55506,1,Jason Gonzales,jason14@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO55508,2,Keith Kumar,keith10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55532,4,Carol Perry,carol20@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

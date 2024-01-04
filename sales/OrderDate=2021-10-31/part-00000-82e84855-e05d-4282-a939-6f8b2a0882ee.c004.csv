@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59078,3,Stefanie Raman,stefanie9@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59140,2,Roger Black,roger48@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59082,3,Brandy Lopez,brandy13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59087,3,Sheila Serrano,sheila15@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59139,1,Karla Deng,karla1@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256

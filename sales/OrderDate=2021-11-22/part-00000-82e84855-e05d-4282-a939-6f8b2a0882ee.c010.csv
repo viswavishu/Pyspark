@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60595,1,Kelly Ross,kelly8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60573,4,Darren Moreno,darren28@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60567,3,Lori Blanco,lori16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60619,1,Jacqueline Henderson,jacqueline5@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO60592,2,Jacqueline Brooks,jacqueline25@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

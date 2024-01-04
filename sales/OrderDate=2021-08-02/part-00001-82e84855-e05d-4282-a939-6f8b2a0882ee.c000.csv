@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53662,1,Kristin Shan,kristin11@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO53672,2,Molly Sai,molly6@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53674,1,Rafael Gao,rafael16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53714,2,Justin Garcia,justin44@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53672,1,Molly Sai,molly6@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59748,2,Mariah Foster,mariah21@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59745,3,Amanda Stewart,amanda0@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59752,2,Dominique Malhotra,dominique4@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59709,5,Seth Rodriguez,seth19@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO59732,1,Rebekah Mehta,rebekah13@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992

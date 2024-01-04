@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58072,2,Beth Gomez,beth3@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO58117,1,Jaclyn Liu,jaclyn4@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO58078,2,Lorrin Smith-Bates,lorrin0@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO58126,2,Kevin Zhang,kevin26@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58124,2,Savannah Young,savannah40@adventure-works.com,LL Road Tire,1,21.49,1.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60022,1,Monica Gonzalez,monica18@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388
+SO59986,4,Aaron Wright,aaron52@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO59997,1,Jennifer Simmons,jennifer88@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO59995,1,Seth Johnson,seth1@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO59998,2,Alexandra Jenkins,alexandra30@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

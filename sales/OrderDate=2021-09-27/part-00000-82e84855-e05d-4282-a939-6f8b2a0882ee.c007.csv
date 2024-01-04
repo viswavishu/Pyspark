@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56839,2,Jerome Vazquez,jerome13@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO56848,2,Sara Morris,sara20@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO56812,3,Jasmine Griffin,jasmine60@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56828,1,Leah Ma,leah12@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56835,3,Caroline Butler,caroline15@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

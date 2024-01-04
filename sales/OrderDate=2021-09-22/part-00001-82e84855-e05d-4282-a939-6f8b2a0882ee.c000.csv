@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56563,2,Marcus Murphy,marcus91@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56568,1,Miguel Henderson,miguel51@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56595,4,Tammy Gonzalez,tammy19@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56598,3,Marvin Gomez,marvin1@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO56560,3,Isabella Lewis,isabella77@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

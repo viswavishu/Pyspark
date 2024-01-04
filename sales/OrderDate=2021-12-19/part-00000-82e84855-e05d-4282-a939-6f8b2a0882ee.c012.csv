@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62376,1,Jake Ma,jake14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62393,1,April Beck,april16@adventure-works.com,"Touring-3000 Yellow, 58",1,742.35,59.388
+SO62353,2,Jonathon Hernandez,jonathon0@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62380,2,Jeremy Young,jeremy8@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62392,3,Arianna Sanchez,arianna40@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

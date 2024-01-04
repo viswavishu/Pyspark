@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51614,2,Sara Kelly,sara3@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO51615,1,Marcus Price,marcus49@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO51609,3,Janelle Madan,janelle7@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO51617,5,Andrea Torres,andrea14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51607,1,Stephanie Gonzales,stephanie44@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792

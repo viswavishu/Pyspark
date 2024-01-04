@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53963,2,Jordan Li,jordan22@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53969,4,Reginald Alvarez,reginald12@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO53952,1,Teresa Dominguez,teresa13@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO53960,2,Tyler Clark,tyler19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53942,2,Destiny Stewart,destiny23@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

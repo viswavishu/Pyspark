@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58231,2,Pedro Diaz,pedro23@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58233,1,Gabriella Ramirez,gabriella4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58208,2,Kaitlyn Thompson,kaitlyn38@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58245,4,Barbara Goel,barbara47@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58223,1,Kara Shen,kara3@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

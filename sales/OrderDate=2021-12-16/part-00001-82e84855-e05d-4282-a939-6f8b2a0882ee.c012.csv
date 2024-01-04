@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62225,1,Faith Stewart,faith38@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO62218,2,Lindsay Raje,lindsay14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62187,1,Noah Perry,noah4@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62210,5,Billy Ortega,billy22@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO62217,1,Jordan Roberts,jordan58@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792

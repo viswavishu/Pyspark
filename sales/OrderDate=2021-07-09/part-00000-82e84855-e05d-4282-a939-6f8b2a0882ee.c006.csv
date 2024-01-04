@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52308,2,Francisco Patel,francisco4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52314,2,Katelyn Kelly,katelyn1@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52297,1,Rafael Pal,rafael36@adventure-works.com,"Mountain-500 Silver, 44",1,564.99,45.1992
+SO52290,2,Peter Pal,peter18@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52308,1,Francisco Patel,francisco4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

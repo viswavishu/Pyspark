@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59097,1,Elijah Sharma,elijah4@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO59099,3,Kaitlyn Reed,kaitlyn50@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO59137,1,Melvin Deng,melvin1@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO59085,2,Jessie Ma,jessie20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59135,1,Latasha Bradley,latasha15@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392

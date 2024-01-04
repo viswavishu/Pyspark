@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51212,5,Melvin Rai,melvin16@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO51205,1,Anne Hernandez,anne4@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO51219,4,Jasmine Cox,jasmine30@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO51203,3,Latoya Nara,latoya15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51221,1,Suzanne Zhou,suzanne10@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392

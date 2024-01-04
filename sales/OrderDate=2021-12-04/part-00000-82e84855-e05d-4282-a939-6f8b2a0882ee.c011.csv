@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61481,1,Michele Raman,michele26@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO61471,3,Bridget Tang,bridget5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61429,2,Kristi Serrano,kristi12@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61449,1,Samantha Jenkins,samantha32@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61472,2,Kelli Raji,kelli44@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

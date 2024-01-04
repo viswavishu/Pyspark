@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54288,1,Adrienne Gill,adrienne10@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO54297,2,Valerie Wu,valerie8@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54305,3,Nicole Bailey,nicole33@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54299,2,Tristan Ross,tristan4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54270,3,Robert Yang,robert39@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

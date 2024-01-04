@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52534,3,Nicolas Nara,nicolas15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52536,3,Isabella Scott,isabella44@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52556,2,Megan Taylor,megan12@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52551,3,Jimmy Hernandez,jimmy6@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO52569,4,Edwin Lin,edwin8@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

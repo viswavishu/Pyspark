@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56112,5,Carl Raji,carl20@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO56088,2,Kaitlyn Young,kaitlyn23@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56083,2,Marcus Butler,marcus64@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO56080,3,Arthur Hernandez,arthur27@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56118,1,Anne Moreno,anne7@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256

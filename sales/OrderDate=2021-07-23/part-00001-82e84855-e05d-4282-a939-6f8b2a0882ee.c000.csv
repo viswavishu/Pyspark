@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52981,1,Ruben Rubio,ruben0@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52976,1,Marcus Thomas,marcus11@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52984,2,Emily Robinson,emily19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52967,1,Carrie Ortega,carrie19@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO52972,1,Ruth Vance,ruth8@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

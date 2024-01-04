@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54620,1,Dylan Butler,dylan13@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO54586,4,Vincent Zheng,vincent19@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO54593,1,Linda Serrano,linda31@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54618,1,Evan Morgan,evan14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54629,1,Jeremiah Hayes,jeremiah38@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62486,2,Dalton Perry,dalton53@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO62492,1,Natalie Scott,natalie56@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO62482,1,Colin Wu,colin7@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO62521,1,Jordan Scott,jordan42@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO62517,1,Rafael Nath,rafael42@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792

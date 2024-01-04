@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56070,3,Tiffany Lu,tiffany11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56113,1,Jimmy Vazquez,jimmy18@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO56084,1,Jasmine Powell,jasmine48@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO56078,1,Nathan Perez,nathan40@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56087,3,James Chen,james41@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

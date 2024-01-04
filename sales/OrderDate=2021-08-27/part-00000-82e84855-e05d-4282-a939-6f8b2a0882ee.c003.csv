@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55069,2,Valerie Zhao,valerie12@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO55064,3,Michele Xu,michele5@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55070,2,Charles Bell,charles62@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55049,3,Adam Young,adam48@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55077,1,Gabriella Lopez,gabriella44@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

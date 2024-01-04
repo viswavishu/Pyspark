@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61851,3,Sara Rogers,sara21@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61788,2,Holly Garcia,holly14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61827,2,Diana Suarez,diana18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61836,5,Ricardo Black,ricardo19@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61842,5,Johnathan Madan,johnathan9@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

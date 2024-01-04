@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58186,3,Katherine Garcia,katherine87@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58147,2,Haley Griffin,haley40@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58152,1,Jessica Bailey,jessica9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58139,1,Roy Romero,roy29@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO58178,4,John Martin,john52@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

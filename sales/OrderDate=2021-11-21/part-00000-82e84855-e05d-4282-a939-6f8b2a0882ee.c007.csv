@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60523,2,Priscilla Black,priscilla19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60525,1,Louis Yang,louis43@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60530,1,Nelson Ramos,nelson16@adventure-works.com,"Mountain-500 Silver, 52",1,564.99,45.1992
+SO60549,1,Rachel Taylor,rachel11@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO60530,3,Nelson Ramos,nelson16@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

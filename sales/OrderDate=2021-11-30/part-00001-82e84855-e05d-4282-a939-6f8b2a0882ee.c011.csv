@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61134,3,Beth Dominguez,beth15@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61155,5,Devin Coleman,devin44@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO61172,2,Mayra Subram,mayra13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61099,3,Kaitlin Patel,kaitlin3@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61108,1,Joy Suarez,joy18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

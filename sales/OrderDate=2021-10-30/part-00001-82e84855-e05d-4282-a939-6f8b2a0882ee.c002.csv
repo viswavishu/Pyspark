@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58877,1,Jasmine Price,jasmine41@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58879,1,James Turner,james54@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58897,1,Grace Morris,grace27@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO58886,1,David Kumar,david60@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO58900,1,Ruth Perez,ruth25@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256

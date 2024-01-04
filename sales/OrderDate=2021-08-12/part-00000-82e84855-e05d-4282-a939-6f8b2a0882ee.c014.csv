@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54243,1,Tristan Wood,tristan2@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO54244,1,Anthony Taylor,anthony18@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO54217,2,Kevin Flores,kevin15@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54214,1,Gina Martin,gina1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

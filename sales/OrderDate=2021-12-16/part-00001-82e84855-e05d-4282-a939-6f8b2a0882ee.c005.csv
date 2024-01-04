@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62207,1,Spencer Powell,spencer10@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62183,1,Carla Srini,carla11@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62174,4,Bruce Sara,bruce9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62181,2,Alexandra Perez,alexandra54@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62227,2,Ryan Taylor,ryan48@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792

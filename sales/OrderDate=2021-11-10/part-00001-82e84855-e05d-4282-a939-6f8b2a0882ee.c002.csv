@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59826,1,Benjamin Coleman,benjamin7@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO59771,2,Antonio Hayes,antonio23@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59761,1,Randy Hu,randy23@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO59775,3,James Diaz,james37@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59831,2,Cynthia Malhotra,cynthia9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

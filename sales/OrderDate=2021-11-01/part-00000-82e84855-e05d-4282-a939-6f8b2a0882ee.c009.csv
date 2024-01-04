@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59174,2,Meghan Jimenez,meghan5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59201,1,Kristin Shen,kristin4@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO59174,1,Meghan Jimenez,meghan5@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59206,1,Monica Sai,monica6@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO59146,3,Omar Ye,omar9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

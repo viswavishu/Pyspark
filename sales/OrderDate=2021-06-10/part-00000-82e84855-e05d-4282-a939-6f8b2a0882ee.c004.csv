@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51356,1,Miguel Anderson,miguel9@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO51338,1,Seth Davis,seth5@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO51350,2,Deanna Munoz,deanna33@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO51356,3,Miguel Anderson,miguel9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51345,2,David Diaz,david55@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51273,2,Clarence Huang,clarence1@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO51283,1,Isabella Walker,isabella79@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO51283,2,Isabella Walker,isabella79@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO51269,1,Ethan Coleman,ethan2@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO51271,4,Alejandro Raji,alejandro46@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

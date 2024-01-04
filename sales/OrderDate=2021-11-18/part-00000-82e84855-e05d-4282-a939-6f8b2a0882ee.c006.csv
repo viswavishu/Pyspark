@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60326,3,Larry Rubio,larry23@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60331,2,Diane Vazquez,diane19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60327,2,Michele Nara,michele17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60323,2,Terry Tang,terry7@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO60357,3,Austin Thompson,austin31@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

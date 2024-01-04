@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55043,2,Jeremy Wright,jeremy9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55044,1,James Parker,james57@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55049,1,Adam Young,adam48@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55071,2,Gina Ruiz,gina2@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55030,1,Brad Rai,brad18@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468

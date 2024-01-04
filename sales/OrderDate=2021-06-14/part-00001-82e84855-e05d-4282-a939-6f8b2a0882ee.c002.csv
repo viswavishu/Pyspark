@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51413,2,Richard Davis,richard45@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51416,1,Deb Torres,deb4@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO51418,3,Darryl Liang,darryl16@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51417,4,Megan Barnes,megan53@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO51423,1,Edward Jackson,edward34@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256

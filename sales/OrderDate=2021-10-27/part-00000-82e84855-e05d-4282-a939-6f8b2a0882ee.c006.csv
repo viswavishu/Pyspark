@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58663,1,Victoria James,victoria44@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58641,1,Andre Arun,andre6@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO58697,1,Donald Sanchez,donald22@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO58661,2,Sydney Russell,sydney42@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO58689,1,Alejandro Goel,alejandro44@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

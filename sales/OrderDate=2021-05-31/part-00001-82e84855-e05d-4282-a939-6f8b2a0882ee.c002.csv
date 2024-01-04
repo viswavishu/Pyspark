@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51185,2,Brandy Arun,brandy2@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO51178,2,Ricky Vazquez,ricky15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51183,1,Taylor Perry,taylor33@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO51182,1,Lauren Washington,lauren60@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO51187,1,Isaac Allen,isaac40@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51212,1,Melvin Rai,melvin16@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO51207,1,Frank Navarro,frank17@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO51211,2,Clayton Kumar,clayton26@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO51219,1,Jasmine Cox,jasmine30@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO51216,1,April Deng,april1@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992

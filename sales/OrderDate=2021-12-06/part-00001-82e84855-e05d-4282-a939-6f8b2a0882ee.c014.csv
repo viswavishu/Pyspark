@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61566,2,Jeffery Liang,jeffery16@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61563,1,Ashlee Nara,ashlee1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61565,3,Heather Lu,heather10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61579,1,Dennis Zhu,dennis15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61547,1,Ruth Lopez,ruth21@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792

@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51520,1,Chloe Young,chloe23@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO51512,2,Nancy Schmidt,nancy13@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51520,3,Chloe Young,chloe23@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO51526,1,Tommy Shan,tommy7@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392

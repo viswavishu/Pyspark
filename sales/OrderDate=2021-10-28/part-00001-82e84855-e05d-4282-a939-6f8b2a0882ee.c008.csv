@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58762,4,Brendan Shen,brendan2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58710,1,Mathew Alvarez,mathew1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58758,2,Brooke Richardson,brooke9@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58730,2,Riley Richardson,riley29@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58741,3,Austin Williams,austin41@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54979,2,Isaac Hernandez,isaac42@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55019,3,Luke Mitchell,luke43@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55012,2,Ana Griffin,ana19@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55028,2,Lindsay Simpson,lindsay2@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54987,1,Allison Evans,allison21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57787,1,Brandy Srini,brandy4@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO57783,1,Christy Zhu,christy12@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO57767,1,Mohamed Pal,mohamed1@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

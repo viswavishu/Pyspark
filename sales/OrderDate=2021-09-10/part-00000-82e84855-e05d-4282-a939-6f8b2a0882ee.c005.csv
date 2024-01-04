@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55958,4,Cedric Sun,cedric12@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO55929,2,Ivan Gonzalez,ivan15@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55933,2,Rosa He,rosa18@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55959,1,Darren Serrano,darren39@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO55966,3,Morgan Long,morgan79@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

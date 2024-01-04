@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55225,1,Ariana Stewart,ariana21@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO55179,2,Michele Gonzalez,michele32@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55199,1,Charles Morgan,charles61@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55231,1,Logan Martin,logan66@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO55208,3,Cheryl Alan,cheryl10@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

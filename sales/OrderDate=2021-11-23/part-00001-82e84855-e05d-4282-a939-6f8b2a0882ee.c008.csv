@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60673,1,Sean Allen,sean49@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60687,2,Terrence Rai,terrence18@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO60671,1,Amanda Cook,amanda3@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60675,4,Bradley Jai,bradley13@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60674,3,Seth Thomas,seth11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

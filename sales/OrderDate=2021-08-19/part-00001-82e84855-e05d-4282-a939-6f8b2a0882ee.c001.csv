@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54605,2,Jacqueline Bennett,jacqueline1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54653,1,Kevin Sharma,kevin33@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO54602,4,Lawrence Alonso,lawrence6@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO54607,1,John White,john50@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO54621,1,Meghan Rowe,meghan20@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63038,2,Jan Hernandez,jan15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO63033,1,Wendy Suarez,wendy18@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO63017,3,Dana Dominguez,dana5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO63033,3,Wendy Suarez,wendy18@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO63052,1,Devin Griffin,devin58@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256

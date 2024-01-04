@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58335,2,Bob Fernandez,bob8@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58296,1,Diana Gutierrez,diana10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58309,1,Sean Nelson,sean41@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO58339,3,Brett Perez,brett21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58288,2,Brittany Price,brittany0@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

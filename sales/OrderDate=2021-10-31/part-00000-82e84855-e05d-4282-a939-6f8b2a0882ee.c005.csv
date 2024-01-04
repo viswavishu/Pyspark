@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59113,2,Connor Coleman,connor2@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59129,1,Tristan Bryant,tristan18@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO59117,1,Sydney Hernandez,sydney59@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO59140,1,Roger Black,roger48@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO59122,4,Raymond Arthur,raymond8@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

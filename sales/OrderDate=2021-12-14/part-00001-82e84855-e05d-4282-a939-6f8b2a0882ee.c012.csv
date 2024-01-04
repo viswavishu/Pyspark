@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62048,2,Maria Cook,maria5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62075,2,Kelli Chen,kelli2@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO62087,4,Troy Sara,troy11@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO62042,2,Allison Murphy,allison14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62063,2,Nicole White,nicole13@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

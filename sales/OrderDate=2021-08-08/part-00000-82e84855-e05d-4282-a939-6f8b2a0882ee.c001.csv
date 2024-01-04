@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53978,3,Deborah Goel,deborah21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54025,2,Kevin Campbell,kevin44@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54006,2,Seth Long,seth57@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53997,4,Jan Hall,jan18@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO54006,1,Seth Long,seth57@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

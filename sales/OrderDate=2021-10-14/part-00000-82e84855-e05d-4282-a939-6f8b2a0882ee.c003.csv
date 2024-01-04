@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57943,3,Jill Jimenez,jill13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57940,3,Tara Xu,tara5@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO57953,2,Anne Hernandez,anne4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57935,3,Chloe Patterson,chloe77@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57937,3,Roberto Gill,roberto14@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

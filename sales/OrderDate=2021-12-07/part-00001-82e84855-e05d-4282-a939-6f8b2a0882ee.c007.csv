@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61643,2,Shannon Alonso,shannon29@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO61651,3,David Ross,david36@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61642,3,Jeremy Roberts,jeremy15@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO61636,1,Jill Miller,jill4@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO61612,2,Evan Morgan,evan14@adventure-works.com,HL Road Tire,1,32.6,2.608

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56423,2,Marcus Harris,marcus14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56398,3,Eduardo Powell,eduardo53@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO56387,3,Erick Suri,erick0@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56412,2,Marvin Gill,marvin14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56388,3,Manuel Garcia,manuel13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52673,2,Levi Weber,levi3@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO52704,1,Katrina Rai,katrina16@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO52680,1,Adriana Sai,adriana6@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO52695,1,Steven Peterson,steven15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52682,1,Eduardo Patterson,eduardo55@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

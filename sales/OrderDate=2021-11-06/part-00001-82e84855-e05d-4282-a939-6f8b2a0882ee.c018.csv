@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59532,1,Tamara Guo,tamara7@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59561,3,Candace Fernandez,candace15@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59544,2,Rachel Williams,rachel4@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO59548,2,Tony Chander,tony18@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59539,2,Rachel Hall,rachel27@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

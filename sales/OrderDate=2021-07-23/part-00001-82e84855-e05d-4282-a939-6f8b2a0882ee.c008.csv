@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52988,2,Michael Lewis,michael53@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53003,1,Shannon Serrano,shannon37@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO52996,2,Jessie Guo,jessie22@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52977,3,Kaitlyn Jackson,kaitlyn34@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52976,2,Marcus Thomas,marcus11@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53441,1,Dale Raje,dale11@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO53403,3,Naomi Torres,naomi12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53413,1,Erick Gonzalez,erick18@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO53416,3,Julia Bennett,julia67@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53444,1,Justin Zhang,justin21@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388

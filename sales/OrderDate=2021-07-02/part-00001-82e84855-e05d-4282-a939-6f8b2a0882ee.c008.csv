@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51923,2,Jordan Turner,jordan59@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51945,1,Isabelle Coleman,isabelle6@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO51951,3,Tamara Goldberg,tamara29@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO51936,4,Henry Garcia,henry16@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO51949,1,Pedro Raman,pedro12@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

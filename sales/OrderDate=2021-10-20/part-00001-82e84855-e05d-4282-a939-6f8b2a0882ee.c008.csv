@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58275,1,Natalie Allen,natalie66@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792

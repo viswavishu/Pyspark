@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58093,1,Christina Bell,christina12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58100,1,Regina Raman,regina11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58116,3,Mindy Kumar,mindy12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58128,2,Rachael Chandra,rachael2@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58121,2,Wyatt Scott,wyatt33@adventure-works.com,LL Road Tire,1,21.49,1.7192

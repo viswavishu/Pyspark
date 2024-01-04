@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56881,1,Lisa Chen,lisa5@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO56884,1,Frederick Patel,frederick2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56878,1,Kaitlyn King,kaitlyn17@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56858,3,Bethany Jai,bethany14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56893,2,Eric Rothenberg,eric9@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

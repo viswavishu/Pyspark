@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54352,4,Todd Liang,todd16@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO54340,1,Denise Rana,denise12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54347,2,Kari Mu�oz,kari27@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO54338,1,Logan Nelson,logan35@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO54355,2,Jacqueline Price,jacqueline0@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

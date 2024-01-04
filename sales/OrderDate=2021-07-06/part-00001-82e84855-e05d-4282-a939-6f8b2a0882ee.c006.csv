@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52110,2,Samantha Martinez,samantha19@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52131,1,Andrea Bell,andrea15@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO52151,1,Regina Suri,regina0@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO52122,2,Xavier Richardson,xavier76@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52147,1,Spencer Russell,spencer22@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

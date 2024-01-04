@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59977,2,Kelli Chander,kelli39@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59953,1,Jonathan Jackson,jonathan65@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO59956,2,Gabrielle Washington,gabrielle35@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59916,2,Devin Diaz,devin59@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO59939,2,Oscar Foster,oscar2@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

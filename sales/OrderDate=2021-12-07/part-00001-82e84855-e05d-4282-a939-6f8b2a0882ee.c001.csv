@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61607,1,Hailey Collins,hailey45@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO61610,3,Harold Sanchez,harold17@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO61601,1,Noah Long,noah6@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO61625,3,Melinda Vazquez,melinda10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61608,4,Mya Barnes,mya5@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

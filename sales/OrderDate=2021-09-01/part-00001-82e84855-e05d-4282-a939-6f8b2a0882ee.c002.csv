@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55415,3,Brett Fernandez,brett15@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55445,1,Tara Ashe,tara23@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO55427,2,Jon Cai,jon41@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55399,2,Barbara Wang,barbara11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55432,1,Isaac Rivera,isaac16@adventure-works.com,HL Mountain Tire,1,35.0,2.8

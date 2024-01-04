@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62718,3,Nicole Richardson,nicole36@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO62740,3,Melanie Bradley,melanie16@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62718,2,Nicole Richardson,nicole36@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62737,4,Arthur Carlson,arthur41@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62742,1,Hunter Coleman,hunter2@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256

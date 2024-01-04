@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53720,3,Johnny Nara,johnny18@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO53770,1,Samantha Mohamed,samantha9@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO53760,5,Gabriella Torres,gabriella11@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53760,2,Gabriella Torres,gabriella11@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53746,1,Devin Garcia,devin15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

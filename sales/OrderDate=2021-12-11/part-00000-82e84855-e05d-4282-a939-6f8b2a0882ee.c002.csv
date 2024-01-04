@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61901,2,Kelly Powell,kelly13@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO61875,3,Jada Peterson,jada2@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61867,3,Arianna Coleman,arianna6@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61904,4,Madison Alexander,madison31@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO61879,2,Alexandra Mitchell,alexandra53@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

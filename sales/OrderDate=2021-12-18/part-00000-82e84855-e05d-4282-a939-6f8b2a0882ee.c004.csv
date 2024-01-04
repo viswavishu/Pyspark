@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62311,2,Kyle Li,kyle22@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO62335,2,Richard Taylor,richard49@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62325,3,Ashlee Goel,ashlee3@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO62307,2,Lauren Blue,lauren5@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO62320,2,Robyn Alonso,robyn6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

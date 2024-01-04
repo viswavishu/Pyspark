@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56100,1,Cody Torres,cody5@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56113,3,Jimmy Vazquez,jimmy18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56082,2,Miguel Williams,miguel1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56095,3,Kelsey Pal,kelsey12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56116,2,Carly Xu,carly4@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

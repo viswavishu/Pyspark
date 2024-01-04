@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62331,2,Shelby Peterson,shelby5@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62294,3,Darryl Hu,darryl20@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62302,2,Jocelyn Flores,jocelyn13@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO62334,3,Deb Price,deb7@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO62341,1,Nina Raji,nina21@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256

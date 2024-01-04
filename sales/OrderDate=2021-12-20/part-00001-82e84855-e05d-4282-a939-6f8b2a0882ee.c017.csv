@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62451,1,Franklin Raji,franklin38@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO62426,4,Denise Perez,denise22@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62438,2,Adrian Bell,adrian15@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62402,3,Shannon Vazquez,shannon36@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO62403,1,Dominic Prasad,dominic9@adventure-works.com,LL Road Tire,1,21.49,1.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55957,2,Melissa Richardson,melissa31@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55960,2,Meredith Martinez,meredith17@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55923,3,Gerald Rodriguez,gerald5@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO55964,2,Victoria Clark,victoria18@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO55937,1,Aidan Patterson,aidan11@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

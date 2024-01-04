@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56455,1,Jackson Gonzales,jackson19@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO56482,1,Mariah Cooper,mariah33@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO56464,1,Margaret Patterson,margaret4@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56441,1,Arthur Ruiz,arthur25@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO56440,1,Felicia Ortega,felicia20@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

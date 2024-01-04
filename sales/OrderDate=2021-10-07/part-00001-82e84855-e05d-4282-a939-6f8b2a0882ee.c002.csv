@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57568,2,Kara Chavez,kara13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57581,2,Bianca Cai,bianca18@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57551,3,Angelica Patterson,angelica10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57588,1,Xavier Jones,xavier3@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO57533,1,Martha Liang,martha16@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392

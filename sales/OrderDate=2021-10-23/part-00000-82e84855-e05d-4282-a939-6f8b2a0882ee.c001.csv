@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58422,3,Wendy Hernandez,wendy4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58463,3,Cameron Jackson,cameron30@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58441,2,Valerie Sun,valerie15@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO58443,1,Jose Kumar,jose22@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58419,2,Yolanda Kumar,yolanda7@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

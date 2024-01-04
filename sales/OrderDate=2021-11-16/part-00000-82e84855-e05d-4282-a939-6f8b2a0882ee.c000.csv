@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60194,3,Wendy Ortega,wendy20@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60215,2,Jodi Xu,jodi5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60235,1,Nicolas Nara,nicolas15@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388
+SO60219,3,Bethany Raje,bethany17@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60248,1,Kristina Raman,kristina12@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992

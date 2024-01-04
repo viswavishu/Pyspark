@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53362,1,Madeline Collins,madeline2@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO53361,1,Jonathan Edwards,jonathan31@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53364,2,Richard Johnston,richard62@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53347,1,Jodi Sharma,jodi9@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO53360,1,William Walker,william29@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

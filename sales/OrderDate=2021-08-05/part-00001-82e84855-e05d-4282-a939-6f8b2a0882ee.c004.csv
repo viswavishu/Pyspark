@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53860,1,Johnny Lal,johnny9@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388
+SO53850,3,Jerome Ruiz,jerome2@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO53863,2,Evelyn Mehta,evelyn15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53844,2,Jesse Peterson,jesse5@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53835,2,Fernando Barnes,fernando47@adventure-works.com,HL Road Tire,1,32.6,2.608

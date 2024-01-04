@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53876,1,Suzanne Zhou,suzanne10@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO53918,2,Brendan Deng,brendan1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53910,2,Ian Harris,ian13@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO53895,4,Janet Turner,janet32@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO53910,1,Ian Harris,ian13@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792

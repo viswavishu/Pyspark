@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61503,1,Melissa Flores,melissa7@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61506,1,Nicole Gray,nicole41@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO61538,3,Leslie Gill,leslie14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61532,2,Savannah James,savannah6@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61498,3,Gavin Russell,gavin18@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

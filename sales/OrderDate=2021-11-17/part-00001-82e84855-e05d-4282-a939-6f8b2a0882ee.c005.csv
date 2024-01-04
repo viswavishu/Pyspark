@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60269,2,Tristan Russell,tristan20@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO60290,2,Robyn Ruiz,robyn1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60283,2,Dylan Lal,dylan28@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60294,3,Roberto Ortega,roberto20@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60314,1,Charles James,charles46@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256

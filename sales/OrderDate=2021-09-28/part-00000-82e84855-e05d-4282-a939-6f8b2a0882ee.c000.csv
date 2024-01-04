@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56852,2,Gloria Ramos,gloria18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56879,1,Raquel Gill,raquel10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56854,1,Devon Shen,devon1@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO56883,1,Donna Tang,donna4@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56890,1,Alyssa Patterson,alyssa56@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

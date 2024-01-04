@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57842,3,Julia Morris,julia48@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57795,1,Trisha Guo,trisha12@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57831,2,Stephanie Gray,stephanie21@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO57788,1,Kelsey Lal,kelsey8@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO57801,3,Michele Ramos,michele51@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

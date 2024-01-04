@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62855,4,Thomas White,thomas74@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO62868,4,Nathan Collins,nathan32@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO62867,1,Dalton Evans,dalton43@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO62847,2,Taylor Torres,taylor16@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62826,1,Clinton Alvarez,clinton1@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

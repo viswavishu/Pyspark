@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60306,1,Daniel Martin,daniel17@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO60310,1,Robert King,robert61@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO60287,1,Wyatt Robinson,wyatt19@adventure-works.com,"Mountain-500 Black, 44",1,539.99,43.1992
+SO60307,1,Jasmine Garcia,jasmine14@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO60287,2,Wyatt Robinson,wyatt19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

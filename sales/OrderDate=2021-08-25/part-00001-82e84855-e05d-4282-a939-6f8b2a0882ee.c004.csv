@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54959,1,Xavier White,xavier10@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54965,3,Zachary Bryant,zachary16@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO54971,1,Nina She,nina0@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO54940,5,Kelly Price,kelly4@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO54975,2,Abby Subram,abby10@adventure-works.com,LL Road Tire,1,21.49,1.7192

@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57391,2,Samuel Chen,samuel24@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57411,3,Carson Hayes,carson22@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57412,1,Savannah Edwards,savannah22@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO57403,1,Wayne Luo,wayne7@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

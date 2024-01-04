@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55117,1,Phillip Prasad,phillip10@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO55134,1,Angela Henderson,angela7@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO55099,4,Armando Ortega,armando22@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55120,2,Jason Green,jason43@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55135,3,Paige Cox,paige34@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62209,1,Marcus Green,marcus33@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62193,1,Hunter Campbell,hunter36@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO62160,3,Ross Perez,ross20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62186,3,Alexandria Hayes,alexandria23@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO62162,1,Dustin Xie,dustin3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

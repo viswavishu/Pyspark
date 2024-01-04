@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51967,1,Nina Kumar,nina8@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO52015,2,Jonathan Hughes,jonathan11@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52004,2,Kaitlyn James,kaitlyn63@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52004,1,Kaitlyn James,kaitlyn63@adventure-works.com,"Mountain-500 Black, 42",1,539.99,43.1992
+SO51977,1,Julie Sharma,julie14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

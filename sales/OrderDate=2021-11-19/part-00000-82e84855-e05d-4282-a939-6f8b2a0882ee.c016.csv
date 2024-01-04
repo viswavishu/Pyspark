@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60382,3,Kellie Gill,kellie12@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60415,2,Wyatt Wright,wyatt30@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO60389,3,Melissa Bailey,melissa38@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

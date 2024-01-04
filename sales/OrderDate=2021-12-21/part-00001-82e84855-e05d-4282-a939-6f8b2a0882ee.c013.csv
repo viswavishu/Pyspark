@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62475,1,Warren Ma,warren30@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62474,2,Kathryn Becker,kathryn18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

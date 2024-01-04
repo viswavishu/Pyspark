@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47788,1,Terrance Jordan,terrance1@adventure-works.com,"Road-250 Black, 58",1,2181.5625,174.525
+SO47789,1,Amanda Howard,amanda11@adventure-works.com,"Road-250 Black, 48",1,2181.5625,174.525

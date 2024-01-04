@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59484,3,Jacqueline Morris,jacqueline43@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59482,4,Kelvin Lal,kelvin5@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59464,2,Marc Diaz,marc6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59479,4,Roger Nara,roger44@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59482,3,Kelvin Lal,kelvin5@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

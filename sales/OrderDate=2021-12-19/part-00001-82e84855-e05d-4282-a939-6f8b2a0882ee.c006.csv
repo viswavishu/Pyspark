@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62391,3,Jesse Brooks,jesse1@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62391,4,Jesse Brooks,jesse1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62373,2,Armando Gill,armando14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62350,2,Latasha Jimenez,latasha5@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62362,1,Alyssa Clark,alyssa19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

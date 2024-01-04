@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51524,4,Stephanie Jenkins,stephanie34@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51522,1,Jon Yang,jon24@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO51512,5,Nancy Schmidt,nancy13@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO51514,2,Hector Torres,hector10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51523,3,Evelyn Fernandez,evelyn16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

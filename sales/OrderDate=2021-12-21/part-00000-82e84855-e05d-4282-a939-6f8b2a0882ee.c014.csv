@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62519,2,Alberto Gill,alberto14@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

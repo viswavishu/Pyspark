@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62211,3,Jeremiah Howard,jeremiah43@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO62231,1,Barbara Zeng,barbara31@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62224,1,Isaiah Peterson,isaiah4@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO62189,1,Gilbert Raji,gilbert41@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62208,4,Emily Flores,emily37@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57251,2,Bonnie Nath,bonnie24@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57297,3,Candice Zhang,candice8@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO57274,1,Richard King,richard21@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO57282,1,Bailey Scott,bailey33@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57250,1,Kristine Ramos,kristine18@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46684,1,Leah Cai,leah17@adventure-works.com,"Road-550-W Yellow, 38",1,1000.4375,80.035
+SO46686,1,Sheila Romero,sheila9@adventure-works.com,"Road-650 Red, 62",1,782.99,62.6392

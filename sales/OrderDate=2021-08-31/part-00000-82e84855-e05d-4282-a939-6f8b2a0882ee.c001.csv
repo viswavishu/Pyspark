@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55382,4,Eduardo White,eduardo11@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO55339,5,Wendy Blanco,wendy14@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO55345,3,Whitney Garcia,whitney14@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55361,2,Sandra Liang,sandra24@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55378,1,Russell Carson,russell17@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392

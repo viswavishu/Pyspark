@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53068,1,Jay Suarez,jay49@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO53120,3,Alyssa Morgan,alyssa30@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53117,1,Victoria Miller,victoria7@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53131,2,Terrence Jai,terrence11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53092,5,Ashley Henderson,ashley31@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

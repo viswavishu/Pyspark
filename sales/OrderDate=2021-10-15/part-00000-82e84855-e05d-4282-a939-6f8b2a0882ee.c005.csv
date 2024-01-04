@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57989,2,Alan Gao,alan18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57972,1,Aaron Hall,aaron54@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57967,1,Elizabeth Wilson,elizabeth11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57963,1,Terrance Garcia,terrance12@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO58012,1,Nathan Chen,nathan22@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256

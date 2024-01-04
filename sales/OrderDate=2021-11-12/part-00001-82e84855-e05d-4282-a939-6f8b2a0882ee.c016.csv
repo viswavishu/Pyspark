@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59926,1,Dalton Wright,dalton26@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59927,1,Samuel Green,samuel45@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59942,2,Rafael Goel,rafael43@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59945,2,Kelvin Li,kelvin23@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59954,3,Dalton Collins,dalton45@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

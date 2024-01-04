@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59212,3,Marie Sanz,marie44@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59236,1,Casey Gomez,casey24@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59225,1,Cindy Edwards,cindy20@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO59242,1,Kelvin Huang,kelvin25@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO59218,1,Calvin Shan,calvin10@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468

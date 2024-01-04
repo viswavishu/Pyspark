@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO50086,1,Keith Chander,keith19@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468
+SO50081,1,Geoffrey Ashe,geoffrey6@adventure-works.com,"Road-650 Black, 48",1,782.99,62.6392
+SO50083,1,Bridget Nath,bridget20@adventure-works.com,"Road-650 Black, 58",1,782.99,62.6392

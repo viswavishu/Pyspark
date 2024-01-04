@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59248,1,Meredith Serrano,meredith40@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO59238,2,Natasha Sanz,natasha20@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59233,1,Catherine Ward,catherine11@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59244,1,Gabriella Cox,gabriella8@adventure-works.com,"Mountain-500 Black, 42",1,539.99,43.1992
+SO59262,2,Eugene Yang,eugene9@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

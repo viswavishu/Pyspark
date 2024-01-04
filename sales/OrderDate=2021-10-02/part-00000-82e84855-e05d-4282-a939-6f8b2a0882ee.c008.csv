@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57300,4,Donna Deng,donna2@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57256,2,Elizabeth Miller,elizabeth10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57242,3,Brad She,brad1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57287,1,Devin Stewart,devin86@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO57297,1,Candice Zhang,candice8@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392

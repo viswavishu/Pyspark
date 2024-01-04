@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54441,1,Chloe Wilson,chloe40@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54474,3,Edward Hill,edward5@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54433,1,Clinton Carlson,clinton14@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54466,1,Nichole Nath,nichole18@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO54454,2,Kevin Patterson,kevin13@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56425,1,Sheena Deng,sheena1@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO56425,3,Sheena Deng,sheena1@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO56396,2,Mariah Hughes,mariah16@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56422,2,Isaiah Wright,isaiah45@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56429,2,Amanda Powell,amanda30@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

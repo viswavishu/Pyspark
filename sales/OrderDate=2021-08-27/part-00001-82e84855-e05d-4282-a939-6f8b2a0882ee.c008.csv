@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55063,1,Erika Alvarez,erika4@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55080,2,Arturo Huang,arturo6@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO55053,3,Noah Collins,noah29@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO55072,1,Grace Walker,grace22@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55090,1,Allison Edwards,allison22@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392

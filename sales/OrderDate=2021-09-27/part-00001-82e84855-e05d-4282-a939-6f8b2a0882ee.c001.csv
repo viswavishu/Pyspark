@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56828,3,Leah Ma,leah12@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56838,1,Raul Nara,raul14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56843,1,Candice Sun,candice19@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO56825,1,Lance Munoz,lance7@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56812,2,Jasmine Griffin,jasmine60@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

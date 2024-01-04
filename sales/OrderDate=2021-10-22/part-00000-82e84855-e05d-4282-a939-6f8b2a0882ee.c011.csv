@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58407,1,Christy Chow,christy2@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO58403,2,Rodney Navarro,rodney6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58362,1,Colleen Andersen,colleen36@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO58352,2,Mayra Martinez,mayra17@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58374,2,Alexis Washington,alexis36@adventure-works.com,"Racing Socks, L",1,8.99,0.7192

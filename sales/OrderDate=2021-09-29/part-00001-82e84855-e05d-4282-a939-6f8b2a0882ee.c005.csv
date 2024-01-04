@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56917,3,Savannah Brooks,savannah0@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56948,3,Lance Ortega,lance22@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56922,1,Devin King,devin25@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56945,3,Erik Gomez,erik2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56926,3,Paige Blue,paige3@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

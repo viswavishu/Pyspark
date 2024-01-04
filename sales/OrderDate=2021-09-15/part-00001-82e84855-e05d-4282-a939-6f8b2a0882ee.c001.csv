@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56215,1,Nuan Wu,nuan1@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO56213,4,Isabel Price,isabel0@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO56200,1,Samuel Lal,samuel26@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56198,2,Cody Kelly,cody2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56211,2,Alexander Wilson,alexander12@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

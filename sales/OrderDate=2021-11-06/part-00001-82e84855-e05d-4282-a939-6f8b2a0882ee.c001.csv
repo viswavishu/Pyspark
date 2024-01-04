@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59509,3,Frederick Perez,frederick18@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO59504,2,Ricky Moreno,ricky6@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59541,1,Kellie Ruiz,kellie2@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO59550,2,Bruce Rubio,bruce42@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO59515,1,Tyler Garcia,tyler12@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

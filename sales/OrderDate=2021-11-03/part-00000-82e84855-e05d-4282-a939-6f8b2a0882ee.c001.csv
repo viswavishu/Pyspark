@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59282,2,Grant Xie,grant5@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59305,2,Wyatt Martin,wyatt15@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO59318,2,Sara Richardson,sara10@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59303,1,Dylan Griffin,dylan20@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO59319,1,Destiny Long,destiny58@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468

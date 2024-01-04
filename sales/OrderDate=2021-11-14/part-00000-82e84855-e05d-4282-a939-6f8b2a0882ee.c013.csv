@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60120,3,Troy Lopez,troy18@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO60062,3,Armando Torres,armando12@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60087,2,Fernando Lopez,fernando27@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60093,1,Isabelle Butler,isabelle13@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO60079,2,Kendra Blanco,kendra15@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

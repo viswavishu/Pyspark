@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61109,2,Claudia Chen,claudia1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61118,2,Jennifer Simmons,jennifer88@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO61098,2,Louis Chande,louis31@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61170,2,Harold Lopez,harold14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61170,4,Harold Lopez,harold14@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192

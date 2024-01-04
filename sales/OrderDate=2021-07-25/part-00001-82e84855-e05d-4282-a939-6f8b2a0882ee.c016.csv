@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53089,1,Jason Griffin,jason18@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53078,1,Drew Pal,drew13@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53115,3,Jennifer Stewart,jennifer52@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53073,2,Lawrence Vazquez,lawrence13@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53071,1,Mandy Sun,mandy15@adventure-works.com,Road Tire Tube,1,3.99,0.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53334,1,Kristy Carlson,kristy16@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO53317,2,Michele Pal,michele12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53307,3,Kate Goel,kate16@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53296,1,Wyatt Henderson,wyatt56@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO53314,1,Morgan Flores,morgan82@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

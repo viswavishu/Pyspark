@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62252,4,Brandon Hayes,brandon19@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62262,1,Candace Patel,candace2@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO62267,2,Samantha Jenkins,samantha32@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62256,1,Luis Diaz,luis21@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO62244,5,Carmen Rana,carmen14@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

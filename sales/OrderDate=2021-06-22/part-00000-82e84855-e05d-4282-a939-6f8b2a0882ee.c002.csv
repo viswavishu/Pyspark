@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51536,2,Jaclyn Chande,jaclyn38@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51530,1,Karl Raje,karl15@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO51542,1,Lindsay Raji,lindsay21@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO51539,1,Sara Perez,sara38@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO51536,1,Jaclyn Chande,jaclyn38@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792

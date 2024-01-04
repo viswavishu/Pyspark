@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62885,1,Jose Allen,jose82@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO62941,4,Lucas Mitchell,lucas3@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO62904,3,Terry Sharma,terry13@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62935,4,Andres Raji,andres17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62896,3,Fernando Barnes,fernando47@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

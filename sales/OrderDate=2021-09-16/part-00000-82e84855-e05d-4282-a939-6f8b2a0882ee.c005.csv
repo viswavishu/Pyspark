@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56265,5,Randall Martin,randall1@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO56261,1,Carolyn Garcia,carolyn14@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO56240,1,Brianna Martinez,brianna16@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56230,1,Alejandro Chander,alejandro40@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56255,1,Amanda Adams,amanda58@adventure-works.com,HL Mountain Tire,1,35.0,2.8

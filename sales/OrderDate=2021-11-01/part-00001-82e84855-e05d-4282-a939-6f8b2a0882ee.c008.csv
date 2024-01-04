@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59170,2,Shawn Deng,shawn3@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO59187,2,Janice Bennett,janice4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59161,5,Isabella Long,isabella20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59149,2,Jill Ashe,jill12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59179,2,Tamer Salah,tamer0@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

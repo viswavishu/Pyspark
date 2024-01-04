@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61763,1,Mackenzie Baker,mackenzie37@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO61773,1,J�sus Blanco,j�sus14@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO61777,1,Thomas Lee,thomas80@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO61780,2,Maria Brooks,maria20@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61755,1,Carl Anand,carl21@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55335,1,Bianca Liu,bianca3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55379,2,Erick Sai,erick5@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55351,2,Justin Jenkins,justin3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55377,2,Caleb Henderson,caleb1@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55352,1,Jennifer Garcia,jennifer44@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

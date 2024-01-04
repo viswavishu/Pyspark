@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56747,4,Mitchell Xie,mitchell3@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO56711,4,Thomas Parker,thomas36@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56723,2,Stacey Wu,stacey7@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO56742,1,Jordyn Butler,jordyn14@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO56694,2,Felicia Blanco,felicia15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56055,3,Matthew Brown,matthew10@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO56064,1,Clayton Jai,clayton29@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO56030,1,Abigail Bennett,abigail26@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56043,1,Robert Scott,robert56@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56065,1,Connor Young,connor46@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992

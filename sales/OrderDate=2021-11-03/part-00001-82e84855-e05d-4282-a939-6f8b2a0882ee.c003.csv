@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59295,1,Jordan Chen,jordan21@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59300,2,Louis Pal,louis28@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO59307,1,Jessica Thompson,jessica63@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59292,3,Samantha Jenkins,samantha32@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59317,2,Christy Zeng,christy20@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

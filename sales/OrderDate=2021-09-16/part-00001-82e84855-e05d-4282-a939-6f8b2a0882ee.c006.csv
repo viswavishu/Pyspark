@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56259,1,Monica Martinez,monica17@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO56272,1,Jennifer Morgan,jennifer58@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO56230,3,Alejandro Chander,alejandro40@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO56255,3,Amanda Adams,amanda58@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56256,1,Maurice Xie,maurice3@adventure-works.com,"Mountain-500 Black, 52",1,539.99,43.1992

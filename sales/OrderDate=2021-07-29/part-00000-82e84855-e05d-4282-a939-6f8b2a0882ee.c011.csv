@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53307,1,Kate Goel,kate16@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53330,1,Adriana Smith,adriana9@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO53334,4,Kristy Carlson,kristy16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53304,4,Dylan Diaz,dylan21@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO53318,2,Jay Rodriguez,jay26@adventure-works.com,LL Road Tire,1,21.49,1.7192

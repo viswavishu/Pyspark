@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62815,1,Dustin Chander,dustin16@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO62780,1,Katherine Rivera,katherine11@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62789,2,Diana Sanz,diana19@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO62817,2,Yolanda Nara,yolanda15@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62802,2,Erin Ramirez,erin11@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52706,1,Kristine Diaz,kristine4@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52719,3,Carla Lopez,carla19@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO52704,2,Katrina Rai,katrina16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52692,2,Faith Jenkins,faith6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52724,1,Caleb Li,caleb22@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392

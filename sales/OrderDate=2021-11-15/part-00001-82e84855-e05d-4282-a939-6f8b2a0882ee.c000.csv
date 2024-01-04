@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60173,2,Isaiah Howard,isaiah10@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60133,2,Daniel Davis,daniel23@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60139,1,Alexandria Price,alexandria0@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO60138,2,Mackenzie Peterson,mackenzie3@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO60124,2,Wesley Zheng,wesley19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

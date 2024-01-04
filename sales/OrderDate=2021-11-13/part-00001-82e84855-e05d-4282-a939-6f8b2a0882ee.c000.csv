@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60018,1,Jessica Martinez,jessica65@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO60033,4,Audrey Sanz,audrey22@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59992,1,Jacqueline Kelly,jacqueline26@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO60017,1,Tyler Brown,tyler9@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO60019,4,Darren Blanco,darren38@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

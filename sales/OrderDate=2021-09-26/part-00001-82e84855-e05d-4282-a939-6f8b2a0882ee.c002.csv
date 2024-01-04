@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56779,2,Craig Gill,craig13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56757,1,Grant Yuan,grant8@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO56790,2,Timothy Collins,timothy27@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56786,2,Allen Fernandez,allen14@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56773,1,Hailey Collins,hailey45@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

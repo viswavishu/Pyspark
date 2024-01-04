@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59940,4,David White,david71@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59953,3,Jonathan Jackson,jonathan65@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO59981,3,Kristi Rodriguez,kristi37@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO59937,1,Jose Gonzales,jose11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59911,2,Phillip Malhotra,phillip5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58453,1,Fernando Alexander,fernando60@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO58423,1,Theodore Moreno,theodore7@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO58429,1,Gina Martin,gina1@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

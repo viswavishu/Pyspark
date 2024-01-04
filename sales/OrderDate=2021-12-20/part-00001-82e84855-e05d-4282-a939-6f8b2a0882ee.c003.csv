@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62415,1,Sydney Brooks,sydney20@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO62425,3,Patricia Srini,patricia12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62433,2,Alex Ward,alex16@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO62464,1,Jasmine Bryant,jasmine57@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO62426,2,Denise Perez,denise22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

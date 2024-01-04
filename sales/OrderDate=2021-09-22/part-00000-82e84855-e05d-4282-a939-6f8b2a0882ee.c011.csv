@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56580,1,Pamela Garcia,pamela18@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56555,1,Sarah Hughes,sarah36@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56587,3,Thomas Harrison,thomas25@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO56593,2,Ruben Ramos,ruben40@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56594,2,Erica Hu,erica19@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

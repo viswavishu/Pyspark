@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59607,2,Jamie Ashe,jamie32@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO59585,1,Jake Guo,jake15@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59590,3,Calvin Luo,calvin6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59631,3,Wendy Carlson,wendy17@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO59623,2,Hailey Mitchell,hailey52@adventure-works.com,HL Mountain Tire,1,35.0,2.8

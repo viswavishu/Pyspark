@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52664,1,Kyle Bryant,kyle13@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO52628,2,Eric Adams,eric57@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52620,2,Krystal Guo,krystal18@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52631,1,Jonathan Ross,jonathan3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52651,1,Amber Perez,amber12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

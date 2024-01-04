@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56381,1,Colin Lal,colin32@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56401,3,Luke Evans,luke32@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO56395,2,Isabel Coleman,isabel6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56402,2,Amber King,amber19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56411,1,Trisha Zhao,trisha5@adventure-works.com,Road Tire Tube,1,3.99,0.3192

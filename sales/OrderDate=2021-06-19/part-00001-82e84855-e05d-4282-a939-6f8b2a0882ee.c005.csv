@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51490,2,Jonathan Hill,jonathan43@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51485,3,Kelli Hu,kelli20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51499,1,Adrienne Hernandez,adrienne3@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO51500,4,Diana Carlson,diana17@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO51488,3,Kate Tang,kate3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

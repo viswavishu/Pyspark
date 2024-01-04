@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57507,1,Drew Shen,drew2@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO57501,2,Nicholas Rodriguez,nicholas0@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO57528,1,Rebekah Sandberg,rebekah40@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO57519,2,Ricardo Kumar,ricardo7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57527,3,Andrea Ramirez,andrea7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

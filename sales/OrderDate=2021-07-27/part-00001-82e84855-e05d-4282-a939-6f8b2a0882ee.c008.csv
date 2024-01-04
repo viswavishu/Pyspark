@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53209,1,Angelica Hughes,angelica11@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53226,1,Stefanie Jordan,stefanie1@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53231,1,Gilbert Sun,gilbert10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53237,2,Ruben Torres,ruben35@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53212,3,Samuel Campbell,samuel37@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

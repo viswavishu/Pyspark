@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58398,1,Charles Howard,charles60@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO58399,2,Danny Ortega,danny23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58387,2,Victor Suarez,victor19@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58410,1,Destiny Thompson,destiny15@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO58402,1,Carl Andersen,carl12@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256

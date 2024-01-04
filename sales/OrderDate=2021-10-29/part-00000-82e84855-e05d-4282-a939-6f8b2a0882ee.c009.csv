@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58812,1,Elizabeth Weisman,elizabeth6@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO58827,2,Hailey Flores,hailey32@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58838,1,Harold Raman,harold9@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO58822,2,Sara Wright,sara47@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO58831,2,Nancy Schmidt,nancy13@adventure-works.com,LL Road Tire,1,21.49,1.7192

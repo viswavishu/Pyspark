@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59704,2,Clarence Cai,clarence14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59698,2,Natalie Watson,natalie21@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO59671,1,Tyler Williams,tyler6@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO59681,2,April Shan,april8@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59648,3,Ivan Raman,ivan8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

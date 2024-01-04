@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58845,4,Peter She,peter8@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58894,4,Morgan Murphy,morgan53@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58854,4,Alexis Rodriguez,alexis17@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO58860,1,George Sai,george11@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO58842,1,Alisha Beck,alisha45@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

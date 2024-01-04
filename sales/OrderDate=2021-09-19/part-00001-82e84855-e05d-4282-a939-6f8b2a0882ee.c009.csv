@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56417,2,Destiny Foster,destiny64@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56397,3,Julia Henderson,julia71@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56393,1,Isabella Torres,isabella3@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56394,3,Brandon Davis,brandon43@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO56397,1,Julia Henderson,julia71@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

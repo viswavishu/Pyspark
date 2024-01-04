@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53825,1,Wyatt Nelson,wyatt38@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO53792,3,Hannah Gonzales,hannah38@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO53810,1,Jonathan Lopez,jonathan50@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53820,3,Dylan Davis,dylan32@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53773,2,Steve Liu,steve8@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

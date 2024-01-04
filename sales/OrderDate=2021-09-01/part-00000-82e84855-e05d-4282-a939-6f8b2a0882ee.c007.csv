@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55414,1,Lucas Watson,lucas71@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55440,1,Grace Sanchez,grace26@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO55388,2,Amber Carter,amber10@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55439,3,Chloe Rodriguez,chloe30@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55436,2,Morgan Sanchez,morgan47@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

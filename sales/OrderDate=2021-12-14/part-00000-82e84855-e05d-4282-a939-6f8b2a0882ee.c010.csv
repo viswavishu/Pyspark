@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62038,1,Jill Perry,jill32@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62043,2,Jacqueline Jenkins,jacqueline7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62057,2,Kelvin Zheng,kelvin38@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO62064,1,Abby Lopez,abby14@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62070,2,Morgan Foster,morgan85@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

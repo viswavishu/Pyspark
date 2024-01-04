@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61467,1,Shane Madan,shane11@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO61478,3,Emma Butler,emma60@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO61470,1,Marie Sanz,marie44@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO61436,2,Bradley She,bradley3@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO61444,3,Dana Navarro,dana2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

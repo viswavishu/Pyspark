@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59175,1,Krystal Zhu,krystal14@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59157,1,Savannah Ramirez,savannah5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59173,3,Roger Liu,roger8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59155,3,Richard James,richard79@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59163,1,Joseph Thompson,joseph22@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

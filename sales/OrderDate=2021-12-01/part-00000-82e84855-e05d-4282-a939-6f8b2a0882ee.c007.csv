@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61298,1,Arianna Morgan,arianna35@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO61278,1,Cassandra Lopez,cassandra18@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO61291,1,Emily Foster,emily41@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO61283,3,Chelsea Suri,chelsea0@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61292,2,Regina Malhotra,regina4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

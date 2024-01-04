@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54777,1,Elijah Lal,elijah3@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO54793,1,Tracy Jai,tracy10@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54819,2,Eugene Zhao,eugene14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54784,7,Autumn Li,autumn3@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO54799,4,Jeremiah Gonzalez,jeremiah19@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

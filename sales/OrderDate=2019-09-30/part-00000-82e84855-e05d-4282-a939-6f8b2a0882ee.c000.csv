@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44480,1,Brandon Johnson,brandon38@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO44479,1,Ebony Chandra,ebony1@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992

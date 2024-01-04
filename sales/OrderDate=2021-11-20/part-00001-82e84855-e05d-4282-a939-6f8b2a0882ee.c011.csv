@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60484,3,Rebekah Alonso,rebekah28@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60498,2,Katelyn Scott,katelyn37@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60463,1,Shane Fernandez,shane18@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60505,3,Wayne Tang,wayne5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60485,3,Tabitha Ramos,tabitha38@adventure-works.com,"Racing Socks, L",1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55853,2,Jaclyn Ye,jaclyn10@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO55848,2,Brett Chandra,brett1@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55847,2,Jaclyn Yang,jaclyn5@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO55853,1,Jaclyn Ye,jaclyn10@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55852,2,Jeremiah Stewart,jeremiah44@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

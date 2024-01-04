@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55892,1,Devin Morris,devin84@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55887,1,Jerome Navarro,jerome8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55916,1,Melanie Powell,melanie24@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO55871,2,Carolyn Torres,carolyn32@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO55894,4,Jose Henderson,jose28@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

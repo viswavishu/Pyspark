@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52066,3,Luis Washington,luis12@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52104,4,Jaime Moreno,jaime48@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52068,1,Kurt Deng,kurt1@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52092,1,Trevor Butler,trevor14@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO52076,2,Sebastian Ramirez,sebastian8@adventure-works.com,Road Tire Tube,1,3.99,0.3192

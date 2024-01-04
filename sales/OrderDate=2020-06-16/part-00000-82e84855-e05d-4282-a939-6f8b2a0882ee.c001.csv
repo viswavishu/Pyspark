@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46810,1,Yvonne Schleger,yvonne2@adventure-works.com,"Road-250 Red, 52",1,2443.35,195.468
+SO46809,1,Joe Gill,joe37@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525

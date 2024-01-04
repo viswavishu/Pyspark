@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59135,2,Latasha Bradley,latasha15@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59111,2,Philip Ruiz,philip1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59104,1,Geoffrey Chandra,geoffrey2@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59077,2,Isabella Ward,isabella2@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59124,1,Mason Ramirez,mason8@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392

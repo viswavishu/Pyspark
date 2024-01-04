@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61441,4,Ricardo Raje,ricardo14@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO61471,2,Bridget Tang,bridget5@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO61462,1,Zachary Lewis,zachary28@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61461,2,Mackenzie Phillips,mackenzie28@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61478,4,Emma Butler,emma60@adventure-works.com,ML Road Tire,1,24.99,1.9992

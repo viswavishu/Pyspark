@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57664,3,Anna Russell,anna45@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57660,2,Mary Mitchell,mary24@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO57648,1,Trevor Barnes,trevor2@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO57650,1,Elizabeth Bryant,elizabeth46@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57669,3,Daniel Wilson,daniel25@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

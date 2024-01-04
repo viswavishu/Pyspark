@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61986,1,Steve Sun,steve16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62006,3,Olivia Gonzales,olivia62@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61980,4,Jimmy Serrano,jimmy20@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61976,3,George Vance,george10@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO61980,2,Jimmy Serrano,jimmy20@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

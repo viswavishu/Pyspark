@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55001,3,Dakota Jenkins,dakota5@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO55000,1,Jacob Robinson,jacob14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55014,4,Megan Bennett,megan51@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO55009,1,Bradley Beck,bradley22@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO54978,1,Evelyn Suri,evelyn0@adventure-works.com,HL Mountain Tire,1,35.0,2.8

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59196,1,Anthony Garcia,anthony2@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO59208,3,Ross Sanz,ross38@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59162,1,Robert Jai,robert43@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59160,2,Julia Peterson,julia59@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59207,2,Jennifer Roberts,jennifer15@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256

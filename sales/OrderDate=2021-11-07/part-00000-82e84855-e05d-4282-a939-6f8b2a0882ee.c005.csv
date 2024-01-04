@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59610,2,Kristine Blanco,kristine16@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59608,2,Barbara Sharma,barbara41@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO59581,1,Elizabeth Thompson,elizabeth19@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59583,1,Ronnie Liang,ronnie15@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59646,1,Blake Butler,blake62@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256

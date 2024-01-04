@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53630,2,Jordan Young,jordan46@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO53639,1,Louis Rai,louis33@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO53628,1,Heidi Subram,heidi15@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO53643,2,Brianna Peterson,brianna41@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO53635,1,Jordan Li,jordan22@adventure-works.com,LL Mountain Tire,1,24.99,1.9992

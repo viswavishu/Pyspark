@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52211,1,Sharon Nara,sharon22@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO52275,2,Tabitha Blanco,tabitha36@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52230,1,Abigail James,abigail21@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52228,1,David Clark,david82@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52267,4,Austin Bryant,austin14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

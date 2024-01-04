@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58172,1,Blake Roberts,blake40@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58143,1,Sara Richardson,sara10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58163,1,Ross Navarro,ross28@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58140,1,Robin Gutierrez,robin7@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO58135,2,Raul Raje,raul11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

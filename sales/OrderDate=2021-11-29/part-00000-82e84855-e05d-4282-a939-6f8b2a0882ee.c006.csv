@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61091,1,Arianna Stewart,arianna44@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO61073,2,Jonathan Carter,jonathan39@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61078,1,Shannon Liu,shannon4@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO61045,2,Sandra Chen,sandra8@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO61081,1,Kari Kim,kari3@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58596,1,Bridget Xu,bridget6@adventure-works.com,"Mountain-500 Black, 52",1,539.99,43.1992
+SO58596,2,Bridget Xu,bridget6@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58613,1,Morgan Price,morgan70@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO58626,1,Robin Munoz,robin4@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO58587,2,Anne Dominguez,anne14@adventure-works.com,HL Mountain Tire,1,35.0,2.8

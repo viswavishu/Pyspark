@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52224,1,Alvin Luo,alvin28@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO52213,1,Maurice Goel,maurice20@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO52274,1,Jillian Martinez,jillian18@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO52237,1,Nicholas Rodriguez,nicholas0@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52251,1,Isaac Edwards,isaac24@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

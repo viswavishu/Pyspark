@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58225,1,Darrell Beck,darrell8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58242,3,Amy Chow,amy10@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58205,1,Chad Raji,chad21@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO58245,3,Barbara Goel,barbara47@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58209,2,Haley Sanders,haley19@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

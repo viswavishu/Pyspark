@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54132,1,Adrian Richardson,adrian11@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO54104,1,Tamara Zhu,tamara3@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO54138,1,Deanna Jim�nez,deanna31@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO54107,1,Jimmy Romero,jimmy12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54120,2,Clarence Goel,clarence34@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

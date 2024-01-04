@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59315,5,Suzanne Yang,suzanne6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59295,2,Jordan Chen,jordan21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59321,1,Taylor Bryant,taylor42@adventure-works.com,"Mountain-500 Black, 48",1,539.99,43.1992
+SO59328,2,Richard Anderson,richard50@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

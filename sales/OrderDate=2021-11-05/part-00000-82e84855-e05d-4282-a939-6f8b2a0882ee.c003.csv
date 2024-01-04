@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59439,2,Holly Perez,holly19@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59463,3,Alex Cooper,alex12@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO59485,3,Terrence Carson,terrence15@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO59460,4,Valerie Wang,valerie2@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO59475,3,Devin Robinson,devin17@adventure-works.com,LL Road Tire,1,21.49,1.7192

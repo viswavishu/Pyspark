@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60716,2,Gabriella Bailey,gabriella14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60702,1,Julio Dominguez,julio13@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO60748,2,Mariah Patterson,mariah15@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60733,1,Alexandra Brown,alexandra67@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO60722,1,Claudia Yang,claudia4@adventure-works.com,Road Tire Tube,1,3.99,0.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53825,3,Wyatt Nelson,wyatt38@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53794,3,Paige Bradley,paige1@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO53794,1,Paige Bradley,paige1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53774,1,Louis Zhu,louis8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53818,3,Susan Ye,susan19@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

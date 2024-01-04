@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52204,2,Molly Lopez,molly15@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO52205,4,Ernest Zhao,ernest10@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52198,3,Darren Sanchez,darren21@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52172,1,Arianna Peterson,arianna26@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52180,1,Natasha Vazquez,natasha14@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

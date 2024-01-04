@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60031,3,Kaitlyn Edwards,kaitlyn1@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59994,2,Austin Garcia,austin32@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO59984,5,Melody Diaz,melody3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59991,1,Alisha Xu,alisha29@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO59992,2,Jacqueline Kelly,jacqueline26@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

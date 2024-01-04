@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61773,2,J�sus Blanco,j�sus14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61751,2,David Lal,david61@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

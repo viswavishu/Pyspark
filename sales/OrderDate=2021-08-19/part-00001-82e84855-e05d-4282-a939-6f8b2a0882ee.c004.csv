@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54648,1,Aaron Ross,aaron3@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO54644,2,Abigail Howard,abigail16@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54634,1,Lance Alvarez,lance4@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54638,1,Emma Clark,emma18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54613,1,Ross Alvarez,ross25@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55203,2,Ryan Jai,ryan35@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55219,1,Ashley Rodriguez,ashley21@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO55179,1,Michele Gonzalez,michele32@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO55217,4,Whitney Lopez,whitney15@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO55202,2,Amber Gonzalez,amber8@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51228,4,Kelli Cai,kelli21@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO51237,2,Todd Gao,todd14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51246,3,Krystal Cai,krystal21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51227,3,Ann Rana,ann16@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51228,1,Kelli Cai,kelli21@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60676,1,Grace Cooper,grace34@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60669,3,Tonya Pal,tonya11@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60674,4,Seth Thomas,seth11@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60685,1,Louis Zhang,louis38@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO60682,1,Miranda Long,miranda9@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

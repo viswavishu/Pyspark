@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53887,2,Joy Alvarez,joy5@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO53878,3,Walter Serrano,walter9@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53911,1,Jermaine Rana,jermaine9@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO53903,1,Ebony Diaz,ebony25@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO53897,2,Alexandra Hall,alexandra88@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

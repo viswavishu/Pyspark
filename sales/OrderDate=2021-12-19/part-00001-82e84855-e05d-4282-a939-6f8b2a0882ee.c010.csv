@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62350,1,Latasha Jimenez,latasha5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62384,1,Terry Yuan,terry10@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO62395,3,Maria Foster,maria38@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62384,6,Terry Yuan,terry10@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO62385,2,Elizabeth Martinez,elizabeth21@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

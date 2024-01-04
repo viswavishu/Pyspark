@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53256,3,Maria Adams,maria57@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO53241,1,Jasmine Stewart,jasmine22@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO53285,1,Grace Peterson,grace40@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO53248,1,Tommy Chander,tommy12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53279,1,Hannah Patterson,hannah33@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

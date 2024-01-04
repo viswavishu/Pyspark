@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57750,2,Erica Liu,erica3@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57766,1,Thomas Griffin,thomas23@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57761,3,Faith Price,faith1@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO57762,2,Carson Griffin,carson20@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO57770,1,Kristopher Martinez,kristopher16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

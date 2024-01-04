@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57561,2,Albert Suarez,albert19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57581,1,Bianca Cai,bianca18@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO57541,1,Stefanie Perez,stefanie18@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO57539,1,Christopher Taylor,christopher9@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57576,1,Ariana Watson,ariana0@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792

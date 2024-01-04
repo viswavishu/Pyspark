@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60945,2,Samantha Barnes,samantha28@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60920,1,Maria Long,maria32@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60935,2,Jay Lopez,jay23@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60927,3,Andrea Kelly,andrea3@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO60903,4,Jacqueline Morgan,jacqueline37@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

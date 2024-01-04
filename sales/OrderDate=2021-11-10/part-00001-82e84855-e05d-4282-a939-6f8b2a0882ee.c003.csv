@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59796,2,Erick Sanchez,erick20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59784,3,Alejandro Xu,alejandro31@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO59780,1,Xavier Ross,xavier45@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59802,2,Courtney Green,courtney11@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO59775,2,James Diaz,james37@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

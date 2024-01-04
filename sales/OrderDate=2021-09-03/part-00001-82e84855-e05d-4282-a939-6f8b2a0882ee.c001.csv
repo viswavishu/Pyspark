@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55532,3,Carol Perry,carol20@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55550,1,Shish Shridhar,shish0@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO55505,1,Kevin Coleman,kevin9@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO55508,1,Keith Kumar,keith10@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55542,1,Alvin Sharma,alvin32@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

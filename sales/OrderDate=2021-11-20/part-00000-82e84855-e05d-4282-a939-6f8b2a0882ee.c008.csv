@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60477,1,Eric Phillips,eric48@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO60455,3,Dominique Malhotra,dominique4@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO60484,4,Rebekah Alonso,rebekah28@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO60461,1,Jenny Li,jenny5@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO60490,1,Cindy Madan,cindy7@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

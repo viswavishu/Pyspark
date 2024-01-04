@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54345,3,Jessie Carlson,jessie37@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO54361,3,Paula Romero,paula12@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO54333,3,Cameron Washington,cameron8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54346,1,Haley Brooks,haley17@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54342,2,Stephanie Stone,stephanie3@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

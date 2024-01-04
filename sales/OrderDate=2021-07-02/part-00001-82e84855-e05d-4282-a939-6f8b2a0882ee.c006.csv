@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51954,2,Gerald Alonso,gerald16@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO51953,3,Janelle Kapoor,janelle1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51936,1,Henry Garcia,henry16@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51922,1,Pedro Suarez,pedro39@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO51927,2,Miguel Wright,miguel28@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

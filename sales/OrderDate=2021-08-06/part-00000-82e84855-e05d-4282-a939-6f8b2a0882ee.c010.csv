@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53902,1,Joe Gomez,joe25@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53887,1,Joy Alvarez,joy5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53900,2,Marshall Shen,marshall23@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53878,2,Walter Serrano,walter9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53918,6,Brendan Deng,brendan1@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

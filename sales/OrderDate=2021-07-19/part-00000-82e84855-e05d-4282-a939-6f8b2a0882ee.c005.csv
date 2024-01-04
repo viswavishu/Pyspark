@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52788,1,Jonathan Martin,jonathan68@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO52838,2,Armando Dominguez,armando13@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO52800,1,Diane Dominguez,diane17@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO52832,3,Sara Gray,sara6@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO52834,1,Darren Saunders,darren13@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992

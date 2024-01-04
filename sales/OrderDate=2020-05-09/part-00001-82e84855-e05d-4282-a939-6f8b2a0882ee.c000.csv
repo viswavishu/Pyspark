@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46448,1,Andrea Collins,andrea26@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO46447,1,Sabrina Rubio,sabrina15@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO46445,1,Abigail Clark,abigail60@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616

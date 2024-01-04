@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55441,1,Mariah Wood,mariah6@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO55413,3,Erin Richardson,erin14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55394,1,Melody Moreno,melody7@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO55443,1,Kelsey Chande,kelsey14@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388
+SO55412,1,Sean Ramirez,sean14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59398,2,Gregory Pal,gregory15@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59362,2,Anthony Thompson,anthony1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59381,4,Charles Sanchez,charles65@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO59383,2,Seth Mitchell,seth38@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59357,1,Alex Richardson,alex13@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

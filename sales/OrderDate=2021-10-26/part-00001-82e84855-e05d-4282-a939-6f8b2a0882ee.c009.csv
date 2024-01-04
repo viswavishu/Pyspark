@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58626,2,Robin Munoz,robin4@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58623,2,Joan Collins,joan12@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO58630,3,Ethan Jones,ethan33@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58637,1,Cassandra Rana,cassandra12@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO58597,1,Marcus Jones,marcus3@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192

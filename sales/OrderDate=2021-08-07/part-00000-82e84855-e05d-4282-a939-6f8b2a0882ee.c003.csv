@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53936,2,Joseph Williams,joseph8@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO53942,1,Destiny Stewart,destiny23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53927,2,Dana Navarro,dana2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53963,3,Jordan Li,jordan22@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO53970,5,Mindy Black,mindy25@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

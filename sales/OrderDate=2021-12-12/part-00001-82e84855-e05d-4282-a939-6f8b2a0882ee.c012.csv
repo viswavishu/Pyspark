@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61950,2,Nicolas Rai,nicolas16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61941,3,Jake Hu,jake18@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO61955,1,Leslie Gutierrez,leslie12@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56321,2,Rosa She,rosa23@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56289,2,Ryan Kumar,ryan32@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56278,1,Deanna Diaz,deanna28@adventure-works.com,"Mountain-500 Silver, 44",1,564.99,45.1992
+SO56302,3,Omar Anand,omar43@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56279,3,Terrance Rodriguez,terrance17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO50335,1,Edgar Gonzalez,edgar19@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136
+SO50325,1,Bobby Mehta,bobby10@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136
+SO50333,1,Ruben Raman,ruben13@adventure-works.com,"Mountain-200 Silver, 38",1,2071.4196,165.7136
+SO50328,1,Linda Navarro,linda25@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136
+SO50329,1,Nancy Schmidt,nancy13@adventure-works.com,"Mountain-200 Silver, 42",1,2071.4196,165.7136

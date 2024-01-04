@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56962,1,Erika Gutierrez,erika8@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56971,1,Jasmine Ramirez,jasmine35@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56999,2,Riley Hayes,riley19@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57003,2,Kate Xu,kate4@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56976,2,Erick Subram,erick12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61453,1,Anna Garcia,anna54@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61460,1,Alejandro Shen,alejandro28@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61428,3,Laura Wu,laura13@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61431,2,Ricardo She,ricardo0@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO61459,1,Krystal Wu,krystal7@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62657,1,Mindy Deng,mindy5@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62642,5,Julian Henderson,julian6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62682,1,Barry Subram,barry14@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO62678,4,Carmen Perez,carmen3@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO62694,2,Tiffany Zimmerman,tiffany20@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

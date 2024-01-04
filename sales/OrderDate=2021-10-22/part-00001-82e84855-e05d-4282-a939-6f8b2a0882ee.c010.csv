@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58375,1,Lucas Smith,lucas13@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58366,1,Xavier Hill,xavier26@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58370,2,Fernando Barnes,fernando47@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58377,2,Xavier Foster,xavier56@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO58396,5,Jackson Lopez,jackson42@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

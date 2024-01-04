@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45128,1,Katrina Anand,katrina21@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45129,1,Dawn Nath,dawn42@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992

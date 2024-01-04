@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45719,1,Elijah Diaz,elijah23@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45717,1,Elijah Ross,elijah7@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45718,1,Lauren Martinez,lauren35@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56302,2,Omar Anand,omar43@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56306,1,Garrett Reed,garrett25@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56319,1,Alejandro Liu,alejandro6@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO56290,2,Carly Yuan,carly6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56282,1,Jada Morgan,jada14@adventure-works.com,Road Tire Tube,1,3.99,0.3192

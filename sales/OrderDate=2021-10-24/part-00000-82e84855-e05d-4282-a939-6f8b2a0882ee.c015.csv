@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58527,1,Noah Young,noah44@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO58481,2,Pedro Kapoor,pedro1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58470,2,Todd Huang,todd7@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58485,1,David Martinez,david80@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO58529,2,Sara Peterson,sara5@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

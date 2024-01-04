@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60468,1,Dennis Chen,dennis3@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO60497,2,Kevin Washington,kevin16@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60494,2,Mariah Sanders,mariah3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60453,2,Clinton Blanco,clinton12@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60473,1,Henry Garcia,henry16@adventure-works.com,HL Road Tire,1,32.6,2.608

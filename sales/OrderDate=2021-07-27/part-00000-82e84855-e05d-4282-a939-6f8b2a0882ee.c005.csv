@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53187,1,Colin Chavez,colin38@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53234,3,Sarah Gonzales,sarah41@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO53209,2,Angelica Hughes,angelica11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53205,2,Ryan Thompson,ryan38@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO53236,2,Karen Sun,karen23@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

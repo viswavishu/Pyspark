@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59513,2,Faith Bryant,faith17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59504,4,Ricky Moreno,ricky6@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO59519,2,Brad Yuan,brad6@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59543,3,Jordyn Bryant,jordyn17@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59507,3,Cedric Chande,cedric33@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

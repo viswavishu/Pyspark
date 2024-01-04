@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54019,1,Jamie Liang,jamie20@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54034,1,Melanie Perry,melanie23@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO54014,3,Marshall Yang,marshall4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53995,1,Lauren Reed,lauren2@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53989,1,Ross Vazquez,ross32@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

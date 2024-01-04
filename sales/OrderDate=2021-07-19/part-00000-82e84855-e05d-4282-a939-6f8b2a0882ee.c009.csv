@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52837,2,Angel Howard,angel11@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52799,1,Timothy Morris,timothy20@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52836,2,Alex Mitchell,alex40@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO52815,2,Latoya Yuan,latoya6@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52806,1,Joseph Martinez,joseph24@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

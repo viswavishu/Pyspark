@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53773,1,Steve Liu,steve8@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO53816,2,Martha Zeng,martha21@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53775,1,Danielle Torres,danielle15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53817,2,Sydney Hall,sydney87@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53788,2,Nicole White,nicole13@adventure-works.com,Road Tire Tube,1,3.99,0.3192

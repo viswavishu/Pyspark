@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53004,3,Tabitha Arthur,tabitha5@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO53025,3,Samantha Perry,samantha33@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO53033,3,Sara Baker,sara43@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO53028,2,Devin Thomas,devin9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53063,3,Paige Reed,paige45@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

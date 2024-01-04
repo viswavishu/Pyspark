@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60619,2,Jacqueline Henderson,jacqueline5@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO60589,2,Zachary Sharma,zachary27@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60581,1,Carlos Rogers,carlos22@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60582,1,Christian Lewis,christian40@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60569,1,Colin Liang,colin18@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

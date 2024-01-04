@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53057,1,Marc Munoz,marc11@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388
+SO53050,3,Hailey Cook,hailey4@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO53015,1,Marshall Chander,marshall36@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53031,4,Kaitlyn Rodriguez,kaitlyn43@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO53010,2,Margaret Liang,margaret23@adventure-works.com,"Classic Vest, M",1,63.5,5.08

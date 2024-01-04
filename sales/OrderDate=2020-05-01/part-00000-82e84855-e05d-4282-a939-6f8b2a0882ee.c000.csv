@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46393,1,Bruce Gomez,bruce23@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO46390,1,Francisco Chandra,francisco3@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616

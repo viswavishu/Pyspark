@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52273,2,Katherine Hernandez,katherine66@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52214,1,Calvin Chande,calvin13@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO52243,3,Maria Evans,maria44@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO52276,3,Misty Chande,misty16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52272,3,Alex Perez,alex31@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

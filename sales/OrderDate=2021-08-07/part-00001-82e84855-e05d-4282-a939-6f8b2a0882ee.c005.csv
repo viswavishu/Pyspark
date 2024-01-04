@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53936,3,Joseph Williams,joseph8@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO53944,2,Eduardo Nelson,eduardo33@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO53962,1,Destiny Johnson,destiny1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53931,1,Isaiah Collins,isaiah24@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO53970,2,Mindy Black,mindy25@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

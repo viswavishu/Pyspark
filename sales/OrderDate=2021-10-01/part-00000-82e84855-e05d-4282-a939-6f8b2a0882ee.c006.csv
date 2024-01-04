@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57213,1,Ariana Rivera,ariana15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57211,1,Micah He,micah6@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO57239,1,Felicia Alonso,felicia7@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO57240,3,Mayra Prasad,mayra9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57236,1,Bailey Cook,bailey19@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256

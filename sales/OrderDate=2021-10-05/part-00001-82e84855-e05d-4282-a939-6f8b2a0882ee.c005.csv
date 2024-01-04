@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57457,1,Alicia Shan,alicia8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57448,2,Lawrence Munoz,lawrence5@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO57479,1,Kelsey Kennedy,kelsey7@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO57480,3,Mindy Tang,mindy8@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57445,1,Lauren Hall,lauren42@adventure-works.com,HL Road Tire,1,32.6,2.608

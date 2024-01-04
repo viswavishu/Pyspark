@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51244,4,Virginia Fernandez,virginia18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51229,1,Taylor Price,taylor25@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO51227,2,Ann Rana,ann16@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO51234,1,Peter Xu,peter12@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO51243,1,Jaime Ruiz,jaime2@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

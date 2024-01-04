@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52008,2,Daniel Garcia,daniel8@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51976,2,Ruben Malhotra,ruben5@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO51998,2,Drew Deng,drew1@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52011,3,Cedric Gao,cedric14@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52007,2,Brandon Lal,brandon26@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992

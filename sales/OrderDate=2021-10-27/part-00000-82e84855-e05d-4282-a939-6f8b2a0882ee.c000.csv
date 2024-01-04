@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58688,2,Monique Moreno,monique2@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58682,2,Paula Carlson,paula20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58686,2,Gilbert Zhao,gilbert8@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58654,2,Isaiah Bell,isaiah13@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58697,2,Donald Sanchez,donald22@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

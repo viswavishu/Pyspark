@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62818,1,Laura Lin,laura14@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO62784,1,Emma Walker,emma22@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62758,2,Kari Sai,kari7@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO62775,2,Samantha Jenkins,samantha32@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62785,1,Mackenzie Morris,mackenzie17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

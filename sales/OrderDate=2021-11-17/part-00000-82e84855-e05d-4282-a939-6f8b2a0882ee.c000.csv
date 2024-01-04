@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60305,2,Pedro Romero,pedro29@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60254,5,Ruben Sara,ruben11@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO60289,1,Richard Bailey,richard97@adventure-works.com,"Mountain-500 Silver, 42",1,564.99,45.1992
+SO60301,1,Eduardo Wood,eduardo46@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO60292,1,Mya Gonzales,mya17@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

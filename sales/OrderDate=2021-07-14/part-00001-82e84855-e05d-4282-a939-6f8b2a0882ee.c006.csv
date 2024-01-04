@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52553,1,Carla Suri,carla3@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52522,3,Manuel Fernandez,manuel14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52544,1,Natalie Harris,natalie81@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52575,1,Desiree Suarez,desiree15@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO52548,1,David So,david25@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

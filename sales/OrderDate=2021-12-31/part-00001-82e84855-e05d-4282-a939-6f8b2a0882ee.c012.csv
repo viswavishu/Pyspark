@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63085,2,Miguel Phillips,miguel41@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO63101,2,Susan Lin,susan17@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO63065,2,Diane Sanz,diane25@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO63069,1,Adriana Madan,adriana8@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO63094,3,Nicole Sandberg,nicole47@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

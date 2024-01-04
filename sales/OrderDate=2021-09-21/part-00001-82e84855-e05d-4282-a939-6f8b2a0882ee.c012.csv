@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56517,2,Jarrod Subram,jarrod13@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56487,1,Fernando Barnes,fernando47@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56513,2,Gilbert McDonald,gilbert3@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56502,1,Marcus Reed,marcus95@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56525,3,Shannon Huang,shannon6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

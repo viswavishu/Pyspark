@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59688,2,Mya Butler,mya14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59655,3,Brandi Gomez,brandi1@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO59679,2,Wendy Munoz,wendy7@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59697,1,Dale Anand,dale20@adventure-works.com,"Touring-3000 Yellow, 54",1,742.35,59.388
+SO59697,2,Dale Anand,dale20@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

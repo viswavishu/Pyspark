@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59727,3,Nathaniel Kelly,nathaniel3@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO59716,1,Todd Li,todd5@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59719,1,Sean Nelson,sean41@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59734,1,Jaclyn She,jaclyn24@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59723,3,Jared Peterson,jared8@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

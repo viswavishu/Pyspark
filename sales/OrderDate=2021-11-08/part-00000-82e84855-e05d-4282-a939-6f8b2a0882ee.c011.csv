@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59653,2,Kelsey Yuan,kelsey6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59705,3,Samantha Martinez,samantha19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59700,1,Arianna Hayes,arianna20@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO59691,2,Amy Ma,amy22@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59685,1,Morgan Gonzalez,morgan14@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792

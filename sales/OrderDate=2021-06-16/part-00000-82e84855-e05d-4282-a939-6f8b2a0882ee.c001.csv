@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51441,1,Brandi Gill,brandi13@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO51445,2,Hunter Davis,hunter64@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51446,1,Cassie Nath,cassie17@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO51450,2,Erika Rubio,erika18@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO51454,1,Daisy Romero,daisy5@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256

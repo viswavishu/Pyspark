@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62522,1,Jerry Kumar,jerry8@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388
+SO62485,3,Andrea Morris,andrea18@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO62482,2,Colin Wu,colin7@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62520,2,Jaclyn Guo,jaclyn19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62485,2,Andrea Morris,andrea18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

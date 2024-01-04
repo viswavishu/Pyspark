@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52078,1,Janelle Arthur,janelle6@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52089,1,Jasmine Jenkins,jasmine47@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO52074,1,Samantha Russell,samantha42@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52079,1,Rafael Zeng,rafael22@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52099,1,Emma Gonzales,emma63@adventure-works.com,Touring Tire,1,28.99,2.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56314,1,Sara Cook,sara23@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO56317,1,Lee Vazquez,lee13@adventure-works.com,"Touring-3000 Yellow, 54",1,742.35,59.388
+SO56330,3,Andrea King,andrea41@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO56308,2,Melissa Washington,melissa8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO56275,1,Frederick Raman,frederick11@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

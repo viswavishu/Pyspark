@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56096,1,Sharon Xie,sharon9@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56096,2,Sharon Xie,sharon9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56069,1,Rafael Gao,rafael16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56114,1,Sarah Martinez,sarah19@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO56099,2,Jose Turner,jose42@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59426,1,Edward Gonzales,edward65@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59467,1,Justin Perry,justin4@adventure-works.com,"Touring-3000 Yellow, 58",1,742.35,59.388
+SO59427,2,Dalton Perez,dalton37@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59408,3,Erika Serrano,erika14@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59413,1,April Raje,april12@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

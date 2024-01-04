@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56876,2,Chloe King,chloe17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56867,1,Jessica Jackson,jessica59@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56906,2,Angel Richardson,angel9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56864,2,Juan Cox,juan20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56863,1,Gabriella Edwards,gabriella22@adventure-works.com,ML Road Tire,1,24.99,1.9992

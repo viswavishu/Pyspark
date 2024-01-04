@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52431,1,Alisha Xie,alisha27@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52424,2,Alyssa Brown,alyssa3@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52435,2,Hailey Watson,hailey18@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO52442,1,Tommy Shen,tommy0@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52423,2,Frank Rubio,frank29@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

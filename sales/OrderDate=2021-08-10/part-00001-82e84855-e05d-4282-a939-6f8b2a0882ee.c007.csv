@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54133,1,Rafael Sharma,rafael33@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO54145,2,Meredith Gomez,meredith23@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54137,1,Johnathan Perez,johnathan20@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO54131,3,Eduardo Ramirez,eduardo75@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO54114,3,Erin Richardson,erin14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

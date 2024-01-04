@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51276,3,Brianna Morgan,brianna30@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO51283,3,Isabella Walker,isabella79@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO51282,3,Rob Verhoff,rob4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51272,2,Nathan Miller,nathan64@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51276,1,Brianna Morgan,brianna30@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

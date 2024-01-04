@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51434,1,Olivia Thomas,olivia10@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO51431,3,Angela Murphy,angela41@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51427,2,Robin Alvarez,robin2@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO51435,2,Nathan Lewis,nathan57@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51430,2,Jenny Rai,jenny40@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

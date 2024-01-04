@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60229,1,Elizabeth Gonzales,elizabeth45@adventure-works.com,"Mountain-500 Silver, 44",1,564.99,45.1992
+SO60205,1,Nicole Patterson,nicole59@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60239,3,Arthur Mehta,arthur16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60220,1,Manuel Subram,manuel11@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60228,3,Geoffrey Martinez,geoffrey15@adventure-works.com,ML Road Tire,1,24.99,1.9992

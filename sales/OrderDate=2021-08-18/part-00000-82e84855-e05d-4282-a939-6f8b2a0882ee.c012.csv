@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54533,1,Rodney Ramos,rodney13@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO54529,1,Rafael Lin,rafael8@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54582,3,Gabriella Sanders,gabriella1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54545,2,Bryan Howard,bryan12@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO54578,1,Jacquelyn Diaz,jacquelyn3@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468

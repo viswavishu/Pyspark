@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52905,1,Clifford Srini,clifford8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52892,1,Kaitlyn Bennett,kaitlyn69@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO52896,5,Isabelle Hughes,isabelle10@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO52923,1,Angela Patterson,angela13@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO52915,2,Latoya Shen,latoya2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

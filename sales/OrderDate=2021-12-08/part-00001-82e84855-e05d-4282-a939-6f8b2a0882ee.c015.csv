@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61711,1,Glenn Huang,glenn6@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO61729,1,Molly Kapoor,molly2@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO61731,1,Deborah Deng,deborah5@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO61675,2,Alexandra Jenkins,alexandra30@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO61677,1,James Hernandez,james68@adventure-works.com,Touring Tire,1,28.99,2.3192

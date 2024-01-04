@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62301,1,Jade Torres,jade3@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62326,2,Nathan Harris,nathan71@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO62345,1,Sabrina Romero,sabrina6@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992

@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52383,1,Trevor Gonzales,trevor17@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59130,3,Grace Brooks,grace45@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59090,1,Morgan Rogers,morgan49@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO59125,1,Jared Brooks,jared3@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO59120,2,Jerry Pal,jerry13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59084,1,Casey Martin,casey23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

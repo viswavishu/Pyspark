@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56112,2,Carl Raji,carl20@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56099,3,Jose Turner,jose42@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56103,4,Regina Martinez,regina16@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO56123,2,Yiroyuki Sato,yiroyuki0@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO56112,1,Carl Raji,carl20@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

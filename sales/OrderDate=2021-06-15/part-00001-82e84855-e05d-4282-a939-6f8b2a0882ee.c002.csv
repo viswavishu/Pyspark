@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51439,4,Leslie Romero,leslie10@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51431,4,Angela Murphy,angela41@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO51439,2,Leslie Romero,leslie10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51428,3,Margaret He,margaret25@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO51433,1,Alexander Miller,alexander11@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388

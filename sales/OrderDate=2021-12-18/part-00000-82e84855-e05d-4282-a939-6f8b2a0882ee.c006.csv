@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62313,1,Luis Powell,luis7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62335,1,Richard Taylor,richard49@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO62299,1,Gabriella Richardson,gabriella7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62302,1,Jocelyn Flores,jocelyn13@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO62312,2,Barry Fernandez,barry16@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

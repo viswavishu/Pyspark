@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55116,1,Michele Ruiz,michele37@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55132,3,Harold Sai,harold3@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO55094,1,Jordan Coleman,jordan2@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO55096,1,Tabitha Hernandez,tabitha23@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55135,1,Paige Cox,paige34@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256

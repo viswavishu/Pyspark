@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58469,2,Kari Gomez,kari22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58496,3,Samuel Wright,samuel50@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58513,2,Diana Vazquez,diana14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58471,1,Cassandra Rana,cassandra12@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO58539,3,Jon Becker,jon17@adventure-works.com,LL Road Tire,1,21.49,1.7192

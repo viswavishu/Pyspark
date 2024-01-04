@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52982,2,Grace Martinez,grace17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52967,3,Carrie Ortega,carrie19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52977,2,Kaitlyn Jackson,kaitlyn34@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52997,2,Amber Collins,amber2@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52984,1,Emily Robinson,emily19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

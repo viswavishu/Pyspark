@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57570,1,James Clark,james92@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57543,1,Autumn Guo,autumn17@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO57550,2,Andrew Moore,andrew17@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57563,2,Arthur Navarro,arthur34@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO57562,2,Tasha Lal,tasha9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

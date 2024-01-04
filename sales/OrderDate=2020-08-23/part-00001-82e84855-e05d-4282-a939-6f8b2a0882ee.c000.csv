@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47611,1,Emily Long,emily34@adventure-works.com,"Road-650 Red, 52",1,782.99,62.6392
+SO47608,1,Justin Zhang,justin21@adventure-works.com,"Mountain-200 Silver, 38",1,2071.4196,165.7136
+SO47607,1,Nicole Butler,nicole63@adventure-works.com,"Road-550-W Yellow, 48",1,1000.4375,80.035

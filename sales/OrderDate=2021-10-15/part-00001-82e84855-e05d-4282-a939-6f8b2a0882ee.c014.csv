@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58014,3,Austin Yang,austin24@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57987,6,Neil Blanco,neil14@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO57969,2,Gina Martin,gina1@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55604,3,Devon Raje,devon11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55604,4,Devon Raje,devon11@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55560,4,Gary Jimenez,gary16@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO55571,1,Jason Griffin,jason18@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55599,3,Jesse Murphy,jesse15@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

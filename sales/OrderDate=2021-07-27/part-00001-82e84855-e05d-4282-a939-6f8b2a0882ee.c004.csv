@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53207,3,Mindy Sharma,mindy14@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO53204,2,Ruth Srini,ruth13@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53234,2,Sarah Gonzales,sarah41@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53228,1,Blake Patterson,blake58@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53190,2,Warren Chande,warren4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

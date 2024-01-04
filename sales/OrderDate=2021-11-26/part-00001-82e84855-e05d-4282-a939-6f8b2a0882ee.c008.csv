@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60885,2,Chad Kumar,chad9@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60839,1,Gerald Malhotra,gerald34@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO60892,4,Shawna Sharma,shawna10@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60892,1,Shawna Sharma,shawna10@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO60840,3,Ruben Malhotra,ruben5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

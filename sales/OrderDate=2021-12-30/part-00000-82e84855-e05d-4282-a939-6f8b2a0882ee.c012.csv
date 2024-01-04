@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63014,3,Drew Chande,drew16@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO63005,2,Nancy Fernandez,nancy19@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO63043,4,Logan Wilson,logan58@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO63027,4,Amanda Watson,amanda18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO63021,3,Chloe Jackson,chloe44@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

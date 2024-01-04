@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51684,5,Ruben Mu�oz,ruben30@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51679,3,Trevor Bryant,trevor18@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO51674,3,Meredith Perez,meredith21@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51673,2,Theodore Ramos,theodore18@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51687,2,Adriana Chandra,adriana2@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

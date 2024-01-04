@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55841,1,Jonathan Walker,jonathan77@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO55858,2,Diana Dominguez,diana12@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO55824,3,Bryan Bailey,bryan16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55821,1,Linda Ferrier,linda23@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55846,2,Regina Chandra,regina2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

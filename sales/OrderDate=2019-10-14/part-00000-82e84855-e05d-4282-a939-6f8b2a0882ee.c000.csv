@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44658,1,Karla Xie,karla3@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO44659,1,Latoya Nara,latoya15@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO44655,1,Candace Fernandez,candace15@adventure-works.com,"Mountain-100 Silver, 44",1,3399.99,271.9992

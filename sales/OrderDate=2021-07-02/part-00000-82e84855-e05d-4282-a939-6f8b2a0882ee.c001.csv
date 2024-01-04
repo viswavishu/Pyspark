@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51933,3,Nancy Chapman,nancy7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51962,1,Christian Garcia,christian52@adventure-works.com,"Touring-3000 Yellow, 54",1,742.35,59.388
+SO51949,2,Pedro Raman,pedro12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO51940,3,Tyler White,tyler1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51959,3,Haley Richardson,haley10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58086,3,Connor Edwards,connor30@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO58102,2,Brandi Sanz,brandi19@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58118,2,Amanda King,amanda62@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO58122,1,Sydney Baker,sydney57@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO58103,2,Cara Wang,cara1@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

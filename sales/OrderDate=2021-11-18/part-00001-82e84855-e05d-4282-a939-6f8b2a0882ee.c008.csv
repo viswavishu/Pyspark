@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60325,3,Cara Guo,cara13@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO60358,3,Devin Butler,devin52@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60324,3,Kelly Henderson,kelly9@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60325,2,Cara Guo,cara13@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO60376,3,Austin Chen,austin22@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

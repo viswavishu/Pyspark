@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56674,2,Ian White,ian12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56678,2,Shawna Yuan,shawna7@adventure-works.com,Road Tire Tube,1,3.99,0.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62299,3,Gabriella Richardson,gabriella7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62297,2,Noah Phillips,noah33@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62320,3,Robyn Alonso,robyn6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62339,2,Jose Thomas,jose72@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62338,2,Carlos Cox,carlos12@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

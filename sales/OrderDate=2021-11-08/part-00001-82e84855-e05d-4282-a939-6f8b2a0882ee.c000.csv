@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59704,4,Clarence Cai,clarence14@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59652,2,Adrian Watson,adrian2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59705,5,Samantha Martinez,samantha19@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO59662,2,Ryan Moore,ryan47@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59699,1,Antonio Gonzales,antonio17@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57820,1,Dylan Lewis,dylan51@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57838,1,Haley Hughes,haley30@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO57794,1,Xavier Henderson,xavier46@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57788,2,Kelsey Lal,kelsey8@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO57834,1,Felicia Moreno,felicia5@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

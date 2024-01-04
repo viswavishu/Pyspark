@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60895,1,Levi Rana,levi10@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO60946,3,Stacy Gomez,stacy2@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60924,1,Jarrod Gonzalez,jarrod17@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60896,1,Ethan Bryant,ethan14@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO60915,2,Gilbert Nath,gilbert38@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

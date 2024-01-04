@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53066,1,Taylor Richardson,taylor12@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO53051,2,Jonathan Clark,jonathan73@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO53046,1,Christina Ward,christina10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53019,1,Elijah Alexander,elijah20@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO53048,3,Tyler Taylor,tyler17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

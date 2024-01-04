@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61715,4,Krista Ramos,krista16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61667,2,Eduardo White,eduardo11@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61688,2,Arianna Cox,arianna32@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61687,1,Madison Anderson,madison10@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO61681,1,Isabella Williams,isabella59@adventure-works.com,Road Tire Tube,1,3.99,0.3192

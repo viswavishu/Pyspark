@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58135,3,Raul Raje,raul11@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58141,4,Jon Chander,jon12@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58151,2,Elizabeth Hall,elizabeth28@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58184,1,Jeremiah Turner,jeremiah21@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388
+SO58159,1,Tommy Anand,tommy19@adventure-works.com,ML Road Tire,1,24.99,1.9992

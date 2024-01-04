@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51933,2,Nancy Chapman,nancy7@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO51955,1,Martha Gao,martha14@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO51936,3,Henry Garcia,henry16@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO51958,2,Sophia Allen,sophia21@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO51923,3,Jordan Turner,jordan59@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

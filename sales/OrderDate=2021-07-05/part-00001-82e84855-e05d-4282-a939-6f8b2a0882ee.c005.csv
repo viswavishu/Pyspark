@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52100,1,Donald Subram,donald14@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52105,3,Christian Hughes,christian26@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52090,1,Katelyn Murphy,katelyn14@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO52103,1,Elijah Carter,elijah38@adventure-works.com,"Mountain-500 Black, 44",1,539.99,43.1992
+SO52082,1,Colleen Jai,colleen35@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

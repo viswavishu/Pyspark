@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52370,1,Bob Kapoor,bob4@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO52403,3,Adrian Torres,adrian6@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO52390,2,Hailey Peterson,hailey14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52400,5,Mariah Coleman,mariah10@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO52369,3,Alfredo Gill,alfredo15@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

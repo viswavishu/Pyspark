@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57893,1,Grant Nara,grant18@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO57892,2,Darryl Liu,darryl4@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57878,1,Krista Gill,krista13@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57859,3,Latoya Anand,latoya21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57891,2,Lisa Cai,lisa24@adventure-works.com,Touring Tire,1,28.99,2.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54350,2,Cassie Rai,cassie16@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54343,1,Abigail Rivera,abigail12@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54359,1,Nicolas Tang,nicolas2@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388
+SO54372,1,Riley Watson,riley20@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO54335,2,Lauren Rodriguez,lauren38@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

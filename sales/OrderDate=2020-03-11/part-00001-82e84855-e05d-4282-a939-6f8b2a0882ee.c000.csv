@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45874,1,Ashley Alexander,ashley46@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45876,1,Brittney Zhang,brittney0@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45875,1,Christopher Thomas,christopher11@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616

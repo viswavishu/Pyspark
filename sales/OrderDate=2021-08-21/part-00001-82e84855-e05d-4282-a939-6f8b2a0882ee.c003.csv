@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54757,2,David Simmons,david48@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54767,1,Colleen Sun,colleen13@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO54722,1,Danny Diaz,danny3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54747,2,Pedro Sai,pedro6@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO54727,4,David Hughes,david44@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

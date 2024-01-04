@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63111,1,Katrina Xu,katrina4@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO63106,1,Alberto Hernandez,alberto5@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO63105,1,Brad Ashe,brad23@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO63098,1,Dalton Bailey,dalton87@adventure-works.com,"Mountain-500 Black, 44",1,539.99,43.1992
+SO63069,3,Adriana Madan,adriana8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

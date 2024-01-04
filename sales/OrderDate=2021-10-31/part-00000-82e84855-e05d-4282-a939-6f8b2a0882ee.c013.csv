@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59107,2,John Johnson,john38@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59082,4,Brandy Lopez,brandy13@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO59098,1,Kristen Zeng,kristen19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59091,2,Carlos Nelson,carlos37@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO59108,2,Tara Sharma,tara9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

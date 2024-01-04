@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61791,1,Kelvin Xu,kelvin30@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61786,1,Tara Jai,tara11@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO61818,1,Tasha Yuan,tasha7@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61851,4,Sara Rogers,sara21@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61846,2,Connor Butler,connor9@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192

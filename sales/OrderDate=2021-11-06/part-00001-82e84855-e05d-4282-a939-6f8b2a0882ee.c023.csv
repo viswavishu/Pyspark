@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59511,1,Stephanie Edwards,stephanie51@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO59488,3,Reginald Romero,reginald16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59576,1,Theodore Torres,theodore12@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO59565,3,Casey Andersen,casey14@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59560,4,Armando Vazquez,armando15@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

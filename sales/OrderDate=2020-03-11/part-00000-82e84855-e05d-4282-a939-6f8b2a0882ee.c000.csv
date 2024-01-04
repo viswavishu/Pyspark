@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45872,1,Cindy Patel,cindy3@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992
+SO45877,1,Jaclyn Zheng,jaclyn21@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45873,1,Ashlee Jai,ashlee18@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57875,1,Tabitha Rana,tabitha9@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO57848,1,Katelyn Cook,katelyn20@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO57855,4,Christy Hu,christy18@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO57891,1,Lisa Cai,lisa24@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388
+SO57890,3,Matthew Clark,matthew24@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57636,1,Claudia Zhao,claudia9@adventure-works.com,"Mountain-500 Silver, 44",1,564.99,45.1992
+SO57658,1,Damien Ma,damien12@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57654,2,Tamara Zeng,tamara11@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO57639,2,Luke Lal,luke18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57649,3,Blake Young,blake26@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57236,2,Bailey Cook,bailey19@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57226,3,Peter Raji,peter26@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57206,3,Angela Powell,angela11@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO57204,2,Melissa Powell,melissa3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

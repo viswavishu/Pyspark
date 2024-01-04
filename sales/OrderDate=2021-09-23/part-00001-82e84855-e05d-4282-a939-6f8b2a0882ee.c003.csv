@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56638,1,Marc Hernandez,marc7@adventure-works.com,"Touring-3000 Blue, 62",1,742.35,59.388
+SO56613,1,Brittany Henderson,brittany4@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO56635,2,Blake Garcia,blake16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56642,1,Kaitlin Gonzalez,kaitlin17@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO56623,2,Kevin Phillips,kevin43@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56679,1,Dakota Simmons,dakota12@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO56667,2,Casey Jai,casey12@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56684,2,Danny Suarez,danny20@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO56650,1,Franklin Xie,franklin21@adventure-works.com,"Mountain-500 Black, 48",1,539.99,43.1992
+SO56671,4,Kelvin Deng,kelvin43@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

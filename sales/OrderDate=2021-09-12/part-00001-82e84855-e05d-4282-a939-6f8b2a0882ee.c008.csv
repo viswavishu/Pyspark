@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56059,2,Samuel Hill,samuel42@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56024,1,Brenda Madan,brenda11@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56043,3,Robert Scott,robert56@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO56022,1,Stephanie Cox,stephanie16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56021,5,Crystal Zeng,crystal1@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

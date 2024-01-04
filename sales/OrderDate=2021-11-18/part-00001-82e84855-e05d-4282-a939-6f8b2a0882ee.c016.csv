@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60332,3,Darren Jim�nez,darren27@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO60339,3,Hannah Thompson,hannah13@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60378,1,Reginald Travers,reginald19@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388
+SO60348,1,Timothy Hall,timothy46@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60358,1,Devin Butler,devin52@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792

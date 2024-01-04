@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55762,3,Pedro Gonzalez,pedro18@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO55810,4,Jeffery Wu,jeffery7@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO55776,1,Erica He,erica17@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55745,1,Bruce Ruiz,bruce24@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55799,2,Barbara Xu,barbara22@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

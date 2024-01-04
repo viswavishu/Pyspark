@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52795,4,Mary Phillips,mary19@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO52822,2,Caleb Hayes,caleb19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52820,1,Janelle Subram,janelle10@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52809,3,Thomas Allen,thomas83@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52830,1,Tabitha Serrano,tabitha37@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256

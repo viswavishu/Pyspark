@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60951,1,Deb Wagner,deb6@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO60905,2,Bruce Serrano,bruce37@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60922,1,Katherine Bryant,katherine44@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60926,1,Benjamin Diaz,benjamin23@adventure-works.com,"Mountain-500 Black, 48",1,539.99,43.1992
+SO60899,1,Jasmine Stewart,jasmine22@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792

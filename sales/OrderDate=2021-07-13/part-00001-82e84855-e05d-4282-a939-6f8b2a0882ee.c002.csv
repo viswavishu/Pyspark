@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52510,2,Nicole Clark,nicole19@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO52494,1,Xavier Clark,xavier17@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO52471,1,Courtney Wright,courtney16@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52519,4,Bailey Carter,bailey30@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52512,1,Wyatt Hill,wyatt32@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51918,4,Jose Walker,jose66@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO51888,3,Brian Rogers,brian31@adventure-works.com,"Classic Vest, L",1,63.5,5.08
+SO51918,2,Jose Walker,jose66@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51883,1,Monique Hernandez,monique0@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51914,2,Eduardo Perez,eduardo36@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

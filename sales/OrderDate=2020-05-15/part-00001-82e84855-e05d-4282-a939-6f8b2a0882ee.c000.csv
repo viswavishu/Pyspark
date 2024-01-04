@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46488,1,Rodney Gutierrez,rodney7@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62684,1,Mason Hall,mason43@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO62637,1,Christy Ma,christy14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62634,2,Mary Sandidge,mary9@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO62652,1,Wyatt Coleman,wyatt57@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62661,3,Amanda Rogers,amanda2@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

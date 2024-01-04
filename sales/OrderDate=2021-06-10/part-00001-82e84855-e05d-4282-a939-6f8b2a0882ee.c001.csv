@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51347,3,Noah Powell,noah5@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51352,3,Aimee He,aimee13@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51342,1,Roberto Townsend,roberto12@adventure-works.com,"Road-250 Black, 58",1,2443.35,195.468
+SO51357,2,Natalie Phillips,natalie49@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO51340,2,Julie Shan,julie15@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

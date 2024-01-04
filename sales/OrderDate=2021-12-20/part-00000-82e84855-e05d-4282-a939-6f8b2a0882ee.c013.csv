@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62455,2,Jenny Andersen,jenny35@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62467,3,Alexis Coleman,alexis28@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62463,4,Evan Evans,evan24@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62409,1,Shawn Shan,shawn12@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO62433,1,Alex Ward,alex16@adventure-works.com,Touring Tire,1,28.99,2.3192

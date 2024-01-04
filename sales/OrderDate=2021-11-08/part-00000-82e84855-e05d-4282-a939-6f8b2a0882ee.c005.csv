@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59708,1,Alan Liang,alan20@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388
+SO59695,1,Gilbert Raje,gilbert35@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO59682,1,Katelyn Lopez,katelyn45@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO59681,3,April Shan,april8@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59662,1,Ryan Moore,ryan47@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

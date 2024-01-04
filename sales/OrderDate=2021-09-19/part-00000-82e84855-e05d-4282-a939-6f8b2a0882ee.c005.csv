@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56394,1,Brandon Davis,brandon43@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56390,1,Jerome Navarro,jerome8@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56425,2,Sheena Deng,sheena1@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56404,1,Clayton Xie,clayton23@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56409,4,Lisa Zhou,lisa12@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

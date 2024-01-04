@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58293,1,Alvin Chande,alvin36@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO58329,3,Grace Richardson,grace35@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58324,2,Kayla Foster,kayla40@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58318,1,Luke Simmons,luke4@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58296,3,Diana Gutierrez,diana10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO43788,1,Latoya Goel,latoya18@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO43790,1,Abigail Perry,abigail75@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO43785,1,Ivan Raman,ivan8@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616

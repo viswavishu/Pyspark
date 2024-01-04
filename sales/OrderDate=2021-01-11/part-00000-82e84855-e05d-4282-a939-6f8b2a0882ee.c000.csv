@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49276,1,Wesley He,wesley18@adventure-works.com,"Road-250 Black, 58",1,2181.5625,174.525
+SO49278,1,Madison Foster,madison28@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279
+SO49279,1,Tanya Ramos,tanya14@adventure-works.com,"Mountain-200 Black, 46",1,2049.0982,163.9279

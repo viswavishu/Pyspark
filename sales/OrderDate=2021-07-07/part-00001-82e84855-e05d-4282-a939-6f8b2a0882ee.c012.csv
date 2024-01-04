@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52202,2,Katherine Diaz,katherine48@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52182,2,Nathan Kumar,nathan25@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO52207,2,Michele Nath,michele19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52157,1,Jenny Zhang,jenny2@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO52206,4,Cedric Zhou,cedric9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

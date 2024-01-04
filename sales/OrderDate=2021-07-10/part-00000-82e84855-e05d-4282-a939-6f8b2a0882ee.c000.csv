@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52337,1,Kelly Hughes,kelly16@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52363,1,Thomas Long,thomas11@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO52358,2,George Patel,george9@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO52342,5,Elijah Coleman,elijah9@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO52347,1,Kara Chavez,kara13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

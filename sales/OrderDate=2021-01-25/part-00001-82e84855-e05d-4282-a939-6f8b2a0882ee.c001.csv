@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49411,1,Todd Wang,todd3@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468
+SO49414,1,Samantha Bennett,samantha26@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468

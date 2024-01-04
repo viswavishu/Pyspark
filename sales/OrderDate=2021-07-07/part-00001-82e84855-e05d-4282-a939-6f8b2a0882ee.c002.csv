@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52200,1,Adam Young,adam48@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52203,3,Chloe Nelson,chloe6@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52179,1,Tasha Nara,tasha17@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52197,1,Nicole Robinson,nicole18@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52188,1,Alfredo Jim�nez,alfredo6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

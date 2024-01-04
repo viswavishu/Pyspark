@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51514,1,Hector Torres,hector10@adventure-works.com,"Mountain-500 Silver, 40",1,564.99,45.1992
+SO51511,3,Tony Sharma,tony12@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51527,1,Mario Andersen,mario11@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO51521,1,Gabrielle Russell,gabrielle42@adventure-works.com,"Touring-3000 Blue, 58",1,742.35,59.388
+SO51511,1,Tony Sharma,tony12@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468

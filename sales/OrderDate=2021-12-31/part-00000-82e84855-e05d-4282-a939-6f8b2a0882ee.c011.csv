@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63106,5,Alberto Hernandez,alberto5@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO63091,1,Troy Patel,troy3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO63085,1,Miguel Phillips,miguel41@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO63116,1,Janet Ortega,janet27@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO63117,2,Tony Natsuhara,tony21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

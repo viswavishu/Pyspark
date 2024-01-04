@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56026,1,Jake Huang,jake6@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO56055,1,Matthew Brown,matthew10@adventure-works.com,"Mountain-500 Silver, 52",1,564.99,45.1992
+SO56035,1,Lucas Ross,lucas53@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO56054,1,Austin Flores,austin8@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO56021,2,Crystal Zeng,crystal1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

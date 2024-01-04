@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59118,1,Steve Wu,steve10@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO59115,3,Caroline Simmons,caroline16@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO59122,2,Raymond Arthur,raymond8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO59114,3,Lucas Martin,lucas28@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59093,1,Marissa Washington,marissa10@adventure-works.com,HL Road Tire,1,32.6,2.608

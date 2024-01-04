@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59259,1,Nathan Hughes,nathan7@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO59266,1,Alexis Ashe,alexis9@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO59225,3,Cindy Edwards,cindy20@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59262,1,Eugene Yang,eugene9@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO59241,1,Allison Scott,allison36@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592

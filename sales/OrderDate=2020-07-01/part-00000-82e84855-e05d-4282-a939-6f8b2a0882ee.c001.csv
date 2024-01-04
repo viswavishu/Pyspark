@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47073,1,Paige Sanders,paige26@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468

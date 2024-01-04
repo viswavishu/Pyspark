@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46690,1,Trisha Ma,trisha10@adventure-works.com,"Road-250 Red, 44",1,2443.35,195.468
+SO46688,1,Vanessa Bryant,vanessa19@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468
+SO46697,1,Chad Yuan,chad8@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525
+SO46693,1,Ethan Simmons,ethan11@adventure-works.com,"Road-250 Black, 44",1,2181.5625,174.525
+SO46696,1,Tamara Yuan,tamara18@adventure-works.com,"Road-250 Red, 52",1,2443.35,195.468

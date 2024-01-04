@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58640,2,Albert Blanco,albert15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58641,3,Andre Arun,andre6@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58643,2,Brenda Lopez,brenda20@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58667,2,Devin Bell,devin81@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58652,3,Arturo Sun,arturo14@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51191,1,Denise Martinez,denise18@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO51189,2,Tabitha Gomez,tabitha20@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51192,1,Lisa Cai,lisa24@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO51199,1,Ian Morgan,ian80@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO51201,2,Joel Patel,joel2@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

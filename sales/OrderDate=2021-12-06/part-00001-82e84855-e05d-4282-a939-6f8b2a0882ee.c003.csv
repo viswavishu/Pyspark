@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61584,1,Natalie Gonzalez,natalie60@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO61548,4,Katherine Perry,katherine33@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61542,2,Nina Xie,nina3@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61541,1,Krista Vazquez,krista14@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO61550,2,Morgan Bennett,morgan71@adventure-works.com,HL Mountain Tire,1,35.0,2.8

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58113,1,Cristina Nara,cristina15@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO58116,1,Mindy Kumar,mindy12@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO58105,1,Shawna Tang,shawna4@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58090,2,Megan Butler,megan63@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58089,1,Devin Brown,devin4@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

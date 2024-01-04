@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59246,2,Isabella Brooks,isabella8@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59270,2,Gina Hernandez,gina4@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59210,1,Mandy Gao,mandy16@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO59265,2,Edwin Lu,edwin12@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59260,2,Allison Mitchell,allison34@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51472,2,Kathleen Jimenez,kathleen7@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO51466,3,Adam Zhang,adam20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51466,2,Adam Zhang,adam20@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO51465,3,Taylor Cook,taylor5@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO51465,2,Taylor Cook,taylor5@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

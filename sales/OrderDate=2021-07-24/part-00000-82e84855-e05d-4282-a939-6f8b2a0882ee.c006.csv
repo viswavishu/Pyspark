@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53047,4,Cody Rivera,cody8@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO53020,1,Luis Diaz,luis21@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53060,2,Derek Chande,derek13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53035,1,Sara Watson,sara9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53058,2,Jarred Martin,jarred0@adventure-works.com,Touring Tire,1,28.99,2.3192

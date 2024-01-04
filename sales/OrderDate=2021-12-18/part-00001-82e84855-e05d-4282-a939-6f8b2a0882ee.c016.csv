@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62324,2,Sean Morgan,sean21@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO62316,1,Bailey Morris,bailey16@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62289,2,Ernest Zeng,ernest20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62383,2,Dennis Hu,dennis22@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62351,2,Susan Cai,susan32@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO62377,5,Dylan Bryant,dylan17@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO62358,3,Katherine Jenkins,katherine32@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62381,5,Gabrielle Mitchell,gabrielle54@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

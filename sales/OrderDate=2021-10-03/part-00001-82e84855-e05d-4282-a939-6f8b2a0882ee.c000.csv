@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57326,1,Zachary Henderson,zachary3@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO57369,1,Kristine Hernandez,kristine5@adventure-works.com,"Touring-3000 Yellow, 58",1,742.35,59.388
+SO57362,3,Warren Zhou,warren24@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57301,1,Heather Zhou,heather8@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO57332,1,Hunter Washington,hunter10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

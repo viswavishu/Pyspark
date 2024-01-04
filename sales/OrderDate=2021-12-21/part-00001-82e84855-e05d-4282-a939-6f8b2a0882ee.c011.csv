@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62520,3,Jaclyn Guo,jaclyn19@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62488,3,Charles Cooper,charles57@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO62479,2,Kelli Becker,kelli43@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO62475,3,Warren Ma,warren30@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO62524,2,Tina Fernandez,tina17@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

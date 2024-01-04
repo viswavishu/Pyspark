@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52454,1,Robin Alvarez,robin2@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388
+SO52457,1,Kenneth Lal,kenneth8@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO52446,1,Chloe Campbell,chloe4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52436,2,Dakota Patterson,dakota9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52461,3,Savannah Allen,savannah46@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

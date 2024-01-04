@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61849,4,Haley Simmons,haley34@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61830,2,Victoria Lewis,victoria20@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61809,4,Angelica Diaz,angelica21@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO61843,2,Isaiah Murphy,isaiah14@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO61813,1,Alisha Chande,alisha39@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

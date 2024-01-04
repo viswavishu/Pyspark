@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58486,3,Clarence Gao,clarence8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO58502,3,Adam Young,adam48@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58522,1,James Russell,james35@adventure-works.com,"Mountain-500 Silver, 48",1,564.99,45.1992
+SO58533,2,Jacquelyn Suarez,jacquelyn20@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58536,4,Jessie Zhao,jessie16@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

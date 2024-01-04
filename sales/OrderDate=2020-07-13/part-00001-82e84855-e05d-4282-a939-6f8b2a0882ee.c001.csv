@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47164,1,Wesley Liang,wesley16@adventure-works.com,"Mountain-200 Black, 42",1,2049.0982,163.9279

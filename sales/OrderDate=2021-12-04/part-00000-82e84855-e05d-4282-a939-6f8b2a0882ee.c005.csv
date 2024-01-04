@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61439,1,Lindsey Pal,lindsey13@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO61429,1,Kristi Serrano,kristi12@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO61449,2,Samantha Jenkins,samantha32@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61456,1,Sara Adams,sara42@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO61462,2,Zachary Lewis,zachary28@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

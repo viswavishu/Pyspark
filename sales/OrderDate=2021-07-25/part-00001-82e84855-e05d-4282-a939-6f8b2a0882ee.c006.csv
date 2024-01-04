@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53078,2,Drew Pal,drew13@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53124,1,Taylor Peterson,taylor17@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388
+SO53091,2,Gabriella Scott,gabriella37@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO53087,1,Kaylee Blue,kaylee10@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO53122,4,Jon Luo,jon46@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

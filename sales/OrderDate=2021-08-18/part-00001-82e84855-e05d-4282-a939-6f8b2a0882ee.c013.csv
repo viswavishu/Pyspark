@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54533,2,Rodney Ramos,rodney13@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO54553,2,Tracy She,tracy2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54559,1,Jason Adams,jason44@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54544,2,Isabel Long,isabel10@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54552,2,William Lee,william28@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

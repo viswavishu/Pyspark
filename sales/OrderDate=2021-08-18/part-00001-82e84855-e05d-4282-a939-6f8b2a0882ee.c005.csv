@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54528,1,Colleen Xie,colleen27@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO54569,1,Roberto Jim�nez,roberto5@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54561,5,Roger Xu,roger17@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO54579,5,Ricardo Xie,ricardo3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54542,2,Cassidy Perry,cassidy8@adventure-works.com,ML Road Tire,1,24.99,1.9992

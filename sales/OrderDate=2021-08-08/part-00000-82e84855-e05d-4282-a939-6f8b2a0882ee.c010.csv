@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53999,1,Danielle Ramirez,danielle9@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO53996,1,Marcus Davis,marcus5@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO53984,1,Colleen Zeng,colleen23@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54011,2,Jade James,jade5@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO54018,1,Brianna Lewis,brianna20@adventure-works.com,HL Mountain Tire,1,35.0,2.8

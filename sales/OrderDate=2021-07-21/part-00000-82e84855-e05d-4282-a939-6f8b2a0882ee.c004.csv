@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52907,2,Tabitha Ruiz,tabitha21@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO52890,1,Marie Munoz,marie31@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO52911,2,Cassie Shan,cassie9@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO52927,1,Randall Torres,randall13@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO52916,3,Jordan Carter,jordan39@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

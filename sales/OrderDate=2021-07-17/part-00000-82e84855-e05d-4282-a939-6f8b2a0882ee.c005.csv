@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52681,2,Kaylee Baker,kaylee39@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO52683,2,Natalie Jones,natalie71@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52724,2,Caleb Li,caleb22@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO52717,1,Roger Shen,roger29@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792
+SO52713,1,Stacey Ye,stacey10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

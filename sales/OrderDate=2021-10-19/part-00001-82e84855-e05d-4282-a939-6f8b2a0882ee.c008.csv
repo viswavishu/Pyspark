@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58226,2,Jeremy Nelson,jeremy12@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58229,2,Jennifer Bennett,jennifer76@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58233,2,Gabriella Ramirez,gabriella4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58229,1,Jennifer Bennett,jennifer76@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58238,2,Casey Navarro,casey33@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

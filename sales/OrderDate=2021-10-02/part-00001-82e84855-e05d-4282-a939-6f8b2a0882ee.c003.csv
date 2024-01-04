@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57255,1,Gabriel Wang,gabriel21@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO57246,1,Brent Zhou,brent8@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO57261,1,Cole Brooks,cole2@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57293,1,Elizabeth Johnson,elizabeth5@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO57257,2,Bianca Zimmerman,bianca0@adventure-works.com,Road Tire Tube,1,3.99,0.3192

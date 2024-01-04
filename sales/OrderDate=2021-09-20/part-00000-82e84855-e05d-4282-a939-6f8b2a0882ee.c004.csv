@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56482,2,Mariah Cooper,mariah33@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56479,2,Haley Washington,haley32@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO56467,2,Nicole Price,nicole48@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56461,1,Billy Hernandez,billy5@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO56457,1,Bryce Brooks,bryce2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

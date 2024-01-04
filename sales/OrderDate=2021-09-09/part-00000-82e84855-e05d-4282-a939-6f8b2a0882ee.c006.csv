@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55879,1,Eduardo Jackson,eduardo10@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55876,1,Molly Sai,molly6@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO55872,3,Pamela Schmidt,pamela13@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO55911,2,Thomas Yang,thomas30@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO55882,1,Bridget Anand,bridget22@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

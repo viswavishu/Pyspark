@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61641,3,Zachary Thompson,zachary46@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO61618,2,Isaiah King,isaiah43@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO61599,2,Ann Patel,ann8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61616,1,Daniel Jackson,daniel16@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61613,1,Ashley Henderson,ashley31@adventure-works.com,HL Road Tire,1,32.6,2.608

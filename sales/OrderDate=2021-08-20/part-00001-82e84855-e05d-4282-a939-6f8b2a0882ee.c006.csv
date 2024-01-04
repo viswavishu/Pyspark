@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54675,2,Jada Morgan,jada14@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO54683,1,Hannah Smith,hannah1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54665,4,Joel Rodriguez,joel18@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54693,2,Shannon Gutierrez,shannon32@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO54707,1,Juan James,juan9@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188

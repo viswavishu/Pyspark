@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62671,2,Cara Zeng,cara18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62693,1,Orlando Carlson,orlando18@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO62650,1,Devin Wood,devin68@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62668,2,Jessie Jimenez,jessie3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62684,4,Mason Hall,mason43@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

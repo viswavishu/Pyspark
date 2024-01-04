@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60672,1,Kaylee Young,kaylee40@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60646,2,Damien Zhu,damien11@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60662,5,Hailey Griffin,hailey41@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO60651,1,Ronnie Ma,ronnie14@adventure-works.com,"Mountain-500 Silver, 52",1,564.99,45.1992
+SO60685,2,Louis Zhang,louis38@adventure-works.com,HL Road Tire,1,32.6,2.608

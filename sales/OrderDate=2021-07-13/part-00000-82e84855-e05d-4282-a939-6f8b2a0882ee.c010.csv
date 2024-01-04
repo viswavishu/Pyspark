@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52487,2,Samantha Jenkins,samantha32@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52505,3,Devon Beck,devon17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52510,1,Nicole Clark,nicole19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52486,3,Angela Alexander,angela21@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52481,2,Candace Sai,candace5@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

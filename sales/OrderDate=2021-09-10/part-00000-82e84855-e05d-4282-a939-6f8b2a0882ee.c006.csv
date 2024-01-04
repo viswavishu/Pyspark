@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55924,4,Kevin Bryant,kevin20@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO55963,1,Alyssa Moore,alyssa7@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO55956,3,Gabriella Morris,gabriella17@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO55930,1,Melissa Bailey,melissa38@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55955,3,Paige Rivera,paige41@adventure-works.com,ML Road Tire,1,24.99,1.9992

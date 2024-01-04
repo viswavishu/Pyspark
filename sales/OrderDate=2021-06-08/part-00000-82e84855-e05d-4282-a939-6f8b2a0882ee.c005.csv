@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51315,2,Christy Zhu,christy12@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO51316,3,Bethany Deng,bethany5@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO51316,1,Bethany Deng,bethany5@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO51320,2,Kelvin Luo,kelvin3@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO51307,1,Shaun Raji,shaun21@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992

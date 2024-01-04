@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53408,3,Jay Patel,jay9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53424,2,Rachel Bryant,rachel66@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53441,4,Dale Raje,dale11@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO53426,1,Louis Xu,louis6@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53406,1,Kristi Smith,kristi25@adventure-works.com,HL Mountain Tire,1,35.0,2.8

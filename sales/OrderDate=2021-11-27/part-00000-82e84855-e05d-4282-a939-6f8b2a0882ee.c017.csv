@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60947,4,Rachel Sanders,rachel46@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO60943,2,Bryce Murphy,bryce14@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO60942,2,Zoe Rivera,zoe15@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60900,2,Meredith Sai,meredith4@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

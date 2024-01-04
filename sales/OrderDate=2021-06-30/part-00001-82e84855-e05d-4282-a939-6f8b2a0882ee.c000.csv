@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51686,1,Connor Nelson,connor38@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO51679,2,Trevor Bryant,trevor18@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO51689,3,Jamie Jimenez,jamie29@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51672,1,Benjamin Thompson,benjamin52@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO51684,3,Ruben Mu�oz,ruben30@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

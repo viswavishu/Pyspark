@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54581,2,Alex Bell,alex18@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54560,2,Connie Rai,connie4@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO54534,1,Natasha Rubio,natasha21@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54563,3,Molly Sanchez,molly19@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54566,1,Pedro Navarro,pedro30@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

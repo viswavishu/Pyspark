@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58242,1,Amy Chow,amy10@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO58214,1,Haley Long,haley28@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58227,2,David Garcia,david79@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58198,2,Francis Navarro,francis7@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO58193,2,Katherine Gonzales,katherine43@adventure-works.com,HL Mountain Tire,1,35.0,2.8

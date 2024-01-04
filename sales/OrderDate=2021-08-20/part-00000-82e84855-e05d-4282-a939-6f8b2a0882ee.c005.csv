@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54699,2,Casey Yuan,casey7@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO54676,3,Hannah Walker,hannah21@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54707,4,Juan James,juan9@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO54702,2,Alexandra Garcia,alexandra80@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54681,2,Andrea Perez,andrea34@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

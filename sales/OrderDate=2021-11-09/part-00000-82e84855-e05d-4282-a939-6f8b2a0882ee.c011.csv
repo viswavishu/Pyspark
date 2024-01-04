@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59746,1,Carrie Schmidt,carrie17@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO59731,1,Gabriel Flores,gabriel9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59747,2,Alyssa Howard,alyssa38@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59714,1,Erick Madan,erick7@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO59748,1,Mariah Foster,mariah21@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992

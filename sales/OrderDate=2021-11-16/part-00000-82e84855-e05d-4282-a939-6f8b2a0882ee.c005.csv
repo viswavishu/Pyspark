@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60196,1,Jennifer Alexander,jennifer92@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO60200,2,Ryan Thompson,ryan38@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60185,2,Karen Lin,karen17@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60233,7,Jason Mitchell,jason40@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60231,1,Emmanuel Smith,emmanuel8@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

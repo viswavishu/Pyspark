@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55003,1,Casey Browning,casey39@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54988,1,Sean Evans,sean31@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55008,1,Stuart Railson,stuart3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55023,1,Alisha Goel,alisha44@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54976,2,Roy Srini,roy9@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192

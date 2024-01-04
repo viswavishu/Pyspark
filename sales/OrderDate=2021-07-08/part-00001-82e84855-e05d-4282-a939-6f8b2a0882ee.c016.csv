@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52244,2,Yolanda Yuan,yolanda6@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52232,1,Isabella Jackson,isabella67@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52234,1,Morgan Scott,morgan10@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52248,3,Kara Andersen,kara12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52242,1,Nicholas Lewis,nicholas1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52501,1,Catherine Richardson,catherine8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52481,1,Candace Sai,candace5@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO52518,1,Alexandra Thomas,alexandra74@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO52469,4,Latoya Xu,latoya4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52502,4,Melissa Blue,melissa36@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

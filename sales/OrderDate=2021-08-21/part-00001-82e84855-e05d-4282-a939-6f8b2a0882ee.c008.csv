@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54744,2,J�sus Gutierrez,j�sus10@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54763,2,Jeremy Campbell,jeremy17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54736,3,Rafael Chen,rafael2@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO54746,1,Pedro Chapman,pedro2@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54741,1,Sam Foster,sam2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

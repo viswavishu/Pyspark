@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56754,3,Patrick James,patrick5@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56701,2,Mallory Gomez,mallory9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56741,1,Antonio Bryant,antonio18@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO56714,1,Jackson Sharma,jackson3@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56696,2,Rafael Andersen,rafael37@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

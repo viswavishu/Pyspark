@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58816,2,Carla Rana,carla13@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58794,3,Alexandra Morris,alexandra3@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO58784,4,Dalton Bell,dalton85@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO58784,5,Dalton Bell,dalton85@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58834,2,Kelvin He,kelvin37@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

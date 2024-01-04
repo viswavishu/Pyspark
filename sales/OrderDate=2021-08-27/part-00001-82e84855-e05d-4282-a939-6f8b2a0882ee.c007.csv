@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55048,2,Grace Russell,grace66@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55041,1,Jacqueline Simmons,jacqueline16@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55043,1,Jeremy Wright,jeremy9@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55035,1,Preston Perez,preston19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55042,1,Gloria Carlson,gloria19@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592

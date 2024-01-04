@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49317,1,Ian King,ian25@adventure-works.com,"Road-550-W Yellow, 38",1,1000.4375,80.035
+SO49321,1,Taylor Flores,taylor37@adventure-works.com,"Mountain-200 Silver, 46",1,2071.4196,165.7136
+SO49315,1,Stacey Yang,stacey5@adventure-works.com,"Mountain-200 Black, 46",1,2049.0982,163.9279

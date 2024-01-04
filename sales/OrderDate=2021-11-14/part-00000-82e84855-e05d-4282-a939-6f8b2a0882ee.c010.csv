@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60113,1,Sierra Evans,sierra0@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO60063,1,Heidi Sai,heidi8@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60053,1,Johnathan Rana,johnathan13@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60093,2,Isabelle Butler,isabelle13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60051,2,Gary Munoz,gary18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

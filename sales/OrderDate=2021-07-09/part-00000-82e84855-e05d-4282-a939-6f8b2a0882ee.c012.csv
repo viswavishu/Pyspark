@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52310,3,Eugene Xu,eugene16@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO52305,2,Cesar Rodriguez,cesar19@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO52321,5,Lawrence Blanco,lawrence14@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO52295,2,Priscilla Yuan,priscilla6@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52287,2,Gerald Martin,gerald8@adventure-works.com,Road Tire Tube,1,3.99,0.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58192,2,Francisco Rodriguez,francisco21@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO58224,3,Rachel Cook,rachel32@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58192,1,Francisco Rodriguez,francisco21@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO58218,2,Brianna Alexander,brianna64@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58239,1,Leah Guo,leah14@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792

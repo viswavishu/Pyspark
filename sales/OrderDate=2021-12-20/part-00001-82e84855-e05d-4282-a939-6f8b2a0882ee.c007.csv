@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62432,1,Erick Garcia,erick14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62439,2,Colleen Lu,colleen11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62426,3,Denise Perez,denise22@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62436,5,Ann Fernandez,ann20@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO62402,1,Shannon Vazquez,shannon36@adventure-works.com,Road Tire Tube,1,3.99,0.3192

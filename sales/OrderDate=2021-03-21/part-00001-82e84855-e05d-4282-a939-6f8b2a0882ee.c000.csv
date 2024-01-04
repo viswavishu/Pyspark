@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO50100,1,Maria Hall,maria64@adventure-works.com,"Road-550-W Yellow, 42",1,1000.4375,80.035
+SO50099,1,Oscar Henderson,oscar13@adventure-works.com,"Road-650 Red, 58",1,782.99,62.6392
+SO50097,1,Yolanda Simpson,yolanda2@adventure-works.com,"Road-650 Red, 60",1,782.99,62.6392

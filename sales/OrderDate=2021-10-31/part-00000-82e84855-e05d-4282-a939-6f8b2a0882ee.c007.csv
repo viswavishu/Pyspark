@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59126,2,Douglas Subram,douglas17@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59138,1,Alexandra Hall,alexandra89@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO59091,1,Carlos Nelson,carlos37@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59079,3,Blake Butler,blake62@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59138,3,Alexandra Hall,alexandra89@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

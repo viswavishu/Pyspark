@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51680,1,Janelle Sanchez,janelle17@adventure-works.com,"Touring-3000 Blue, 44",1,742.35,59.388
+SO51683,4,Chad Kumar,chad9@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO51684,1,Ruben Mu�oz,ruben30@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO51678,1,Tiffany Li,tiffany3@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO51672,3,Benjamin Thompson,benjamin52@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

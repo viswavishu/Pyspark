@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO49203,1,Louis Ye,louis3@adventure-works.com,"Road-650 Red, 52",1,782.99,62.6392
+SO49215,1,Kathryn Deng,kathryn1@adventure-works.com,"Road-650 Red, 62",1,782.99,62.6392
+SO49206,1,Adam Powell,adam6@adventure-works.com,"Road-250 Black, 48",1,2181.5625,174.525
+SO49208,1,Alexis Powell,alexis31@adventure-works.com,"Road-250 Black, 48",1,2181.5625,174.525

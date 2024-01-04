@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60322,4,Virginia Mehta,virginia16@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60349,2,Clayton She,clayton20@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60336,1,Tonya Nath,tonya18@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO60335,2,Larry Vazquez,larry17@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60360,1,Jennifer Adams,jennifer18@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

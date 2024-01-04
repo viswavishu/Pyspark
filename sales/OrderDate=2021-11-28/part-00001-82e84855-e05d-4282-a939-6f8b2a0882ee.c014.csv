@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60986,2,Jasmine Brown,jasmine4@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO60991,3,Gilbert Luo,gilbert27@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60986,1,Jasmine Brown,jasmine4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61026,1,Christine Shan,christine5@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO60973,3,Natalie Martinez,natalie85@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

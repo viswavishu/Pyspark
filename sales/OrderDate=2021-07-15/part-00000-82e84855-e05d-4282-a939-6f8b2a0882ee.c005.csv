@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52601,1,Damien Beck,damien35@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52608,1,Carmen Arthur,carmen9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52600,1,Caroline Coleman,caroline8@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52611,2,Bailey Lopez,bailey41@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO52601,2,Damien Beck,damien35@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62161,1,Brandi Alonso,brandi8@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO62212,1,Mackenzie Cook,mackenzie20@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO62174,1,Bruce Sara,bruce9@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO62176,2,Alejandro She,alejandro26@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO62195,2,Justin Lee,justin50@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60047,1,Gabriel Roberts,gabriel34@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60090,1,Isaiah Baker,isaiah31@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO60112,1,Natalie Mitchell,natalie54@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO60100,1,Brian Lauer,brian10@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388
+SO60089,2,Jasmine Lee,jasmine19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55732,3,Alisha Cai,alisha22@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO55714,1,Alvin Anand,alvin43@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55719,1,Brandy Martinez,brandy14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55692,1,Isaac Cooper,isaac8@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO55711,2,Sydney Walker,sydney85@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

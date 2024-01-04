@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62115,2,Morgan Hall,morgan45@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO62107,2,Christian Rodriguez,christian39@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62121,2,Rebekah Carlson,rebekah38@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO62118,3,Carolyn Serrano,carolyn37@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62128,3,Marissa Butler,marissa11@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

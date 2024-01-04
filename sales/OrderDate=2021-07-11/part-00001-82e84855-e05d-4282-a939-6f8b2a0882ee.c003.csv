@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52388,3,Joan James,joan3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52390,1,Hailey Peterson,hailey14@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO52400,1,Mariah Coleman,mariah10@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO52378,2,Dylan Simmons,dylan14@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52397,1,Greg Taylor,greg10@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

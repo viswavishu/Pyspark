@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54267,2,Edgar Sanchez,edgar21@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54299,4,Tristan Ross,tristan4@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO54254,2,Madison Clark,madison20@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO54262,1,Sydney Clark,sydney81@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO54258,1,Christian Jenkins,christian21@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61361,2,Priscilla Deng,priscilla1@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO61320,1,Arthur Martin,arthur23@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61317,1,Shaun Black,shaun20@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61314,1,Samantha Russell,samantha42@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO61321,1,Renee Sanz,renee18@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

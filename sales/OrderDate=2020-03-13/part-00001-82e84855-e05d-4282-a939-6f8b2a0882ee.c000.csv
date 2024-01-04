@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45892,1,Valerie She,valerie25@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45893,1,Connor Bryant,connor12@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45890,1,Frank Navarro,frank17@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992

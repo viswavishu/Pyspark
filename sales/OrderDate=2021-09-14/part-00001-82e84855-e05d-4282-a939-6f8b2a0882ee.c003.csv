@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56147,1,Samantha Jenkins,samantha32@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO56165,1,Bradley Andersen,bradley15@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56145,2,Armando Schmidt,armando20@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56150,1,Xavier Russell,xavier60@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO56149,1,Rachel Butler,rachel62@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

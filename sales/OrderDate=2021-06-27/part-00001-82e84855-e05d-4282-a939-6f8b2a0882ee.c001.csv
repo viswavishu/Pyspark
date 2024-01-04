@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51622,3,Chelsea Martinez,chelsea19@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO51630,1,David Williams,david75@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO51620,3,Chad Luo,chad7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO51626,1,Zoe Bailey,zoe14@adventure-works.com,"Mountain-500 Silver, 44",1,564.99,45.1992
+SO51625,3,Mackenzie Lopez,mackenzie42@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60136,2,Stephanie Washington,stephanie40@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60147,2,Benjamin Wang,benjamin26@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60173,1,Isaiah Howard,isaiah10@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO60142,2,Ian Ward,ian69@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO60136,4,Stephanie Washington,stephanie40@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

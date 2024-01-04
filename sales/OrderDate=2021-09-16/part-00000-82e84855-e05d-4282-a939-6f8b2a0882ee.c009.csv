@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56240,2,Brianna Martinez,brianna16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56250,1,Alexandra Young,alexandra91@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO56271,1,Angel Perez,angel25@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO56247,2,Sara Evans,sara25@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56269,3,Melinda Gill,melinda9@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

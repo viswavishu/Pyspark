@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52937,1,Katelyn Baker,katelyn40@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO52945,2,Carla Van,carla7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52936,1,Devin Long,devin48@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO52956,1,Victoria Russell,victoria66@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO52936,2,Devin Long,devin48@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59850,2,Kaylee Young,kaylee40@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59880,3,Jessie Vazquez,jessie33@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59870,4,Evan Richardson,evan10@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO59861,3,Carly Beck,carly18@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59832,2,Clinton Moreno,clinton3@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

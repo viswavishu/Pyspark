@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60691,2,Gabriel Young,gabriel46@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO60664,1,Kari Garcia,kari15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60637,1,Jesse King,jesse43@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO60689,2,Miguel Bennett,miguel47@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60671,3,Amanda Cook,amanda3@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

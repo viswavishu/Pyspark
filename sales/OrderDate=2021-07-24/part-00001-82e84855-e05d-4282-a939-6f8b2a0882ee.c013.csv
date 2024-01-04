@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53051,1,Jonathan Clark,jonathan73@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO53061,2,Stacey She,stacey24@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53039,1,Donna Chander,donna14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53044,1,Francisco Srini,francisco9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53048,1,Tyler Taylor,tyler17@adventure-works.com,"Mountain-500 Silver, 40",1,564.99,45.1992

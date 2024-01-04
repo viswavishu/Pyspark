@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59146,1,Omar Ye,omar9@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO59195,2,Alexia Hayes,alexia19@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO59193,1,Margaret Xu,margaret18@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO59161,4,Isabella Long,isabella20@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59209,2,Jon Gao,jon35@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

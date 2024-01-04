@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54827,1,Francisco Ashe,francisco7@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO54876,2,Tammy Malhotra,tammy5@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54843,1,Taylor Rivera,taylor10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54828,1,Antonio Bennett,antonio1@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO54836,1,Hailey Patterson,hailey30@adventure-works.com,HL Road Tire,1,32.6,2.608

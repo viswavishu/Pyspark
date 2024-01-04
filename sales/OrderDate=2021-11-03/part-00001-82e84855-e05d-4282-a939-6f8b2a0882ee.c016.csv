@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59298,1,Victoria Miller,victoria7@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59275,2,Kari Subram,kari13@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59310,3,Taylor Bailey,taylor9@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59293,2,Marcus Brooks,marcus75@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59306,2,Aaron Phillips,aaron38@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

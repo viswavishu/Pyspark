@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56777,2,Arthur Gutierrez,arthur35@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56771,4,Chloe Wilson,chloe40@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56792,2,Theodore Romero,theodore9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56787,2,Douglas Suri,douglas4@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56768,2,Alyssa Sanders,alyssa46@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53353,3,Marco Madan,marco8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53380,2,Peter Chander,peter20@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO53347,2,Jodi Sharma,jodi9@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53353,1,Marco Madan,marco8@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO53385,2,Henry Garcia,henry16@adventure-works.com,HL Mountain Tire,1,35.0,2.8

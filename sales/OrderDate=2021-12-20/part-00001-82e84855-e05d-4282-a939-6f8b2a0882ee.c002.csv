@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62447,3,Jon Tang,jon44@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62397,1,Sergio Rodriguez,sergio20@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO62405,1,Darren Prasad,darren12@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62452,2,Micheal Gill,micheal9@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO62442,4,Cassidy Ross,cassidy4@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

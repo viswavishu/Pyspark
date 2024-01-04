@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54658,2,Kaitlin McDonald,kaitlin14@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54662,1,Fernando Barnes,fernando47@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54701,3,Melanie Ramirez,melanie32@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54688,1,Isaiah Ward,isaiah11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54706,1,Curtis Lu,curtis9@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256

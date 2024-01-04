@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54610,1,Jared Peterson,jared8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54594,1,Leslie Moreno,leslie7@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54587,1,Troy Sai,troy6@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO54598,2,Francis Hernandez,francis1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54623,1,Julia Kelly,julia64@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

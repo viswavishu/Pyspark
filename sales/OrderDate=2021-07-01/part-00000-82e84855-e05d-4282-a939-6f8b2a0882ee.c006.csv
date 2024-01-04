@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51880,1,Bradley Jai,bradley13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51894,2,Seth Thomas,seth11@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO51909,2,April Shan,april8@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO51879,1,Dominique Martinez,dominique15@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO51876,2,Julie Xu,julie9@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

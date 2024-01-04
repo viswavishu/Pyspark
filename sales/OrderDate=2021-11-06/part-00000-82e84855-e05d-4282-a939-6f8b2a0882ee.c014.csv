@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59563,1,Marshall Rai,marshall38@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO59515,2,Tyler Garcia,tyler12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59576,3,Theodore Torres,theodore12@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59495,1,Jenny Liang,jenny18@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO59578,3,Ruben Mu�oz,ruben30@adventure-works.com,"Classic Vest, M",1,63.5,5.08

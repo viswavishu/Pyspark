@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55949,1,Eduardo Butler,eduardo58@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55931,1,Nathan Jones,nathan61@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55940,2,Fernando Hughes,fernando54@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO55926,2,Shannon Sun,shannon12@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55926,1,Shannon Sun,shannon12@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188

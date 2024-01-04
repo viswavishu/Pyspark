@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62590,1,Marissa Powell,marissa6@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO62587,3,Brandy Rana,brandy7@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO62617,3,Amber Hill,amber13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62603,2,Jonathan Parker,jonathan37@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62607,1,Arturo Yang,arturo5@adventure-works.com,Touring Tire,1,28.99,2.3192

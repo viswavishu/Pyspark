@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59154,1,Katherine Young,katherine98@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO59159,2,Alyssa Ashe,alyssa9@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59168,1,Connor Allen,connor50@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59145,2,Alison Luo,alison5@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59150,5,Mario Pal,mario10@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72

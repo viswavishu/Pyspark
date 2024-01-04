@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57537,3,Jimmy Blanco,jimmy19@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO57554,1,Henry Garcia,henry16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57577,3,Thomas Diaz,thomas24@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO57585,2,Jaclyn Xu,jaclyn28@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57547,1,Noah Hall,noah72@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

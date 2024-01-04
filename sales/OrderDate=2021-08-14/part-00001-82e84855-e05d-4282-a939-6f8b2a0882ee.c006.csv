@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54366,1,Kelsey Becker,kelsey19@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO54361,2,Paula Romero,paula12@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO54328,2,Brandy Malhotra,brandy0@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO54346,2,Haley Brooks,haley17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54357,1,Megan Stone,megan64@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

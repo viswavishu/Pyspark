@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61677,3,James Hernandez,james68@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO61665,3,Harold Prasad,harold6@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO61704,2,Caleb Gonzales,caleb14@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61685,1,Carlos Hall,carlos50@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61677,2,James Hernandez,james68@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

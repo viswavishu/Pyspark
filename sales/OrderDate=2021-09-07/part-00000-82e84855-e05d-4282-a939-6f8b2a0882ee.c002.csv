@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55761,2,Abigail Alexander,abigail44@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55793,2,Cynthia Srini,cynthia13@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO55740,2,Karen Lu,karen21@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO55764,1,Tyler Wilson,tyler13@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO55780,4,Cole Reed,cole21@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

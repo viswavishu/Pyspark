@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54933,1,Kristi Moreno,kristi2@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO54953,1,Katie Deng,katie4@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54972,4,Darren Hernandez,darren25@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO54951,2,Shelby Morris,shelby18@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO54933,2,Kristi Moreno,kristi2@adventure-works.com,ML Road Tire,1,24.99,1.9992

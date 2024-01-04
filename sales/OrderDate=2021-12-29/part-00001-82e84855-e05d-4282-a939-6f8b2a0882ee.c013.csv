@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62981,4,Luke Hall,luke51@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62985,1,Javier Ortega,javier15@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO62970,3,Oscar Hayes,oscar8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62972,1,Tabitha Smith,tabitha6@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO62951,3,Ronnie Xu,ronnie10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

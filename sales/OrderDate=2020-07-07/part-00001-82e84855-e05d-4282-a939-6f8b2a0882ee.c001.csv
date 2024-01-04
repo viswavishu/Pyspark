@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47122,1,Destiny Morgan,destiny29@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525

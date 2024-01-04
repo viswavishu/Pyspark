@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61531,3,Brooke Rogers,brooke17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61488,3,Michele Schmidt,michele25@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO61491,3,Latasha Dominguez,latasha12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61507,1,Joan Cook,joan2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61535,1,Alexandria Powell,alexandria8@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992

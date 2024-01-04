@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55775,2,Wayne Xu,wayne6@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55801,3,Colleen Raje,colleen37@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO55758,2,Seth Nelson,seth36@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55780,3,Cole Reed,cole21@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO55801,1,Colleen Raje,colleen37@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57991,2,Dawn Zhao,dawn12@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO58016,1,Alexander Harris,alexander17@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO57987,3,Neil Blanco,neil14@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO57991,1,Dawn Zhao,dawn12@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57995,1,Alexandria Long,alexandria9@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

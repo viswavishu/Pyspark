@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61583,1,Ronald Kapoor,ronald3@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO61574,1,Laura Zhu,laura19@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO61595,4,Kristin Pal,kristin13@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO61579,3,Dennis Zhu,dennis15@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO61586,3,Maria Perry,maria31@adventure-works.com,Road Tire Tube,1,3.99,0.3192

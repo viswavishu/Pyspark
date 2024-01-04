@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54027,1,Andre Arun,andre6@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO54023,3,Alyssa Cooper,alyssa35@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO54002,2,Alexandra Morgan,alexandra6@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO53991,2,Abigail Jones,abigail50@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54024,3,Adrian Ramirez,adrian9@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54650,1,Eddie Johnsen,eddie6@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO54628,1,J�sus Carlson,j�sus17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54592,3,Troy Chandra,troy2@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54617,2,Katelyn Wright,katelyn44@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO54630,3,Cara He,cara14@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

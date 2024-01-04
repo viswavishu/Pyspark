@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62851,1,Amber Baker,amber17@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO62871,2,Katrina Tang,katrina3@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO62857,1,Haley Wood,haley21@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

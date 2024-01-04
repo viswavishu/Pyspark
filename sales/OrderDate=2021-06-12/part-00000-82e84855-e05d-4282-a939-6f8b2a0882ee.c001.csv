@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51383,1,Noah Mitchell,noah38@adventure-works.com,"Touring-3000 Blue, 50",1,742.35,59.388
+SO51381,1,Julia Wright,julia17@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO51377,1,Linda Alvarez,linda19@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO51388,1,Ross Sanz,ross38@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO51379,3,Andrew Robinson,andrew25@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

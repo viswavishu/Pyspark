@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58450,1,Theodore Gomez,theodore1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58443,3,Jose Kumar,jose22@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58436,2,Logan Foster,logan17@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58422,4,Wendy Hernandez,wendy4@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO58424,1,Henry Garcia,henry16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

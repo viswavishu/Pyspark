@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53958,2,Sarah Jones,sarah5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53929,2,Gary Diaz,gary13@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53957,3,Harold Sara,harold7@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO53924,1,Adrienne Martin,adrienne0@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO53965,1,Steven Kelly,steven12@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

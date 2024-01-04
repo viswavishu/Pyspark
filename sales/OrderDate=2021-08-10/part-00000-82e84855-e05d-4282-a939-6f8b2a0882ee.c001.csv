@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54141,3,Alexandria Patterson,alexandria10@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54115,4,James Hall,james71@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54122,3,Alvin Tang,alvin26@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO54112,1,Ryan Thompson,ryan38@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO54116,2,Mason Roberts,mason25@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61676,2,Gavin Washington,gavin12@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO61667,3,Eduardo White,eduardo11@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO61723,1,Albert Serrano,albert16@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO61721,1,Donald Perez,donald23@adventure-works.com,"Touring-3000 Yellow, 50",1,742.35,59.388
+SO61706,2,Madeline Collins,madeline2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

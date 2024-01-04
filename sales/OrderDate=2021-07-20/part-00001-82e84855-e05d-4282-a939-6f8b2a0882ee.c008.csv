@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52880,1,Cara She,cara19@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO52882,1,Ann Suri,ann5@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188
+SO52847,2,Roger Andersen,roger40@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52881,2,Destiny Hall,destiny22@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52869,1,Victoria Howard,victoria38@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

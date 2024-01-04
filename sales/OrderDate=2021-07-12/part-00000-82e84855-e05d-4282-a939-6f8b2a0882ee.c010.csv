@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52458,4,Jaime Gutierrez,jaime12@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO52409,5,Sydney Bryant,sydney40@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52424,1,Alyssa Brown,alyssa3@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52419,1,Sierra Young,sierra15@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52468,4,Tony Nara,tony19@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60838,1,Luke Adams,luke46@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO60849,1,Jerry Andersen,jerry14@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO60852,2,Katelyn Hall,katelyn46@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60849,3,Jerry Andersen,jerry14@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO60888,1,Wendy Gill,wendy13@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992

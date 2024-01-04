@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61644,2,Jordan Parker,jordan53@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO61642,4,Jeremy Roberts,jeremy15@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61633,2,Dalton Hall,dalton23@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61621,2,Devin Sanchez,devin83@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO61635,5,Kaylee Kelly,kaylee1@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

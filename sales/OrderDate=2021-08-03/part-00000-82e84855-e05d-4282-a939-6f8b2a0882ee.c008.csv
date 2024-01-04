@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53754,2,Ethan Flores,ethan9@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO53732,3,Nathaniel Peterson,nathaniel6@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53729,4,Jacquelyn Castro,jacquelyn19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53754,1,Ethan Flores,ethan9@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO53727,2,Carl Sharma,carl9@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

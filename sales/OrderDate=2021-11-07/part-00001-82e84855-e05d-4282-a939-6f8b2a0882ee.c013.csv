@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59621,2,Donald Prasad,donald11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59589,2,Armando Alvarez,armando5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59637,1,Eduardo Jenkins,eduardo51@adventure-works.com,"Touring-3000 Yellow, 58",1,742.35,59.388
+SO59638,1,Elijah Griffin,elijah22@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO59638,3,Elijah Griffin,elijah22@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

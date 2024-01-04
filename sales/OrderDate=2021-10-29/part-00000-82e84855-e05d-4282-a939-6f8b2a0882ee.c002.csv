@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58802,3,Kaylee Rogers,kaylee16@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO58832,1,Levi Perez,levi19@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO58826,1,Robert Lopez,robert76@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO58817,2,Carolyn Rodriguez,carolyn19@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO58833,4,Latoya Goel,latoya18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

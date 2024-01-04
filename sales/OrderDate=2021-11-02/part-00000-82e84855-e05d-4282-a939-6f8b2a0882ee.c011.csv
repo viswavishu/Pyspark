@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59235,2,Tammy Garcia,tammy15@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO59212,1,Marie Sanz,marie44@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO59245,4,Noah Hughes,noah8@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO59254,1,Jaime Martin,jaime1@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO59212,5,Marie Sanz,marie44@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

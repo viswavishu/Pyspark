@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59886,3,Carolyn Srini,carolyn8@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59898,1,Sarah Griffin,sarah45@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO59832,1,Clinton Moreno,clinton3@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO59895,1,Victoria Hall,victoria23@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO59883,1,Alejandro Ye,alejandro12@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792

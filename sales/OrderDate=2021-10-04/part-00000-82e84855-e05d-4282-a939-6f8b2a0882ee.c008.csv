@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57386,2,Shelby Cooper,shelby9@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57406,3,Jordan Baker,jordan45@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57393,2,Brian Murphy,brian26@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO57382,1,Jay Romero,jay38@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO57422,3,Samantha Thompson,samantha17@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

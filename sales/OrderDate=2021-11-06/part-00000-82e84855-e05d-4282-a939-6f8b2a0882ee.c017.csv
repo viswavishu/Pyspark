@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59518,1,Edward Thomas,edward33@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59491,1,Roger Yuan,roger34@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59510,1,Ryan Thompson,ryan38@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO59538,2,Caleb Griffin,caleb17@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO59492,2,Cristina Tang,cristina4@adventure-works.com,LL Road Tire,1,21.49,1.7192

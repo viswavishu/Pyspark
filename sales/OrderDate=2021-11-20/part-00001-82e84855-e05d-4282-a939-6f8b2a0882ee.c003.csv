@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60488,1,Calvin Goel,calvin18@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO60501,4,Jill Ortega,jill30@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60469,2,Samantha Long,samantha35@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO60514,2,Timothy Ramirez,timothy8@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60497,4,Kevin Washington,kevin16@adventure-works.com,"Classic Vest, L",1,63.5,5.08

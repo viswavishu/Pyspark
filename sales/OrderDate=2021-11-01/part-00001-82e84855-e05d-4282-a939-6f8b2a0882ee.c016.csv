@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59180,2,Marcus Hall,marcus25@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59208,2,Ross Sanz,ross38@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO59166,1,Nathan Gonzales,nathan13@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO59167,1,Xavier Perez,xavier35@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

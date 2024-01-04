@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55774,3,Lindsay Pal,lindsay12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55807,3,Nathan Russell,nathan16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55807,4,Nathan Russell,nathan16@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO55807,2,Nathan Russell,nathan16@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55798,4,Joanna Ashe,joanna3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

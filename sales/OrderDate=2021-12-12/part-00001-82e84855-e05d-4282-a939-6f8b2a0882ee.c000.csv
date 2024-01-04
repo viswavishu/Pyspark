@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61966,2,Colleen Nath,colleen41@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO61970,1,Rebekah Dominguez,rebekah33@adventure-works.com,"Touring-2000 Blue, 54",1,1214.85,97.188
+SO61930,1,Arianna Washington,arianna11@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO61922,1,Xavier Evans,xavier40@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61944,1,Franklin Goel,franklin36@adventure-works.com,Touring Tire,1,28.99,2.3192

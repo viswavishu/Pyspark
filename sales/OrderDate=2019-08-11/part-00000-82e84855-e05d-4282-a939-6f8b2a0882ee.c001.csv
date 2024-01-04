@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44181,1,Ruth Arun,ruth11@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616

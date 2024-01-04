@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62683,1,Hailey Adams,hailey55@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO62632,1,Melody Ruiz,melody2@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO62658,4,Kari Rodriguez,kari19@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62661,2,Amanda Rogers,amanda2@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO62666,2,Lauren Butler,lauren61@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

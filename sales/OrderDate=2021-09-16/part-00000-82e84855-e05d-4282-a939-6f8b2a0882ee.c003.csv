@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56270,1,Wesley Gao,wesley15@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO56260,2,Bridget She,bridget1@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56249,3,Tamara Raje,tamara25@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56252,1,Jimmy Ortega,jimmy26@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56242,4,Adrian Sanchez,adrian18@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

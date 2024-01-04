@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58170,4,Angela Powell,angela11@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO58147,4,Haley Griffin,haley40@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58130,3,Meghan Diaz,meghan2@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO58162,1,Brittney Holt,brittney4@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58169,3,Logan Thomas,logan62@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

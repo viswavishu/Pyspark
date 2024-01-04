@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53196,3,Jessie Blanco,jessie34@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53195,5,Karla Tang,karla4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53216,2,Nina Jai,nina11@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53205,1,Ryan Thompson,ryan38@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53230,2,Isaiah Scott,isaiah39@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

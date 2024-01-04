@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61715,2,Krista Ramos,krista16@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO61690,1,Marshall Kumar,marshall29@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61681,4,Isabella Williams,isabella59@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO61722,2,Ariana Ward,ariana11@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO61708,2,Arturo Ma,arturo17@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

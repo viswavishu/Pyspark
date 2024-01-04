@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53767,3,Valerie Harrison,valerie20@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52500,2,Fernando Williams,fernando3@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52521,1,Abigail Smith,abigail47@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO52470,1,Ian Richardson,ian76@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO52502,1,Melissa Blue,melissa36@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO52515,2,Makayla Ward,makayla11@adventure-works.com,HL Mountain Tire,1,35.0,2.8

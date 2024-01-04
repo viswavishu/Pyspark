@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56784,2,Christy Zimmerman,christy0@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO56782,1,Antonio Ross,antonio4@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56774,1,Katelyn Campbell,katelyn29@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56794,3,Isabel Barnes,isabel3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56760,3,Kevin Yang,kevin30@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

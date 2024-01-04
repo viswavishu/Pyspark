@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51605,1,Walter Munoz,walter20@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO51605,4,Walter Munoz,walter20@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO51612,1,Julio Ruiz,julio1@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO51610,2,Destiny Wilson,destiny7@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51613,2,Jasmine Diaz,jasmine61@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

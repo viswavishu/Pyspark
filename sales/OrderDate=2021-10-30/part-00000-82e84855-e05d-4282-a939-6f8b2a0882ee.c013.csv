@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58845,1,Peter She,peter8@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992
+SO58862,2,Jeremy Cox,jeremy40@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO58900,3,Ruth Perez,ruth25@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO58899,4,Deanna Sara,deanna14@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO58858,4,Dalton Long,dalton55@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992

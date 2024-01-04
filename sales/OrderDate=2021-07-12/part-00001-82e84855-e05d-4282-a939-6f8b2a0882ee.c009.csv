@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52439,2,Roy Kapoor,roy1@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO52432,1,Luis Kumar,luis28@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO52452,4,Hunter Rodriguez,hunter53@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO52454,4,Robin Alvarez,robin2@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO52463,2,Heidi Patel,heidi5@adventure-works.com,ML Road Tire,1,24.99,1.9992

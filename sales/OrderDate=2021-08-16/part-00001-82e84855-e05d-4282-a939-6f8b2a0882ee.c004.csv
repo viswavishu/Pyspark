@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54457,2,Christian Russell,christian7@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54464,3,Spencer Hayes,spencer25@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54448,1,Devin Harris,devin12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54447,3,Jeremiah Lewis,jeremiah9@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54470,1,Geoffrey Rodriguez,geoffrey17@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992

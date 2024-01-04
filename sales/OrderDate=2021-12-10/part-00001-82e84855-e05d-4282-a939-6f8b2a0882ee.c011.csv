@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61816,2,J�sus Ortega,j�sus21@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61803,1,Carrie Ruiz,carrie1@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO61847,2,Mariah Griffin,mariah25@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61841,2,Jenny Kumar,jenny31@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO61822,1,Teresa Martin,teresa1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

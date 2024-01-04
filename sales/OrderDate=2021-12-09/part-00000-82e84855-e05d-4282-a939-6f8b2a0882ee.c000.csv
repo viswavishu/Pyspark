@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61741,1,Riley Peterson,riley24@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61734,2,Ariana Gray,ariana5@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61768,1,John Thomas,john48@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO61759,1,Madison Jenkins,madison42@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO61743,1,Jennifer Bennett,jennifer76@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

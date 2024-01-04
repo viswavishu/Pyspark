@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62340,3,Isaiah Hernandez,isaiah44@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62293,4,Virginia Prasad,virginia11@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO62346,1,Ricky Suarez,ricky20@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO62343,1,Victoria Gonzales,victoria63@adventure-works.com,"Touring-1000 Blue, 46",1,2384.07,190.7256
+SO62291,1,Cindy Rodriguez,cindy18@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792

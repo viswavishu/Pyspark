@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46709,1,Calvin Luo,calvin6@adventure-works.com,"Road-550-W Yellow, 44",1,1000.4375,80.035
+SO46711,1,Gabriella Collins,gabriella23@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468

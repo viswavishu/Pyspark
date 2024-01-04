@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56046,1,Randall Gill,randall15@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56065,3,Connor Young,connor46@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56028,3,Charles Lee,charles26@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56033,1,Masaki Umeda,masaki0@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56048,3,Matthew Moore,matthew13@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

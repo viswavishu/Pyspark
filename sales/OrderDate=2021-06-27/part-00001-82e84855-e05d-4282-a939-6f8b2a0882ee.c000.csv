@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51627,1,Angelica Long,angelica9@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO51625,2,Mackenzie Lopez,mackenzie42@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51632,1,Paula Gutierrez,paula14@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO51620,2,Chad Luo,chad7@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO51623,1,Diane Suarez,diane24@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468

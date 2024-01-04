@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55181,1,Brandy Kapoor,brandy19@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55214,2,Jillian Kapoor,jillian2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55206,1,Kristine Romero,kristine10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55197,1,Kayla Thompson,kayla16@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55213,2,Omar Raje,omar34@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

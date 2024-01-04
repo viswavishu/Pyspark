@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47928,1,Eduardo Bennett,eduardo45@adventure-works.com,"Road-250 Black, 52",1,2181.5625,174.525

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53861,1,Henry Gonzalez,henry20@adventure-works.com,"Touring-3000 Yellow, 62",1,742.35,59.388
+SO53841,1,Gabriella Watson,gabriella6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53852,4,Maria Reed,maria4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53845,1,Hannah Bryant,hannah39@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO53847,1,Ramon Zhao,ramon10@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

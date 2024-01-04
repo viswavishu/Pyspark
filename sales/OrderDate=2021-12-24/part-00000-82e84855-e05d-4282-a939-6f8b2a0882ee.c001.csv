@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62674,1,Jessie Zhou,jessie13@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO62693,3,Orlando Carlson,orlando18@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62687,2,Samantha White,samantha14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62686,1,Hannah Jenkins,hannah30@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392
+SO62682,3,Barry Subram,barry14@adventure-works.com,Touring Tire,1,28.99,2.3192

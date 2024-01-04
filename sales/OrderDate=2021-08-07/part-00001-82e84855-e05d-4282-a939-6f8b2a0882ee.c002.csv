@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53957,1,Harold Sara,harold7@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53938,1,Cameron Walker,cameron41@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO53971,4,Adam Ross,adam2@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO53948,1,Eddie Alvarez,eddie5@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO53972,1,Antonio Patterson,antonio10@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

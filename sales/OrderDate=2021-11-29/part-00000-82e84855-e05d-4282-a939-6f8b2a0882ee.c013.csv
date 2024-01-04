@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61037,5,Andres Pal,andres9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO61047,3,Devin Bennett,devin67@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61051,1,Angela Howard,angela37@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO61091,2,Arianna Stewart,arianna44@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO61048,2,Logan Scott,logan40@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

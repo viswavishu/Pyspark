@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57289,1,Thomas Hernandez,thomas54@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO57293,2,Elizabeth Johnson,elizabeth5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57286,1,Xavier Turner,xavier37@adventure-works.com,"Mountain-400-W Silver, 46",1,769.49,61.5592
+SO57298,1,Gina Alonso,gina8@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO57245,1,Gary Gomez,gary11@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

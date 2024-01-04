@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57371,1,Brandy Raman,brandy8@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57377,1,Cedric Shen,cedric24@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57418,2,Jon Yang,jon24@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57398,1,Kelly Patterson,kelly15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57411,2,Carson Hayes,carson22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

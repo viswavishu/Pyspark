@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56336,1,Keith Andersen,keith16@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO56355,2,Isabella Perry,isabella18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56344,1,Tiffany Hu,tiffany21@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO56335,3,Preston Raman,preston11@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO56365,5,Kathryn Yuan,kathryn6@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

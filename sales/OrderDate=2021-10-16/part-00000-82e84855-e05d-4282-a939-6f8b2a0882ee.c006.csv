@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58041,1,Jennifer Johnson,jennifer29@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO58038,1,Richard Rodriguez,richard14@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO58065,2,Andre Garcia,andre15@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58022,1,Marie Perez,marie23@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO58043,1,Richard Gray,richard87@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

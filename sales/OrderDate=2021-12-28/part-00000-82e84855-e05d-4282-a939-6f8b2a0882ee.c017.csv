@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62893,1,Sebastian Cox,sebastian11@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO62883,1,Roberto Ramos,roberto16@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO62935,1,Andres Raji,andres17@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO62938,4,Katherine Mitchell,katherine59@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62929,3,Willie Yuan,willie26@adventure-works.com,ML Road Tire,1,24.99,1.9992

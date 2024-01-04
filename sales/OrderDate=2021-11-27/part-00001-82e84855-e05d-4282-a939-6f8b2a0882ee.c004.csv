@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60928,3,Megan Hughes,megan60@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60912,1,Alyssa Lewis,alyssa21@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60897,2,Adrienne Ruiz,adrienne2@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO60903,2,Jacqueline Morgan,jacqueline37@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60902,2,Alexandra Hill,alexandra63@adventure-works.com,Road Tire Tube,1,3.99,0.3192

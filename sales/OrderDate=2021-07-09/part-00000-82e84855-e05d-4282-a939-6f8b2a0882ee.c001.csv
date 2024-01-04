@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52301,6,Connor Powell,connor5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52323,1,Rafael She,rafael23@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO52322,1,Jasmine Torres,jasmine32@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO52286,1,Karla Goel,karla20@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO52285,2,Casey Xu,casey5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

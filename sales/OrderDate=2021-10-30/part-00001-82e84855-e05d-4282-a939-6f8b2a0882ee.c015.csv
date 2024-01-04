@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58842,2,Alisha Beck,alisha45@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58884,4,Miranda Russell,miranda20@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO58855,1,Richard Jones,richard43@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO58854,5,Alexis Rodriguez,alexis17@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58896,1,Riley Perry,riley5@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256

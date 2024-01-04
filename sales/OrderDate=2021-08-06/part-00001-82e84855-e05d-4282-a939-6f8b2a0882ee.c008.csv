@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53918,3,Brendan Deng,brendan1@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53918,5,Brendan Deng,brendan1@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO53913,1,Omar He,omar17@adventure-works.com,"Mountain-500 Silver, 44",1,564.99,45.1992
+SO53879,1,Marie Rubio,marie45@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO53893,2,Kaitlyn Clark,kaitlyn42@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

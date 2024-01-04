@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57418,4,Jon Yang,jon24@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57400,1,Jaime Sanz,jaime22@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57385,2,Seth Ward,seth77@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO57385,3,Seth Ward,seth77@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO57391,3,Samuel Chen,samuel24@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

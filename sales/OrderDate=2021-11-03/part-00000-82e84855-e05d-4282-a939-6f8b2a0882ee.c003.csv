@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59283,4,Lacey Zheng,lacey32@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59310,1,Taylor Bailey,taylor9@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59329,1,Kara Lal,kara9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59284,4,Rodney Serrano,rodney12@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59272,3,Ruth Madan,ruth12@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

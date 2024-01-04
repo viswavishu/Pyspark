@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61297,4,Leah Zheng,leah15@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61308,1,Mindy Xu,mindy9@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468

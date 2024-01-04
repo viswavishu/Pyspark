@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60708,3,Cynthia Arun,cynthia11@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO60752,1,Maria Oliver,maria52@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO60764,3,Damien Chander,damien32@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO60709,1,David Jai,david63@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60740,2,Dana Rubio,dana14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

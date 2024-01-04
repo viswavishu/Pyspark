@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52939,3,Wyatt Evans,wyatt46@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO52952,1,Ruben Lopez,ruben18@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO52946,1,Martha Zhao,martha10@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO52960,1,Keith Nara,keith20@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO52932,1,Claudia Lin,claudia6@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

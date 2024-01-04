@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52828,1,Lucas Taylor,lucas22@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO52785,4,Meagan Fernandez,meagan15@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO52801,1,Emma Harris,emma13@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52812,1,Andrea Lopez,andrea43@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52823,2,Jose Lal,jose23@adventure-works.com,HL Mountain Tire,1,35.0,2.8

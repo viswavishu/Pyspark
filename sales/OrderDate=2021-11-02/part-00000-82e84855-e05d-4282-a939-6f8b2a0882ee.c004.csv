@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59219,1,Kelvin Lal,kelvin5@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO59261,3,Jos� Lopez,jos�60@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59240,2,Mackenzie Nelson,mackenzie31@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59255,3,Hunter Hayes,hunter18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59245,1,Noah Hughes,noah8@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

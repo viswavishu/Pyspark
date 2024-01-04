@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62563,2,Cassandra Malhotra,cassandra5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO62556,1,Kristin Rai,kristin16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62574,4,Gabriella Morgan,gabriella20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62565,1,Casey Alonso,casey32@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO62545,3,Mariah Sanchez,mariah44@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

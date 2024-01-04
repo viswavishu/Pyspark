@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55892,2,Devin Morris,devin84@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55872,1,Pamela Schmidt,pamela13@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55896,1,Emily Hayes,emily48@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55911,1,Thomas Yang,thomas30@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO55898,4,Lindsey Shan,lindsey11@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

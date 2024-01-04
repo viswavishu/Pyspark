@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59784,1,Alejandro Xu,alejandro31@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59784,2,Alejandro Xu,alejandro31@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO59807,1,Samantha Gonzales,samantha39@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO59810,2,Abby Garcia,abby12@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO59772,1,Joan Ross,joan5@adventure-works.com,HL Road Tire,1,32.6,2.608

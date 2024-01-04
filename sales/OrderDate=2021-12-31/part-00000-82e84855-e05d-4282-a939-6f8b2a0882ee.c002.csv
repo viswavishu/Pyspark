@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO63081,1,Amanda Parker,amanda51@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO63066,2,Teresa Navarro,teresa10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO63077,2,Ian Ward,ian69@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO63075,1,Jeremy Ward,jeremy34@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO63077,3,Ian Ward,ian69@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

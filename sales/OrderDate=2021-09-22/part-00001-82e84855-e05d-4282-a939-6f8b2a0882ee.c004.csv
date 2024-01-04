@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56540,4,Jenny Xu,jenny14@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO56583,1,Taylor Rogers,taylor3@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO56596,3,Karl Jai,karl12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56544,1,Ajay Solanki,ajay1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO56561,1,Jenna Baker,jenna16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55787,1,Latasha Gomez,latasha1@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55747,2,Karla Lal,karla9@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO55812,2,Melody Suarez,melody19@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55754,2,Jodi Nara,jodi17@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55757,2,Jodi She,jodi0@adventure-works.com,ML Mountain Tire,1,29.99,2.3992

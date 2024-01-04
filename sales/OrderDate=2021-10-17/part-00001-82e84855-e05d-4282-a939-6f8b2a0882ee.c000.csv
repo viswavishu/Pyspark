@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58104,3,Brad Nath,brad19@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO58107,2,Glenn Cai,glenn22@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO58090,3,Megan Butler,megan63@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58099,4,Janet Suarez,janet25@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO58128,1,Rachael Chandra,rachael2@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992

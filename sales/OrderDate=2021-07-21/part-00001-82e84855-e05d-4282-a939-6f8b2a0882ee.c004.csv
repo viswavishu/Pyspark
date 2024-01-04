@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52905,2,Clifford Srini,clifford8@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO52909,2,Nichole Yuan,nichole6@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO52916,1,Jordan Carter,jordan39@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52902,2,Jacqueline Watson,jacqueline24@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO52897,2,Lauren Hughes,lauren59@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

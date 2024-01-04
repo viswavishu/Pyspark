@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56386,1,Gerald Suri,gerald29@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO56384,2,Adriana Subram,adriana14@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO56403,3,Samantha Thomas,samantha12@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO56397,4,Julia Henderson,julia71@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO56379,1,Brianna Harris,brianna12@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

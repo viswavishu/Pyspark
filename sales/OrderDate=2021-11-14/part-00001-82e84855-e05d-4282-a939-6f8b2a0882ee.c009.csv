@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60107,3,Francisco Gonzalez,francisco20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60110,1,Emma Stewart,emma24@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO60109,3,Kaitlin Madan,kaitlin7@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO60060,2,Aaron Green,aaron47@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60110,3,Emma Stewart,emma24@adventure-works.com,Road Tire Tube,1,3.99,0.3192

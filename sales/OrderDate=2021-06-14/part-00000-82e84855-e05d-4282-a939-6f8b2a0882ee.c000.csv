@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51420,1,Ruben Kapoor,ruben1@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO51415,1,Bryan Kelly,bryan5@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO51423,4,Edward Jackson,edward34@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO51420,5,Ruben Kapoor,ruben1@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO51408,1,Claudia Zhou,claudia7@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

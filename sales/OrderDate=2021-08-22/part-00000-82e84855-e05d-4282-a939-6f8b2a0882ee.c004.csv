@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54770,1,Lindsey Deng,lindsey1@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO54777,2,Elijah Lal,elijah3@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54802,2,Logan Chow,logan25@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54796,2,Lance Dominguez,lance12@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54799,1,Jeremiah Gonzalez,jeremiah19@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58474,3,Erika Diaz,erika2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58532,3,Ronnie Lin,ronnie7@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58501,1,Alexandra Hernandez,alexandra59@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO58505,2,Kevin Butler,kevin17@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO58525,1,Rachel Howard,rachel40@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

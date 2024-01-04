@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56929,2,Lauren Taylor,lauren27@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO56940,1,Melissa Hughes,melissa6@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO56952,3,Richard Washington,richard68@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56925,2,Haley Hernandez,haley53@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56935,1,Jaclyn Gao,jaclyn16@adventure-works.com,LL Road Tire,1,21.49,1.7192

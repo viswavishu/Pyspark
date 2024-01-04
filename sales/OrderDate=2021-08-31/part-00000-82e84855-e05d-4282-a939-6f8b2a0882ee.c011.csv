@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55380,1,Carolyn Madan,carolyn7@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO55367,1,Gregory Luo,gregory10@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO55362,4,Roger Ye,roger14@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO55353,2,Thomas Sharma,thomas33@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55335,3,Bianca Liu,bianca3@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

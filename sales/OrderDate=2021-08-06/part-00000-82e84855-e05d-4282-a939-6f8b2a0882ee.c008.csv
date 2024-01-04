@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53905,1,Nelson Torres,nelson10@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53890,3,Patrick Ward,patrick17@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53875,4,Alexis Powell,alexis31@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO53887,3,Joy Alvarez,joy5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO53897,1,Alexandra Hall,alexandra88@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

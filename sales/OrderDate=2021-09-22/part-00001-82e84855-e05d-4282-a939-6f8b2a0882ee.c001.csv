@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56549,1,Yolanda She,yolanda0@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56556,1,Erica Zhao,erica10@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO56597,3,Jermaine Subram,jermaine11@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56559,1,Carson Alexander,carson18@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56540,3,Jenny Xu,jenny14@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

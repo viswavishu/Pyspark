@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62699,1,Mario Lal,mario6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62727,3,Dominic Madan,dominic7@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO62709,3,Stephanie Young,stephanie69@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62736,2,Miguel King,miguel27@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO62738,1,Tasha Kumar,tasha8@adventure-works.com,"Road-350-W Yellow, 44",1,1700.99,136.0792

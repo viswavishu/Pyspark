@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52610,1,Ben Adams,ben2@adventure-works.com,"Touring-3000 Yellow, 44",1,742.35,59.388
+SO52610,2,Ben Adams,ben2@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52590,2,Savannah Cook,savannah19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52604,2,Adriana Kapoor,adriana1@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52582,1,Marie Sanchez,marie22@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

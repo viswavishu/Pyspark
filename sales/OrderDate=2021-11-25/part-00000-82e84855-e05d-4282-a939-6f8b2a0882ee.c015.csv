@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60799,1,Kari Alan,kari28@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60795,1,Julio Alonso,julio8@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO60771,1,Virginia Patel,virginia4@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO60807,3,Connor Evans,connor29@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60788,3,Jocelyn Ross,jocelyn4@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

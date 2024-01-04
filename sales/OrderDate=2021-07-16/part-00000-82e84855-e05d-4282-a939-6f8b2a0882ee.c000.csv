@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52633,2,Devin Flores,devin51@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52620,3,Krystal Guo,krystal18@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO52631,2,Jonathan Ross,jonathan3@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52663,1,Victoria Bennett,victoria49@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO52645,3,Arturo Tang,arturo28@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6

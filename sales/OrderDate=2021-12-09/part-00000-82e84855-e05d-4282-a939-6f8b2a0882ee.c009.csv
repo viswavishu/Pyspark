@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61763,2,Mackenzie Baker,mackenzie37@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO61770,3,John Sandstone,john27@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61777,2,Thomas Lee,thomas80@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61748,1,Sean Parker,sean30@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO61761,2,Joan Ross,joan8@adventure-works.com,Road Tire Tube,1,3.99,0.3192

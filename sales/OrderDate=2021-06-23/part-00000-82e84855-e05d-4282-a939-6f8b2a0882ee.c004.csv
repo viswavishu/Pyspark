@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51551,3,Ramon Huang,ramon5@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51569,4,Amanda Ramirez,amanda16@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO51554,1,Taylor Howard,taylor14@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO51551,1,Ramon Huang,ramon5@adventure-works.com,"Mountain-500 Silver, 52",1,564.99,45.1992
+SO51555,5,Chloe Garcia,chloe27@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

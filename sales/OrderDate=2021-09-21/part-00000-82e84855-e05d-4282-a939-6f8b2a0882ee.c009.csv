@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56497,1,Alexis Wilson,alexis6@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO56516,4,Raul Raji,raul19@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56528,1,Bruce Sanz,bruce41@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO56486,4,J�sus Munoz,j�sus6@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO56533,5,Max Alvarez,max5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

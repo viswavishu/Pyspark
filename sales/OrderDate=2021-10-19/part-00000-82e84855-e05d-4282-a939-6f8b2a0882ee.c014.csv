@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58245,2,Barbara Goel,barbara47@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO58213,3,Aaron Perez,aaron36@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO58230,2,Morgan Turner,morgan3@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

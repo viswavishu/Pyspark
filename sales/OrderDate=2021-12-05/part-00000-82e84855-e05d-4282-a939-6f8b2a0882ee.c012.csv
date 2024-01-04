@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61502,2,Derrick Ramos,derrick16@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO61535,2,Alexandria Powell,alexandria8@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61531,4,Brooke Rogers,brooke17@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO61501,2,Alexandra Bennett,alexandra24@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO61504,3,Katherine Powell,katherine34@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

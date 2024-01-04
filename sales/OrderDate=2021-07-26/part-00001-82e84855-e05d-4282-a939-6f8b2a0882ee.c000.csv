@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53184,1,Victor Carlson,victor18@adventure-works.com,"Touring-1000 Blue, 60",1,2384.07,190.7256
+SO53133,1,Kristina Kapoor,kristina1@adventure-works.com,"Touring-2000 Blue, 46",1,1214.85,97.188
+SO53168,3,Kate Yuan,kate5@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO53140,2,Warren Chande,warren4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO53156,1,Frank Torres,frank19@adventure-works.com,HL Mountain Tire,1,35.0,2.8

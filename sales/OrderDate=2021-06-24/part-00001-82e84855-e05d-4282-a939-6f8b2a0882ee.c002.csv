@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51583,2,Jessica Cooper,jessica11@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51582,1,Heidi Lopez,heidi19@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

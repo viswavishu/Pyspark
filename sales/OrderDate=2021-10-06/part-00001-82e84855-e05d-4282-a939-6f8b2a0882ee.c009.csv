@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57495,2,Bailey Young,bailey37@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57496,2,Sierra Campbell,sierra6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO57483,1,Cassidy Russell,cassidy21@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO57489,1,Sheila Gill,sheila13@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO57508,1,Eugene Zhang,eugene4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

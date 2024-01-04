@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57585,5,Jaclyn Xu,jaclyn28@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO57559,2,Theodore Alvarez,theodore5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO57584,1,Troy Subram,troy14@adventure-works.com,"Road-250 Red, 58",1,2443.35,195.468
+SO57536,2,Levi Arun,levi6@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57538,3,Devin Allen,devin22@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

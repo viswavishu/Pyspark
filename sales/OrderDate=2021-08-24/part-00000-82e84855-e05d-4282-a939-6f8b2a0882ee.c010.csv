@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54931,3,April Nara,april13@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO54889,1,Willie Ye,willie7@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54921,1,Courtney Evans,courtney0@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592
+SO54887,1,Ronnie Liu,ronnie3@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54897,1,Andrew Taylor,andrew18@adventure-works.com,Road Tire Tube,1,3.99,0.3192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59770,2,Seth Torres,seth78@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59767,3,Abigail Murphy,abigail10@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO59780,2,Xavier Ross,xavier45@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59774,2,Xavier Perry,xavier49@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59763,1,Russell Shen,russell6@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

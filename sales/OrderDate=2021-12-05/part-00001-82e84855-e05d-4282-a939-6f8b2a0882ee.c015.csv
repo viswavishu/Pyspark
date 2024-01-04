@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61488,1,Michele Schmidt,michele25@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO61532,3,Savannah James,savannah6@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

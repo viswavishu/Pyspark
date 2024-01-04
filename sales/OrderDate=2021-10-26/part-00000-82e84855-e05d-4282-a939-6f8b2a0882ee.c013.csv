@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58620,3,Nina Xu,nina5@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592
+SO58635,2,Jorge Zhou,jorge10@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO58592,1,J�sus Vazquez,j�sus13@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

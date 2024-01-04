@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59754,2,Omar Zeng,omar21@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO59750,1,Lacey Zhou,lacey21@adventure-works.com,"Touring-3000 Blue, 62",1,742.35,59.388
+SO59747,3,Alyssa Howard,alyssa38@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59712,1,Grant Nath,grant20@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59748,3,Mariah Foster,mariah21@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

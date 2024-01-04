@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO47790,1,Bianca Cai,bianca18@adventure-works.com,"Road-250 Red, 58",1,2181.5625,174.525
+SO47791,1,Virginia Subram,virginia15@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279

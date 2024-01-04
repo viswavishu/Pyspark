@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53811,2,Casey Gill,casey37@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO53792,1,Hannah Gonzales,hannah38@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53794,2,Paige Bradley,paige1@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO53782,2,Brad Deng,brad2@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO53812,2,Dawn Kumar,dawn31@adventure-works.com,LL Road Tire,1,21.49,1.7192

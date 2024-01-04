@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55631,2,Alexa Cox,alexa8@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55624,2,Francisco Mehta,francisco15@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO55613,3,Mayra Malhotra,mayra4@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO55663,3,Joseph Taylor,joseph15@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55673,3,Spencer Bryant,spencer20@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

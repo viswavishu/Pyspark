@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54196,2,Seth Rogers,seth90@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO54201,1,Kelli He,kelli19@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO54247,3,Jay Rana,jay18@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54212,3,Hunter Moore,hunter67@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54241,2,Dorothy Robinson,dorothy3@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

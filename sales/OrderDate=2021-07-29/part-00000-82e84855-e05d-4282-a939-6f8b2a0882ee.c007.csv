@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53290,2,Marco Lopez,marco17@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO53299,1,Tamara Liang,tamara6@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53337,1,Rachael Rodriguez,rachael18@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992
+SO53332,1,Jared Cox,jared12@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO53312,2,Chase Sanchez,chase18@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59283,3,Lacey Zheng,lacey32@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO59279,2,Brandy Kapoor,brandy19@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO59297,3,Robert Jones,robert87@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59299,4,Charles Jackson,charles15@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59339,1,Douglas Sai,douglas9@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392

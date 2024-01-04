@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54767,2,Colleen Sun,colleen13@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54731,2,Jordan Hill,jordan67@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54745,2,Priscilla Raji,priscilla20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO54753,1,Alison Deng,alison0@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54757,1,David Simmons,david48@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

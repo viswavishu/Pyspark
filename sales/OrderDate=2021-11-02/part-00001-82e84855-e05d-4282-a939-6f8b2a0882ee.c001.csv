@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59248,3,Meredith Serrano,meredith40@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59219,2,Kelvin Lal,kelvin5@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59231,1,Luke Griffin,luke10@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO59219,3,Kelvin Lal,kelvin5@adventure-works.com,"Classic Vest, M",1,63.5,5.08
+SO59213,1,Alan Chen,alan6@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

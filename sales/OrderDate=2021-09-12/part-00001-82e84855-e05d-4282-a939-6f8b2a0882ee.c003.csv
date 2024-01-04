@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56045,2,Jill Moore,jill5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56020,3,Terrance Madan,terrance5@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56031,1,James Martinez,james90@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO56047,3,Julie Xie,julie7@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO56056,3,Paige Griffin,paige20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

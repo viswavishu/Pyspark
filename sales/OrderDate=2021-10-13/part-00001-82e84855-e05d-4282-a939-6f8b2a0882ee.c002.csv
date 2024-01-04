@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57863,1,Seth Roberts,seth40@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO57883,2,Tasha Shen,tasha2@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO57896,5,Janet Gill,janet19@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO57899,3,Andres Pal,andres9@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO57889,2,Sydney Miller,sydney70@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

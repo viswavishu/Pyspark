@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56703,2,Derek Raji,derek19@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO56742,3,Jordyn Butler,jordyn14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56748,1,Al�cia Anand,al�cia18@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256
+SO56712,3,Anna Jones,anna64@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO56750,5,Carmen Prasad,carmen12@adventure-works.com,"Half-Finger Gloves, S",1,24.49,1.9592

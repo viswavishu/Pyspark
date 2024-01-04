@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54764,2,Brianna Gray,brianna42@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54730,1,Kari Madan,kari8@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54736,2,Rafael Chen,rafael2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO54721,1,Edgar Prasad,edgar10@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO54754,2,Julia Garcia,julia38@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55056,2,Alexandria Ward,alexandria34@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO55087,1,Alexandria Ross,alexandria4@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO55035,3,Preston Perez,preston19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55053,2,Noah Collins,noah29@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO55032,1,Krystal Holt,krystal6@adventure-works.com,"Road-550-W Yellow, 48",1,1120.49,89.6392

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52466,1,Alejandro Luo,alejandro32@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO52464,2,Bruce Suri,bruce0@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO52428,2,Paige Alexander,paige18@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52413,1,Pablo Rovira Diez,pablo0@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52410,2,Shannon Liu,shannon4@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

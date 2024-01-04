@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59676,2,Naomi Navarro,naomi10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59688,1,Mya Butler,mya14@adventure-works.com,"Mountain-200 Silver, 42",1,2319.99,185.5992
+SO59707,2,Autumn Wang,autumn1@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59678,2,Terry Luo,terry9@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO59670,1,Ryan Washington,ryan16@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

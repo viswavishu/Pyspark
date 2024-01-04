@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57812,4,Roberto Munoz,roberto7@adventure-works.com,"Racing Socks, L",1,8.99,0.7192
+SO57809,2,Jasmine Thompson,jasmine13@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO57808,1,Katelyn Morgan,katelyn21@adventure-works.com,Touring Tire,1,28.99,2.3192

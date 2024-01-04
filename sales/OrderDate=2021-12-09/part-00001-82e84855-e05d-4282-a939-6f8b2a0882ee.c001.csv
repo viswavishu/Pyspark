@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61743,2,Jennifer Bennett,jennifer76@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61773,3,J�sus Blanco,j�sus14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61769,2,James Walker,james96@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61765,2,Megan Sanders,megan49@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61777,3,Thomas Lee,thomas80@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

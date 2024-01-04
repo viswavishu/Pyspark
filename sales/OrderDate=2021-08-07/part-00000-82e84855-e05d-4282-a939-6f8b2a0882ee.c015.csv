@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53930,1,Taylor Morris,taylor2@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53932,1,Lucas Henderson,lucas54@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53949,2,Gregory Raji,gregory25@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO53974,4,Terry Tang,terry7@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO53928,1,Erik Alvarez,erik6@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992

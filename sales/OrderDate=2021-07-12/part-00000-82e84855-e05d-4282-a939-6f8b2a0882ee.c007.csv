@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52416,1,Courtney Lopez,courtney17@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO52418,4,Dale Holt,dale8@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO52414,2,Ricky Martin,ricky0@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52429,2,Wesley Hu,wesley20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52426,3,Rachel Moore,rachel10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO46576,1,Alisha She,alisha24@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616

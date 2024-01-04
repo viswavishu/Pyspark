@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58629,2,James Hill,james64@adventure-works.com,"Short-Sleeve Classic Jersey, M",1,53.99,4.3192
+SO58631,2,Edwin Bhat,edwin43@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58634,1,Isabella Flores,isabella22@adventure-works.com,"Touring-1000 Yellow, 54",1,2384.07,190.7256
+SO58608,1,Luis Gonzalez,luis41@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992
+SO58594,1,Diane Serrano,diane21@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56095,1,Kelsey Pal,kelsey12@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO56092,2,Barbara Zhou,barbara18@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO56115,2,Molly Prasad,molly9@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO56122,3,Carlos Lopez,carlos41@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56081,1,David Foster,david49@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

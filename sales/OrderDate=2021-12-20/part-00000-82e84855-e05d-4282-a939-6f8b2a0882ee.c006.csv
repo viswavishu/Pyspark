@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62445,3,Aidan Perry,aidan8@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62431,2,Andres Xie,andres2@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62448,1,Ross Martinez,ross17@adventure-works.com,"Touring-3000 Blue, 54",1,742.35,59.388
+SO62412,2,Nancy Chapman,nancy7@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62407,2,Janet Sanz,janet26@adventure-works.com,ML Road Tire,1,24.99,1.9992

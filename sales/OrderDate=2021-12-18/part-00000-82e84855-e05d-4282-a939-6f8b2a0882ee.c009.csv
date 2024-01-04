@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62304,3,Erica Zhang,erica0@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO62331,3,Shelby Peterson,shelby5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62310,2,Jordan Yang,jordan23@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO62327,3,Megan Martin,megan17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62300,2,Sara Collins,sara27@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592

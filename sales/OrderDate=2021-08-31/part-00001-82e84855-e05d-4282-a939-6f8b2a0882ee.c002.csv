@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55344,2,Brianna Williams,brianna2@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55361,1,Sandra Liang,sandra24@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55339,3,Wendy Blanco,wendy14@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO55364,2,Cassandra Patel,cassandra3@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55358,1,Grant Sharma,grant11@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

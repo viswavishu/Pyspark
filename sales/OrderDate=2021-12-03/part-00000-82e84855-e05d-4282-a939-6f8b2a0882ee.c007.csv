@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61404,1,Gabriel Ross,gabriel1@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61402,2,Tabitha Gill,tabitha34@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO61394,1,Emma Lee,emma21@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO61382,2,Julia Morris,julia48@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61399,2,Jennifer Brown,jennifer32@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

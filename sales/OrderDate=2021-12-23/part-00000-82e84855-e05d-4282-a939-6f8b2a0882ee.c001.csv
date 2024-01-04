@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62582,1,Bradley Anand,bradley24@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO62619,3,Carmen Madan,carmen10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62626,1,Julio Ortega,julio23@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO62609,3,Anna Brown,anna65@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO62589,1,Erika Munoz,erika5@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

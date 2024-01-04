@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60314,4,Charles James,charles46@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60285,2,Thomas Jenkins,thomas8@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO60306,2,Daniel Martin,daniel17@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO60305,1,Pedro Romero,pedro29@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO60254,2,Ruben Sara,ruben11@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992

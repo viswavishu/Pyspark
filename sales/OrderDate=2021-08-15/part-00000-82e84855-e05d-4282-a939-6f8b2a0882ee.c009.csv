@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54420,1,Katherine Butler,katherine40@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO54412,1,Erica Huang,erica5@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO54395,1,Carlos Hill,carlos39@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54416,4,Timothy Reed,timothy22@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO54380,1,Logan Patterson,logan13@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

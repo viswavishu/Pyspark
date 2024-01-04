@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56811,1,Chase Cook,chase22@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO56796,2,Dana Suarez,dana12@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56804,3,Cynthia Gonzalez,cynthia24@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56849,3,Clifford Arun,clifford7@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO56803,1,Isabel Simmons,isabel14@adventure-works.com,"Women's Mountain Shorts, M",1,69.99,5.5992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54831,1,Dalton Perez,dalton37@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO54860,2,Edward Griffin,edward69@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO54872,3,Arianna Wood,arianna2@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO54851,1,Katrina Xie,katrina2@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO54862,1,Brad Beck,brad21@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992

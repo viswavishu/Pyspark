@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52977,1,Kaitlyn Jackson,kaitlyn34@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO53003,2,Shannon Serrano,shannon37@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

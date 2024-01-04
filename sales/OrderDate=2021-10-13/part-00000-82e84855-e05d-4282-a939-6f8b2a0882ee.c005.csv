@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57864,1,Logan Harris,logan65@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO57893,3,Grant Nara,grant18@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO57869,1,Samuel Shan,samuel28@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO57885,1,Justin Wilson,justin38@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO57871,1,Ian Brooks,ian66@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

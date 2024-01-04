@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61170,1,Harold Lopez,harold14@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992
+SO61127,1,Mason Collins,mason23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61097,1,Noah Ross,noah0@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992
+SO61138,1,Carlos Adams,carlos42@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61164,1,Morgan Davis,morgan28@adventure-works.com,"Road-750 Black, 58",1,539.99,43.1992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52283,1,Eddie Munoz,eddie7@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52287,3,Gerald Martin,gerald8@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO52306,1,Thomas Campbell,thomas44@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52297,3,Rafael Pal,rafael36@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO52316,1,Jenny Nara,jenny39@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992

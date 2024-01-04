@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62387,1,Gloria Torres,gloria12@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO62377,2,Dylan Bryant,dylan17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO62359,1,Pedro Hernandez,pedro24@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO62348,3,Justin Lewis,justin49@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO62361,1,Julia Young,julia21@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

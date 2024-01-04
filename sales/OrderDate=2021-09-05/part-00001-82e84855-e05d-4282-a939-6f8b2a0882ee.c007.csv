@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55672,2,Brittany Powell,brittany7@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO55632,2,Nicole Stewart,nicole25@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO55641,2,Keith Rai,keith21@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO55643,1,Marcus Carter,marcus38@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO55671,1,Blake Baker,blake34@adventure-works.com,"Touring-2000 Blue, 50",1,1214.85,97.188

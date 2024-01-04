@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59412,1,Kurt Lal,kurt8@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO59451,4,Robert White,robert71@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59446,4,Ian Barnes,ian43@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59475,1,Devin Robinson,devin17@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992
+SO59436,1,Caleb Hill,caleb43@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

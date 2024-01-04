@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51584,2,Adam Chen,adam22@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO51572,2,Clinton Alonso,clinton5@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO51579,3,Amanda Hall,amanda66@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51574,1,Lindsey Lal,lindsey9@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO51575,1,Erica Liang,erica16@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468

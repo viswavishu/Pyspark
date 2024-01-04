@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54967,4,Bryce Morgan,bryce12@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO54947,2,Kristen Ma,kristen14@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO54942,1,Garrett Travers,garrett9@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO54954,2,Chelsea Prasad,chelsea10@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54937,2,Tracy Lal,tracy7@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636

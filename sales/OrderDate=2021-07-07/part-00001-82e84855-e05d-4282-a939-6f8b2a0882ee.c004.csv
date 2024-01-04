@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52168,1,Nina Deng,nina1@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO52202,1,Katherine Diaz,katherine48@adventure-works.com,"Mountain-200 Silver, 46",1,2319.99,185.5992
+SO52163,1,Jackson Washington,jackson15@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52208,1,Seth Barnes,seth51@adventure-works.com,"Road-750 Black, 52",1,539.99,43.1992
+SO52158,3,Stacy Serrano,stacy17@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

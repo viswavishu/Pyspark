@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44269,1,Mackenzie Cook,mackenzie20@adventure-works.com,"Road-650 Red, 44",1,699.0982,55.9279

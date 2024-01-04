@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52795,1,Mary Phillips,mary19@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO52784,1,Colin Nath,colin41@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO52807,2,Luis Chen,luis25@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO52804,2,Katelyn Adams,katelyn39@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52785,1,Meagan Fernandez,meagan15@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56470,1,Ronald Sanchez,ronald23@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO56444,2,Brian Rivera,brian28@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO56465,2,Katherine Martinez,katherine88@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO56462,3,Theodore Gomez,theodore1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56442,2,Shawna Jai,shawna12@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584

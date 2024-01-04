@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53011,2,Margaret Huang,margaret12@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53064,2,Jacqueline Bell,jacqueline38@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO53019,2,Elijah Alexander,elijah20@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO53009,2,Diane Serrano,diane21@adventure-works.com,"Short-Sleeve Classic Jersey, L",1,53.99,4.3192
+SO53009,1,Diane Serrano,diane21@adventure-works.com,ML Road Tire,1,24.99,1.9992

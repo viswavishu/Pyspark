@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61136,2,Bethany Raji,bethany2@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO61110,1,Logan Lee,logan54@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO61158,2,Tiffany Chen,tiffany2@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO61118,1,Jennifer Simmons,jennifer88@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO61101,3,Gerald Dominguez,gerald21@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

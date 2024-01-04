@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54541,1,Jose Hughes,jose34@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO54536,1,Ian Flores,ian53@adventure-works.com,"Mountain-400-W Silver, 40",1,769.49,61.5592
+SO54560,1,Connie Rai,connie4@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO54528,6,Colleen Xie,colleen27@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO54570,2,Stacey Ye,stacey10@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

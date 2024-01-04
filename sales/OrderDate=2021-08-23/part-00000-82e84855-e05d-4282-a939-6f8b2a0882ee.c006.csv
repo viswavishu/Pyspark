@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54871,2,Edward Ross,edward52@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO54878,3,Clifford Patel,clifford3@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO54874,1,Roy Lopez,roy17@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO54860,1,Edward Griffin,edward69@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO54842,1,Catherine Rivera,catherine14@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

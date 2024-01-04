@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58785,2,Kelly Flores,kelly17@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO58807,3,Andrew Martinez,andrew24@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58815,3,Patricia Saunders,patricia14@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58801,2,Benjamin Russell,benjamin21@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO58818,2,Nelson Diaz,nelson3@adventure-works.com,LL Road Tire,1,21.49,1.7192

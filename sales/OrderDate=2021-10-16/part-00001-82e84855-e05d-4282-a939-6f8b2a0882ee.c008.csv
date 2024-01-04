@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58066,3,Jay Arthur,jay13@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58033,2,Isabella Washington,isabella23@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO58047,1,Dwayne Vazquez,dwayne14@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO58068,2,Angelica Coleman,angelica5@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO58040,2,Angel Murphy,angel14@adventure-works.com,LL Road Tire,1,21.49,1.7192

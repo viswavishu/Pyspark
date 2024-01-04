@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61885,1,Arthur Navarro,arthur34@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO61882,2,Melissa Butler,melissa9@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO61904,3,Madison Alexander,madison31@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61902,3,Eduardo Turner,eduardo38@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO61875,1,Jada Peterson,jada2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55623,3,Lisa Cai,lisa24@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO55614,1,Terrance Sanchez,terrance18@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO55632,1,Nicole Stewart,nicole25@adventure-works.com,"Women's Mountain Shorts, L",1,69.99,5.5992
+SO55659,1,Vanessa Foster,vanessa17@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO55673,1,Spencer Bryant,spencer20@adventure-works.com,"Touring-1000 Yellow, 50",1,2384.07,190.7256

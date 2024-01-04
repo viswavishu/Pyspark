@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56437,1,Dylan Shan,dylan30@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56454,2,Jesse Sanders,jesse3@adventure-works.com,"Long-Sleeve Logo Jersey, S",1,49.99,3.9992
+SO56432,1,Clarence Chen,clarence38@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO56447,2,Tonya Luo,tonya6@adventure-works.com,All-Purpose Bike Stand,1,159.0,12.72
+SO56453,2,Allison Phillips,allison28@adventure-works.com,"Racing Socks, M",1,8.99,0.7192

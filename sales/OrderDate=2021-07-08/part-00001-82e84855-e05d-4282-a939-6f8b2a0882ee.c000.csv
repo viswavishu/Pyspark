@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52276,2,Misty Chande,misty16@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO52219,1,Barbara Luo,barbara37@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52269,1,Neil Vazquez,neil13@adventure-works.com,"Touring-1000 Yellow, 46",1,2384.07,190.7256
+SO52238,4,Ethan Gonzales,ethan13@adventure-works.com,AWC Logo Cap,1,8.99,0.7192
+SO52225,1,Ryan Powell,ryan11@adventure-works.com,ML Road Tire,1,24.99,1.9992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60229,3,Elizabeth Gonzales,elizabeth45@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO60209,2,Johnny Sharma,johnny10@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO60228,2,Geoffrey Martinez,geoffrey15@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO60208,1,Lauren Gray,lauren16@adventure-works.com,"Women's Mountain Shorts, S",1,69.99,5.5992
+SO60218,2,Damien Chen,damien1@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

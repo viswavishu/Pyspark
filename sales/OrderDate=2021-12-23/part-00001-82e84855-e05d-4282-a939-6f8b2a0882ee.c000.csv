@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO62586,1,Derrick Vazquez,derrick13@adventure-works.com,"Mountain-500 Silver, 52",1,564.99,45.1992
+SO62614,2,Sydney Harris,sydney76@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992
+SO62611,1,Harold Ray,harold8@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO62606,3,Jaime Vazquez,jaime16@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO62595,2,Melissa Alexander,melissa14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

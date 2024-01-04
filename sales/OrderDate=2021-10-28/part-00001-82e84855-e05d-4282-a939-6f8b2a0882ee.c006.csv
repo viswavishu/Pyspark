@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58731,1,Alyssa Rogers,alyssa27@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO58715,2,Dana Serrano,dana9@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO58715,1,Dana Serrano,dana9@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO58740,1,Kaitlyn Watson,kaitlyn64@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58727,2,Kyle Lal,kyle25@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

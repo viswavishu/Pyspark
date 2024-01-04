@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58406,2,Kari Martinez,kari18@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO58394,1,Nicole Reed,nicole29@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO58357,3,Kristopher Sai,kristopher6@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO58373,3,Samuel Young,samuel47@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO58409,2,Ana Simmons,ana14@adventure-works.com,AWC Logo Cap,1,8.99,0.7192

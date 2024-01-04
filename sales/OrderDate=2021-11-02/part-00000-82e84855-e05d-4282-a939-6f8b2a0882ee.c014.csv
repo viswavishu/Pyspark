@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59239,2,Emily Wood,emily27@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59213,2,Alan Chen,alan6@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59243,3,Cory Mehta,cory12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59250,3,Lucas Flores,lucas60@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO59258,1,Jaime Hernandez,jaime46@adventure-works.com,"Touring-3000 Yellow, 58",1,742.35,59.388

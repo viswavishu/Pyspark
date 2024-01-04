@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59922,1,Karen Xu,karen22@adventure-works.com,"Mountain-400-W Silver, 42",1,769.49,61.5592
+SO59947,1,Kristopher Sanchez,kristopher19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO59980,1,Raymond Gonzalez,raymond19@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO59943,2,Franklin Becker,franklin37@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO59977,1,Kelli Chander,kelli39@adventure-works.com,"Road-750 Black, 48",1,539.99,43.1992

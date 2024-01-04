@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60634,2,Isabelle Patterson,isabelle9@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60659,1,Dylan Robinson,dylan48@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO60660,1,Morgan James,morgan65@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60663,2,Shawna She,shawna0@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO60692,5,Olivia Rivera,olivia33@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

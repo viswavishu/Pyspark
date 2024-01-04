@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51292,2,Marc Diaz,marc6@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO51293,1,Jon Zhou,jon28@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992
+SO51290,1,Kari Kim,kari3@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992
+SO51296,1,Alexis Foster,alexis39@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO51286,3,Carl Beck,carl19@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

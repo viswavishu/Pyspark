@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO54677,1,Austin Anderson,austin47@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO54704,1,Jonathon Navarro,jonathon7@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO54675,1,Jada Morgan,jada14@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO54688,2,Isaiah Ward,isaiah11@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO54680,1,Lauren Moore,lauren26@adventure-works.com,Road Tire Tube,1,3.99,0.3192

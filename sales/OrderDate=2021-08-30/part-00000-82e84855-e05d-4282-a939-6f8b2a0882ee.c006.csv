@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55182,1,Jordan Patterson,jordan7@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO55182,2,Jordan Patterson,jordan7@adventure-works.com,"Classic Vest, S",1,63.5,5.08
+SO55183,3,Kathryn Ashe,kathryn20@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55231,2,Logan Martin,logan66@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO55202,3,Amber Gonzalez,amber8@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592

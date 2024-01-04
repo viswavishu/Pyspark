@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60893,2,Armando Martin,armando0@adventure-works.com,Touring Tire,1,28.99,2.3192
+SO60857,1,Dustin Xu,dustin4@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO60883,1,Cory Arun,cory5@adventure-works.com,"Road-550-W Yellow, 44",1,1120.49,89.6392
+SO60884,2,Jon Zhou,jon28@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO60838,4,Luke Adams,luke46@adventure-works.com,"Sport-100 Helmet, Blue",1,34.99,2.7992

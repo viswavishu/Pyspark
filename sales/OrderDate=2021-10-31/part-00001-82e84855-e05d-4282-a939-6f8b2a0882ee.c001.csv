@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59142,2,Drew Lal,drew9@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59130,4,Grace Brooks,grace45@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992
+SO59093,2,Marissa Washington,marissa10@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO59134,1,Kristy Martin,kristy0@adventure-works.com,"Road-350-W Yellow, 48",1,1700.99,136.0792
+SO59103,1,Kathryn Andersen,kathryn11@adventure-works.com,Road Tire Tube,1,3.99,0.3192

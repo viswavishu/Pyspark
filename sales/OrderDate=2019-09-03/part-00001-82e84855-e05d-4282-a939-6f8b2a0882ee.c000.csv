@@ -1,0 +1,2 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO44329,1,Gina Torres,gina12@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616

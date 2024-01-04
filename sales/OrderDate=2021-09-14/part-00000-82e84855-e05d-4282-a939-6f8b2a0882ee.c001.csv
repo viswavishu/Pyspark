@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO56171,2,Felicia Dominguez,felicia12@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56149,3,Rachel Butler,rachel62@adventure-works.com,"Half-Finger Gloves, L",1,24.49,1.9592
+SO56146,2,Jamie Torres,jamie34@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO56159,5,Ryan Lee,ryan58@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO56126,1,Dwayne Navarro,dwayne9@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

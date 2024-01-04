@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO58481,1,Pedro Kapoor,pedro1@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO58471,3,Cassandra Rana,cassandra12@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO58475,1,Erin Morris,erin22@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO58517,2,Shawn She,shawn2@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO58536,1,Jessie Zhao,jessie16@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992

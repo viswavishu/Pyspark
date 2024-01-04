@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO57009,4,Stefanie Martinez,stefanie15@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO56972,2,Isabella Harris,isabella69@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO56995,3,Olivia Garcia,olivia15@adventure-works.com,"Short-Sleeve Classic Jersey, S",1,53.99,4.3192
+SO56969,2,Cody Richardson,cody10@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO56981,1,Jesse Rivera,jesse17@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

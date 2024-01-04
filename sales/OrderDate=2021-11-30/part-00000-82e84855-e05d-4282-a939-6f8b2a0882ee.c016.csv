@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61148,3,Jonathan Hall,jonathan52@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO61137,2,Eduardo Diaz,eduardo65@adventure-works.com,HL Mountain Tire,1,35.0,2.8
+SO61113,2,Joy Ruiz,joy3@adventure-works.com,"Long-Sleeve Logo Jersey, M",1,49.99,3.9992
+SO61160,1,Brittney Zhang,brittney0@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO61111,3,Walter Navarro,walter3@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992

@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60411,3,Arturo Li,arturo3@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO60419,2,Andrew Rodriguez,andrew27@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO60422,1,Joseph Garcia,joseph23@adventure-works.com,"Mountain-200 Black, 46",1,2294.99,183.5992
+SO60383,2,Billy Gill,billy15@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO60426,2,Ronnie Lu,ronnie9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

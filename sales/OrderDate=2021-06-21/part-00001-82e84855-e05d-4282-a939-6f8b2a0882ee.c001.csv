@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51517,3,Stephanie Evans,stephanie50@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51523,1,Evelyn Fernandez,evelyn16@adventure-works.com,"Touring-1000 Blue, 50",1,2384.07,190.7256
+SO51525,1,Bryce Watson,bryce1@adventure-works.com,"Road-550-W Yellow, 40",1,1120.49,89.6392
+SO51522,2,Jon Yang,jon24@adventure-works.com,Fender Set - Mountain,1,21.98,1.7584
+SO51518,3,Sierra Nelson,sierra9@adventure-works.com,Road Bottle Cage,1,8.99,0.7192

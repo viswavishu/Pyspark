@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53666,1,Mason Roberts,mason25@adventure-works.com,Hitch Rack - 4-Bike,1,120.0,9.6
+SO53668,1,Martin Subram,martin18@adventure-works.com,ML Mountain Tire,1,29.99,2.3992
+SO53665,2,Cynthia Saunders,cynthia15@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO53685,1,Kaylee Murphy,kaylee11@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53695,2,Mario Xu,mario4@adventure-works.com,Hydration Pack - 70 oz.,1,54.99,4.3992

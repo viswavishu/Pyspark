@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45633,1,Daisuke Yanagishima,daisuke0@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45632,1,Bonnie Xie,bonnie8@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45634,1,Edwin Lin,edwin8@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616

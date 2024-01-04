@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51250,1,Joanna Hernandez,joanna2@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO51259,2,Maurice Shan,maurice11@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51250,3,Joanna Hernandez,joanna2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO51258,1,Riley Washington,riley11@adventure-works.com,"Road-550-W Yellow, 42",1,1120.49,89.6392
+SO51254,2,Amanda Sanders,amanda20@adventure-works.com,Road Tire Tube,1,3.99,0.3192

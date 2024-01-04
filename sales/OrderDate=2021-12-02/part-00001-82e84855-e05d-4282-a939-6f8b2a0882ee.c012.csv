@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO61367,1,Adam Ross,adam2@adventure-works.com,"Touring-1000 Blue, 54",1,2384.07,190.7256
+SO61331,3,Jennifer Simmons,jennifer88@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO61367,2,Adam Ross,adam2@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO61342,3,Ashlee Kumar,ashlee14@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832

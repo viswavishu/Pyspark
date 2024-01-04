@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO43793,1,Jon Yang,jon24@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO43794,1,Jimmy Moreno,jimmy9@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992
+SO43787,1,Don Lal,don8@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992

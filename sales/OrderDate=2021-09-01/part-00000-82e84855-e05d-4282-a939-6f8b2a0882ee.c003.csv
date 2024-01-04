@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO55426,1,Tabitha Suri,tabitha0@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55423,1,Candice Guo,candice1@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO55404,1,Regina Sanchez,regina19@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO55431,3,Andrea Rogers,andrea19@adventure-works.com,Patch Kit/8 Patches,1,2.29,0.1832
+SO55406,1,Alison Raji,alison22@adventure-works.com,HL Road Tire,1,32.6,2.608

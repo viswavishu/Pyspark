@@ -1,0 +1,4 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51266,1,Kelli Raje,kelli37@adventure-works.com,"Touring-1000 Yellow, 60",1,2384.07,190.7256
+SO51267,6,Jon Gao,jon35@adventure-works.com,"Half-Finger Gloves, M",1,24.49,1.9592
+SO51262,1,Melody Munoz,melody8@adventure-works.com,"Mountain-200 Black, 38",1,2294.99,183.5992

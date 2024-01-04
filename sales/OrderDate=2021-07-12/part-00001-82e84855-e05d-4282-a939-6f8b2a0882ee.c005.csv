@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52426,1,Rachel Moore,rachel10@adventure-works.com,HL Road Tire,1,32.6,2.608
+SO52463,4,Heidi Patel,heidi5@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO52418,1,Dale Holt,dale8@adventure-works.com,"Road-250 Black, 48",1,2443.35,195.468
+SO52430,3,Meghan Serrano,meghan16@adventure-works.com,"Racing Socks, M",1,8.99,0.7192
+SO52456,1,Franklin Lal,franklin26@adventure-works.com,"Mountain-400-W Silver, 38",1,769.49,61.5592

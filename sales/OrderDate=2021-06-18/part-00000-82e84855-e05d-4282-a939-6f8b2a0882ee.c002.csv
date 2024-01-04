@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51475,1,Roger Raji,roger49@adventure-works.com,"Road-750 Black, 44",1,539.99,43.1992
+SO51465,1,Taylor Cook,taylor5@adventure-works.com,"Road-350-W Yellow, 42",1,1700.99,136.0792
+SO51477,1,Bruce Ashe,bruce27@adventure-works.com,"Touring-2000 Blue, 60",1,1214.85,97.188
+SO51467,2,Fernando Allen,fernando23@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO51474,2,Brianna Lee,brianna21@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992

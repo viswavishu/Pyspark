@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52147,4,Spencer Russell,spencer22@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO52132,1,Robert Long,robert23@adventure-works.com,Water Bottle - 30 oz.,1,4.99,0.3992
+SO52127,2,Mason Roberts,mason25@adventure-works.com,Road Tire Tube,1,3.99,0.3192
+SO52113,1,Charles Jackson,charles15@adventure-works.com,"Sport-100 Helmet, Red",1,34.99,2.7992
+SO52143,1,Melvin Tang,melvin4@adventure-works.com,Touring Tire Tube,1,4.99,0.3992

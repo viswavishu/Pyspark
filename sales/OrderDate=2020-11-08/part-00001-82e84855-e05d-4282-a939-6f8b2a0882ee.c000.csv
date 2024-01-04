@@ -1,0 +1,3 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO48489,1,Justin Thompson,justin43@adventure-works.com,"Road-250 Red, 48",1,2443.35,195.468
+SO48491,1,Lydia Suri,lydia0@adventure-works.com,"Mountain-200 Black, 38",1,2049.0982,163.9279

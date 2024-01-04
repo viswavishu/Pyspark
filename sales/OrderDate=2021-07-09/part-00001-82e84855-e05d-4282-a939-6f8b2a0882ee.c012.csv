@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO52278,1,Dustin Sharma,dustin9@adventure-works.com,"Road-250 Black, 52",1,2443.35,195.468
+SO52293,2,Terrance Sanchez,terrance18@adventure-works.com,Touring Tire Tube,1,4.99,0.3992
+SO52301,1,Connor Powell,connor5@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52321,2,Lawrence Blanco,lawrence14@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO52280,1,Daisy Suarez,daisy14@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468

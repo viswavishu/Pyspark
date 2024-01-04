@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59243,2,Cory Mehta,cory12@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59214,2,Cedric Xu,cedric11@adventure-works.com,LL Road Tire,1,21.49,1.7192
+SO59244,2,Gabriella Cox,gabriella8@adventure-works.com,LL Mountain Tire,1,24.99,1.9992
+SO59245,2,Noah Hughes,noah8@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO59216,1,Renee Hernandez,renee3@adventure-works.com,"Mountain-500 Black, 40",1,539.99,43.1992

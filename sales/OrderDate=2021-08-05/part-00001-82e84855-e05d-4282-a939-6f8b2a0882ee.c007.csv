@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO53831,1,Blake Patterson,blake58@adventure-works.com,Bike Wash - Dissolver,1,7.95,0.636
+SO53839,4,Nathan Nelson,nathan37@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53855,2,Justin Gonzales,justin14@adventure-works.com,Mountain Bottle Cage,1,9.99,0.7992
+SO53840,2,Logan Hayes,logan23@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992
+SO53866,1,Philip Carlson,philip17@adventure-works.com,"Mountain-200 Silver, 38",1,2319.99,185.5992

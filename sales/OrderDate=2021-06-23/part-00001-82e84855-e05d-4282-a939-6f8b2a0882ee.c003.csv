@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO51546,1,Shannon Romero,shannon30@adventure-works.com,"Road-250 Black, 44",1,2443.35,195.468
+SO51563,1,Tabitha Subram,tabitha10@adventure-works.com,"Mountain-500 Black, 44",1,539.99,43.1992
+SO51553,3,Hunter Griffin,hunter16@adventure-works.com,"Long-Sleeve Logo Jersey, L",1,49.99,3.9992
+SO51558,2,Isabelle Long,isabelle8@adventure-works.com,ML Road Tire,1,24.99,1.9992
+SO51555,1,Chloe Garcia,chloe27@adventure-works.com,"Mountain-200 Black, 42",1,2294.99,183.5992

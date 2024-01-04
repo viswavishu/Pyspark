@@ -1,0 +1,5 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO59264,4,Nathan Rodriguez,nathan56@adventure-works.com,"Sport-100 Helmet, Black",1,34.99,2.7992
+SO59258,2,Jaime Hernandez,jaime46@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59261,2,Jos� Lopez,jos�60@adventure-works.com,Road Bottle Cage,1,8.99,0.7192
+SO59224,2,Connor Lopez,connor40@adventure-works.com,Mountain Tire Tube,1,4.99,0.3992

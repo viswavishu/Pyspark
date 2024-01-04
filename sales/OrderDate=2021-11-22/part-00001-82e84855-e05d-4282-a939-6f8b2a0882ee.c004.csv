@@ -1,0 +1,6 @@
+SalesOrderNumber,SalesOrderLineNumber,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO60620,1,Dominic Perez,dominic22@adventure-works.com,"Road-550-W Yellow, 38",1,1120.49,89.6392
+SO60564,1,Chloe Richardson,chloe55@adventure-works.com,"Long-Sleeve Logo Jersey, XL",1,49.99,3.9992
+SO60571,1,Lance Diaz,lance3@adventure-works.com,"Road-350-W Yellow, 40",1,1700.99,136.0792
+SO60624,4,Kurt Raheem,kurt18@adventure-works.com,"Short-Sleeve Classic Jersey, XL",1,53.99,4.3192
+SO60579,1,Carolyn Prasad,carolyn9@adventure-works.com,HL Road Tire,1,32.6,2.608
